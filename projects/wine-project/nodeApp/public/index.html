@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>wine project</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <script>
+      async function sendData() {
+        features = [
+          parseFloat(document.getElementById("alcohol").value),
+          parseFloat(document.getElementById("malic_acid").value),
+          parseFloat(document.getElementById("ash").value),
+          parseFloat(document.getElementById("alcalinity_of_ash").value),
+          parseFloat(document.getElementById("magnesium").value),
+          parseFloat(document.getElementById("total_phenols").value),
+          parseFloat(document.getElementById("flavanoids").value),
+          parseFloat(document.getElementById("nonflavanoid_phenols").value),
+          parseFloat(document.getElementById("proanthocyanins").value),
+          parseFloat(document.getElementById("color_intensity").value),
+          parseFloat(document.getElementById("hue").value),
+          parseFloat(
+            document.getElementById("od280/od315_of_diluted_wines").value
+          ),
+          parseFloat(document.getElementById("proline").value),
+        ];
+        const response = await fetch("/prediction", {
+          method: "post",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ features }),
+        });
+        const result = await response.json();
+        document.getElementById("result").textContent =
+          "prediction : " + result.prediction;
+      }
+    </script>
+  </head>
+  <body>
+    <h1
+      class="text-red-800 text-4xl mb-5 font-bold border-b-4 border-red-800 pb-7 pt-6 pl-3"
+    >
+      Enter the features for the wine class
+    </h1>
+    <div class="flex flex-row justify-center items-center bg-red-50 space-x-24">
+      <div class="">
+        <p class="font-bold text-xl ml-3 display:block">alcohol :</p>
+        <input
+          class="border border-gray-900 rounded-full p-3 w-96 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800 display:block"
+          type="number"
+          id="alcohol"
+          placeholder="enter the alcohol"
+          step="10.12"
+        /><br /><br />
+        <p for="malic_acid" class="font-bold text-xl ml-3">malic_acid:</p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          id="malic_acid"
+          placeholder="enter the malic_acid"
+          step="10.12"
+        /><br /><br />
+        <p for="ash" class="font-bold text-xl ml-3">ash :</p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          id="ash"
+          placeholder="enter the ash"
+          step="10.12"
+        /><br /><br />
+        <p for="alcalinity_of_ash" class="font-bold text-xl ml-3">
+          alcalinity_of_ash :
+        </p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          id="alcalinity_of_ash"
+          placeholder="enter the alcalinity_of_ash"
+          step="10.12"
+        /><br /><br />
+        <p for="magnesium" class="font-bold text-xl ml-3">magnesium :</p>
+        <input
+          type="number"
+          id="magnesium"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          placeholder="enter the magnesium"
+          step="10.12"
+        /><br /><br />
+        <p for="total_phenols" class="font-bold text-xl ml-3">
+          total_phenols :
+        </p>
+        <input
+          type="number"
+          id="total_phenols"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          placeholder="enter the total_phenols"
+          step="10.12"
+        /><br /><br />
+      </div>
+      <div class="">
+        <p for="flavanoids" class="font-bold text-xl ml-3">flavanoids :</p>
+        <input
+          type="number"
+          id="flavanoids"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          placeholder="enter the flavanoids"
+          step="10.12"
+        /><br /><br />
+        <p for="nonflavanoid_phenols" class="font-bold text-xl ml-3">
+          nonflavanoid_phenols :
+        </p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          id="nonflavanoid_phenols"
+          placeholder="enter the nonflavanoid_phenols"
+          step="10.12"
+        /><br /><br />
+        <p for="proanthocyanins" class="font-bold text-xl ml-3">
+          proanthocyanins :
+        </p>
+        <input
+          type="number"
+          id="proanthocyanins"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          placeholder="enter the proanthocyanins"
+          step="10.12"
+        /><br /><br />
+        <p for="color_intensity" class="font-bold text-xl ml-3">
+          color_intensity
+        </p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800 display-block"
+          id="color_intensity"
+          placeholder="enter the color_intensity"
+          step="10.12"
+        /><br /><br />
+        <p for="hue" class="font-bold text-xl ml-3">hue :</p>
+        <input
+          type="number"
+          id="hue"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          placeholder="enter the hue"
+          step="10.12"
+        /><br /><br />
+        <p for="od280/od315_of_diluted_wines" class="font-bold text-xl ml-3">
+          od280/od315_of_diluted_wines :
+        </p>
+        <input
+          type="number"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          id="od280/od315_of_diluted_wines"
+          placeholder="enter the od280/od315_of_diluted_wines"
+          step="10.12"
+        /><br /><br />
+      </div>
+      <div>
+        <p for="proline" class="font-bold text-xl ml-3">proline :</p>
+        <input
+          type="number"
+          id="proline"
+          placeholder="enter the proline"
+          class="border border-gray-900 rounded-full p-3 w-96 ml-3 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-800"
+          step="10.12"
+        /><br /><br />
+      </div>
+    </div>
+    <div class="flex flex-row justify-center items-center">
+      <button
+        onclick="sendData()"
+        class="text-red-900 font-bold border-2 border-red-900 p-2 rounded-2xl hover:bg-red-900 hover:text-white"
+      >
+        Send features
+      </button>
+    </div>
+    <br />
+    <br />
+    <div class="flex flex-row justify-center items-center">
+      <p
+        id="result"
+        class="text-red-900 font-bold border-2 border-red-900 p-2 rounded-2xl hover:bg-red-900 hover:text-white"
+      ></p>
+    </div>
+  </body>
+</html>

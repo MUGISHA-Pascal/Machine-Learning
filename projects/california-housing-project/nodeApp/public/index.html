@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>California housing dataset</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <script>
+      async function sendData() {
+        features = [
+          parseFloat(document.getElementById("MedInc").value),
+          parseFloat(document.getElementById("HouseAge").value),
+          parseFloat(document.getElementById("AveRooms").value),
+          parseFloat(document.getElementById("AveBedrms").value),
+          parseFloat(document.getElementById("Population").value),
+          parseFloat(document.getElementById("AveOccup").value),
+          parseFloat(document.getElementById("Latitude").value),
+          parseFloat(document.getElementById("Longitude").value),
+        ];
+        const response = await fetch("/prediction", {
+          method: "post",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ features }),
+        });
+        const result = await response.json();
+        document.getElementById("result").textContent =
+          "prediction :" + result.prediction;
+      }
+    </script>
+  </head>
+  <body
+    class="bg-gray-600 flex flex-col items-center justify-center text-yellow-400 space-y-20"
+  >
+    <h1 class="text-3xl font-bold">
+      Predicting the housing value in California :
+    </h1>
+    <div
+      class="border-2 border-yellow-400 p-10 rounded-3xl flex flex-col items-center justify-center"
+    >
+      <div>
+        <label for="MedInc">MedInc : </label>
+        <input
+          type="number"
+          id="MedInc"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-10"
+        />
+        <br />
+        <br />
+        <label for="HouseAge">HouseAge : </label>
+        <input
+          type="number"
+          id="HouseAge"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+        <label for="AveRooms">AveRooms : </label>
+        <input
+          type="number"
+          id="AveRooms"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+        <label for="AveBedrms">AveBedrms : </label>
+        <input
+          type="number"
+          id="AveBedrms"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+        <label for="Population">Population : </label>
+        <input
+          type="number"
+          id="Population"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+        <label for="AveOccup">AveOccup : </label>
+        <input
+          type="number"
+          id="AveOccup"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+        <label for="Latitude">Latitude : </label>
+        <input
+          type="number"
+          id="Latitude"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-6"
+        />
+        <br />
+        <br />
+        <label for="Longitude">Longitude : </label>
+        <input
+          type="number"
+          id="Longitude"
+          step="1.1111"
+          class="bg-gray-600 border-2 border-yellow-400 rounded-3xl focus:outline-none p-2 ml-4"
+        />
+        <br />
+        <br />
+      </div>
+      <button
+        onclick="sendData()"
+        class="bg-yellow-400 border-2 text-gray-600 border-yellow-500 font-bold p-2 rounded-3xl hover:bg-gray-600 hover:text-yellow-400"
+      >
+        Send features
+      </button>
+    </div>
+    <p
+      id="result"
+      class="bg-yellow-400 border-2 text-gray-600 border-yellow-500 font-bold p-2 rounded-3xl hover:bg-gray-600 hover:text-yellow-400"
+    ></p>
+  </body>
+</html>
