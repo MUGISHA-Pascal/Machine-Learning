@@ -2,7 +2,7 @@
 
 A collection of machine learning projects, tutorials, and experiments.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -29,13 +29,13 @@ A collection of machine learning projects, tutorials, and experiments.
     └── wine-project/
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Navigate to `notebooks/tutorials/` for learning materials
 2. Check `notebooks/examples/` for dataset-specific implementations
 3. Explore `projects/` for complete ML applications
 
-## 📊 Projects
+## Projects
 
 Each project folder contains:
 - Training scripts (`train.py`)
