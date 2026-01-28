@@ -1,0 +1,194 @@
+{% extends 'performance/base.html' %}
+
+{% block title %}Predict - Student Performance Predictor{% endblock %}
+
+{% block extra_css %}
+<style>
+    .form-group {
+        margin-bottom: 25px;
+    }
+    
+    .form-group label {
+        display: block;
+        margin-bottom: 10px;
+        color: #000000;
+        font-weight: 700;
+        font-size: 16px;
+    }
+    
+    .form-group input, .form-group select {
+        width: 100%;
+        padding: 14px;
+        border: 3px solid #000000;
+        background: #ffffff;
+        font-size: 16px;
+        font-weight: 600;
+        transition: all 0.1s;
+    }
+    
+    .form-group input:focus, .form-group select:focus {
+        outline: none;
+        box-shadow: 4px 4px 0px #000000;
+        transform: translate(-2px, -2px);
+    }
+    
+    .form-group small {
+        display: block;
+        margin-top: 8px;
+        color: #000000;
+        font-weight: 600;
+    }
+    
+    .form-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 25px;
+    }
+    
+    .result-box {
+        margin-top: 40px;
+        padding: 40px;
+        background: #90EE90;
+        border: 4px solid #000000;
+        box-shadow: 8px 8px 0px #000000;
+        text-align: center;
+        display: none;
+    }
+    
+    .result-box h3 {
+        margin-bottom: 20px;
+        font-size: 24px;
+        font-weight: 900;
+        color: #000000;
+    }
+    
+    .result-box .score {
+        font-size: 64px;
+        font-weight: 900;
+        margin: 25px 0;
+        color: #000000;
+    }
+    
+    .result-box p {
+        font-weight: 600;
+        color: #000000;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h2 style="color: #000000; margin-bottom: 30px; font-weight: 900; font-size: 28px;">Predict Student Performance</h2>
+
+<div id="alertBox"></div>
+
+<form id="predictForm">
+    <div class="form-grid">
+        <div class="form-group">
+            <label for="hours_studied">Hours Studied (per week)</label>
+            <input type="number" id="hours_studied" name="hours_studied" min="0" max="168" step="0.5" required>
+            <small>Range: 0-168 hours</small>
+        </div>
+        
+        <div class="form-group">
+            <label for="previous_scores">Previous Scores</label>
+            <input type="number" id="previous_scores" name="previous_scores" min="0" max="100" required>
+            <small>Range: 0-100</small>
+        </div>
+        
+        <div class="form-group">
+            <label for="extracurricular">Extracurricular Activities</label>
+            <select id="extracurricular" name="extracurricular" required>
+                <option value="">Select...</option>
+                <option value="true">Yes</option>
+                <option value="false">No</option>
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="sleep_hours">Sleep Hours (per day)</label>
+            <input type="number" id="sleep_hours" name="sleep_hours" min="0" max="24" step="0.5" required>
+            <small>Range: 0-24 hours</small>
+        </div>
+        
+        <div class="form-group">
+            <label for="sample_papers">Sample Papers Practiced</label>
+            <input type="number" id="sample_papers" name="sample_papers" min="0" max="100" required>
+            <small>Range: 0-100</small>
+        </div>
+    </div>
+    
+    <div style="margin-top: 35px; text-align: center;">
+        <button type="submit" class="btn" id="predictBtn" style="font-size: 18px; padding: 16px 40px;">Predict Performance</button>
+    </div>
+</form>
+
+<div class="loading" id="loading">
+    <div class="spinner"></div>
+    <p style="margin-top: 20px; color: #000000; font-weight: 700;">Predicting...</p>
+</div>
+
+<div class="result-box" id="resultBox">
+    <h3>Predicted Performance Index</h3>
+    <div class="score" id="predictedScore">--</div>
+    <p>This score represents the predicted academic performance index for the student.</p>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.getElementById('predictForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const form = e.target;
+    const formData = {
+        hours_studied: parseFloat(form.hours_studied.value),
+        previous_scores: parseFloat(form.previous_scores.value),
+        extracurricular: form.extracurricular.value,
+        sleep_hours: parseFloat(form.sleep_hours.value),
+        sample_papers: parseFloat(form.sample_papers.value)
+    };
+    
+    const alertBox = document.getElementById('alertBox');
+    const loading = document.getElementById('loading');
+    const resultBox = document.getElementById('resultBox');
+    const predictBtn = document.getElementById('predictBtn');
+    
+    // Hide previous results
+    alertBox.innerHTML = '';
+    resultBox.style.display = 'none';
+    
+    // Show loading
+    loading.style.display = 'block';
+    predictBtn.disabled = true;
+    
+    try {
+        const response = await fetch('/api/predict/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify(formData)
+        });
+        
+        const data = await response.json();
+        
+        loading.style.display = 'none';
+        predictBtn.disabled = false;
+        
+        if (data.success) {
+            document.getElementById('predictedScore').textContent = data.predicted_performance_index;
+            resultBox.style.display = 'block';
+            
+            // Scroll to result
+            resultBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        } else {
+            alertBox.innerHTML = `<div class="alert alert-error">${data.error}</div>`;
+        }
+    } catch (error) {
+        loading.style.display = 'none';
+        predictBtn.disabled = false;
+        alertBox.innerHTML = `<div class="alert alert-error">Error: ${error.message}</div>`;
+    }
+});
+</script>
+{% endblock %}

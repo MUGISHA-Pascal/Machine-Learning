@@ -19,5 +19,5 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('performance.urls'))
+    path('', include('performance.urls')),  # Include performance URLs at root
 ]

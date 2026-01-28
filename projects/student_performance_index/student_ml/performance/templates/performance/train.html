@@ -1,0 +1,219 @@
+{% extends 'performance/base.html' %}
+
+{% block title %}Train Model - Student Performance Predictor{% endblock %}
+
+{% block extra_css %}
+<style>
+    .info-box {
+        background: #FFE66D;
+        padding: 25px;
+        border: 4px solid #000000;
+        box-shadow: 6px 6px 0px #000000;
+        margin-bottom: 30px;
+    }
+    
+    .info-box h3 {
+        color: #000000;
+        margin-bottom: 15px;
+        font-weight: 900;
+        font-size: 22px;
+    }
+    
+    .info-box ul {
+        margin-left: 20px;
+        color: #000000;
+        font-weight: 600;
+    }
+    
+    .info-box li {
+        margin: 8px 0;
+    }
+    
+    .info-box p {
+        color: #000000;
+        font-weight: 600;
+    }
+    
+    .train-section {
+        text-align: center;
+        padding: 40px 0;
+    }
+    
+    .metrics-box {
+        display: none;
+        margin-top: 30px;
+        padding: 35px;
+        background: #ffffff;
+        border: 4px solid #000000;
+        box-shadow: 6px 6px 0px #000000;
+    }
+    
+    .metrics-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 25px;
+        margin-top: 25px;
+    }
+    
+    .metric-card {
+        background: #A8E6CF;
+        padding: 25px;
+        border: 3px solid #000000;
+        box-shadow: 4px 4px 0px #000000;
+        text-align: center;
+    }
+    
+    .metric-card h4 {
+        color: #000000;
+        margin-bottom: 15px;
+        font-size: 14px;
+        font-weight: 900;
+        text-transform: uppercase;
+    }
+    
+    .metric-card .value {
+        font-size: 36px;
+        font-weight: 900;
+        color: #000000;
+    }
+    
+    .output-box {
+        display: none;
+        margin-top: 25px;
+        padding: 25px;
+        background: #000000;
+        color: #90EE90;
+        border: 4px solid #000000;
+        font-family: 'Courier New', monospace;
+        font-size: 13px;
+        max-height: 400px;
+        overflow-y: auto;
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        font-weight: 600;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<h2 style="color: #000000; margin-bottom: 30px; font-weight: 900; font-size: 28px;">Train Machine Learning Model</h2>
+
+<div class="info-box">
+    <h3>About Training</h3>
+    <p style="margin-bottom: 15px;">
+        Training the model will:
+    </p>
+    <ul>
+        <li>Load the dataset from CSV file</li>
+        <li>Train multiple models (Random Forest, Gradient Boosting)</li>
+        <li>Select the best performing model</li>
+        <li>Save the trained model for predictions</li>
+        <li>Display performance metrics</li>
+    </ul>
+    <p style="margin-top: 20px;">
+        <strong>Note:</strong> Training may take a few seconds to complete.
+    </p>
+</div>
+
+<div id="alertBox"></div>
+
+<div class="train-section">
+    <button class="btn" id="trainBtn" style="font-size: 20px; padding: 18px 50px;">
+        Start Training
+    </button>
+</div>
+
+<div class="loading" id="loading">
+    <div class="spinner"></div>
+    <p style="margin-top: 20px; color: #000000; font-weight: 700;">Training model... This may take a moment.</p>
+</div>
+
+<div class="metrics-box" id="metricsBox">
+    <h3 style="color: #000000; margin-bottom: 25px; font-weight: 900; font-size: 24px;">Training Results</h3>
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <h4>R² Score</h4>
+            <div class="value" id="r2Score">--</div>
+            <small style="color: #000000; font-weight: 700;">Higher is better (max: 1.0)</small>
+        </div>
+        <div class="metric-card">
+            <h4>RMSE</h4>
+            <div class="value" id="rmseScore">--</div>
+            <small style="color: #000000; font-weight: 700;">Lower is better</small>
+        </div>
+        <div class="metric-card">
+            <h4>MAE</h4>
+            <div class="value" id="maeScore">--</div>
+            <small style="color: #000000; font-weight: 700;">Lower is better</small>
+        </div>
+    </div>
+    
+    <div style="margin-top: 25px; padding: 20px; background: #90EE90; border: 3px solid #000000; color: #000000; font-weight: 700;">
+        <strong>Model trained successfully!</strong>
+        <p style="margin-top: 8px;">Timestamp: <span id="timestamp">--</span></p>
+    </div>
+</div>
+
+<div class="output-box" id="outputBox"></div>
+
+{% endblock %}
+
+{% block extra_js %}
+<script>
+document.getElementById('trainBtn').addEventListener('click', async function() {
+    const alertBox = document.getElementById('alertBox');
+    const loading = document.getElementById('loading');
+    const metricsBox = document.getElementById('metricsBox');
+    const outputBox = document.getElementById('outputBox');
+    const trainBtn = document.getElementById('trainBtn');
+    
+    // Hide previous results
+    alertBox.innerHTML = '';
+    metricsBox.style.display = 'none';
+    outputBox.style.display = 'none';
+    
+    // Show loading
+    loading.style.display = 'block';
+    trainBtn.disabled = true;
+    
+    try {
+        const response = await fetch('/api/train/', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            }
+        });
+        
+        const data = await response.json();
+        
+        loading.style.display = 'none';
+        trainBtn.disabled = false;
+        
+        if (data.success) {
+            // Display metrics
+            document.getElementById('r2Score').textContent = data.metrics.r2_score.toFixed(4);
+            document.getElementById('rmseScore').textContent = data.metrics.rmse.toFixed(4);
+            document.getElementById('maeScore').textContent = data.metrics.mae.toFixed(4);
+            document.getElementById('timestamp').textContent = data.metrics.timestamp;
+            
+            metricsBox.style.display = 'block';
+            
+            // Display training output
+            if (data.output) {
+                outputBox.textContent = data.output;
+                outputBox.style.display = 'block';
+            }
+            
+            // Scroll to metrics
+            metricsBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        } else {
+            alertBox.innerHTML = `<div class="alert alert-error"><strong>Training Failed:</strong> ${data.error}</div>`;
+        }
+    } catch (error) {
+        loading.style.display = 'none';
+        trainBtn.disabled = false;
+        alertBox.innerHTML = `<div class="alert alert-error"><strong>Error:</strong> ${error.message}</div>`;
+    }
+});
+</script>
+{% endblock %}

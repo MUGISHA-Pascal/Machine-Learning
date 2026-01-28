@@ -1,0 +1,56 @@
+{% extends 'performance/base.html' %}
+
+{% block title %}Home - Student Performance Predictor{% endblock %}
+
+{% block content %}
+<div style="text-align: center; padding: 40px 0;">
+    <h2 style="color: #000000; margin-bottom: 20px; font-weight: 900; font-size: 28px;">Welcome to Student Performance Predictor</h2>
+    <p style="font-size: 18px; color: #000000; margin-bottom: 40px; font-weight: 600;">
+        Use machine learning to predict student academic performance based on various factors.
+    </p>
+    
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 30px; margin-top: 40px;">
+        <div style="padding: 30px; background: #FFE66D; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
+            <h3 style="color: #000000; margin-bottom: 15px; font-weight: 900; font-size: 22px;">Predict Performance</h3>
+            <p style="color: #000000; margin-bottom: 25px; font-weight: 600;">Enter student data to predict their performance index</p>
+            <a href="{% url 'predict_page' %}" class="btn">Go to Predict</a>
+        </div>
+        
+        <div style="padding: 30px; background: #A8E6CF; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
+            <h3 style="color: #000000; margin-bottom: 15px; font-weight: 900; font-size: 22px;">Train Model</h3>
+            <p style="color: #000000; margin-bottom: 25px; font-weight: 600;">Train or retrain the machine learning model</p>
+            <a href="{% url 'train_page' %}" class="btn">Go to Train</a>
+        </div>
+        
+        <div style="padding: 30px; background: #FFB6C1; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
+            <h3 style="color: #000000; margin-bottom: 15px; font-weight: 900; font-size: 22px;">View Scores</h3>
+            <p style="color: #000000; margin-bottom: 25px; font-weight: 600;">Check model performance metrics and accuracy</p>
+            <a href="{% url 'scores_page' %}" class="btn">Go to Scores</a>
+        </div>
+    </div>
+    
+    <div style="margin-top: 60px; padding: 30px; background: #E0E0E0; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
+        <h3 style="color: #000000; margin-bottom: 20px; font-weight: 900; font-size: 22px;">About the Model</h3>
+        <p style="color: #000000; line-height: 1.8; font-weight: 600; margin-bottom: 20px;">
+            This application uses a Random Forest Regressor to predict student performance based on:
+        </p>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: left;">
+            <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
+                <strong>Hours Studied</strong>
+            </div>
+            <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
+                <strong>Previous Scores</strong>
+            </div>
+            <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
+                <strong>Extracurricular Activities</strong>
+            </div>
+            <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
+                <strong>Sleep Hours</strong>
+            </div>
+            <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
+                <strong>Sample Papers Practiced</strong>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
