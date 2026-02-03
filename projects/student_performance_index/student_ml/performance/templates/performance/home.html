@@ -32,7 +32,7 @@
     <div style="margin-top: 60px; padding: 30px; background: #E0E0E0; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
         <h3 style="color: #000000; margin-bottom: 20px; font-weight: 900; font-size: 22px;">About the Model</h3>
         <p style="color: #000000; line-height: 1.8; font-weight: 600; margin-bottom: 20px;">
-            This application uses a Random Forest Regressor to predict student performance based on:
+            This application uses a dual-model approach combining <strong>Classification</strong> and <strong>Regression</strong> to predict student performance based on:
         </p>
         <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; text-align: left;">
             <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
@@ -50,6 +50,123 @@
             <div style="padding: 15px; background: #ffffff; border: 3px solid #000000;">
                 <strong>Sample Papers Practiced</strong>
             </div>
+        </div>
+    </div>
+    
+    <div style="margin-top: 40px; padding: 30px; background: #FFE66D; border: 4px solid #000000; box-shadow: 6px 6px 0px #000000;">
+        <h3 style="color: #000000; margin-bottom: 25px; font-weight: 900; font-size: 24px; text-align: center;">Student Categories</h3>
+        <p style="color: #000000; line-height: 1.8; font-weight: 600; margin-bottom: 30px; text-align: center;">
+            The model classifies students into 10 distinct categories based on their study patterns and habits:
+        </p>
+        
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; text-align: left;">
+            <!-- High Performers -->
+            <div style="padding: 20px; background: #90EE90; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">🌟</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">High Performer</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Excellent balance of study (≥8h), high previous scores (≥85), and thorough preparation (≥7 papers). These students consistently excel.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #87CEEB; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">⚖️</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Balanced Achiever</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Good study habits (≥7h), adequate sleep (≥7h), and regular practice (≥5 papers). Maintains healthy work-life balance.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #FFD700; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">💎</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Natural Talent</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    High scores (≥90) with minimal study effort (≤4h). Naturally gifted students who grasp concepts quickly.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #FFA500; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">💪</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Hard Worker</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    High study effort (≥8h) despite lower previous scores (≤50). Determined students showing strong commitment.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #98FB98; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">📚</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Well Prepared</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Good balance of sleep (≥8h), study (≥6h), and practice (≥4 papers). Organized and methodical approach.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #D3D3D3; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">👤</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Average Student</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Typical student profile with moderate effort and results. Standard engagement across all factors.
+                </p>
+            </div>
+            
+            <!-- At-Risk Categories -->
+            <div style="padding: 20px; background: #FF6B6B; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">⚠️</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Burnout Risk</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Excessive study (≥9h) with insufficient sleep (≤4h). At risk of exhaustion and declining performance.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #FFB6C1; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">😴</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Underachiever</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Excessive sleep (≥9h) with minimal study (≤2h). Needs motivation and better time management.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #FFA07A; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">😰</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Struggling</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Low study hours (≤2h) and insufficient sleep (≤4h). Facing multiple challenges affecting performance.
+                </p>
+            </div>
+            
+            <div style="padding: 20px; background: #FF4500; border: 3px solid #000000; box-shadow: 4px 4px 0px #000000;">
+                <div style="display: flex; align-items: center; margin-bottom: 10px;">
+                    <span style="font-size: 24px; margin-right: 10px;">🆘</span>
+                    <h4 style="color: #000000; font-weight: 900; font-size: 18px; margin: 0;">Needs Support</h4>
+                </div>
+                <p style="color: #000000; font-weight: 600; font-size: 14px; line-height: 1.6;">
+                    Low engagement overall (≤3h study, ≤50 previous scores). Requires immediate intervention and support.
+                </p>
+            </div>
+        </div>
+        
+        <div style="margin-top: 30px; padding: 20px; background: #ffffff; border: 3px solid #000000; text-align: center;">
+            <p style="color: #000000; font-weight: 700; font-size: 16px; margin: 0;">
+                💡 <strong>Tip:</strong> The model provides both a category classification and a numerical performance score (0-100) for comprehensive insights.
+            </p>
         </div>
     </div>
 </div>

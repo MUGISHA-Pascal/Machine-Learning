@@ -12,22 +12,38 @@ import pandas as pd
 from sklearn.metrics import mean_squared_error, r2_score, mean_absolute_error
 
 # Create your views here.
-model = None
+model_package = None
 training_history = []
 
 def load_model():
-    global model
-    if model is None:
+    global model_package
+    if model_package is None:
         model_path = 'performance/model.pkl'
         if os.path.exists(model_path):
-            model = joblib.load(model_path)
+            model_package = joblib.load(model_path)
         else:
             raise FileNotFoundError(
                 f"Model file not found at {model_path}. "
                 "Please train the model first using: "
                 "python manage.py shell -c \"from performance.train_model import train; train()\""
             )
-    return model
+    return model_package
+
+def get_category_description(category):
+    """Provide human-readable descriptions for categories"""
+    descriptions = {
+        'burnout_risk': 'High study hours with insufficient sleep - risk of burnout',
+        'underachiever': 'Excessive sleep with minimal study time',
+        'struggling': 'Low study hours and insufficient sleep',
+        'high_performer': 'Excellent balance of study, preparation, and past performance',
+        'balanced_achiever': 'Good study habits with adequate sleep and preparation',
+        'natural_talent': 'High scores with minimal study effort',
+        'hard_worker': 'High effort despite lower previous scores',
+        'well_prepared': 'Good balance of sleep, study, and practice',
+        'needs_support': 'Low engagement across multiple factors',
+        'average_student': 'Typical student profile'
+    }
+    return descriptions.get(category, 'Standard student profile')
 
 def home_view(request):
     """Home page with navigation"""
@@ -56,24 +72,36 @@ def scores_view(request):
 @api_view(['POST'])
 def predict_performance(request):
     try:
-        current_model = load_model()
+        model_package = load_model()
     except FileNotFoundError as e:
         return Response({'error': str(e)}, status=500)
     
     data = request.data
 
     features = np.array([[
-        data['hours_studied'],
-        data['previous_scores'],
+        float(data['hours_studied']),
+        float(data['previous_scores']),
         1 if data['extracurricular'] else 0,
-        data['sleep_hours'],
-        data['sample_papers']
+        float(data['sleep_hours']),
+        float(data['sample_papers'])
     ]])
 
-    prediction = current_model.predict(features)[0]
+    # Get predictions from both models
+    classifier = model_package['classifier']
+    regressor = model_package['regressor']
+    label_encoder = model_package['label_encoder_category']
+    
+    # Predict category
+    category_encoded = classifier.predict(features)[0]
+    category_name = label_encoder.inverse_transform([int(category_encoded)])[0]
+    
+    # Predict performance score
+    performance_score = regressor.predict(features)[0]
 
     return Response({
-        'Predicted_performance_index' : round(float(prediction), 2)
+        'student_category': category_name,
+        'predicted_performance_index': round(float(performance_score), 2),
+        'category_description': get_category_description(category_name)
     })
 
 @csrf_exempt
@@ -81,7 +109,7 @@ def predict_ajax(request):
     """AJAX endpoint for predictions from web interface"""
     if request.method == 'POST':
         try:
-            current_model = load_model()
+            model_package = load_model()
             data = json.loads(request.body)
             
             features = np.array([[
@@ -92,11 +120,23 @@ def predict_ajax(request):
                 float(data['sample_papers'])
             ]])
             
-            prediction = current_model.predict(features)[0]
+            # Get predictions from both models
+            classifier = model_package['classifier']
+            regressor = model_package['regressor']
+            label_encoder = model_package['label_encoder_category']
+            
+            # Predict category
+            category_encoded = classifier.predict(features)[0]
+            category_name = label_encoder.inverse_transform([int(category_encoded)])[0]
+            
+            # Predict performance score
+            performance_score = regressor.predict(features)[0]
             
             return JsonResponse({
                 'success': True,
-                'predicted_performance_index': round(float(prediction), 2)
+                'student_category': category_name,
+                'predicted_performance_index': round(float(performance_score), 2),
+                'category_description': get_category_description(category_name)
             })
         except FileNotFoundError as e:
             return JsonResponse({'success': False, 'error': str(e)}, status=500)
@@ -110,7 +150,7 @@ def train_ajax(request):
     """AJAX endpoint for training from web interface"""
     if request.method == 'POST':
         try:
-            global model, training_history
+            global model_package, training_history
             
             # Import here to capture output
             import io
@@ -125,18 +165,19 @@ def train_ajax(request):
             training_output = output.getvalue()
             
             # Reload the model
-            model = None
-            current_model = load_model()
+            model_package = None
+            current_model_package = load_model()
             
             # Calculate metrics on dataset
             df = pd.read_csv('dataset.csv')
             from sklearn.preprocessing import LabelEncoder
             df['Extracurricular Activities'] = LabelEncoder().fit_transform(df['Extracurricular Activities'])
             
-            X = df.drop('Performance Index', axis=1)
+            X = df[['Hours Studied', 'Previous Scores', 'Extracurricular Activities', 'Sleep Hours', 'Sample Question Papers Practiced']]
             y = df['Performance Index']
             
-            predictions = current_model.predict(X)
+            regressor = current_model_package['regressor']
+            predictions = regressor.predict(X)
             
             metrics = {
                 'r2_score': float(r2_score(y, predictions)),
@@ -150,7 +191,7 @@ def train_ajax(request):
             
             return JsonResponse({
                 'success': True,
-                'message': 'Model trained successfully!',
+                'message': 'Model trained successfully with classification and regression!',
                 'metrics': metrics,
                 'output': training_output
             })
@@ -174,17 +215,19 @@ def get_scores_ajax(request):
                     'error': 'Model not found. Please train the model first.'
                 })
             
-            current_model = load_model()
+            model_package = load_model()
+            regressor = model_package['regressor']
+            classifier = model_package['classifier']
             
             # Calculate metrics on dataset
             df = pd.read_csv('dataset.csv')
             from sklearn.preprocessing import LabelEncoder
             df['Extracurricular Activities'] = LabelEncoder().fit_transform(df['Extracurricular Activities'])
             
-            X = df.drop('Performance Index', axis=1)
+            X = df[['Hours Studied', 'Previous Scores', 'Extracurricular Activities', 'Sleep Hours', 'Sample Question Papers Practiced']]
             y = df['Performance Index']
             
-            predictions = current_model.predict(X)
+            predictions = regressor.predict(X)
             
             metrics = {
                 'r2_score': float(r2_score(y, predictions)),
@@ -194,17 +237,18 @@ def get_scores_ajax(request):
             }
             
             # Feature importance if available
-            if hasattr(current_model, 'feature_importances_'):
+            if hasattr(regressor, 'feature_importances_'):
                 feature_importance = {
                     feature: float(importance) 
-                    for feature, importance in zip(X.columns, current_model.feature_importances_)
+                    for feature, importance in zip(X.columns, regressor.feature_importances_)
                 }
                 metrics['feature_importance'] = feature_importance
             
             return JsonResponse({
                 'success': True,
                 'metrics': metrics,
-                'training_history': training_history
+                'training_history': training_history,
+                'model_type': 'Combined Classification + Regression'
             })
             
         except Exception as e:

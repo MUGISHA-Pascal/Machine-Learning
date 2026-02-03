@@ -73,6 +73,70 @@
         font-weight: 600;
         color: #000000;
     }
+    
+    .category-badge {
+        display: inline-block;
+        padding: 12px 24px;
+        background: #FFD700;
+        border: 3px solid #000000;
+        box-shadow: 4px 4px 0px #000000;
+        font-size: 18px;
+        font-weight: 900;
+        text-transform: uppercase;
+        margin: 20px 0;
+        color: #000000;
+    }
+    
+    .category-description {
+        margin-top: 20px;
+        padding: 20px;
+        background: #ffffff;
+        border: 3px solid #000000;
+        font-weight: 600;
+        color: #000000;
+    }
+    
+    .result-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+        margin-top: 30px;
+        text-align: left;
+    }
+    
+    .result-item {
+        padding: 25px;
+        background: #ffffff;
+        border: 3px solid #000000;
+        box-shadow: 4px 4px 0px #000000;
+    }
+    
+    .result-item h4 {
+        font-size: 16px;
+        font-weight: 900;
+        margin-bottom: 15px;
+        color: #000000;
+        text-transform: uppercase;
+    }
+    
+    .result-item .value {
+        font-size: 42px;
+        font-weight: 900;
+        color: #000000;
+    }
+    
+    .result-item .label {
+        font-size: 14px;
+        font-weight: 700;
+        color: #000000;
+        margin-top: 10px;
+    }
+    
+    @media (max-width: 768px) {
+        .result-grid {
+            grid-template-columns: 1fr;
+        }
+    }
 </style>
 {% endblock %}
 
@@ -128,9 +192,23 @@
 </div>
 
 <div class="result-box" id="resultBox">
-    <h3>Predicted Performance Index</h3>
-    <div class="score" id="predictedScore">--</div>
-    <p>This score represents the predicted academic performance index for the student.</p>
+    <h3>Prediction Results</h3>
+    
+    <div class="result-grid">
+        <div class="result-item">
+            <h4>Student Category</h4>
+            <div class="category-badge" id="studentCategory">--</div>
+            <div class="category-description" id="categoryDescription">--</div>
+        </div>
+        
+        <div class="result-item" style="text-align: center;">
+            <h4>Performance Index</h4>
+            <div class="value" id="predictedScore">--</div>
+            <div class="label">Predicted Score (0-100)</div>
+        </div>
+    </div>
+    
+    <p style="margin-top: 30px;">The model analyzes study patterns, sleep habits, and preparation to provide both a category classification and performance prediction.</p>
 </div>
 {% endblock %}
 
@@ -162,7 +240,7 @@ document.getElementById('predictForm').addEventListener('submit', async function
     predictBtn.disabled = true;
     
     try {
-        const response = await fetch('/api/predict/', {
+        const response = await fetch('/predict-ajax/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
@@ -170,24 +248,82 @@ document.getElementById('predictForm').addEventListener('submit', async function
             body: JSON.stringify(formData)
         });
         
+        // Debug: Log response status
+        console.log('Response status:', response.status);
+        console.log('Response headers:', response.headers.get('content-type'));
+        
+        // Check if response is JSON
+        const contentType = response.headers.get('content-type');
+        if (!contentType || !contentType.includes('application/json')) {
+            const text = await response.text();
+            console.error('Non-JSON response received:', text.substring(0, 500));
+            throw new Error('Server returned HTML instead of JSON. Check if the endpoint exists and model is trained.');
+        }
+        
         const data = await response.json();
+        
+        // Debug: Log the response
+        console.log('API Response:', data);
         
         loading.style.display = 'none';
         predictBtn.disabled = false;
         
         if (data.success) {
-            document.getElementById('predictedScore').textContent = data.predicted_performance_index;
+            // Update category
+            const categoryElement = document.getElementById('studentCategory');
+            const categoryDescElement = document.getElementById('categoryDescription');
+            const scoreElement = document.getElementById('predictedScore');
+            
+            // Check if category data exists
+            if (data.student_category && data.category_description) {
+                // Format category name (replace underscores with spaces, capitalize)
+                const formattedCategory = data.student_category
+                    .split('_')
+                    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+                    .join(' ');
+                
+                categoryElement.textContent = formattedCategory;
+                categoryDescElement.textContent = data.category_description;
+                
+                // Color code the category badge based on type
+                const categoryColors = {
+                    'high_performer': '#90EE90',
+                    'balanced_achiever': '#87CEEB',
+                    'natural_talent': '#FFD700',
+                    'hard_worker': '#FFA500',
+                    'well_prepared': '#98FB98',
+                    'average_student': '#D3D3D3',
+                    'burnout_risk': '#FF6B6B',
+                    'underachiever': '#FFB6C1',
+                    'struggling': '#FFA07A',
+                    'needs_support': '#FF4500'
+                };
+                
+                categoryElement.style.background = categoryColors[data.student_category] || '#FFD700';
+            } else {
+                // Fallback if category data is missing
+                categoryElement.textContent = 'Not Available';
+                categoryDescElement.textContent = 'Please retrain the model to enable category predictions.';
+                categoryElement.style.background = '#D3D3D3';
+                
+                console.warn('Category data missing. Model may need retraining.');
+            }
+            
+            // Always show score
+            scoreElement.textContent = data.predicted_performance_index || data.Predicted_performance_index || '--';
+            
             resultBox.style.display = 'block';
             
             // Scroll to result
             resultBox.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
         } else {
-            alertBox.innerHTML = `<div class="alert alert-error">${data.error}</div>`;
+            alertBox.innerHTML = `<div class="alert alert-error">${data.error || 'Prediction failed'}</div>`;
         }
     } catch (error) {
         loading.style.display = 'none';
         predictBtn.disabled = false;
-        alertBox.innerHTML = `<div class="alert alert-error">Error: ${error.message}</div>`;
+        console.error('Prediction error:', error);
+        alertBox.innerHTML = `<div class="alert alert-error">Error: ${error.message}. Check browser console for details.</div>`;
     }
 });
 </script>
