@@ -1,6 +1,12 @@
 import pandas as pd
 from django.shortcuts import render
-from .dashboard import frequency_table
+from .dashboard import (
+    frequency_table,
+    sales_visualization_table,
+    cross_tabulation_visualization_table,
+    multi_dimensional_tabulation_visualization_table,
+    cross_tabulation_with_more_details_visualization_table
+)
 
 
 def dashboard_view(request):
@@ -10,4 +16,9 @@ def dashboard_view(request):
 
     return render(request, "vehicles/index.html", {
         "frequency_table": frequency_table(df),
+        "sales_table": sales_visualization_table(df),
+        "cross_tabulation_table": cross_tabulation_visualization_table(df),
+        "multi_dimensional_table": multi_dimensional_tabulation_visualization_table(df),
+        "cross_tabulation_details_table": cross_tabulation_with_more_details_visualization_table(df),
     })
+

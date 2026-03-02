@@ -39,6 +39,26 @@
               href="#frequency-table"
               >Frequency Tables (One-way)
             </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#sales-table"
+              >Sales Visualization Table
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#cross-tabulation"
+              >Cross Tabulation
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#multi-dimensional"
+              >Multi-dimensional Tabulation
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#cross-tabulation-details"
+              >Cross Tabulation with Details
+            </a>
           </div>
         </div>
 
@@ -59,6 +79,34 @@
                 Frequency Tables (One-way)
               </div>
               <div class="card-body">{{ frequency_table|safe }}</div>
+            </div>
+
+            <div id="sales-table" class="card shadow mb-5">
+              <div class="card-header bg-primary text-white">
+                Sales Visualization Table
+              </div>
+              <div class="card-body">{{ sales_table|safe }}</div>
+            </div>
+
+            <div id="cross-tabulation" class="card shadow mb-5">
+              <div class="card-header bg-success text-white">
+                Cross Tabulation
+              </div>
+              <div class="card-body">{{ cross_tabulation_table|safe }}</div>
+            </div>
+
+            <div id="multi-dimensional" class="card shadow mb-5">
+              <div class="card-header bg-warning text-dark">
+                Multi-dimensional Tabulation
+              </div>
+              <div class="card-body">{{ multi_dimensional_table|safe }}</div>
+            </div>
+
+            <div id="cross-tabulation-details" class="card shadow mb-5">
+              <div class="card-header bg-secondary text-white">
+                Cross Tabulation with More Details
+              </div>
+              <div class="card-body">{{ cross_tabulation_details_table|safe }}</div>
             </div>
           </div>
         </div>
