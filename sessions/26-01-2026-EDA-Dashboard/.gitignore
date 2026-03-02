@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Tutorial docs (not part of the project)
+*.pdf
+*.docx
+*.doc
+
+
+
+# OS
+.DS_Store
+Thumbs.db
