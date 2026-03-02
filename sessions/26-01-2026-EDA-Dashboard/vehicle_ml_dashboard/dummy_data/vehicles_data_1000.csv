@@ -1,0 +1,1001 @@
+manufacturer,year,color,body_type,engine_type,transmission,fuel_type,seating_capacity,kilometers_driven,vehicle_condition,wholesale_price,selling_price,client_name,client_age,client_gender,client_country,client_continent,client_profession,client_retail_date
+BMW,2017,DarkOliveGreen,Sedan,hybrid,manual,gasoline,4,126732.47,inactive,11627,22409,Donald Walker,41,Male,India,Asia,Sports administrator,20/11/2021
+Audi,2004,Peru,SUV,petrol,manual,diesel,4,240092.88,inactive,16187,21412,Brandon Hall,42,Male,France,Europe,"Surveyor, mining",02/11/2022
+Volkswagen,2011,YellowGreen,Truck,diesel,automatic,diesel,3,175759.97,inactive,18555,22744,Jerry Ramirez,18,Male,France,Europe,"Designer, jewellery",28/09/2024
+Volkswagen,2003,MediumSpringGreen,Hatchback,electric,automatic,diesel,8,195998.38,active,11573,11378,Daniel Gallagher,59,Male,Zambia,Africa,Chief Executive Officer,18/05/2024
+BMW,2002,DarkGray,Sedan,petrol,manual,gasoline,8,289022.74,active,10291,14515,Gregory Baker,59,Male,China,Asia,Psychiatric nurse,16/09/2025
+Audi,2008,DarkRed,Van,diesel,automatic,gasoline,9,267882.19,inactive,10305,27894,Jamie Arnold,43,Female,Zambia,Africa,Technical brewer,13/10/2022
+Volkswagen,2019,CornflowerBlue,Coupe,petrol,manual,diesel,9,186187,inactive,12722,25796,Darren Roberts,27,Male,Canada,North America,"Exhibitions officer, museum/gallery",02/01/2022
+Honda,2006,Olive,Van,electric,automatic,hybrid,7,31651.53,inactive,14013,19706,Mark Diaz,72,Female,Uganda,Africa,Marine scientist,05/12/2022
+Hyundai,2007,LightGreen,Hatchback,diesel,automatic,electric,4,198492.51,active,9891,21987,Melinda Jones,44,Male,United Kingdom,Europe,"Social research officer, government",25/03/2023
+BMW,2002,DodgerBlue,Hatchback,petrol,automatic,hybrid,8,34544.39,inactive,9461,13793,Devin Schaefer,53,Male,China,Asia,"Journalist, broadcasting",15/08/2021
+Volkswagen,2015,Khaki,Hatchback,diesel,automatic,electric,7,80385.96,active,15212,23321,Renee Morales,40,Male,Uganda,Africa,"Engineer, mining",21/12/2025
+Volkswagen,2009,Maroon,SUV,hybrid,automatic,gasoline,6,94738,active,13148,23382,Jonathan Wilkerson,27,Female,Germany,Europe,Customer service manager,26/05/2023
+Ford,2013,DarkSlateGray,Truck,petrol,manual,gasoline,7,270753.71,active,9895,17727,Justin Baker,66,Female,France,Europe,Television production assistant,17/07/2024
+Hyundai,2012,MistyRose,Sedan,electric,automatic,gasoline,7,34613.59,active,19578,24755,Zachary Hicks,33,Male,Uganda,Africa,Art gallery manager,29/01/2022
+Hyundai,2018,DeepSkyBlue,SUV,hybrid,manual,diesel,7,248075.22,inactive,8058,18623,Rebecca Henderson,20,Male,United States,North America,Musician,23/05/2024
+Nissan,2000,SeaGreen,Van,hybrid,automatic,gasoline,5,261475.09,inactive,14300,26897,Tricia Valencia,27,Male,Rwanda,Africa,Colour technologist,18/09/2025
+Toyota,2013,LightGreen,SUV,hybrid,manual,diesel,3,155762.19,inactive,11062,13797,Gina Carter,73,Male,Canada,North America,Professor Emeritus,05/03/2021
+Volkswagen,2010,LightGray,SUV,hybrid,automatic,hybrid,6,49860.01,inactive,10844,25653,Pamela Romero,20,Male,United Kingdom,Europe,Hydrogeologist,19/06/2025
+BMW,2004,Gray,Coupe,hybrid,automatic,gasoline,10,111369.93,active,14331,14679,Phillip Ryan,52,Male,Burundi,Africa,Tour manager,27/11/2023
+Mercedes-Benz,2009,SlateGray,Sedan,electric,manual,hybrid,6,35479.05,active,18018,24832,Timothy Koch,23,Female,Japan,Asia,Film/video editor,21/08/2021
+Nissan,2023,LawnGreen,SUV,petrol,automatic,gasoline,7,119195.86,inactive,11709,14613,Theresa Miller,58,Female,Australia,Oceania,Broadcast presenter,05/09/2025
+Kia,2021,DarkSalmon,SUV,hybrid,automatic,diesel,5,279770.09,active,14880,18054,John Pierce,52,Female,Canada,North America,"Secretary, company",29/09/2024
+Audi,2008,HotPink,Hatchback,electric,automatic,hybrid,4,137010.54,inactive,16269,24273,Nicole Vaughn,24,Female,Rwanda,Africa,Oceanographer,28/04/2024
+Honda,2009,Purple,Sedan,petrol,manual,diesel,9,125758.27,active,13060,19565,Jocelyn Wright,69,Male,United Kingdom,Europe,Lexicographer,29/04/2021
+Audi,2001,Khaki,Hatchback,diesel,automatic,electric,4,14531.59,active,10730,18163,Adrienne Zimmerman,29,Male,Zambia,Africa,Estate manager/land agent,20/09/2021
+Volkswagen,2009,BlanchedAlmond,Sedan,petrol,automatic,diesel,3,141385.62,active,18473,19362,Andrea Young,63,Female,Germany,Europe,"Engineer, site",25/09/2025
+Nissan,2021,DarkSeaGreen,Truck,hybrid,manual,diesel,8,55249.85,active,16351,28718,Sonya Johnston,34,Male,United States,North America,Public librarian,10/08/2024
+Hyundai,2020,Gold,Sedan,diesel,manual,gasoline,7,165615.55,active,9382,24277,Matthew Gomez,18,Female,Rwanda,Africa,"Psychologist, sport and exercise",10/08/2021
+Nissan,2004,DarkGreen,Truck,hybrid,automatic,gasoline,3,145553.48,active,8102,27899,Nicholas Mcbride,23,Male,Germany,Europe,Fish farm manager,11/10/2022
+Toyota,2012,Gold,Sedan,hybrid,manual,gasoline,6,259353.78,active,18901,20628,Brenda White,50,Female,Japan,Asia,Fisheries officer,15/10/2021
+Ford,2019,Red,Van,hybrid,automatic,gasoline,9,159627.24,inactive,13008,19305,Savannah Garcia,38,Male,France,Europe,Chief Financial Officer,27/02/2023
+Toyota,2015,FireBrick,Van,electric,automatic,hybrid,4,88238.98,active,12394,11230,John Hancock,56,Male,Canada,North America,"Development worker, international aid",15/05/2024
+Ford,2007,AliceBlue,SUV,electric,automatic,gasoline,5,297295.02,active,16126,23009,Mrs. Rachel Gibson,38,Female,Canada,North America,"Surveyor, commercial/residential",15/04/2025
+Nissan,2008,DeepSkyBlue,SUV,hybrid,manual,diesel,10,22847.69,inactive,9058,12318,Daniel Brown,67,Male,Canada,North America,Interior and spatial designer,19/08/2021
+Kia,2003,BurlyWood,Coupe,petrol,automatic,diesel,8,156314.86,active,10766,22699,Kathryn Farrell,45,Male,Australia,Oceania,Barista,19/06/2025
+Toyota,2002,Cyan,Sedan,diesel,manual,gasoline,9,275968.71,inactive,15557,20177,Andrea Jones,30,Male,United States,North America,Operations geologist,02/03/2022
+Ford,2005,LightBlue,SUV,electric,automatic,diesel,6,279201.23,inactive,8722,25454,Amanda Miller,35,Female,India,Asia,Games developer,19/11/2022
+Ford,2014,Maroon,SUV,diesel,automatic,hybrid,3,52040.58,active,13536,23353,James Powers,45,Female,Australia,Oceania,"Programmer, systems",02/11/2023
+BMW,2010,Cornsilk,Coupe,electric,manual,hybrid,3,170593.08,active,8715,18027,Marc Hart,42,Male,Germany,Europe,"Buyer, retail",20/09/2025
+Mercedes-Benz,2023,HotPink,Sedan,petrol,automatic,hybrid,8,87007.94,inactive,15041,19650,Brandi Bailey,69,Male,China,Asia,Financial risk analyst,16/04/2024
+Nissan,2014,LightSkyBlue,Sedan,petrol,automatic,electric,9,117630.49,active,12503,25455,Roy Warner,23,Male,China,Asia,"Surveyor, building",11/09/2023
+Volkswagen,2003,DarkKhaki,Sedan,electric,manual,diesel,2,193662.01,active,10927,15760,Brandy Wilson,77,Male,Japan,Asia,Surgeon,20/06/2022
+Audi,2009,LightPink,Hatchback,hybrid,automatic,gasoline,2,10678.63,inactive,15610,13117,Daniel Cooper,60,Female,Australia,Oceania,Risk analyst,20/04/2025
+Volkswagen,2025,LightCoral,Truck,diesel,automatic,diesel,10,77920.48,active,11912,14242,Sarah Davis,60,Female,Australia,Oceania,Health and safety inspector,09/07/2021
+Ford,2018,AliceBlue,Truck,diesel,automatic,diesel,6,120430.28,inactive,13949,27798,Carlos Whitney,46,Male,United States,North America,Private music teacher,03/11/2025
+Hyundai,2014,Pink,Hatchback,petrol,manual,hybrid,10,287925.34,inactive,11881,29959,Ashley Landry,39,Male,Japan,Asia,Sports administrator,14/06/2021
+Ford,2008,NavajoWhite,Truck,diesel,manual,electric,3,83197.68,active,15858,12127,Brittany Anderson,55,Female,Germany,Europe,Medical sales representative,26/06/2021
+Audi,2004,MintCream,Sedan,electric,automatic,hybrid,8,161516.66,active,17751,18081,David Garcia,53,Female,Burundi,Africa,Web designer,18/06/2022
+BMW,2000,LavenderBlush,Coupe,hybrid,manual,gasoline,7,232714.68,active,14435,28025,Vanessa Cochran,22,Female,Burundi,Africa,Agricultural consultant,03/09/2022
+Nissan,2009,MediumSeaGreen,Hatchback,hybrid,automatic,hybrid,2,45933.51,inactive,8434,11167,Jennifer Santiago,69,Male,China,Asia,"Geologist, engineering",02/07/2022
+Ford,2006,DarkMagenta,Sedan,diesel,manual,diesel,10,228708.85,active,10554,15500,Andrew Ruiz,78,Male,United Kingdom,Europe,Psychiatrist,14/02/2024
+BMW,2019,Linen,Van,diesel,automatic,hybrid,7,164141.98,inactive,10761,14792,Shelby Walker,80,Male,Uganda,Africa,Oceanographer,09/12/2023
+Nissan,2016,LightSeaGreen,Hatchback,hybrid,automatic,electric,6,82764.28,inactive,19320,24437,Tracy Ramirez,31,Female,Japan,Asia,Software engineer,18/12/2023
+Ford,2015,Black,Truck,electric,manual,electric,8,220360.06,inactive,9805,27758,Wesley White,32,Female,France,Europe,Arboriculturist,25/01/2022
+Mercedes-Benz,2019,PowderBlue,Truck,hybrid,manual,hybrid,3,84318.94,active,11857,29534,Richard Graham,27,Male,Germany,Europe,Musician,19/01/2026
+BMW,2004,Gold,Sedan,diesel,manual,electric,5,117376.05,active,11381,25961,Michael Smith,21,Male,China,Asia,Medical physicist,24/10/2024
+BMW,2005,CornflowerBlue,Van,hybrid,manual,electric,4,193353.14,active,18246,20819,Tammie Hanson,37,Male,Zambia,Africa,Hydrologist,17/06/2025
+Ford,2019,Magenta,SUV,electric,automatic,hybrid,10,54740.58,active,10367,25103,Erika Terry,26,Male,United States,North America,"Engineer, agricultural",21/09/2024
+Kia,2020,Olive,Van,hybrid,automatic,diesel,4,70436.84,inactive,17389,12055,Stephanie Gilbert,56,Female,Japan,Asia,"Optician, dispensing",22/10/2025
+Hyundai,2000,AliceBlue,Coupe,hybrid,manual,hybrid,5,253675.63,inactive,10054,19508,Daniel Floyd,34,Female,Australia,Oceania,"Psychologist, occupational",26/11/2024
+Ford,2007,Red,Hatchback,petrol,manual,electric,10,35831.34,active,10390,12408,Kayla Leon,77,Male,United Kingdom,Europe,Chartered accountant,24/07/2023
+Toyota,2012,Thistle,Truck,petrol,automatic,gasoline,8,17980.14,inactive,10595,10777,Lisa Davis,64,Male,China,Asia,Insurance claims handler,21/01/2023
+Volkswagen,2004,Gray,Van,hybrid,manual,electric,8,42551.33,active,18309,10341,Angel Riggs,55,Male,Burundi,Africa,"Programmer, applications",02/09/2024
+Audi,2022,GoldenRod,Sedan,electric,automatic,gasoline,10,79687.48,active,17464,27900,Janet Ross,48,Male,Germany,Europe,"Accountant, chartered public finance",20/01/2022
+Ford,2005,Peru,Hatchback,diesel,manual,hybrid,10,54355.24,active,16553,19256,Robert Dominguez,73,Female,France,Europe,Arts administrator,20/11/2025
+Honda,2011,LightBlue,Coupe,hybrid,automatic,gasoline,9,79950.32,inactive,9678,18394,Barbara Anderson,45,Female,United Kingdom,Europe,Set designer,25/11/2025
+Kia,2011,MediumAquaMarine,Sedan,electric,manual,gasoline,2,211891.85,active,9868,17848,Stephanie Salazar,52,Female,Brazil,South America,Sports therapist,09/12/2024
+Volkswagen,2008,DimGray,Truck,electric,automatic,electric,2,190807.19,active,16447,19464,Karen Green,67,Male,United States,North America,Health and safety inspector,31/07/2025
+Audi,2011,SlateBlue,Coupe,hybrid,automatic,diesel,4,171253.56,active,13274,20134,Denise Jones,35,Female,Germany,Europe,Farm manager,17/06/2023
+Ford,2015,MediumSeaGreen,Sedan,diesel,automatic,hybrid,4,138090.37,active,14306,19489,Joshua Taylor,43,Male,Zambia,Africa,Music therapist,12/06/2022
+Audi,2007,HotPink,Hatchback,electric,manual,electric,6,82933.48,inactive,10221,19349,Jason Daniels,43,Female,Canada,North America,Biomedical engineer,27/11/2022
+Volkswagen,2005,PeachPuff,SUV,electric,manual,electric,5,130798.99,active,18376,19487,Randy Shah,46,Male,Germany,Europe,Teaching laboratory technician,19/05/2024
+Volkswagen,2020,Silver,SUV,electric,automatic,diesel,8,214164.66,inactive,12598,11088,Guy Molina,61,Female,Brazil,South America,Solicitor,16/10/2025
+BMW,2004,Indigo,Coupe,petrol,manual,hybrid,6,15274.36,inactive,11637,11341,Don Tucker MD,78,Female,Canada,North America,Diagnostic radiographer,14/02/2025
+Honda,2014,DarkSalmon,Coupe,electric,manual,hybrid,5,280200.58,active,17186,26404,Ms. Susan Vargas,24,Male,United States,North America,Charity officer,16/10/2024
+Audi,2023,DarkSlateBlue,Van,petrol,automatic,diesel,3,264058.99,inactive,9020,11979,Catherine Green,62,Female,Germany,Europe,"Engineer, mining",05/01/2025
+Toyota,2017,MediumOrchid,Sedan,diesel,automatic,diesel,5,61381.8,active,9222,11423,Shawn Ramirez,57,Female,India,Asia,Forensic psychologist,04/11/2021
+Hyundai,2009,SeaShell,Sedan,petrol,manual,hybrid,3,2802.99,inactive,14634,22413,Joshua Cooke,48,Female,United Kingdom,Europe,Environmental manager,24/09/2021
+Hyundai,2002,BlueViolet,Hatchback,petrol,automatic,gasoline,8,103551.99,inactive,18137,10981,Tiffany Gonzalez,57,Male,Canada,North America,Wellsite geologist,11/06/2022
+BMW,2009,LawnGreen,Sedan,hybrid,automatic,gasoline,10,143504.54,inactive,19290,13787,Michael Elliott,56,Male,Rwanda,Africa,"Psychologist, occupational",30/04/2023
+Toyota,2014,NavajoWhite,Van,petrol,automatic,hybrid,7,44643.95,inactive,16986,17490,Lawrence Adkins,73,Male,China,Asia,"Development worker, community",17/10/2023
+Ford,2009,DarkMagenta,Hatchback,petrol,manual,hybrid,5,19244.32,active,17332,12169,Tanya Johnston,62,Female,Japan,Asia,Occupational psychologist,01/11/2022
+Mercedes-Benz,2011,Crimson,Truck,hybrid,manual,gasoline,5,12209.92,inactive,12828,24645,Sandra Sanchez,49,Female,Zambia,Africa,Tourism officer,06/03/2022
+Kia,2004,BlueViolet,Truck,hybrid,manual,diesel,7,183492.59,inactive,14043,28899,Jeffrey Wood,50,Female,Japan,Asia,"Administrator, charities/voluntary organisations",20/09/2024
+Toyota,2018,SlateGray,Coupe,petrol,automatic,gasoline,8,49550.21,active,16919,21715,Tyler Reid,46,Female,Brazil,South America,"Designer, ceramics/pottery",07/11/2024
+BMW,2000,Fuchsia,Truck,petrol,manual,diesel,3,37868.5,inactive,18805,29360,Tracie Nelson,19,Female,Uganda,Africa,"Psychologist, occupational",07/11/2024
+Ford,2001,LightGreen,SUV,petrol,manual,electric,7,74590.45,inactive,10180,25645,David Michael,22,Female,India,Asia,"Production designer, theatre/television/film",22/03/2023
+Ford,2009,SandyBrown,Coupe,hybrid,manual,electric,10,275805.91,inactive,16567,29577,Mary Rogers,24,Female,Japan,Asia,"Journalist, broadcasting",10/09/2022
+BMW,2015,SlateBlue,SUV,hybrid,automatic,electric,5,288710.29,active,16318,18509,Robert Peterson,53,Female,India,Asia,"Surveyor, commercial/residential",26/03/2021
+Audi,2023,Tomato,Hatchback,petrol,automatic,gasoline,2,276995.8,inactive,8164,27911,Angela Cortez,21,Female,Japan,Asia,"Surveyor, building control",11/03/2023
+Honda,2018,Sienna,Van,hybrid,manual,gasoline,7,11774.79,inactive,13033,18145,Katherine Mcguire,67,Male,Zambia,Africa,Hospital pharmacist,12/01/2023
+Audi,2006,PaleGreen,Sedan,electric,automatic,diesel,2,49439.08,active,14525,22223,Elizabeth Perkins,23,Female,Germany,Europe,Surgeon,30/08/2025
+Toyota,2018,MediumTurquoise,Truck,hybrid,manual,electric,9,135953.69,inactive,13721,23035,Patrick Rivera,47,Female,Japan,Asia,Geoscientist,03/10/2023
+BMW,2005,LightCoral,Van,hybrid,manual,electric,7,208757.56,inactive,19905,11788,Nathan Stewart,75,Male,Burundi,Africa,"Engineer, agricultural",27/12/2022
+Kia,2004,SkyBlue,Sedan,electric,manual,hybrid,6,108100.74,active,14193,12621,Kevin Wolf,75,Female,Brazil,South America,Chiropodist,19/10/2022
+Audi,2025,LightYellow,Coupe,hybrid,automatic,electric,8,261725,inactive,19125,19438,Christopher Smith,29,Male,Canada,North America,Graphic designer,14/07/2021
+Honda,2023,CadetBlue,Truck,diesel,automatic,hybrid,3,291204.37,active,13316,18760,Melissa Martinez,54,Female,Australia,Oceania,"Civil engineer, contracting",02/04/2021
+Toyota,2013,LightSkyBlue,Truck,petrol,manual,diesel,2,39928.71,inactive,17539,27083,Jeremiah Lopez,46,Male,Burundi,Africa,Forensic psychologist,18/03/2025
+Honda,2004,DarkOrange,Van,diesel,manual,diesel,9,261652.64,active,8826,17516,Jennifer Jones,68,Male,United States,North America,"Designer, blown glass/stained glass",01/06/2022
+Nissan,2001,LimeGreen,Coupe,diesel,manual,electric,6,77666.7,inactive,19450,25382,David Grant,30,Female,China,Asia,Trading standards officer,25/01/2023
+Volkswagen,2021,Turquoise,Hatchback,hybrid,automatic,electric,2,209349.7,inactive,14448,24175,Terry Evans,39,Female,Brazil,South America,Industrial/product designer,25/12/2025
+Volkswagen,2020,Chocolate,Truck,electric,manual,gasoline,4,168988.21,active,10587,14628,Natalie Meza,79,Male,Uganda,Africa,"Engineer, mining",26/05/2023
+Audi,2012,Cyan,SUV,petrol,automatic,electric,3,159511.37,active,14444,29763,Christopher Jones,23,Male,United States,North America,Osteopath,23/12/2024
+Ford,2019,SeaShell,SUV,hybrid,manual,gasoline,2,182790.26,active,18714,21399,David Mann,46,Female,Uganda,Africa,Building services engineer,18/02/2023
+Toyota,2001,LightGray,Truck,petrol,manual,diesel,6,287917.95,inactive,9647,16808,Lori Guerrero,68,Male,Zambia,Africa,"Physicist, medical",14/02/2022
+BMW,2022,YellowGreen,SUV,hybrid,automatic,hybrid,2,214199.39,inactive,12116,18165,Chase Baker,65,Male,Zambia,Africa,Building surveyor,27/08/2021
+BMW,2002,FireBrick,Van,diesel,manual,gasoline,10,7327.21,active,13983,19272,Linda Holloway,30,Female,Burundi,Africa,Print production planner,16/03/2022
+BMW,2001,SeaGreen,Coupe,hybrid,manual,gasoline,4,223051.67,active,16933,24179,Melissa Bender,20,Female,United States,North America,Primary school teacher,30/10/2021
+Volkswagen,2006,BlueViolet,Hatchback,hybrid,automatic,gasoline,5,170119.07,active,14966,26264,Morgan Munoz,48,Male,France,Europe,"Chemist, analytical",04/02/2023
+Mercedes-Benz,2011,Beige,Hatchback,petrol,automatic,hybrid,2,269932.77,inactive,16529,20072,Miss Debra Williams PhD,37,Female,France,Europe,"Scientist, physiological",27/11/2024
+Ford,2023,LightSeaGreen,Sedan,hybrid,manual,diesel,2,229884.94,inactive,11609,27306,Kevin Walters,39,Female,China,Asia,"Chemist, analytical",22/02/2025
+Toyota,2005,MediumVioletRed,Hatchback,electric,manual,electric,5,222382.23,inactive,14240,18269,Frank Garcia,57,Male,Germany,Europe,Landscape architect,24/08/2024
+Mercedes-Benz,2004,Snow,Van,hybrid,manual,hybrid,8,181179.26,inactive,13562,23286,Tony Cervantes,44,Male,Rwanda,Africa,"Programme researcher, broadcasting/film/video",23/11/2021
+Ford,2013,Maroon,Sedan,diesel,manual,gasoline,7,190030.9,inactive,17325,15294,Brian Barton,78,Male,Burundi,Africa,Special effects artist,28/01/2025
+Honda,2014,PaleVioletRed,Van,electric,automatic,gasoline,2,288093.61,active,9672,20542,Joseph Dean,45,Female,France,Europe,Private music teacher,02/08/2021
+BMW,2006,GreenYellow,Hatchback,petrol,manual,electric,10,55618.92,inactive,19680,20883,Carlos Roberts,23,Female,United States,North America,Community development worker,23/05/2021
+Audi,2023,LawnGreen,Sedan,petrol,automatic,electric,7,262884.3,inactive,10004,10867,Emily Smith,64,Female,Canada,North America,Chief Financial Officer,22/01/2023
+Mercedes-Benz,2007,DarkOrange,Van,diesel,manual,hybrid,5,18111.77,active,9185,21042,Bruce Collier,36,Female,China,Asia,"Horticulturist, amenity",23/06/2025
+Mercedes-Benz,2016,LightPink,Sedan,diesel,automatic,electric,4,260723.34,inactive,14374,19895,John Kennedy,68,Female,France,Europe,Structural engineer,18/05/2022
+Kia,2008,OliveDrab,Truck,hybrid,manual,electric,8,288845.25,inactive,17934,28649,Kyle Francis,35,Male,Uganda,Africa,Building control surveyor,01/07/2023
+Hyundai,2007,PapayaWhip,Sedan,diesel,automatic,diesel,7,128120.46,active,13721,10729,Richard Adams,62,Male,Rwanda,Africa,Heritage manager,08/09/2023
+Honda,2021,SlateGray,Sedan,hybrid,manual,electric,4,176319.77,inactive,14320,15329,Jill Washington,53,Female,United Kingdom,Europe,Sub,08/10/2025
+Honda,2005,OldLace,Sedan,hybrid,automatic,diesel,2,157607.96,active,14106,14727,Frank Lopez,61,Male,Japan,Asia,"Teacher, music",27/05/2024
+Hyundai,2007,Lavender,Coupe,petrol,automatic,hybrid,10,22708.65,inactive,8137,29900,Jennifer Flores,45,Female,Australia,Oceania,Museum/gallery curator,06/06/2024
+Volkswagen,2008,DeepPink,Truck,diesel,manual,hybrid,4,31395.3,inactive,17598,20645,Andrew Shaw MD,30,Male,Canada,North America,Printmaker,29/12/2021
+Ford,2012,Violet,Truck,electric,manual,hybrid,9,132340.07,active,11196,19217,Alexis Thomas,59,Male,Brazil,South America,Cabin crew,20/02/2025
+Mercedes-Benz,2002,LightGray,SUV,hybrid,manual,electric,5,99639.55,active,8495,19633,Michael Santos,73,Female,Burundi,Africa,"Social research officer, government",18/05/2024
+Audi,2015,MediumAquaMarine,Coupe,diesel,automatic,gasoline,4,133888.64,inactive,17587,19636,Stacy Freeman,72,Male,Canada,North America,Waste management officer,23/09/2021
+Audi,2011,LavenderBlush,Van,diesel,automatic,hybrid,3,116963.9,inactive,16032,16477,Tammie Bright,76,Male,Rwanda,Africa,Politician's assistant,25/12/2021
+Volkswagen,2004,DarkGreen,Truck,electric,automatic,electric,7,6882.49,inactive,15288,15095,Michael Berger,70,Male,Canada,North America,"Journalist, broadcasting",16/08/2021
+Kia,2004,LightYellow,Truck,hybrid,manual,gasoline,9,67560.83,inactive,12869,23009,Jeffrey Sanchez,18,Female,France,Europe,Systems developer,05/09/2022
+BMW,2013,FloralWhite,Coupe,petrol,automatic,electric,5,172191.87,inactive,14969,17009,Leon Reyes,62,Male,United States,North America,Research scientist (medical),08/02/2026
+Hyundai,2003,DarkTurquoise,Truck,diesel,automatic,gasoline,10,241905.93,active,18202,22789,Mark Stevens,26,Male,Germany,Europe,"Psychologist, occupational",05/08/2023
+Audi,2010,YellowGreen,Coupe,hybrid,automatic,diesel,7,85443.18,active,9339,23930,Jeremy Reed,25,Female,Zambia,Africa,Photographer,11/04/2023
+Hyundai,2015,SaddleBrown,Truck,electric,automatic,diesel,3,266253.12,active,17191,17775,Christina Cruz,79,Female,United Kingdom,Europe,Clinical biochemist,01/03/2023
+Mercedes-Benz,2023,Olive,Van,diesel,manual,diesel,8,227399.1,active,10026,21586,Laura Haney,49,Female,Rwanda,Africa,Advertising copywriter,06/07/2024
+Mercedes-Benz,2021,LightSalmon,Van,electric,manual,gasoline,4,133199.87,active,13186,13195,Sean Osborne,62,Male,Brazil,South America,Trading standards officer,16/05/2025
+Honda,2015,LightSlateGray,Sedan,hybrid,manual,gasoline,2,195811.03,active,17949,13082,Crystal Pham,79,Male,United States,North America,Energy manager,12/04/2023
+Toyota,2021,DarkSlateGray,Van,diesel,manual,diesel,2,56612.23,active,9449,17676,Stephanie Lucas,56,Female,India,Asia,Prison officer,06/06/2021
+Nissan,2009,Moccasin,Van,petrol,manual,diesel,4,163712.19,inactive,16199,13947,Ann Phillips,64,Female,United States,North America,Economist,08/11/2022
+BMW,2004,DarkSeaGreen,Hatchback,hybrid,automatic,hybrid,3,1082.64,active,11555,11902,Sherri Diaz,53,Female,Canada,North America,"Development worker, international aid",02/05/2023
+Kia,2005,SkyBlue,Truck,hybrid,manual,electric,3,28833.26,active,15478,19087,Elizabeth Harrell,40,Male,France,Europe,Psychotherapist,14/10/2021
+Mercedes-Benz,2020,DarkTurquoise,Coupe,petrol,automatic,hybrid,3,49758.16,active,11331,23942,Courtney Rhodes,39,Female,Germany,Europe,"Surveyor, hydrographic",04/04/2024
+Ford,2004,DarkGoldenRod,SUV,hybrid,manual,gasoline,6,91938.4,active,19956,26100,Alexis Herrera,39,Female,United Kingdom,Europe,"Merchandiser, retail",18/05/2023
+Nissan,2004,Olive,Hatchback,hybrid,manual,gasoline,2,54989.14,inactive,8131,24531,Teresa Rodriguez,40,Male,Japan,Asia,Public affairs consultant,11/05/2021
+Hyundai,2010,MediumOrchid,Coupe,petrol,manual,diesel,4,264409.78,inactive,17594,10122,Connie Brown,65,Female,Zambia,Africa,Immigration officer,14/08/2024
+Audi,2007,DarkOrange,Coupe,hybrid,automatic,electric,4,252762.65,inactive,11224,28132,Tracy Torres,48,Female,Uganda,Africa,Commercial art gallery manager,21/12/2021
+Volkswagen,2004,LavenderBlush,SUV,hybrid,manual,hybrid,10,181522.43,active,12272,13687,Brandy Chavez,78,Female,India,Asia,Theatre manager,18/06/2022
+Hyundai,2001,PapayaWhip,Coupe,electric,automatic,diesel,7,180242.76,inactive,15287,19831,Sandra Gilbert,38,Female,India,Asia,Amenity horticulturist,19/04/2024
+Kia,2006,IndianRed,Van,electric,automatic,hybrid,3,69803.33,inactive,14652,25549,Trevor Foley,28,Male,Zambia,Africa,Mental health nurse,11/10/2025
+Nissan,2014,MintCream,Sedan,diesel,automatic,gasoline,6,132508.94,active,13977,24381,Donald Donaldson,41,Female,Germany,Europe,"Chemist, analytical",13/12/2022
+Kia,2021,Beige,SUV,electric,automatic,gasoline,3,192627.12,active,9502,24564,Gavin Zhang,45,Male,Canada,North America,Broadcast presenter,10/11/2025
+Honda,2021,HoneyDew,Coupe,hybrid,manual,hybrid,3,270704.62,active,18827,26966,Robin Hall,36,Male,France,Europe,"Therapist, occupational",03/03/2021
+Ford,2003,LightSalmon,Van,diesel,automatic,diesel,9,156964.24,active,15135,19107,Brianna Anderson,28,Female,France,Europe,Ecologist,30/01/2022
+Audi,2018,Bisque,Hatchback,petrol,automatic,hybrid,10,265527.55,active,17891,28116,Hunter Kramer,19,Female,Germany,Europe,"Administrator, sports",18/08/2022
+BMW,2005,LightGray,SUV,diesel,automatic,gasoline,2,46340.54,active,10857,23629,Patrick Fox,34,Male,India,Asia,Publishing copy,16/12/2024
+Kia,2020,MistyRose,Hatchback,petrol,manual,gasoline,6,262441.82,active,9898,24307,Ashley Gordon,25,Male,Rwanda,Africa,"Scientist, research (life sciences)",18/09/2023
+Volkswagen,2012,Salmon,SUV,hybrid,automatic,hybrid,9,293697.69,active,16935,27124,Amanda Lutz,28,Female,India,Asia,Physiological scientist,24/01/2022
+Nissan,2006,SlateGray,Sedan,petrol,manual,hybrid,2,251241.28,inactive,13962,23754,Jill Lam,40,Female,India,Asia,Translator,29/05/2022
+BMW,2003,Coral,Sedan,diesel,automatic,electric,2,188363.24,active,19196,17248,Marcus Richards,52,Female,France,Europe,Museum/gallery curator,29/08/2025
+Nissan,2017,LightYellow,Hatchback,diesel,manual,electric,4,198575.82,inactive,14225,29009,Larry Garcia,33,Male,Rwanda,Africa,Structural engineer,23/12/2022
+Hyundai,2013,Plum,SUV,petrol,manual,gasoline,3,25733.08,inactive,18224,19676,Darryl Morgan,42,Female,United Kingdom,Europe,Oceanographer,07/09/2024
+BMW,2005,DarkGray,Van,electric,automatic,diesel,6,159631.66,inactive,19184,10066,Erik Scott,66,Male,United States,North America,Public relations account executive,19/09/2021
+Mercedes-Benz,2008,DarkGoldenRod,SUV,diesel,manual,hybrid,3,237923.32,active,17970,18845,Anna Davis,64,Female,Australia,Oceania,"Conservator, furniture",17/11/2025
+Honda,2014,Chocolate,Truck,diesel,automatic,gasoline,10,212358.33,inactive,12061,19656,Kristina Rivera,44,Male,United Kingdom,Europe,Paediatric nurse,26/02/2024
+Hyundai,2014,Peru,Sedan,diesel,manual,hybrid,10,293674.87,inactive,13716,19650,Michelle Schmitt,78,Female,Australia,Oceania,Management consultant,10/01/2022
+Volkswagen,2007,Tan,Truck,petrol,automatic,gasoline,8,238088.2,inactive,19227,18756,Matthew Walker,76,Male,Brazil,South America,Maintenance engineer,17/11/2025
+Hyundai,2018,NavajoWhite,SUV,electric,manual,electric,8,183233.11,inactive,17286,15211,Donald Perez,67,Female,Japan,Asia,"Surveyor, mining",18/11/2025
+Hyundai,2003,Bisque,Truck,diesel,manual,electric,8,221374.55,active,13122,18312,Mary Steele,78,Male,Australia,Oceania,Education administrator,22/06/2023
+Toyota,2010,Magenta,Hatchback,diesel,manual,electric,5,119971.9,active,12103,13503,Heather White,78,Male,Burundi,Africa,Systems developer,22/07/2024
+Toyota,2024,CornflowerBlue,Van,petrol,automatic,electric,7,104042.77,inactive,10416,24033,Mark Johnson,24,Male,Burundi,Africa,Mudlogger,19/09/2024
+Honda,2012,SaddleBrown,Hatchback,hybrid,automatic,hybrid,4,257233.86,inactive,15406,15171,Jacob Griffith,56,Male,Japan,Asia,Associate Professor,21/06/2022
+Toyota,2015,DimGray,SUV,petrol,manual,diesel,5,188093.19,active,19554,18123,Amber Miller,41,Female,India,Asia,Photographer,11/04/2025
+Toyota,2013,Red,SUV,hybrid,manual,hybrid,9,229849.74,active,11370,11655,Daniel Hunt,55,Female,Rwanda,Africa,Planning and development surveyor,02/02/2022
+Ford,2014,LightSkyBlue,SUV,electric,automatic,hybrid,5,284970.44,active,9345,29158,Leslie Rose,30,Female,Canada,North America,Armed forces technical officer,09/01/2023
+Audi,2015,Orchid,SUV,hybrid,manual,gasoline,5,45257.17,active,16435,21330,Mrs. Christine Dougherty,42,Male,Zambia,Africa,Freight forwarder,11/08/2023
+BMW,2007,MediumOrchid,Truck,hybrid,automatic,hybrid,6,183973.48,inactive,9630,27278,Jonathan Jordan,40,Male,India,Asia,Museum/gallery conservator,04/09/2025
+Hyundai,2019,Khaki,Coupe,hybrid,manual,gasoline,5,38747.95,inactive,12731,28670,Sandra Drake,44,Male,Germany,Europe,Occupational psychologist,04/07/2021
+Kia,2006,PowderBlue,SUV,petrol,manual,hybrid,8,263606.7,inactive,17391,27856,Thomas Atkins,24,Female,Burundi,Africa,"Teacher, secondary school",02/08/2024
+Hyundai,2019,PapayaWhip,Sedan,electric,manual,hybrid,10,276300.45,inactive,19903,16112,Jared Burch,77,Male,Brazil,South America,Waste management officer,22/01/2025
+BMW,2015,MistyRose,Van,hybrid,manual,hybrid,10,78942.11,inactive,10951,18408,Ryan Sanchez,70,Female,France,Europe,"Scientist, research (physical sciences)",25/10/2021
+Audi,2003,Orchid,SUV,hybrid,manual,gasoline,10,40930.85,active,15243,27446,Nichole Walker,43,Male,Uganda,Africa,Camera operator,28/06/2025
+Mercedes-Benz,2008,DarkOrange,Van,diesel,manual,hybrid,2,84068.29,active,8969,10926,Cheyenne Parsons,77,Female,China,Asia,Data scientist,27/02/2023
+BMW,2007,DarkKhaki,Van,electric,manual,diesel,6,7232.12,inactive,12525,28262,Craig Morrison,40,Male,France,Europe,"Editor, film/video",08/05/2025
+Honda,2008,SandyBrown,SUV,electric,automatic,hybrid,3,177214.15,active,11355,24032,Olivia Cole,42,Female,India,Asia,Interpreter,07/06/2022
+Volkswagen,2002,Purple,Truck,hybrid,automatic,diesel,8,186063.18,active,16361,14307,Jeremy Turner,70,Female,Brazil,South America,"Therapist, art",16/08/2021
+Volkswagen,2009,MidnightBlue,Sedan,hybrid,automatic,electric,10,225838.37,inactive,18846,11497,Emily Hayes,61,Male,Uganda,Africa,"Merchandiser, retail",03/08/2023
+Toyota,2023,Crimson,SUV,diesel,automatic,diesel,5,122445.87,active,18672,17092,Vanessa Davis,71,Female,India,Asia,"Psychologist, counselling",31/01/2026
+Mercedes-Benz,2021,BlueViolet,Coupe,hybrid,manual,gasoline,7,228891.72,inactive,9835,24633,Robert Pearson,18,Female,Uganda,Africa,Trade union research officer,11/03/2025
+Hyundai,2022,SteelBlue,Coupe,hybrid,automatic,electric,9,117294.67,active,19764,16067,Antonio Garcia,80,Female,Canada,North America,Chartered accountant,09/06/2025
+Toyota,2015,ForestGreen,SUV,electric,manual,hybrid,7,230610.36,active,19969,10469,Michael Ritter,70,Male,United States,North America,Medical physicist,26/04/2024
+Mercedes-Benz,2016,LightSkyBlue,SUV,hybrid,manual,hybrid,10,208649.76,active,12284,28062,Raymond Shelton,36,Male,Canada,North America,"Lecturer, higher education",15/09/2021
+Toyota,2021,MediumPurple,Van,hybrid,manual,diesel,7,214815.52,inactive,17381,27536,Michael Mitchell,31,Male,Australia,Oceania,"Lecturer, further education",03/11/2021
+Honda,2000,DarkTurquoise,Hatchback,diesel,automatic,electric,9,167743.74,inactive,13777,13908,Emily Douglas,64,Female,India,Asia,"Conservation officer, nature",13/11/2021
+Kia,2023,Magenta,Truck,hybrid,automatic,hybrid,10,200313.42,inactive,14159,22209,Maria Murphy,30,Male,Uganda,Africa,Secretary/administrator,10/12/2021
+Hyundai,2015,Peru,Coupe,hybrid,manual,diesel,7,79347.08,active,10909,24081,Alicia Parker,43,Male,Canada,North America,Licensed conveyancer,13/04/2025
+BMW,2025,GoldenRod,SUV,petrol,manual,diesel,2,220627.4,inactive,17177,14277,Chad Jones,55,Male,China,Asia,"Runner, broadcasting/film/video",27/09/2025
+BMW,2001,Violet,Truck,diesel,manual,hybrid,4,99041.06,active,9073,18900,George Miranda,44,Male,Uganda,Africa,"Therapist, speech and language",08/05/2024
+BMW,2018,DeepSkyBlue,Coupe,petrol,automatic,electric,3,114006.67,inactive,11362,12327,Ronald Wise,56,Male,Uganda,Africa,Primary school teacher,08/07/2021
+Ford,2012,PaleVioletRed,Sedan,diesel,manual,diesel,4,194115.62,inactive,13857,27988,Nathan Montes,31,Female,Uganda,Africa,"Production assistant, radio",20/02/2023
+Hyundai,2025,White,Truck,diesel,automatic,diesel,3,233444.15,active,15058,13109,Vincent Mueller,72,Male,United States,North America,Mental health nurse,31/12/2025
+Audi,2000,Purple,Sedan,diesel,manual,electric,5,86329.53,inactive,13163,23656,Douglas Reyes,27,Female,Australia,Oceania,"Designer, television/film set",05/11/2022
+Audi,2024,DarkSlateGray,Sedan,hybrid,manual,electric,7,115371.27,inactive,19981,16822,Amy Castillo,80,Female,United States,North America,"Surveyor, building",07/01/2022
+Kia,2015,Tomato,Hatchback,diesel,manual,gasoline,2,229448.94,inactive,17152,12768,Dominique Hines,75,Female,United States,North America,"Production assistant, television",06/07/2025
+Kia,2000,DarkViolet,SUV,diesel,manual,gasoline,10,102462.57,inactive,10142,14752,Anna Lozano,54,Female,Germany,Europe,Magazine journalist,16/05/2021
+Volkswagen,2014,PapayaWhip,Van,electric,automatic,electric,10,194400.14,inactive,12174,26849,Jonathan Young,19,Male,United Kingdom,Europe,Minerals surveyor,21/01/2023
+Audi,2010,Black,SUV,diesel,automatic,gasoline,6,222779.36,inactive,14385,27446,Brett Espinoza,43,Female,Australia,Oceania,Dancer,26/04/2022
+Mercedes-Benz,2010,Blue,Van,hybrid,automatic,diesel,7,165064.61,active,12032,23063,Ronald Horton,22,Male,Zambia,Africa,"Psychotherapist, child",17/12/2024
+Volkswagen,2000,AntiqueWhite,Hatchback,diesel,manual,hybrid,4,38421.34,active,10047,10273,Alicia Lewis,74,Male,Germany,Europe,Sports therapist,20/08/2025
+Mercedes-Benz,2020,Peru,Hatchback,diesel,manual,diesel,10,14881.96,active,12116,13783,Dwayne Turner,72,Male,Uganda,Africa,Field trials officer,19/09/2024
+Honda,2009,Salmon,Van,petrol,automatic,diesel,10,140242.85,active,11454,20081,Russell Porter,50,Male,China,Asia,"Scientist, biomedical",14/01/2026
+Nissan,2003,LawnGreen,Sedan,petrol,automatic,electric,10,112379.8,inactive,16707,25698,Doris Smith,38,Female,Canada,North America,Financial adviser,31/12/2025
+Ford,2014,PapayaWhip,Truck,petrol,automatic,electric,5,117033.5,active,11842,16103,Michael Mills,69,Female,Japan,Asia,Broadcast journalist,15/08/2025
+Kia,2017,YellowGreen,Sedan,petrol,automatic,gasoline,5,129616.44,inactive,10238,28326,Virginia Spencer,48,Female,Zambia,Africa,"Psychotherapist, dance movement",08/07/2021
+Honda,2008,Orange,SUV,electric,manual,gasoline,4,104312.47,inactive,18568,18614,Mrs. Alexis Kramer,45,Female,Australia,Oceania,Financial adviser,11/01/2022
+Nissan,2004,MediumSeaGreen,SUV,diesel,automatic,gasoline,8,251619.42,inactive,11581,14113,Harold Morgan,61,Male,Uganda,Africa,"Psychologist, forensic",20/03/2025
+Honda,2011,Gainsboro,Sedan,diesel,manual,gasoline,9,238425.59,active,16111,10840,Amy Parsons,64,Female,Zambia,Africa,Animator,23/08/2023
+Nissan,2005,Green,Truck,electric,manual,electric,9,297659.71,active,19854,27877,Curtis Williams,33,Female,Australia,Oceania,"Scientist, biomedical",14/07/2024
+Mercedes-Benz,2002,YellowGreen,Truck,diesel,manual,gasoline,10,62684.15,inactive,18389,16084,Andrew Lucas,69,Female,Japan,Asia,Marketing executive,21/07/2021
+Honda,2018,MediumPurple,Van,hybrid,automatic,gasoline,5,120064.93,inactive,8858,16268,Robert Kim,79,Female,Burundi,Africa,Printmaker,08/06/2024
+Nissan,2013,MediumSlateBlue,Van,diesel,manual,hybrid,5,254501.45,inactive,10239,21456,Kathleen Jimenez,22,Female,Burundi,Africa,Charity fundraiser,03/10/2024
+Ford,2001,Cyan,Truck,electric,automatic,diesel,5,142359.48,active,10350,27043,Zachary White,25,Female,Australia,Oceania,IT sales professional,07/01/2022
+Honda,2004,Cyan,Sedan,diesel,manual,electric,6,39246.26,active,9127,29406,Edward Griffin,46,Female,United States,North America,Dietitian,03/12/2024
+Kia,2005,MediumVioletRed,Truck,hybrid,automatic,gasoline,7,16040.74,active,11317,28483,Nicholas Buck,26,Female,Germany,Europe,Haematologist,20/08/2021
+BMW,2010,Crimson,Sedan,diesel,manual,gasoline,7,206485.79,active,16422,10660,Jennifer Palmer,80,Male,Japan,Asia,Airline pilot,12/05/2022
+Toyota,2015,Purple,Coupe,electric,manual,diesel,6,131339.76,inactive,12341,25429,Austin Osborne,40,Female,Germany,Europe,Medical illustrator,27/05/2024
+Volkswagen,2010,BlanchedAlmond,Coupe,diesel,automatic,hybrid,6,16558.92,active,14169,18938,Meghan Rush,69,Female,Brazil,South America,"Producer, radio",19/10/2021
+Hyundai,2025,DarkSlateGray,Truck,hybrid,manual,diesel,7,255685.95,active,17821,14063,Jennifer Banks,52,Male,China,Asia,Clothing/textile technologist,14/05/2021
+Honda,2023,GhostWhite,SUV,petrol,manual,gasoline,4,92408.84,inactive,17534,20735,Mr. Justin Green III,46,Female,Uganda,Africa,"Engineer, site",30/07/2023
+Ford,2003,SlateGray,Truck,diesel,automatic,hybrid,5,26718.81,inactive,12024,12765,Chad Jones,58,Male,Brazil,South America,"Producer, television/film/video",22/11/2021
+Mercedes-Benz,2008,MediumAquaMarine,Sedan,diesel,manual,electric,7,262368.22,active,10595,15910,Michelle Pierce,68,Female,China,Asia,Hydrologist,27/06/2022
+BMW,2008,ForestGreen,Truck,hybrid,manual,hybrid,3,68754.86,inactive,19880,17852,Katie Martinez,66,Male,Burundi,Africa,Corporate treasurer,28/02/2023
+Volkswagen,2007,Snow,SUV,petrol,manual,diesel,7,40967.25,inactive,12102,14252,Julian Wood,79,Male,Rwanda,Africa,Veterinary surgeon,17/11/2021
+Hyundai,2012,Coral,Hatchback,electric,automatic,electric,4,29835.58,active,9482,26229,Zachary Higgins,32,Female,China,Asia,Outdoor activities/education manager,14/01/2026
+Volkswagen,2011,Cornsilk,Hatchback,diesel,automatic,gasoline,3,265444.88,active,13026,15003,Evan Jones,67,Female,Uganda,Africa,"Scientist, forensic",29/01/2024
+Toyota,2004,DarkSalmon,Hatchback,electric,manual,gasoline,4,258613.39,inactive,16113,28644,Penny Bowman,43,Male,Germany,Europe,"Conservation officer, nature",29/10/2024
+Honda,2019,SteelBlue,Van,hybrid,automatic,diesel,3,138613.1,active,16762,23237,Amy Martinez,48,Male,Canada,North America,Industrial buyer,19/07/2022
+Nissan,2022,DodgerBlue,Van,electric,automatic,electric,7,117524.19,inactive,9908,23011,Michael Reed,23,Female,Burundi,Africa,Careers information officer,12/04/2023
+Honda,2005,Gray,Hatchback,electric,automatic,hybrid,10,270070.55,active,15148,13390,Krista Martinez,67,Female,Canada,North America,Volunteer coordinator,07/09/2025
+Honda,2011,DarkGoldenRod,Sedan,hybrid,automatic,hybrid,7,242526.12,inactive,18803,26654,Caroline David,30,Male,Uganda,Africa,Dramatherapist,07/01/2024
+Kia,2013,BlueViolet,Coupe,petrol,manual,diesel,6,169130.68,active,9988,25548,Alyssa Williams,25,Female,United Kingdom,Europe,"Engineer, materials",05/01/2026
+Volkswagen,2018,PapayaWhip,Van,hybrid,manual,hybrid,2,27065.85,active,18399,13585,Amanda Small,62,Female,United States,North America,Immigration officer,03/04/2025
+Audi,2002,LemonChiffon,Coupe,electric,manual,hybrid,10,104437.07,inactive,13658,19889,Melinda Evans,80,Male,United Kingdom,Europe,Best boy,29/06/2022
+Audi,2009,Purple,Coupe,petrol,automatic,electric,10,166692.88,inactive,11441,26597,John Peterson,48,Male,Germany,Europe,Intelligence analyst,12/11/2023
+Mercedes-Benz,2013,MediumTurquoise,Truck,electric,manual,electric,8,143340.91,active,8847,12011,Bianca Wood,56,Male,Zambia,Africa,"Investment banker, operational",16/03/2023
+Ford,2009,SeaGreen,SUV,petrol,manual,hybrid,4,277411.86,inactive,17505,19305,Jerry Thomas,70,Male,India,Asia,Horticultural therapist,31/05/2024
+Ford,2022,PeachPuff,Sedan,electric,manual,gasoline,6,261931.18,active,18396,23875,Sean Moore,19,Female,Brazil,South America,Technical brewer,22/10/2023
+Ford,2004,Gold,Sedan,diesel,automatic,hybrid,10,98048.57,active,15447,27065,Kathleen Robertson,42,Female,United States,North America,Insurance account manager,18/05/2025
+Ford,2023,Beige,Coupe,electric,manual,diesel,4,97679.07,active,12584,13841,James Bryant,77,Male,Burundi,Africa,"Engineer, structural",09/02/2026
+Kia,2003,MidnightBlue,Van,petrol,automatic,hybrid,3,35359.65,inactive,17846,26147,Douglas Harper,50,Female,France,Europe,Higher education lecturer,17/09/2025
+Kia,2014,Aqua,Hatchback,diesel,manual,diesel,6,45028.91,active,16015,18574,Jessica Khan,62,Female,Canada,North America,Operational researcher,04/04/2024
+Nissan,2005,Brown,Truck,petrol,automatic,electric,2,92148.59,inactive,14098,16735,Kelly Lee,67,Female,Germany,Europe,"Buyer, retail",07/06/2024
+Toyota,2005,Tan,Van,petrol,automatic,electric,10,81515.21,inactive,12937,10759,Joshua Bryan,72,Male,United States,North America,"Conservation officer, historic buildings",20/12/2021
+Kia,2011,OrangeRed,Van,diesel,automatic,gasoline,4,200098.53,inactive,12076,23136,William Grant,33,Female,Rwanda,Africa,Cytogeneticist,03/11/2022
+Kia,2006,Teal,Hatchback,electric,manual,diesel,6,129574.34,inactive,15490,17560,Andrew Williams,77,Female,Canada,North America,Public relations account executive,25/07/2025
+Mercedes-Benz,2016,SaddleBrown,Sedan,electric,manual,gasoline,6,289264.18,inactive,18846,18976,Steven Taylor,55,Female,United Kingdom,Europe,"Designer, textile",27/06/2024
+Honda,2019,Lime,SUV,electric,automatic,electric,10,12460.66,active,9742,10868,Katie Hicks,57,Female,Japan,Asia,"Surveyor, quantity",12/09/2023
+Audi,2001,Sienna,Van,hybrid,automatic,electric,7,203327.25,active,10612,18173,Isabella Nunez,70,Female,United States,North America,Television production assistant,06/10/2023
+Nissan,2000,Bisque,Truck,hybrid,automatic,hybrid,2,53502.26,inactive,10895,19713,Deborah Rios,73,Male,France,Europe,Arts development officer,09/02/2026
+Kia,2023,Silver,SUV,hybrid,manual,hybrid,6,218077.78,inactive,10360,25257,Mark Harvey,26,Female,India,Asia,Data scientist,17/03/2023
+Volkswagen,2015,BlanchedAlmond,Truck,diesel,automatic,diesel,2,261465.42,active,16419,12514,Melody Lee,62,Female,United States,North America,Interior and spatial designer,16/09/2024
+Kia,2015,DeepPink,Van,petrol,automatic,diesel,4,103722.18,inactive,9836,11772,Damon Shaw,80,Female,Uganda,Africa,Biomedical engineer,28/04/2022
+Honda,2016,Tomato,Truck,hybrid,manual,gasoline,7,17319.18,active,12751,22752,Frederick Bates,50,Female,Japan,Asia,Interior and spatial designer,15/08/2022
+Kia,2025,Salmon,Sedan,hybrid,manual,electric,6,283449.51,active,14844,18635,Gloria Gomez,24,Female,Uganda,Africa,Travel agency manager,07/04/2025
+Toyota,2021,GoldenRod,Coupe,electric,automatic,hybrid,7,232236.88,active,18032,17578,Diana Evans,79,Female,China,Asia,Homeopath,28/11/2022
+Ford,2023,SlateGray,SUV,hybrid,automatic,gasoline,7,114671.21,inactive,16011,15817,Gregory Peck,63,Female,Brazil,South America,Holiday representative,08/03/2022
+Ford,2002,YellowGreen,Truck,petrol,manual,electric,5,41584.15,inactive,19782,13572,William Cardenas,65,Male,China,Asia,Horticultural therapist,03/07/2021
+Kia,2014,LightSlateGray,Hatchback,diesel,manual,gasoline,2,75967.37,active,9589,27212,Angela Bradshaw,32,Female,China,Asia,Quality manager,19/12/2022
+Toyota,2013,Green,Hatchback,diesel,automatic,hybrid,2,211193.8,inactive,19939,12777,Denise Hoffman,72,Female,Brazil,South America,"Copywriter, advertising",28/01/2022
+BMW,2016,LawnGreen,Van,electric,manual,hybrid,2,66870.58,active,18786,13620,Michael Schmidt,70,Male,Brazil,South America,Associate Professor,31/12/2021
+Kia,2014,PaleVioletRed,Van,diesel,manual,gasoline,2,256060.05,inactive,11603,13071,John Maldonado,78,Male,Japan,Asia,"Accountant, chartered public finance",29/10/2025
+Honda,2019,DimGray,Hatchback,hybrid,automatic,diesel,9,86687.15,inactive,12864,22114,Timothy Johns,29,Female,Canada,North America,"Engineer, communications",04/08/2023
+Ford,2014,MediumBlue,Van,electric,manual,gasoline,2,60830.43,active,16438,12231,Anthony Mack,59,Male,Canada,North America,Social researcher,18/06/2021
+Mercedes-Benz,2025,ForestGreen,Sedan,diesel,automatic,diesel,10,196466.7,active,12465,25483,Ryan Peck,44,Male,Burundi,Africa,Occupational psychologist,12/05/2025
+Honda,2006,GhostWhite,SUV,diesel,automatic,hybrid,10,264864.7,active,15675,17862,Tonya Howe,60,Male,Uganda,Africa,Acupuncturist,08/09/2023
+Honda,2007,DarkMagenta,SUV,petrol,manual,electric,3,187485.46,inactive,9909,15135,Frances Gibson,80,Female,Brazil,South America,Contractor,08/06/2025
+Hyundai,2006,SeaGreen,SUV,electric,automatic,gasoline,10,190531,inactive,13752,11483,Robert Rivera,64,Female,Rwanda,Africa,Furniture designer,24/09/2022
+Nissan,2013,Aquamarine,Sedan,petrol,manual,hybrid,9,78043.76,inactive,11763,28240,Rachel Bradley,28,Male,Burundi,Africa,Economist,05/08/2024
+BMW,2017,Pink,Coupe,petrol,manual,gasoline,3,221474.76,active,13659,27504,Angie Caldwell,30,Male,Japan,Asia,Counselling psychologist,17/03/2025
+BMW,2015,MediumBlue,SUV,diesel,automatic,hybrid,9,101425.27,active,15431,18040,Adriana Reyes,52,Female,Zambia,Africa,"Geologist, engineering",14/12/2023
+Audi,2021,LimeGreen,Coupe,electric,manual,electric,3,18784.55,active,15535,18986,Laura Green,79,Female,France,Europe,Fashion designer,04/09/2021
+Hyundai,2007,DarkOrchid,Van,diesel,manual,electric,9,114679.32,inactive,14837,14450,Christopher Parks,59,Female,France,Europe,Commercial/residential surveyor,28/08/2023
+Mercedes-Benz,2014,NavajoWhite,SUV,diesel,manual,diesel,2,271818.51,active,11728,22915,Colleen Anderson,26,Male,Burundi,Africa,"Programme researcher, broadcasting/film/video",28/04/2024
+Hyundai,2001,PapayaWhip,Sedan,diesel,manual,hybrid,2,188062.72,active,8395,18021,Susan Todd,68,Male,Zambia,Africa,Firefighter,04/11/2021
+Volkswagen,2010,Violet,Coupe,diesel,manual,gasoline,9,218131.56,inactive,17005,19326,Michael Miller,74,Male,Canada,North America,Biomedical engineer,21/10/2025
+Toyota,2001,Tan,Truck,electric,automatic,electric,2,174606.66,inactive,19075,14230,Joshua Martin,63,Female,Japan,Asia,Commercial horticulturist,23/11/2022
+Audi,2008,SlateGray,Coupe,electric,manual,hybrid,10,28770.9,active,13355,17034,Jordan Stokes,63,Female,Uganda,Africa,Consulting civil engineer,06/07/2025
+Volkswagen,2008,PapayaWhip,Truck,petrol,manual,diesel,8,15922.52,active,17162,18931,Anthony Ford,49,Female,Canada,North America,Advertising copywriter,07/07/2024
+Kia,2010,LightCyan,Truck,hybrid,manual,gasoline,3,284245.4,active,13285,17354,Nichole Lane,74,Male,Uganda,Africa,Pharmacologist,29/01/2024
+Ford,2004,Coral,Truck,diesel,automatic,diesel,5,194839.94,active,16915,18547,Amy Shannon,34,Female,Rwanda,Africa,Ambulance person,03/08/2023
+BMW,2015,PaleTurquoise,Truck,diesel,manual,electric,2,79796.7,inactive,14397,26024,Chad May,39,Female,India,Asia,Minerals surveyor,26/05/2024
+Nissan,2019,RosyBrown,Hatchback,petrol,manual,electric,6,80413.34,active,16603,28774,Susan Bennett,43,Male,Australia,Oceania,Magazine features editor,26/02/2022
+Volkswagen,2023,Fuchsia,Van,hybrid,manual,gasoline,7,183378.79,active,12810,19459,Jenna Anderson DVM,55,Male,Rwanda,Africa,Advice worker,07/09/2023
+Toyota,2023,SandyBrown,Hatchback,petrol,automatic,gasoline,6,270360.24,active,13875,16551,Kimberly Patel,54,Male,Burundi,Africa,Firefighter,24/01/2025
+Hyundai,2016,MediumTurquoise,Sedan,hybrid,manual,diesel,8,238810.33,inactive,15850,11985,Colin Golden,73,Male,Uganda,Africa,Ambulance person,17/09/2024
+Toyota,2020,Azure,SUV,hybrid,manual,diesel,10,242401.95,inactive,16063,18565,Austin Wheeler,76,Female,Germany,Europe,"Therapist, sports",24/07/2021
+Audi,2003,LemonChiffon,SUV,diesel,manual,electric,9,229418.36,active,17383,15017,Jennifer Young,75,Male,Germany,Europe,Banker,04/05/2022
+Audi,2000,SteelBlue,SUV,hybrid,automatic,diesel,6,212193.21,active,8000,11727,Cynthia Hendricks DDS,53,Female,Rwanda,Africa,Fast food restaurant manager,18/09/2023
+Ford,2006,DarkTurquoise,Coupe,hybrid,manual,hybrid,5,238766.01,inactive,16321,19888,Ms. Jennifer Hill,54,Male,Canada,North America,Physiotherapist,15/11/2025
+Mercedes-Benz,2008,Snow,SUV,hybrid,manual,hybrid,4,267113.05,inactive,14307,13975,Gregory Schneider,78,Female,China,Asia,"Scientist, water quality",10/11/2023
+Hyundai,2016,PapayaWhip,Coupe,hybrid,automatic,electric,10,272443.87,active,9594,12420,Elijah White,78,Female,Australia,Oceania,Financial adviser,24/01/2023
+Nissan,2007,Lime,Truck,diesel,automatic,hybrid,7,150119.67,active,8108,13463,Brianna Ford,61,Male,Rwanda,Africa,"Surveyor, planning and development",28/08/2024
+Audi,2011,PapayaWhip,Truck,hybrid,automatic,diesel,3,160973.56,inactive,17001,12289,Brandi Sanchez,56,Male,Germany,Europe,Lawyer,26/10/2021
+Nissan,2003,RoyalBlue,SUV,petrol,manual,hybrid,3,111244.4,inactive,17601,19471,Anna Hardy,33,Male,Germany,Europe,Arts development officer,07/06/2023
+Mercedes-Benz,2011,OldLace,Truck,diesel,automatic,diesel,5,146379.81,inactive,10452,28110,Lindsey Russo,49,Male,Canada,North America,Theatre manager,25/11/2025
+Nissan,2007,IndianRed,Truck,electric,automatic,diesel,4,191135.59,active,13232,22048,Sean Cook,28,Male,Germany,Europe,"Engineer, mining",06/10/2022
+BMW,2012,DarkOrchid,Sedan,petrol,automatic,gasoline,4,239475.46,inactive,18117,23626,Nicole Rocha,39,Male,France,Europe,Occupational psychologist,08/03/2023
+Mercedes-Benz,2021,MediumBlue,Van,diesel,manual,hybrid,10,31663.53,inactive,16929,28425,Jamie Ferguson,36,Female,United Kingdom,Europe,Insurance account manager,16/05/2023
+Audi,2001,MistyRose,Coupe,petrol,automatic,gasoline,9,30816.83,inactive,18632,20815,Kathleen Garcia,29,Female,United States,North America,IT consultant,16/11/2022
+Volkswagen,2025,NavajoWhite,SUV,electric,automatic,hybrid,7,165815.65,active,9443,14559,Angel Shields,59,Male,Zambia,Africa,"Administrator, sports",14/05/2023
+Ford,2015,PapayaWhip,Truck,hybrid,manual,hybrid,5,219763.94,inactive,12372,12159,Craig Hall,67,Male,Brazil,South America,Restaurant manager,30/10/2025
+Audi,2002,MediumSlateBlue,Truck,diesel,automatic,electric,10,179879.06,inactive,19521,15716,Roberto Levy,57,Female,Canada,North America,Psychiatrist,30/07/2022
+Mercedes-Benz,2004,MidnightBlue,Van,petrol,manual,gasoline,6,287910.35,active,15683,14554,Nathan Freeman,58,Male,Rwanda,Africa,"Scientist, research (physical sciences)",08/06/2021
+Volkswagen,2018,Crimson,Van,hybrid,automatic,gasoline,7,219123.25,inactive,8928,13427,Mary Duran,73,Female,Canada,North America,"Copywriter, advertising",12/02/2023
+Mercedes-Benz,2000,CornflowerBlue,Sedan,petrol,automatic,hybrid,7,101685.85,active,16314,17976,Alexa Wagner,66,Female,China,Asia,Best boy,04/04/2025
+Nissan,2018,SlateBlue,Hatchback,electric,automatic,electric,4,45632.24,inactive,17804,23879,Joseph Jenkins,29,Male,Japan,Asia,Senior tax professional/tax inspector,26/06/2023
+Kia,2021,WhiteSmoke,Hatchback,electric,manual,gasoline,6,194856.3,active,19274,11907,Alicia Li,58,Female,Australia,Oceania,Editorial assistant,21/01/2022
+Nissan,2024,DarkGray,Hatchback,electric,manual,gasoline,5,6370.12,inactive,13347,18013,Daisy Harvey,26,Female,Germany,Europe,Manufacturing systems engineer,03/06/2023
+Hyundai,2004,Orchid,Truck,electric,automatic,gasoline,3,83597.44,active,18109,22619,Tyler Stevens,46,Male,Germany,Europe,Equities trader,12/09/2023
+BMW,2009,Cyan,Coupe,hybrid,manual,diesel,2,111390.35,inactive,19649,12263,Shannon Malone,54,Male,Japan,Asia,"Optician, dispensing",16/05/2024
+Audi,2009,OldLace,Hatchback,hybrid,manual,hybrid,6,249678.4,active,15670,12767,Amy Smith,69,Male,India,Asia,Charity fundraiser,26/05/2025
+Kia,2001,PowderBlue,SUV,petrol,manual,hybrid,9,158267.13,active,16368,17554,Erin Madden,67,Male,Brazil,South America,"Secretary, company",05/07/2021
+Hyundai,2005,Khaki,SUV,petrol,automatic,gasoline,8,39240.49,active,10338,25323,Sean Clay,31,Female,Burundi,Africa,Geoscientist,17/07/2021
+Mercedes-Benz,2024,Crimson,Sedan,electric,automatic,hybrid,6,22532.26,inactive,15547,20161,Diana Daniels,47,Male,Uganda,Africa,Editorial assistant,28/10/2023
+Nissan,2020,Azure,Coupe,hybrid,automatic,diesel,4,74045.84,inactive,14430,24475,Laurie Goodwin,47,Female,United States,North America,Camera operator,10/09/2023
+Toyota,2010,DodgerBlue,Truck,electric,manual,diesel,3,199031.55,inactive,8575,28913,Lacey Atkinson,33,Female,Australia,Oceania,Music tutor,03/05/2022
+Hyundai,2014,Cyan,Coupe,diesel,manual,gasoline,4,237364.77,active,9602,29456,Valerie Brown,27,Female,Australia,Oceania,Exhibition designer,17/10/2021
+Audi,2005,MediumSpringGreen,Sedan,hybrid,automatic,electric,6,121485.42,inactive,10123,27230,Lisa Larson,39,Female,Japan,Asia,Air traffic controller,22/06/2023
+Toyota,2015,RoyalBlue,Sedan,electric,automatic,hybrid,4,153149.08,inactive,8978,18038,Henry Pugh MD,59,Female,Uganda,Africa,Chartered certified accountant,29/08/2023
+Kia,2024,LightBlue,Hatchback,petrol,automatic,hybrid,9,273425.31,inactive,10601,19252,Angela Moore,59,Male,Japan,Asia,Neurosurgeon,03/11/2023
+Mercedes-Benz,2004,MistyRose,Van,diesel,automatic,diesel,5,136334.05,active,19338,15638,Aaron Parker,70,Female,Burundi,Africa,Geophysicist/field seismologist,06/01/2022
+Hyundai,2005,DarkSeaGreen,Van,electric,manual,electric,5,163955.37,inactive,8498,25174,Jeffrey Hawkins,37,Female,France,Europe,"Civil engineer, contracting",15/05/2021
+Toyota,2018,DarkCyan,Hatchback,hybrid,automatic,hybrid,6,79747.95,active,8622,27557,Brandon George,50,Female,Rwanda,Africa,Musician,02/04/2021
+Mercedes-Benz,2014,LightSteelBlue,SUV,electric,automatic,electric,4,110093.31,inactive,11456,20251,Richard Hardy,36,Male,France,Europe,"Teacher, music",31/07/2025
+Audi,2003,FloralWhite,Hatchback,petrol,automatic,diesel,8,270325.12,active,10980,28787,Caroline Adams,40,Female,United States,North America,"Research officer, government",22/05/2022
+Hyundai,2020,Coral,Truck,petrol,manual,hybrid,9,213938.7,inactive,9831,25592,Donald Evans,33,Male,United States,North America,Media planner,16/04/2023
+Mercedes-Benz,2001,LightBlue,Sedan,electric,manual,diesel,4,117408.82,inactive,9775,13221,Kathleen Jensen,56,Female,Zambia,Africa,Clinical biochemist,19/04/2022
+Kia,2004,LimeGreen,SUV,petrol,automatic,gasoline,5,61516.78,active,10942,18679,James Skinner,25,Female,Burundi,Africa,Landscape architect,21/11/2024
+Ford,2014,MediumSeaGreen,Truck,diesel,manual,electric,6,33907.23,active,9925,14478,Rodney Curtis,64,Male,United States,North America,Hydrologist,16/11/2023
+Volkswagen,2008,Green,Truck,electric,manual,electric,2,164865.28,inactive,13744,26612,Christopher Sanders,37,Female,Germany,Europe,"Horticulturist, amenity",28/04/2025
+Mercedes-Benz,2017,LemonChiffon,Coupe,electric,automatic,diesel,7,139504.58,inactive,12711,11292,Douglas Hartman,56,Female,United Kingdom,Europe,Clothing/textile technologist,10/12/2025
+Mercedes-Benz,2016,Green,Sedan,electric,automatic,gasoline,2,24014.3,active,9897,28932,Kimberly Maldonado,28,Male,United Kingdom,Europe,"Psychologist, clinical",06/12/2022
+Ford,2007,Purple,Van,electric,automatic,diesel,9,195662.57,inactive,17637,14448,Sandra Jones,52,Female,Canada,North America,Restaurant manager,01/05/2022
+Nissan,2022,LimeGreen,Truck,hybrid,manual,hybrid,10,136411.24,inactive,8985,11250,Matthew Espinoza,74,Female,Australia,Oceania,"Buyer, retail",19/12/2024
+Mercedes-Benz,2014,Silver,SUV,hybrid,manual,diesel,2,112190.18,inactive,12934,23566,Kimberly Mclean,22,Female,Australia,Oceania,Speech and language therapist,17/06/2021
+Mercedes-Benz,2003,MistyRose,Truck,diesel,manual,diesel,7,218196.64,inactive,14600,12045,Robin Wheeler,76,Male,Australia,Oceania,Clinical embryologist,05/04/2023
+Kia,2018,MidnightBlue,Van,petrol,automatic,electric,10,268407.3,active,12240,11735,Lonnie Hart,72,Female,Germany,Europe,Learning disability nurse,22/10/2024
+BMW,2008,DarkMagenta,SUV,petrol,automatic,electric,4,199216.1,active,19087,18437,David Dixon,50,Male,China,Asia,Product designer,30/04/2024
+Kia,2013,OrangeRed,Van,hybrid,automatic,electric,7,60942.41,active,17572,19657,Michael Vaughn,60,Male,France,Europe,Location manager,10/05/2021
+Honda,2000,SkyBlue,SUV,petrol,manual,diesel,10,33665.05,active,14428,14053,Jason Nixon,59,Male,United Kingdom,Europe,Curator,10/02/2024
+Volkswagen,2017,Magenta,Van,petrol,manual,hybrid,8,199382.04,active,8534,22038,Richard Boyd,19,Female,Zambia,Africa,Publishing copy,23/12/2021
+Hyundai,2013,Purple,Truck,petrol,manual,electric,10,270806.89,active,14873,15872,Jodi Jones,73,Male,Australia,Oceania,Colour technologist,04/05/2021
+Toyota,2002,MediumSpringGreen,Sedan,electric,manual,diesel,3,71658.45,inactive,10136,10617,Megan Martin,72,Male,France,Europe,"Scientist, clinical (histocompatibility and immunogenetics)",19/08/2022
+Toyota,2002,DimGray,Truck,electric,automatic,electric,10,149773.98,inactive,17135,29424,Jeffery Murray,25,Female,Australia,Oceania,Educational psychologist,25/09/2022
+Audi,2019,Plum,Hatchback,hybrid,automatic,gasoline,8,49653.55,inactive,15479,18372,Omar Ware,21,Female,Germany,Europe,"Therapist, drama",19/10/2024
+BMW,2011,Orange,SUV,electric,automatic,electric,10,97927.81,inactive,10541,25334,Daniel Ramirez,20,Male,United States,North America,Technical brewer,05/01/2022
+Ford,2021,WhiteSmoke,Van,diesel,manual,gasoline,8,62798.86,active,10300,14443,Gabriel Ellis,55,Female,Japan,Asia,Recruitment consultant,20/08/2025
+BMW,2010,Maroon,Sedan,petrol,manual,gasoline,10,289866.93,inactive,14104,17658,Lisa Matthews,69,Female,China,Asia,Management consultant,15/01/2025
+Hyundai,2006,ForestGreen,Truck,electric,automatic,hybrid,6,163716.86,inactive,19461,14460,Michele Evans,67,Male,India,Asia,Contractor,24/10/2023
+Kia,2024,DarkOrchid,Truck,electric,automatic,electric,3,85034.82,active,11637,26720,Bruce Brooks,44,Male,India,Asia,Sales promotion account executive,13/06/2024
+Honda,2024,PeachPuff,Hatchback,electric,manual,electric,5,188574.09,inactive,17041,28519,Laura Henderson,30,Female,Canada,North America,Soil scientist,15/08/2022
+Volkswagen,2003,FireBrick,Hatchback,petrol,manual,electric,4,291129,inactive,17016,27429,Charles Edwards MD,39,Male,India,Asia,Mechanical engineer,24/03/2021
+Nissan,2003,SlateBlue,Coupe,electric,manual,diesel,7,272548.65,active,8471,15546,Robert Maynard,78,Female,France,Europe,Osteopath,30/04/2025
+Nissan,2014,PapayaWhip,Hatchback,electric,manual,diesel,2,33011.99,inactive,9983,18180,Jill Jackson,27,Male,Germany,Europe,English as a second language teacher,19/08/2023
+BMW,2025,BlanchedAlmond,SUV,petrol,automatic,electric,2,10921.79,inactive,8122,16466,Joshua Jackson,75,Female,Burundi,Africa,Systems developer,11/05/2025
+Volkswagen,2023,Teal,Truck,electric,manual,diesel,4,181035.24,inactive,16662,15121,Brian Hampton,54,Female,Germany,Europe,Special effects artist,02/07/2021
+Toyota,2015,Purple,Truck,petrol,manual,electric,2,34267.03,active,15923,15643,Wanda Garcia,64,Male,China,Asia,Human resources officer,03/06/2021
+Toyota,2008,RoyalBlue,SUV,petrol,automatic,gasoline,9,106321.12,inactive,13959,25644,Scott Miller,19,Male,Australia,Oceania,Fast food restaurant manager,07/12/2022
+Kia,2000,MediumVioletRed,SUV,diesel,automatic,diesel,10,174825.34,active,10236,25193,Lisa Patterson,36,Male,Japan,Asia,"Engineer, maintenance",27/11/2022
+Audi,2023,Chocolate,Sedan,petrol,automatic,hybrid,7,196686.86,inactive,10582,12416,Kim Carlson,58,Male,United Kingdom,Europe,Jewellery designer,21/08/2023
+Ford,2024,LightSteelBlue,SUV,petrol,manual,diesel,4,165244.75,inactive,12192,12197,Tiffany Robertson,70,Male,France,Europe,Control and instrumentation engineer,24/08/2024
+Hyundai,2014,Chocolate,Truck,hybrid,automatic,gasoline,4,124604.8,active,13926,13254,Sharon Martinez DVM,64,Male,Germany,Europe,Dancer,20/11/2023
+Mercedes-Benz,2015,LightBlue,Hatchback,electric,manual,gasoline,8,157489.97,active,15136,25826,Megan Burns,35,Female,Uganda,Africa,Patent examiner,03/05/2024
+Kia,2008,RoyalBlue,Hatchback,electric,automatic,electric,8,124499.62,inactive,11562,21841,Robert Mack,50,Female,United Kingdom,Europe,"Scientist, biomedical",07/07/2023
+Honda,2023,NavajoWhite,Hatchback,hybrid,manual,hybrid,8,161169,inactive,12477,19669,John Perkins,65,Male,Zambia,Africa,Proofreader,11/03/2024
+Honda,2015,Coral,Van,diesel,manual,electric,2,162646.99,inactive,10344,26111,Jennifer Donaldson,40,Male,France,Europe,"Research officer, trade union",07/06/2023
+Volkswagen,2004,MediumBlue,Truck,diesel,manual,electric,2,17344.01,active,17974,27653,Gail Lane,38,Female,Japan,Asia,Lobbyist,23/07/2021
+Volkswagen,2010,Brown,Sedan,diesel,manual,gasoline,3,36863.85,active,8975,26126,Richard Stevens,33,Male,Rwanda,Africa,"Designer, industrial/product",25/11/2024
+Audi,2014,SaddleBrown,Sedan,petrol,manual,gasoline,9,252996.55,inactive,19426,26042,Tyler Harris,29,Male,Uganda,Africa,Immigration officer,01/07/2022
+Mercedes-Benz,2003,LightSalmon,Truck,petrol,manual,hybrid,4,157533.74,active,9879,11955,Isaac Miller,70,Male,India,Asia,Associate Professor,08/07/2024
+Toyota,2009,Linen,Sedan,petrol,automatic,gasoline,9,85228.49,inactive,11669,19707,Nicole Patterson,77,Male,India,Asia,Chief of Staff,26/02/2021
+Honda,2011,HotPink,Sedan,petrol,manual,hybrid,10,218781.58,inactive,17610,18852,Casey Perez,58,Female,Germany,Europe,Acupuncturist,20/03/2021
+BMW,2002,MediumSpringGreen,Coupe,electric,manual,electric,4,195920.31,active,8210,11539,Virginia Henderson,73,Male,United States,North America,Purchasing manager,01/10/2021
+Honda,2007,Khaki,Sedan,diesel,automatic,gasoline,2,50353.09,active,12757,18575,Nicholas Garcia,28,Female,France,Europe,Mental health nurse,10/09/2023
+Mercedes-Benz,2021,DarkSlateGray,Coupe,electric,automatic,gasoline,8,196392.01,active,17665,29113,Robert Baxter,32,Male,Burundi,Africa,Broadcast presenter,29/08/2025
+Kia,2018,Aqua,Hatchback,petrol,manual,diesel,10,155021.39,active,10326,25578,Carly Bell,31,Male,Australia,Oceania,"Designer, blown glass/stained glass",25/08/2024
+Volkswagen,2015,Red,Hatchback,electric,automatic,gasoline,7,74269.26,inactive,18713,20539,Angelica Garcia,48,Male,Brazil,South America,Theme park manager,31/05/2024
+Mercedes-Benz,2008,MediumVioletRed,Hatchback,petrol,automatic,gasoline,9,94963.06,active,12169,25747,Emily Taylor,41,Female,Rwanda,Africa,Chartered accountant,05/04/2023
+Toyota,2018,LightSkyBlue,Van,petrol,manual,diesel,2,56944.35,active,13252,19744,Melissa Abbott,51,Female,Australia,Oceania,"Engineer, land",20/07/2025
+Audi,2017,Teal,SUV,diesel,automatic,electric,6,278244.23,inactive,9185,26475,James Lucas,48,Male,Zambia,Africa,"Research officer, trade union",05/06/2024
+Volkswagen,2017,DarkOliveGreen,Truck,petrol,manual,electric,3,190265.03,inactive,15721,19282,Mark Jones,54,Male,Burundi,Africa,Media planner,03/11/2023
+Audi,2002,DarkSeaGreen,SUV,hybrid,manual,gasoline,7,240444.56,inactive,18600,10866,Ryan Fisher,79,Male,United Kingdom,Europe,Public affairs consultant,07/10/2021
+Hyundai,2001,Azure,Truck,electric,automatic,gasoline,10,109321,inactive,10406,28174,Alexis Lewis,38,Male,Germany,Europe,Occupational therapist,15/06/2025
+Ford,2022,LightSlateGray,Hatchback,hybrid,manual,electric,10,966.96,inactive,10381,15890,Kathryn Perry,66,Female,India,Asia,Charity fundraiser,17/09/2025
+Ford,2018,WhiteSmoke,SUV,petrol,automatic,diesel,5,81871.53,inactive,8448,10523,Diamond Collins,80,Male,Rwanda,Africa,"Designer, furniture",16/09/2025
+Nissan,2018,MediumOrchid,Coupe,hybrid,automatic,hybrid,2,31519.36,inactive,13327,21341,Mark Davenport,40,Male,Zambia,Africa,Insurance claims handler,13/11/2024
+Kia,2011,LawnGreen,Coupe,hybrid,automatic,electric,8,195128.05,inactive,15458,15324,Brandon Hamilton,54,Female,Australia,Oceania,Veterinary surgeon,12/08/2021
+BMW,2025,Magenta,Van,diesel,automatic,gasoline,10,19274.67,active,8711,24039,Mary Thompson,44,Male,France,Europe,"Copywriter, advertising",30/03/2021
+Toyota,2007,DodgerBlue,SUV,electric,automatic,diesel,7,273045.54,inactive,17514,21551,Gregory Holmes PhD,50,Female,Japan,Asia,Dietitian,23/04/2024
+Toyota,2013,DarkSalmon,Van,petrol,automatic,hybrid,7,129890.45,inactive,12294,26702,Shelley Quinn,27,Male,Zambia,Africa,Air traffic controller,30/12/2023
+Kia,2025,Pink,Truck,hybrid,manual,electric,10,296011.06,active,8796,19560,Austin Joseph,39,Male,France,Europe,Research scientist (maths),07/01/2025
+Honda,2004,Teal,SUV,diesel,automatic,electric,2,177194.02,inactive,15230,17310,Jonathan Bradley,68,Female,Australia,Oceania,"Designer, industrial/product",26/04/2023
+Ford,2018,DarkKhaki,Coupe,electric,manual,hybrid,8,175644.98,inactive,11210,22905,Megan Wilson,50,Male,Germany,Europe,Armed forces operational officer,02/04/2021
+Volkswagen,2018,LemonChiffon,Van,diesel,automatic,hybrid,4,9350.69,inactive,13345,21817,Jack Mora,37,Male,Zambia,Africa,Animal technologist,06/11/2025
+Audi,2012,PeachPuff,Hatchback,electric,manual,electric,4,65637.47,active,13276,19995,David Moon,55,Female,United States,North America,Geoscientist,22/10/2021
+Mercedes-Benz,2020,Navy,Van,hybrid,manual,diesel,10,245252.75,active,18785,18937,Michael Williams,22,Male,Brazil,South America,"Scientist, clinical (histocompatibility and immunogenetics)",15/07/2021
+Mercedes-Benz,2000,PaleGoldenRod,Hatchback,electric,manual,electric,4,73124.8,inactive,13238,25136,John Campbell,42,Female,India,Asia,Land,18/11/2021
+BMW,2003,SaddleBrown,SUV,hybrid,automatic,gasoline,2,107976.48,active,14069,26235,Curtis Elliott,29,Female,France,Europe,Writer,18/03/2023
+Hyundai,2013,SandyBrown,Van,hybrid,automatic,electric,8,239432.9,active,13772,25470,Wesley Cuevas,44,Male,Germany,Europe,Sports coach,26/03/2023
+Ford,2005,DeepPink,Sedan,diesel,manual,hybrid,7,241693.01,inactive,10766,15072,Jason Hall,56,Female,India,Asia,Acupuncturist,30/12/2023
+Mercedes-Benz,2012,AliceBlue,Truck,diesel,manual,diesel,4,126201.63,inactive,18230,10193,Jamie Rojas,55,Female,Burundi,Africa,Civil Service administrator,22/11/2022
+Nissan,2002,Wheat,SUV,hybrid,manual,gasoline,4,189345.23,active,11814,14205,Mrs. Tonya Kaufman,71,Male,India,Asia,Health service manager,09/12/2021
+Ford,2008,Brown,Sedan,petrol,automatic,hybrid,8,255571.75,inactive,17831,19145,Stephanie Meyer,28,Female,Australia,Oceania,Proofreader,13/11/2021
+Mercedes-Benz,2024,DarkGray,SUV,diesel,manual,hybrid,5,80974.48,active,11270,10742,Mandy Foster,64,Male,United States,North America,"Presenter, broadcasting",05/04/2022
+Toyota,2010,LavenderBlush,Sedan,electric,automatic,gasoline,8,210571.11,inactive,14441,19685,Samuel Howe,69,Female,Zambia,Africa,"Journalist, newspaper",08/11/2023
+Hyundai,2012,RoyalBlue,SUV,electric,manual,gasoline,4,618.32,active,9506,19057,Benjamin Harris,42,Male,United States,North America,"Designer, furniture",17/01/2022
+Volkswagen,2005,FireBrick,SUV,petrol,manual,diesel,4,102134.6,active,17449,23295,Erik Martinez,31,Female,Australia,Oceania,"Engineer, maintenance (IT)",28/12/2024
+Audi,2018,Linen,Van,hybrid,automatic,gasoline,9,122969.08,inactive,14898,22521,Samuel Davis,34,Female,Zambia,Africa,Toxicologist,28/06/2021
+Nissan,2021,IndianRed,Hatchback,petrol,automatic,diesel,2,160751.76,active,19404,26220,Erin Davis,39,Male,Burundi,Africa,Market researcher,08/07/2024
+BMW,2021,Thistle,Hatchback,hybrid,manual,diesel,7,171408.03,inactive,8133,12058,Edwin Wilkins,80,Male,Japan,Asia,Airline pilot,02/08/2024
+Audi,2002,RoyalBlue,Hatchback,hybrid,automatic,diesel,9,125752.52,active,17883,17414,Krista Davis,68,Male,China,Asia,Counselling psychologist,07/03/2022
+Volkswagen,2002,Aquamarine,Truck,petrol,automatic,gasoline,5,131373.77,inactive,17119,11985,Richard Walker,54,Male,Zambia,Africa,Oncologist,24/04/2024
+Volkswagen,2014,DarkBlue,Van,hybrid,manual,gasoline,5,120260.77,active,14206,15972,Deanna Hess,78,Male,Japan,Asia,Bookseller,30/10/2022
+Toyota,2000,Red,SUV,petrol,manual,electric,6,169228.87,inactive,12239,25178,Anna Boone,26,Female,Uganda,Africa,Community education officer,05/07/2021
+Volkswagen,2017,SandyBrown,SUV,hybrid,manual,electric,8,57678.15,inactive,13146,16012,Thomas Hamilton,61,Female,Burundi,Africa,Research scientist (maths),25/05/2021
+Honda,2012,Olive,SUV,electric,manual,electric,9,160680.93,inactive,11673,19754,Carrie Lewis,25,Male,Germany,Europe,Haematologist,12/07/2023
+BMW,2024,RosyBrown,Van,diesel,manual,diesel,9,273386.12,inactive,12367,19888,Amanda Harvey,69,Male,Australia,Oceania,Hotel manager,23/05/2025
+Nissan,2007,PaleVioletRed,Van,petrol,manual,hybrid,9,139170.87,active,19928,29226,Karen Miller,27,Female,Uganda,Africa,"Copywriter, advertising",17/09/2024
+Audi,2005,Green,Van,diesel,automatic,electric,4,31297.98,inactive,8781,18035,Rebecca Wright,58,Male,China,Asia,Museum/gallery exhibitions officer,14/03/2024
+Kia,2002,Silver,Coupe,diesel,automatic,gasoline,10,207763.07,inactive,19991,19853,Kari Durham,34,Female,Brazil,South America,Network engineer,13/06/2023
+Honda,2025,Gainsboro,Coupe,hybrid,automatic,gasoline,7,83308.34,inactive,13816,29285,Kyle Johnson,23,Female,Germany,Europe,Barrister,27/02/2025
+Ford,2000,Wheat,SUV,diesel,manual,hybrid,6,139229.01,inactive,15034,15807,Kevin Hall,74,Male,United States,North America,Chiropodist,04/04/2023
+Audi,2004,LawnGreen,Coupe,diesel,manual,hybrid,4,59788.23,inactive,8032,19386,Robert Stark,25,Male,United States,North America,English as a foreign language teacher,16/01/2026
+BMW,2006,Orange,Coupe,diesel,automatic,electric,3,41962.28,inactive,12369,28349,Ryan Bruce,38,Male,Japan,Asia,Fast food restaurant manager,08/11/2023
+Toyota,2014,MintCream,Truck,diesel,manual,hybrid,10,298499.11,inactive,16834,15729,Alyssa Haynes,67,Male,China,Asia,"Surveyor, quantity",30/09/2022
+Audi,2005,Snow,Van,hybrid,automatic,diesel,10,236156.57,inactive,17685,19647,Casey Johnson,67,Male,Uganda,Africa,"Exhibitions officer, museum/gallery",03/01/2023
+Audi,2024,Beige,Van,electric,automatic,electric,8,183058.7,active,16945,13458,April Hardin,60,Male,Zambia,Africa,"Conservator, furniture",17/01/2024
+Nissan,2011,Fuchsia,Truck,hybrid,manual,diesel,3,163803.75,active,8377,19606,Sarah Morris,29,Male,India,Asia,Data scientist,19/02/2026
+Ford,2015,DarkTurquoise,Van,electric,automatic,diesel,7,57571.67,inactive,19581,18754,Sarah Valencia,72,Male,Burundi,Africa,Midwife,06/07/2024
+BMW,2008,DarkGreen,Truck,electric,automatic,electric,8,126158.59,inactive,11493,27061,Frank Daugherty,38,Female,Zambia,Africa,"Radiographer, therapeutic",05/11/2023
+Nissan,2024,ForestGreen,Sedan,hybrid,automatic,gasoline,4,189489.52,inactive,13016,18969,Kristina Preston,67,Female,Brazil,South America,Environmental health practitioner,21/08/2022
+Kia,2021,OldLace,Coupe,diesel,manual,gasoline,8,103139.01,active,10908,21462,Michael Anderson,40,Male,Burundi,Africa,"Teacher, primary school",23/06/2024
+Ford,2015,BlanchedAlmond,Coupe,hybrid,manual,gasoline,6,98704.36,active,14872,20069,Evan Lamb,27,Male,Rwanda,Africa,Systems developer,12/01/2022
+Audi,2004,SpringGreen,Hatchback,diesel,automatic,gasoline,8,264833.25,inactive,13404,15706,Patrick Young,69,Female,Canada,North America,Diplomatic Services operational officer,25/11/2021
+Kia,2022,MediumSeaGreen,Hatchback,diesel,manual,hybrid,8,227971.41,inactive,8025,28928,Derek Wright,41,Male,Japan,Asia,Maintenance engineer,01/05/2023
+Mercedes-Benz,2000,DarkMagenta,Van,electric,automatic,diesel,6,182997.73,active,17455,21478,Amber Kim,40,Female,Uganda,Africa,Dietitian,01/09/2024
+Hyundai,2007,Snow,SUV,diesel,automatic,electric,3,236913.08,inactive,16573,26490,Heather Bennett,45,Female,United Kingdom,Europe,Technical brewer,24/01/2023
+Mercedes-Benz,2009,DodgerBlue,Van,hybrid,automatic,hybrid,3,30999.32,inactive,10369,10222,Robert Johnson,66,Male,Zambia,Africa,"Investment banker, operational",15/05/2023
+Hyundai,2017,DarkKhaki,SUV,diesel,manual,gasoline,10,113055.65,active,16516,28354,Christopher Bennett,47,Male,Uganda,Africa,Sports development officer,09/12/2021
+Toyota,2017,MediumSlateBlue,SUV,hybrid,manual,electric,6,9656.73,inactive,9189,13713,Lisa Webb,80,Male,United Kingdom,Europe,Plant breeder/geneticist,20/07/2022
+Audi,2013,PowderBlue,Coupe,petrol,manual,diesel,4,138693.24,inactive,14598,10969,Brian Harris,72,Male,Germany,Europe,Outdoor activities/education manager,10/11/2025
+Honda,2018,Yellow,Van,petrol,automatic,electric,2,124107.41,inactive,13642,18736,Douglas Young,73,Male,Uganda,Africa,"Nurse, learning disability",04/01/2026
+Kia,2006,SlateGray,Coupe,hybrid,automatic,gasoline,8,54123.26,inactive,11984,24780,Isaac Patterson,43,Female,Burundi,Africa,Tourism officer,26/03/2025
+Audi,2008,Green,Hatchback,hybrid,manual,gasoline,6,67135.41,active,18117,27826,Daniel Little,43,Male,China,Asia,Public librarian,16/02/2022
+Nissan,2000,Linen,Van,diesel,automatic,gasoline,5,105820.66,inactive,13111,19592,Kaitlin Jacobson,57,Female,India,Asia,"Chemist, analytical",10/10/2025
+Toyota,2025,Orange,Truck,petrol,manual,diesel,7,138882.63,inactive,11339,21534,Stephen Wood,42,Female,India,Asia,Armed forces operational officer,22/05/2023
+Kia,2019,Purple,Truck,hybrid,automatic,diesel,9,229581.74,inactive,13059,14628,Darrell Adams,80,Male,United Kingdom,Europe,Dentist,20/12/2021
+Volkswagen,2015,DarkBlue,SUV,electric,automatic,electric,5,244927.41,inactive,12238,18942,Rhonda Gutierrez,64,Male,Canada,North America,Surgeon,31/08/2021
+Nissan,2017,Orange,SUV,diesel,automatic,hybrid,9,177340.75,inactive,10493,17062,Jennifer Nichols,65,Female,Japan,Asia,"Teacher, primary school",25/02/2023
+Hyundai,2002,Sienna,Coupe,electric,automatic,diesel,5,257514.88,inactive,19221,26165,James Nash,30,Male,Australia,Oceania,Retail buyer,02/01/2026
+Kia,2002,Tomato,Truck,diesel,manual,diesel,2,66384.27,active,8090,18859,Megan Oliver,32,Male,United Kingdom,Europe,"Production assistant, radio",14/08/2022
+Kia,2024,FireBrick,Hatchback,petrol,manual,electric,9,47157.74,active,11333,26251,Rhonda Martinez,32,Female,Japan,Asia,Careers information officer,06/11/2024
+Nissan,2025,Green,Sedan,hybrid,manual,gasoline,9,8177.61,inactive,18533,12357,Lori Flowers MD,79,Male,Rwanda,Africa,Chartered loss adjuster,12/06/2024
+Ford,2006,Orchid,Truck,hybrid,manual,diesel,6,41183.88,inactive,19980,21165,Shannon Stone,29,Male,United Kingdom,Europe,Youth worker,22/02/2026
+Nissan,2025,Turquoise,SUV,electric,automatic,hybrid,6,185989.6,inactive,14961,10179,Ashley Hernandez,72,Male,Australia,Oceania,Claims inspector/assessor,07/12/2025
+BMW,2022,DarkGreen,SUV,hybrid,automatic,hybrid,10,211700.37,active,11698,10147,Sharon Beard,62,Female,Zambia,Africa,"Geneticist, molecular",28/05/2024
+Nissan,2011,SlateBlue,Hatchback,electric,manual,gasoline,5,55038.94,inactive,10548,28993,Kara Jackson,22,Female,Canada,North America,Cytogeneticist,25/07/2024
+Audi,2000,Blue,Van,diesel,automatic,hybrid,4,164002.37,inactive,9722,26344,Shawn Vaughn,28,Male,Burundi,Africa,Public relations officer,07/06/2023
+Volkswagen,2021,Navy,Coupe,hybrid,manual,gasoline,8,174229.74,active,10525,11601,Robert Turner,75,Female,France,Europe,Regulatory affairs officer,25/12/2021
+Kia,2018,Khaki,Sedan,diesel,manual,diesel,5,151580.52,inactive,19936,18604,William Ramos,38,Female,Zambia,Africa,Geophysical data processor,09/09/2024
+Ford,2011,DarkCyan,Sedan,diesel,automatic,gasoline,8,202331.02,inactive,11054,18784,Daniel Holloway,46,Female,China,Asia,"Scientist, clinical (histocompatibility and immunogenetics)",29/04/2024
+Ford,2018,Chartreuse,Van,petrol,manual,gasoline,5,268235.03,active,19360,19078,Caitlin Collins,26,Female,Uganda,Africa,Control and instrumentation engineer,09/08/2025
+Hyundai,2001,Black,Truck,hybrid,manual,electric,8,17996.5,active,9270,13298,Shaun Gonzalez,76,Male,Zambia,Africa,Fisheries officer,05/06/2021
+BMW,2015,SaddleBrown,Hatchback,diesel,manual,gasoline,2,252832.54,inactive,9870,18134,Isaac Gonzalez,77,Female,Australia,Oceania,"Psychologist, forensic",11/06/2025
+BMW,2025,Orchid,Truck,diesel,manual,gasoline,9,261423.87,active,12880,25392,Becky Johnson,46,Female,Uganda,Africa,Records manager,09/12/2024
+Mercedes-Benz,2010,Fuchsia,Sedan,hybrid,manual,gasoline,9,123579.2,active,11863,11431,Karen Arnold,78,Female,China,Asia,"Development worker, community",07/05/2023
+Ford,2017,DarkGoldenRod,SUV,petrol,manual,electric,6,167158.84,active,13349,19115,James Martin,68,Male,United States,North America,Environmental consultant,23/01/2023
+Volkswagen,2010,GreenYellow,Coupe,diesel,automatic,diesel,8,51614.6,inactive,13012,22972,Jason Smith,43,Male,United States,North America,Public relations account executive,10/04/2022
+Audi,2021,ForestGreen,Truck,petrol,automatic,hybrid,4,98506.21,inactive,11497,13025,Alejandra King,77,Female,Burundi,Africa,Haematologist,01/10/2024
+Audi,2023,OldLace,Van,diesel,automatic,gasoline,7,203203.31,active,12108,17926,Judy Robinson,74,Female,United Kingdom,Europe,"Scientist, research (life sciences)",10/07/2024
+Volkswagen,2022,DarkKhaki,Truck,diesel,manual,gasoline,7,235450.01,inactive,9903,15395,Zachary Levy,58,Female,Zambia,Africa,"Surveyor, mining",21/07/2023
+Honda,2007,Lime,Coupe,electric,manual,hybrid,6,68675.86,inactive,18965,18120,Karen Rogers,59,Female,United Kingdom,Europe,"Journalist, broadcasting",03/07/2023
+Honda,2009,LightGoldenRodYellow,Van,electric,manual,diesel,7,298930.97,inactive,18743,24354,Tiffany Curtis,38,Male,India,Asia,Dealer,19/07/2025
+Kia,2007,LawnGreen,Truck,diesel,manual,diesel,3,63336.99,inactive,12644,23262,Renee Lang,38,Female,Uganda,Africa,IT consultant,03/05/2022
+Honda,2018,Bisque,Truck,diesel,manual,hybrid,4,106274.99,active,16882,23459,Yolanda Green,24,Female,France,Europe,Ophthalmologist,13/06/2024
+Volkswagen,2004,Blue,Truck,diesel,manual,electric,3,132257.09,active,18830,16202,Wendy Cabrera,67,Female,Germany,Europe,Environmental education officer,11/09/2025
+Toyota,2013,Sienna,SUV,diesel,automatic,electric,8,40197.92,inactive,12982,18139,Megan Romero,70,Male,Uganda,Africa,"Surveyor, insurance",08/09/2022
+Nissan,2006,LightYellow,Van,hybrid,manual,electric,7,150688.51,active,16528,18847,Carl Green,70,Male,India,Asia,Legal executive,27/11/2021
+Hyundai,2001,Indigo,Truck,petrol,manual,gasoline,7,98158.77,active,17994,14070,Patrick Parker,58,Female,Rwanda,Africa,Meteorologist,13/05/2023
+Ford,2013,LightYellow,Truck,diesel,automatic,gasoline,9,92015.08,active,9078,14797,Bruce Brown,79,Male,China,Asia,Public house manager,20/10/2022
+Toyota,2018,SteelBlue,Truck,diesel,manual,hybrid,10,57063.93,active,15715,20997,Michael Moreno,49,Female,Brazil,South America,Audiological scientist,06/06/2022
+Hyundai,2000,DarkSlateGray,Truck,hybrid,automatic,hybrid,5,226908.68,active,18455,19062,Grace Benitez DVM,33,Female,China,Asia,Customer service manager,02/11/2023
+Volkswagen,2024,Gainsboro,SUV,diesel,manual,hybrid,9,194198.3,active,8184,18089,Katherine Welch,41,Male,France,Europe,Intelligence analyst,22/08/2021
+Hyundai,2021,AntiqueWhite,Van,petrol,automatic,hybrid,5,20903.09,active,14963,12440,Daniel Ayala,65,Male,Zambia,Africa,Recruitment consultant,23/11/2021
+Nissan,2020,DarkSeaGreen,Coupe,electric,automatic,gasoline,5,97635.13,inactive,8210,23448,Madeline Powell,30,Female,Uganda,Africa,Music therapist,09/03/2021
+Kia,2019,Blue,Sedan,electric,manual,hybrid,10,189997.39,active,11210,12286,Monica Dodson,73,Female,India,Asia,Set designer,08/10/2022
+BMW,2010,Azure,SUV,electric,automatic,diesel,6,207286.82,active,12777,13408,Lori Wright,56,Female,Germany,Europe,Insurance underwriter,30/03/2022
+Nissan,2018,DarkKhaki,Van,hybrid,manual,hybrid,8,218617.16,inactive,11393,20409,Kevin Jackson,33,Male,France,Europe,Hydrogeologist,15/08/2023
+BMW,2011,SaddleBrown,Van,electric,manual,hybrid,3,145837.19,inactive,13625,10289,Linda Morgan,62,Male,Japan,Asia,"Lighting technician, broadcasting/film/video",25/04/2025
+Toyota,2017,MintCream,SUV,hybrid,automatic,gasoline,3,80614.89,active,17671,19458,Carmen Meadows,23,Female,Germany,Europe,Advertising account executive,02/02/2023
+Ford,2006,Ivory,SUV,hybrid,manual,diesel,4,200529.69,active,16465,18778,Bonnie Gross,78,Male,France,Europe,Community pharmacist,06/04/2024
+Kia,2001,Blue,Sedan,petrol,manual,electric,3,169862.14,active,14863,17369,Martin Wise,69,Male,United States,North America,"Therapist, music",22/07/2021
+Toyota,2015,DarkMagenta,Van,petrol,manual,gasoline,6,89725.31,inactive,10963,22738,Alicia Norris,42,Female,United Kingdom,Europe,"Producer, radio",19/05/2024
+Kia,2003,DarkRed,Coupe,hybrid,manual,gasoline,10,38495.99,active,14265,21175,Kara Hernandez,42,Male,Brazil,South America,Illustrator,22/09/2024
+Mercedes-Benz,2018,DarkGreen,Truck,petrol,manual,gasoline,9,163948.19,active,9293,23727,Debra Obrien,43,Male,Rwanda,Africa,Personal assistant,14/01/2022
+BMW,2024,Teal,Hatchback,electric,automatic,electric,7,41711.61,inactive,18670,11265,Autumn Wilson,58,Male,Canada,North America,Research scientist (medical),02/11/2022
+Hyundai,2016,Green,Sedan,petrol,manual,diesel,10,83311.03,active,11934,14906,Sandra Dudley,57,Female,Brazil,South America,Outdoor activities/education manager,29/08/2023
+Audi,2001,DodgerBlue,Sedan,petrol,manual,gasoline,4,212974.08,inactive,11654,29110,Jon Clark,27,Female,Zambia,Africa,Lawyer,21/02/2023
+Ford,2003,AliceBlue,Hatchback,diesel,manual,electric,4,195716.85,inactive,11718,15337,Brandon Rodriguez,63,Female,Australia,Oceania,Database administrator,29/11/2021
+Nissan,2000,Teal,Truck,electric,manual,electric,7,35166.93,active,18462,29019,Nathaniel Conway,19,Male,Japan,Asia,"Programmer, multimedia",31/08/2023
+BMW,2023,LightGray,Van,diesel,manual,hybrid,3,62283.72,inactive,11400,19254,Brett Thompson,50,Male,Germany,Europe,Horticultural therapist,18/03/2024
+Nissan,2006,Maroon,Coupe,hybrid,manual,gasoline,2,232061.85,inactive,11773,15679,Brian York,78,Male,Zambia,Africa,Acupuncturist,28/04/2022
+Honda,2009,FloralWhite,Truck,petrol,automatic,gasoline,3,146272.6,inactive,10813,20598,Steven Friedman,27,Female,Brazil,South America,Chief Financial Officer,25/04/2024
+Ford,2019,MediumSpringGreen,SUV,hybrid,automatic,electric,8,115823.4,active,8452,15547,James Rivers,70,Female,United States,North America,Musician,19/03/2025
+Ford,2002,PeachPuff,Truck,electric,manual,hybrid,2,297585.47,active,8439,18401,Rebecca Wilson,22,Male,Burundi,Africa,"Designer, jewellery",11/01/2022
+Volkswagen,2007,PapayaWhip,Sedan,diesel,automatic,electric,6,125299.73,active,13431,11741,Karen Carroll,80,Female,Rwanda,Africa,"Education officer, community",17/05/2024
+Hyundai,2019,MintCream,Coupe,diesel,automatic,hybrid,5,196717.16,active,10959,19346,Shari Hobbs,41,Male,China,Asia,Radiation protection practitioner,19/04/2025
+Nissan,2021,DarkOliveGreen,Hatchback,petrol,automatic,diesel,6,265836.88,active,12309,18453,Jessica Brown,43,Female,France,Europe,"Administrator, charities/voluntary organisations",11/08/2025
+Audi,2003,Ivory,Truck,hybrid,manual,electric,7,232112.12,inactive,8470,16189,Mckenzie Morgan,75,Male,France,Europe,Police officer,06/04/2023
+Ford,2006,SkyBlue,Van,petrol,automatic,gasoline,7,121945.95,inactive,17861,14628,Michael Cruz,70,Male,Rwanda,Africa,"Administrator, arts",25/06/2022
+BMW,2001,Tan,Coupe,hybrid,automatic,hybrid,3,16220.31,inactive,8739,18538,Sarah Booth,74,Male,United States,North America,Regulatory affairs officer,16/11/2023
+BMW,2001,LawnGreen,Van,electric,manual,gasoline,6,32468.19,inactive,14259,11368,Donald Hunter,75,Female,United Kingdom,Europe,Operational researcher,23/02/2023
+Ford,2001,Cyan,Sedan,diesel,manual,electric,8,65722.89,active,16011,18655,Robert West,65,Female,Germany,Europe,Product manager,01/11/2023
+Hyundai,2008,DarkOrchid,Coupe,petrol,automatic,diesel,3,48725.29,active,10064,27196,Dr. Alicia Powell,46,Male,Canada,North America,"Surveyor, hydrographic",25/10/2025
+Audi,2011,AliceBlue,Sedan,hybrid,manual,electric,8,96091.71,active,11183,22939,Rebecca Richmond,31,Female,Brazil,South America,Rural practice surveyor,06/12/2025
+BMW,2023,GreenYellow,Van,petrol,automatic,electric,5,93510.3,active,18722,11971,Joy Peterson,65,Male,France,Europe,Environmental health practitioner,04/01/2025
+Ford,2002,MediumPurple,Sedan,diesel,manual,hybrid,7,174074.57,active,9280,13519,Lisa Kennedy,71,Female,Germany,Europe,Production manager,12/02/2022
+Ford,2014,DarkGray,Hatchback,petrol,manual,gasoline,10,180529.41,inactive,14605,12551,Courtney Peterson,62,Female,Uganda,Africa,Sports development officer,02/08/2025
+Hyundai,2013,Navy,Sedan,diesel,automatic,hybrid,2,38207.93,inactive,12121,11329,Amber Martin,76,Male,India,Asia,Outdoor activities/education manager,21/01/2022
+Kia,2009,LightCyan,Coupe,electric,automatic,diesel,10,46511.81,inactive,18553,10115,Chelsea Conrad,73,Female,Zambia,Africa,"Engineer, structural",12/01/2025
+Audi,2014,Gold,Sedan,petrol,automatic,gasoline,10,145790.2,active,11333,19977,Ashley Perry,69,Male,France,Europe,"Production designer, theatre/television/film",14/01/2025
+Toyota,2009,Tan,Coupe,electric,manual,hybrid,9,95190.18,inactive,14378,21971,Jonathan Moreno,27,Male,India,Asia,Surgeon,29/10/2024
+Toyota,2008,SkyBlue,Coupe,hybrid,manual,diesel,6,28200.13,active,11586,23255,Priscilla Kent,49,Male,Uganda,Africa,"Conservation officer, historic buildings",10/01/2022
+Nissan,2004,Orange,Sedan,petrol,automatic,diesel,2,134214.75,active,16725,14256,Lisa Morris,57,Female,India,Asia,Personal assistant,05/04/2023
+Mercedes-Benz,2005,LightSalmon,Truck,diesel,manual,diesel,8,251275.85,inactive,19629,13234,Grant Phillips,66,Male,Uganda,Africa,Corporate investment banker,28/08/2024
+Audi,2005,Thistle,SUV,diesel,automatic,diesel,9,19551.45,active,17950,23529,Michael Valencia,47,Male,Australia,Oceania,"Engineer, control and instrumentation",06/12/2022
+BMW,2010,LightSteelBlue,Truck,petrol,automatic,electric,9,256574.04,inactive,13943,23412,Tammy Anderson,41,Male,Canada,North America,Retail manager,05/10/2025
+Honda,2006,MediumBlue,Coupe,diesel,manual,diesel,7,118798.82,inactive,13296,26853,Paige Hart,37,Female,China,Asia,"Social research officer, government",31/07/2023
+Kia,2018,Peru,SUV,petrol,manual,electric,4,240803.73,active,19641,13887,Kelly Johnson,60,Male,Rwanda,Africa,Astronomer,17/08/2021
+Mercedes-Benz,2020,Green,Hatchback,electric,automatic,electric,4,285899.19,active,8719,25969,Richard Terrell,30,Female,India,Asia,Dancer,03/09/2021
+Hyundai,2016,LightYellow,Truck,electric,manual,electric,10,212513.93,inactive,19936,24623,Joshua Howard,33,Female,Canada,North America,"Civil engineer, consulting",04/12/2025
+Kia,2010,Ivory,Van,hybrid,manual,hybrid,2,135110.19,inactive,12319,26645,Kristina Young,39,Female,Japan,Asia,Art gallery manager,23/05/2024
+Audi,2014,Orange,Hatchback,electric,manual,gasoline,9,62718.99,active,14558,28006,Richard Jennings,49,Male,Uganda,Africa,"Administrator, Civil Service",14/04/2023
+Kia,2000,Green,Coupe,diesel,manual,electric,10,193846.69,active,12905,23388,Priscilla Berg,50,Male,India,Asia,Mental health nurse,18/10/2025
+Audi,2012,Gray,Coupe,diesel,automatic,electric,9,18119.72,active,13397,18056,Tracey Phillips,27,Male,Australia,Oceania,Cabin crew,26/09/2022
+Honda,2022,ForestGreen,Van,diesel,automatic,gasoline,2,73732.21,active,11187,23114,Barbara Williams,39,Female,United Kingdom,Europe,"Surveyor, commercial/residential",24/05/2023
+Honda,2024,DarkSeaGreen,Coupe,diesel,automatic,hybrid,2,126426.39,active,9458,18934,Ryan Smith,49,Female,Australia,Oceania,"Designer, fashion/clothing",27/06/2021
+Volkswagen,2005,DeepSkyBlue,Van,electric,manual,diesel,10,52229.49,active,11304,12292,Linda Ayala,64,Female,Zambia,Africa,Recycling officer,07/01/2026
+Kia,2009,MintCream,Coupe,electric,automatic,electric,3,283468.42,inactive,12567,22898,Michael Fox,30,Male,India,Asia,"Scientist, research (life sciences)",22/09/2021
+Volkswagen,2020,Tan,Truck,petrol,automatic,hybrid,3,135218.56,active,12489,22440,Joshua Powell,21,Female,United States,North America,Environmental consultant,17/12/2022
+Mercedes-Benz,2005,MediumPurple,Truck,diesel,automatic,gasoline,3,64377.22,active,16975,19953,Edward Clements,58,Female,Canada,North America,"Surveyor, mining",22/03/2021
+Mercedes-Benz,2001,DarkOrange,Truck,hybrid,automatic,electric,4,285282.78,inactive,14093,14715,Jill Conway,59,Male,Rwanda,Africa,Archaeologist,17/11/2023
+Volkswagen,2015,Olive,Van,hybrid,manual,electric,8,10607.06,active,15384,21841,Theresa Cruz,23,Female,Germany,Europe,Agricultural consultant,17/07/2025
+Kia,2003,Navy,Hatchback,hybrid,manual,hybrid,9,104853.74,active,14870,28105,Katie Tucker,43,Female,France,Europe,"Engineer, automotive",15/11/2023
+Audi,2020,Thistle,SUV,petrol,manual,diesel,8,277282.98,inactive,14932,17916,Brendan Bonilla,64,Male,Burundi,Africa,Brewing technologist,09/12/2022
+Nissan,2021,HotPink,Sedan,diesel,automatic,diesel,3,285198.16,active,16797,16578,Jessica Garcia,58,Female,Germany,Europe,Building surveyor,15/06/2022
+Volkswagen,2018,Bisque,Truck,electric,automatic,diesel,5,98899.51,active,15973,20344,Gary Miller,26,Male,China,Asia,"Editor, magazine features",16/04/2023
+Mercedes-Benz,2009,Cornsilk,Truck,electric,manual,electric,5,38115.36,active,10767,15094,Crystal Green,80,Female,United States,North America,"Production designer, theatre/television/film",02/08/2024
+Mercedes-Benz,2013,Plum,Sedan,petrol,automatic,diesel,5,286547.5,active,14671,27101,James Wilson,42,Male,France,Europe,Water engineer,07/09/2021
+Mercedes-Benz,2024,Brown,Coupe,petrol,automatic,hybrid,8,252279.33,active,8238,16851,Angel Reilly,71,Male,Burundi,Africa,Horticultural consultant,17/09/2023
+Kia,2008,DarkCyan,Sedan,electric,manual,diesel,7,28008.73,inactive,12994,29901,Timothy James,19,Male,Brazil,South America,Public relations account executive,23/06/2022
+Volkswagen,2005,White,Van,hybrid,manual,hybrid,7,249141.39,inactive,10104,10122,Paul Robles,59,Female,Rwanda,Africa,Cytogeneticist,07/09/2023
+Audi,2024,Navy,Coupe,hybrid,manual,hybrid,5,208323.19,active,8575,18218,Alexandra Baxter,49,Male,Zambia,Africa,Community pharmacist,02/07/2021
+Toyota,2019,AntiqueWhite,Hatchback,diesel,automatic,gasoline,4,237682.52,active,19183,22486,Jennifer Kelley,38,Male,Brazil,South America,Industrial/product designer,07/12/2022
+Nissan,2008,MediumTurquoise,Coupe,petrol,manual,electric,5,101320.52,inactive,12673,20921,Taylor York,48,Male,Burundi,Africa,"Designer, multimedia",17/09/2022
+Hyundai,2024,Indigo,Van,petrol,manual,gasoline,4,181072.13,active,19504,29512,Dawn Wilson,31,Male,Rwanda,Africa,Stage manager,26/01/2025
+Hyundai,2001,Cornsilk,SUV,hybrid,manual,diesel,9,6594.14,inactive,8320,11901,Austin Garcia,58,Female,Canada,North America,Lawyer,08/03/2024
+Volkswagen,2014,DarkSalmon,Hatchback,diesel,manual,diesel,5,16725.87,active,12661,27174,Cynthia Mitchell,31,Male,Uganda,Africa,"Engineer, biomedical",07/11/2023
+Nissan,2025,SlateBlue,Coupe,diesel,automatic,hybrid,9,298472.03,active,8124,25187,Luis Torres,21,Male,India,Asia,Systems developer,20/12/2025
+Hyundai,2019,Moccasin,Hatchback,electric,automatic,electric,7,46294.04,inactive,13462,25432,Tina Jackson,18,Female,China,Asia,Fine artist,12/01/2023
+Toyota,2014,PowderBlue,Coupe,diesel,automatic,electric,6,256456.45,active,15344,18227,Ian Frazier,54,Female,Japan,Asia,Quantity surveyor,31/01/2025
+Ford,2023,RosyBrown,Truck,petrol,manual,electric,3,132345.81,active,14076,12031,Eric Arnold,67,Male,Uganda,Africa,Training and development officer,04/11/2021
+Hyundai,2007,LightSeaGreen,Sedan,hybrid,manual,hybrid,2,272967.74,active,18893,10395,Brenda Ryan,75,Female,Germany,Europe,Camera operator,15/10/2021
+Hyundai,2005,Azure,SUV,petrol,automatic,gasoline,7,186537.5,active,19007,24989,Lynn Hess,32,Female,United States,North America,Therapeutic radiographer,16/12/2022
+Honda,2009,Blue,Truck,petrol,automatic,electric,8,167844.13,inactive,11203,29917,Kimberly Lutz,20,Female,Germany,Europe,Database administrator,04/04/2024
+Mercedes-Benz,2024,OrangeRed,Hatchback,electric,manual,hybrid,9,31106.09,inactive,16316,20689,Raymond Quinn,44,Female,Germany,Europe,Contractor,05/02/2025
+Nissan,2004,SteelBlue,Sedan,petrol,automatic,electric,4,230142.67,inactive,12533,17564,Jennifer Shaw,67,Male,Australia,Oceania,Visual merchandiser,23/07/2022
+Mercedes-Benz,2024,Thistle,Sedan,electric,manual,gasoline,6,222852.91,inactive,11962,13141,Christopher Knight,60,Male,Zambia,Africa,Radio broadcast assistant,13/03/2024
+Kia,2003,BlueViolet,Hatchback,hybrid,automatic,diesel,9,45933.51,active,8810,12255,John Brown,72,Female,Burundi,Africa,Facilities manager,06/07/2021
+BMW,2013,GreenYellow,SUV,petrol,manual,diesel,8,244405.83,active,19001,24190,Rebecca Hughes,32,Female,United States,North America,Armed forces training and education officer,26/06/2021
+Ford,2022,MediumBlue,Coupe,diesel,automatic,electric,5,59719.08,active,13238,15801,Warren Schultz,74,Female,Uganda,Africa,General practice doctor,25/01/2026
+Ford,2001,YellowGreen,Sedan,hybrid,automatic,hybrid,6,15662.33,inactive,17266,15477,Jamie Gray,67,Male,United Kingdom,Europe,"Scientist, forensic",15/04/2023
+Kia,2006,OldLace,SUV,electric,manual,electric,3,13943.03,inactive,14612,11848,Courtney Sullivan,65,Female,Japan,Asia,"Radiographer, therapeutic",31/03/2025
+Ford,2008,AntiqueWhite,Sedan,electric,manual,diesel,2,80785.13,active,14358,26495,Brenda Martin,50,Male,China,Asia,"Scientist, audiological",15/07/2023
+Volkswagen,2005,HotPink,Sedan,electric,automatic,gasoline,2,160322.32,active,8846,22390,Christopher Guzman,23,Male,United Kingdom,Europe,Event organiser,03/09/2024
+BMW,2020,MediumPurple,Sedan,diesel,automatic,gasoline,8,284413.87,inactive,16285,17300,Karen Mendoza,79,Male,Japan,Asia,Therapeutic radiographer,08/07/2022
+Volkswagen,2020,PaleVioletRed,SUV,diesel,manual,electric,6,279629.38,active,9105,12752,Andrew Berry,59,Male,Uganda,Africa,Contractor,04/07/2025
+Ford,2019,BlueViolet,Van,diesel,automatic,diesel,6,292858.51,active,15258,23518,Bridget Jackson,29,Male,Brazil,South America,"Scientist, forensic",05/08/2024
+Kia,2000,Azure,SUV,petrol,manual,gasoline,5,103605.23,active,13506,24263,Monica Nicholson,24,Male,France,Europe,"Engineer, technical sales",19/12/2024
+Nissan,2002,SeaShell,Coupe,diesel,automatic,diesel,8,66626.49,active,19669,16543,Carolyn Greer,51,Male,France,Europe,Television floor manager,11/09/2022
+Honda,2008,Teal,Sedan,diesel,automatic,gasoline,2,119405.89,inactive,10053,15479,Nathaniel Cooper,61,Female,United States,North America,"Therapist, occupational",24/09/2021
+Honda,2022,Khaki,Sedan,hybrid,automatic,diesel,9,225306.81,inactive,12737,13283,Carlos Smith,51,Female,Zambia,Africa,Dealer,19/12/2021
+Honda,2008,Fuchsia,Sedan,electric,automatic,diesel,3,59678.29,inactive,11940,11598,Lucas Williams,63,Male,India,Asia,Chief Financial Officer,01/04/2025
+Volkswagen,2022,DarkSeaGreen,Van,petrol,manual,gasoline,3,114298.91,active,12575,17012,Kimberly Smith,57,Female,Brazil,South America,"Scientist, research (maths)",22/09/2024
+Honda,2025,NavajoWhite,Hatchback,hybrid,automatic,gasoline,7,55569.68,inactive,17350,18203,Melissa Patterson,46,Female,India,Asia,Museum/gallery curator,17/02/2024
+Mercedes-Benz,2002,DarkGreen,Sedan,petrol,manual,gasoline,7,254888.97,inactive,10338,28058,David Cannon,40,Male,Germany,Europe,Herpetologist,09/10/2025
+Mercedes-Benz,2013,PaleTurquoise,SUV,diesel,automatic,gasoline,4,276291.71,active,19506,14513,Aaron Manning,74,Male,Zambia,Africa,Technical brewer,04/08/2025
+Volkswagen,2007,DarkOrchid,Hatchback,hybrid,automatic,hybrid,6,88938.82,active,16843,11750,Jaime Harris,74,Female,Zambia,Africa,Osteopath,24/03/2024
+BMW,2014,DarkMagenta,Coupe,diesel,automatic,diesel,10,117911.84,inactive,9114,10455,Matthew King,76,Female,Canada,North America,Systems analyst,04/04/2024
+Audi,2001,LightSalmon,Truck,diesel,manual,hybrid,7,82171.83,active,10481,28995,Jennifer Harris DDS,28,Female,Rwanda,Africa,Editorial assistant,18/04/2024
+Honda,2021,SkyBlue,Truck,petrol,automatic,gasoline,10,166209.22,inactive,15881,24284,Eric Cooper,27,Female,Canada,North America,Corporate investment banker,27/02/2022
+Toyota,2016,Khaki,Hatchback,petrol,automatic,electric,6,112728.4,inactive,8757,25158,Michael Martin,41,Male,India,Asia,Rural practice surveyor,21/07/2024
+Ford,2010,MediumSlateBlue,Truck,diesel,manual,gasoline,4,226017.38,inactive,9424,27896,Lisa Cohen,39,Male,Germany,Europe,"Designer, multimedia",15/06/2024
+Toyota,2023,AntiqueWhite,Coupe,hybrid,automatic,hybrid,7,136789.69,active,13131,19017,Samantha Ruiz,71,Female,Australia,Oceania,Chartered management accountant,10/09/2021
+Ford,2015,LightGray,Hatchback,petrol,automatic,electric,7,39217.7,inactive,12489,16251,Bobby Johnson,64,Female,Brazil,South America,Oncologist,30/07/2025
+Mercedes-Benz,2018,LightSlateGray,Van,electric,manual,hybrid,3,275335.91,active,19153,19175,Linda Bautista,24,Male,Burundi,Africa,"Research officer, trade union",17/11/2024
+BMW,2021,Aqua,Hatchback,diesel,automatic,hybrid,5,12252.14,active,12732,18634,Matthew Lara,42,Female,Japan,Asia,"Engineer, broadcasting (operations)",07/06/2021
+BMW,2007,Teal,Coupe,diesel,manual,electric,3,168632.29,active,10374,23750,Crystal Jackson,38,Male,France,Europe,Media buyer,08/03/2023
+Honda,2001,AliceBlue,Sedan,hybrid,manual,diesel,5,33018.18,inactive,12970,20217,Angie Hill,27,Female,Burundi,Africa,Manufacturing engineer,04/07/2024
+Toyota,2007,PaleGreen,Van,hybrid,automatic,electric,3,122577.77,inactive,18543,29361,Kelly Mclaughlin,45,Male,India,Asia,Chemical engineer,27/10/2025
+Nissan,2010,LightSkyBlue,Truck,diesel,automatic,electric,5,133650.96,inactive,16588,25288,Kristin Aguilar,39,Female,Zambia,Africa,Health and safety inspector,27/01/2023
+Kia,2005,GoldenRod,SUV,electric,automatic,gasoline,6,110088.66,active,16832,24307,Jared Smith,19,Male,France,Europe,Optometrist,14/06/2025
+Toyota,2025,DarkMagenta,SUV,petrol,manual,electric,5,128254.26,active,13777,23184,Kathy Morgan,49,Male,United Kingdom,Europe,Scientific laboratory technician,04/05/2023
+Hyundai,2010,WhiteSmoke,Truck,diesel,manual,diesel,3,279712.17,inactive,15134,22046,Laura Benson,24,Female,Rwanda,Africa,"Surveyor, quantity",05/04/2025
+Mercedes-Benz,2013,LemonChiffon,Sedan,electric,manual,electric,8,89513.89,inactive,9005,14059,Tonya Ellis,53,Female,United States,North America,Theatre director,18/05/2021
+BMW,2022,SkyBlue,Hatchback,hybrid,manual,gasoline,8,200072.72,inactive,16840,21116,Austin Schultz,30,Male,Zambia,Africa,Event organiser,31/10/2023
+Honda,2004,PaleVioletRed,Van,electric,automatic,gasoline,2,211900.7,inactive,11252,27469,Kelli Smith,32,Female,Zambia,Africa,Fish farm manager,04/08/2023
+Ford,2023,DarkGoldenRod,SUV,petrol,manual,diesel,2,280475.36,active,15798,24150,Paul Peterson,34,Male,China,Asia,Publishing copy,26/10/2023
+Mercedes-Benz,2005,MidnightBlue,Hatchback,diesel,automatic,gasoline,7,83933.14,inactive,9875,25055,Kenneth White,38,Male,Canada,North America,Research scientist (physical sciences),05/11/2022
+Audi,2011,LavenderBlush,Van,hybrid,manual,hybrid,8,127639.65,inactive,8952,16153,Shelley Clark,55,Male,China,Asia,Fisheries officer,05/03/2024
+Audi,2018,DeepSkyBlue,Van,petrol,automatic,gasoline,10,216452.24,inactive,12069,24882,Barbara Miller,30,Female,France,Europe,Visual merchandiser,15/03/2021
+Hyundai,2022,Yellow,Truck,petrol,automatic,gasoline,6,3664.08,active,12406,19077,Sarah Watson,80,Female,Japan,Asia,"Research officer, government",12/01/2026
+BMW,2020,LightSalmon,Van,diesel,manual,electric,4,246725.71,inactive,8298,27177,William Moon IV,36,Male,China,Asia,Technical author,28/03/2022
+Ford,2010,CadetBlue,Truck,petrol,manual,diesel,9,131845.47,inactive,18625,16594,Jenny Ayers,68,Male,Canada,North America,Retail buyer,06/02/2024
+Toyota,2011,OrangeRed,Truck,electric,manual,diesel,2,157317.49,active,18376,13680,Patty Bryant,56,Male,Uganda,Africa,"Scientist, marine",22/01/2025
+Ford,2005,Maroon,Sedan,petrol,manual,diesel,4,294960.27,inactive,14185,13351,Alexandra Clark,58,Male,Uganda,Africa,"Journalist, magazine",22/03/2024
+BMW,2000,LightGoldenRodYellow,SUV,electric,automatic,gasoline,2,201323.51,inactive,11886,24231,Dennis Adams,18,Female,United Kingdom,Europe,Medical secretary,17/09/2022
+Ford,2013,SpringGreen,Truck,petrol,automatic,gasoline,8,15649.58,active,16869,28431,Jason Goodwin,49,Female,United States,North America,Oncologist,11/07/2023
+BMW,2025,RoyalBlue,Van,diesel,manual,gasoline,7,159160.61,active,16145,10746,Carlos Johnston,76,Male,China,Asia,Chiropodist,11/06/2023
+Volkswagen,2004,LavenderBlush,Van,petrol,automatic,hybrid,2,25455.7,inactive,13367,24788,Selena Gonzalez,37,Male,Zambia,Africa,Public librarian,25/03/2021
+Nissan,2019,Fuchsia,SUV,diesel,automatic,electric,5,126064.13,active,19794,17886,Chad Barry,64,Female,France,Europe,"Radiographer, therapeutic",13/09/2023
+Mercedes-Benz,2012,LightCoral,Hatchback,petrol,automatic,hybrid,2,62806.74,active,15922,17437,Laura Ross,69,Male,Burundi,Africa,Best boy,24/12/2022
+Volkswagen,2010,LightCyan,Coupe,hybrid,automatic,gasoline,5,47848.18,active,10414,16029,Mark Cole,55,Female,China,Asia,Gaffer,20/03/2024
+Mercedes-Benz,2005,MistyRose,Sedan,electric,manual,diesel,8,135498.18,inactive,9961,25735,Tara Scott,41,Male,Rwanda,Africa,Paramedic,06/03/2022
+Toyota,2011,MediumVioletRed,Van,diesel,manual,hybrid,10,262518.13,active,17840,20217,Tracey Gonzalez,18,Male,Uganda,Africa,Higher education careers adviser,02/03/2024
+BMW,2018,MediumOrchid,Truck,petrol,automatic,diesel,8,245546.09,active,14299,21007,Katherine Doyle,22,Male,United States,North America,Museum/gallery curator,02/08/2023
+Honda,2016,SandyBrown,Coupe,electric,manual,hybrid,5,206251.26,active,18396,24313,Brianna Jackson,22,Female,China,Asia,"Pharmacist, community",04/01/2026
+Audi,2024,PaleGreen,SUV,petrol,manual,hybrid,10,240319.49,inactive,16649,18738,Andrea Martin,34,Male,Canada,North America,Interior and spatial designer,04/11/2023
+Ford,2016,LightSteelBlue,Van,diesel,automatic,hybrid,9,50965.03,inactive,17008,24606,Lisa Foster,48,Female,Uganda,Africa,Medical laboratory scientific officer,20/02/2026
+Ford,2019,Turquoise,SUV,electric,automatic,electric,5,132882.69,active,10077,15172,Jennifer White,62,Male,Japan,Asia,Comptroller,21/02/2023
+BMW,2014,LightCoral,Hatchback,electric,manual,hybrid,9,150383.25,inactive,15464,29464,Mercedes Miller,45,Male,Australia,Oceania,Occupational psychologist,09/01/2022
+Nissan,2005,DarkGray,Sedan,diesel,manual,electric,9,158976.75,inactive,8603,15601,Shawn Kelley,61,Male,France,Europe,Occupational psychologist,08/08/2025
+Kia,2007,DarkBlue,SUV,petrol,manual,electric,7,106920.48,active,16201,19061,Luke Miller,47,Female,Rwanda,Africa,Insurance broker,05/02/2023
+Mercedes-Benz,2014,LightBlue,Hatchback,electric,manual,hybrid,4,61780.14,inactive,14580,24695,Jessica Martinez,21,Male,China,Asia,Air cabin crew,12/06/2021
+Kia,2014,MintCream,Hatchback,diesel,manual,hybrid,3,58686.02,active,14501,11643,Erika Alvarez,54,Female,United Kingdom,Europe,Sports therapist,06/12/2024
+Ford,2015,DarkSlateBlue,Sedan,electric,automatic,diesel,9,204078.99,active,16559,29762,Melissa Thompson,48,Female,United Kingdom,Europe,"Surveyor, rural practice",05/11/2024
+Honda,2020,Violet,Truck,diesel,automatic,hybrid,2,127534.1,inactive,19191,24340,Kimberly Stout,23,Female,Zambia,Africa,"Solicitor, Scotland",29/01/2023
+Mercedes-Benz,2024,DarkCyan,Van,diesel,manual,gasoline,3,232678.76,inactive,18922,13728,Jacob Green,52,Female,China,Asia,Administrator,23/02/2021
+Kia,2000,Turquoise,SUV,hybrid,automatic,hybrid,4,172051.88,inactive,9806,26050,Sarah Cooper,37,Female,United Kingdom,Europe,Social researcher,20/03/2021
+Kia,2008,SlateGray,Coupe,hybrid,manual,diesel,2,228706.6,active,10003,18252,Karen Smith,26,Female,Germany,Europe,"Horticulturist, commercial",11/02/2023
+Ford,2025,AntiqueWhite,Coupe,petrol,automatic,gasoline,9,289688.08,inactive,16332,14055,Chelsea Khan,76,Female,China,Asia,Nutritional therapist,10/04/2023
+Audi,2003,DodgerBlue,Sedan,diesel,automatic,electric,2,242952.8,inactive,17876,11405,Maria Clayton,61,Male,United Kingdom,Europe,General practice doctor,27/10/2021
+Audi,2007,Peru,Truck,electric,manual,diesel,9,98863.49,inactive,9157,21278,Kellie Marsh,50,Female,Uganda,Africa,Higher education careers adviser,02/09/2025
+Volkswagen,2013,LightGreen,Van,electric,manual,electric,10,75307.88,inactive,12506,29316,Scott White,21,Female,United States,North America,Clinical psychologist,07/01/2025
+Volkswagen,2002,RoyalBlue,Coupe,petrol,manual,diesel,2,60965.11,active,19823,23689,Marcus Lopez,22,Male,Uganda,Africa,"Designer, blown glass/stained glass",27/07/2021
+Honda,2016,White,SUV,petrol,automatic,diesel,2,159216.52,inactive,11572,24105,William Campbell,37,Male,Australia,Oceania,Primary school teacher,20/03/2021
+BMW,2003,Lavender,SUV,electric,automatic,gasoline,10,179681.83,inactive,19919,10406,Adrian Robinson,68,Female,Burundi,Africa,Insurance underwriter,21/05/2025
+Hyundai,2015,Navy,Van,hybrid,automatic,diesel,5,176374.11,active,13868,19259,Rick Rivera,72,Male,Brazil,South America,Banker,31/05/2023
+Kia,2015,OrangeRed,Hatchback,diesel,automatic,hybrid,5,178965.7,inactive,9249,11611,John Lee,74,Female,Brazil,South America,Museum/gallery curator,03/04/2021
+Toyota,2016,DarkRed,Truck,petrol,manual,electric,5,241359.09,inactive,14736,19721,Michelle Cruz,53,Female,Burundi,Africa,Firefighter,07/06/2021
+Toyota,2020,Gray,Van,petrol,automatic,gasoline,9,87741.78,inactive,16272,18280,Ray Boyd,20,Male,United Kingdom,Europe,Public librarian,15/06/2024
+Nissan,2006,Magenta,SUV,hybrid,manual,hybrid,9,40364.4,active,15854,17211,Caitlin Chandler,52,Male,United States,North America,Forensic scientist,29/03/2025
+Kia,2023,Lime,Coupe,diesel,manual,gasoline,6,143968.92,inactive,13736,22309,Stephen Boyer,37,Male,Australia,Oceania,"Clinical scientist, histocompatibility and immunogenetics",26/02/2023
+Hyundai,2007,PowderBlue,Hatchback,electric,automatic,gasoline,9,39340.27,active,14609,11055,Christopher Hill,67,Male,Zambia,Africa,Occupational hygienist,20/03/2023
+Ford,2010,Aqua,Van,diesel,manual,hybrid,3,279767.3,inactive,14453,12014,Lauren Vazquez,59,Male,Rwanda,Africa,Meteorologist,28/11/2021
+Hyundai,2015,LightBlue,Truck,diesel,automatic,gasoline,9,22179.31,inactive,13720,24968,Brandon Montgomery,35,Male,France,Europe,Best boy,03/03/2024
+Mercedes-Benz,2008,DeepSkyBlue,Sedan,hybrid,manual,electric,10,9578.93,active,13404,15211,Rebecca Martinez,55,Male,Zambia,Africa,Investment analyst,23/11/2025
+Hyundai,2017,MediumTurquoise,Hatchback,diesel,automatic,diesel,6,175445.69,active,10210,16057,Jessica Lee,57,Female,Uganda,Africa,Materials engineer,17/04/2022
+Mercedes-Benz,2010,LightCoral,Coupe,petrol,automatic,diesel,5,103729.92,inactive,19685,14480,Karina Kim,51,Female,China,Asia,Special effects artist,25/04/2025
+Kia,2019,Gold,Truck,hybrid,automatic,electric,10,297799.92,active,14548,13215,Kimberly Morris,55,Female,United Kingdom,Europe,Haematologist,11/11/2025
+Kia,2007,DodgerBlue,Sedan,hybrid,automatic,diesel,8,149335.05,inactive,8343,19964,Christopher Phillips,28,Female,Uganda,Africa,Special educational needs teacher,08/04/2024
+Audi,2000,SaddleBrown,Truck,electric,automatic,electric,10,75430.73,inactive,11686,27370,Mark Gray,37,Male,Japan,Asia,Advertising account executive,30/03/2024
+Ford,2003,LawnGreen,Coupe,petrol,manual,gasoline,3,244472.37,active,10857,11835,Arthur Coffey,67,Female,China,Asia,Energy manager,09/08/2025
+Hyundai,2023,SpringGreen,Sedan,petrol,automatic,gasoline,8,57731.63,active,18254,12675,Brittany Campbell,75,Female,Uganda,Africa,IT technical support officer,01/02/2022
+Volkswagen,2002,DarkGray,Hatchback,petrol,manual,gasoline,2,120843.2,active,13460,15546,Andrea Conley,67,Male,France,Europe,"Editor, magazine features",31/05/2021
+Ford,2024,Green,SUV,diesel,automatic,diesel,6,276513.09,active,18417,25038,Corey Johnson,38,Female,Australia,Oceania,Recruitment consultant,14/08/2025
+Audi,2008,LightCyan,SUV,hybrid,manual,gasoline,2,142641.35,inactive,17592,19322,Daniel Robbins,53,Male,Brazil,South America,"Engineer, manufacturing",29/04/2025
+BMW,2008,Cyan,Truck,diesel,manual,gasoline,6,99072,active,10971,13499,Mark Ward,80,Female,United States,North America,"Merchandiser, retail",23/08/2021
+Toyota,2012,LightGreen,Hatchback,diesel,manual,hybrid,10,71486.83,inactive,16795,21213,Morgan Davenport,23,Male,Japan,Asia,"Engineer, technical sales",25/07/2025
+Hyundai,2023,DarkGray,SUV,diesel,manual,hybrid,5,73097.81,inactive,19146,13076,David Cruz,77,Male,India,Asia,Secondary school teacher,06/04/2023
+Honda,2023,Fuchsia,Hatchback,petrol,automatic,diesel,10,70751.82,active,18110,15652,Kristin Reese,66,Female,Canada,North America,Proofreader,11/10/2024
+Mercedes-Benz,2010,DarkKhaki,Hatchback,diesel,manual,electric,7,103659.16,active,17819,29550,Christopher Morales,37,Female,Rwanda,Africa,"Designer, industrial/product",08/09/2025
+Honda,2000,Red,Hatchback,electric,automatic,gasoline,9,159922.02,active,18936,24719,Stephanie Pierce,41,Female,Burundi,Africa,Meteorologist,27/08/2024
+Toyota,2002,Plum,SUV,diesel,automatic,hybrid,5,128082.1,inactive,13863,26133,Erica Allen,50,Male,Brazil,South America,Mining engineer,29/10/2025
+Ford,2005,LightCyan,Coupe,electric,manual,electric,4,219556.65,inactive,10343,15570,Jesse Moyer,57,Male,India,Asia,Animal nutritionist,26/07/2023
+BMW,2019,Azure,SUV,petrol,manual,hybrid,10,157089,active,18686,17240,Wendy Turner,73,Female,India,Asia,Environmental education officer,22/12/2022
+Hyundai,2020,Maroon,SUV,diesel,automatic,diesel,4,261587.69,active,16671,17195,Rodney Norris,75,Female,Germany,Europe,Surgeon,30/06/2025
+Audi,2012,DeepSkyBlue,SUV,hybrid,automatic,electric,2,43245.49,active,17560,26169,Joe Moore,40,Female,China,Asia,Medical technical officer,05/02/2026
+Honda,2016,LightBlue,Sedan,electric,automatic,hybrid,8,187832.86,active,9165,15295,Robert Davis,64,Female,United Kingdom,Europe,"Teacher, adult education",30/12/2022
+Volkswagen,2007,Crimson,Van,electric,manual,gasoline,2,18124.29,inactive,15521,21254,Rebecca Thompson,18,Male,Uganda,Africa,"Therapist, nutritional",14/09/2023
+Audi,2003,Blue,SUV,petrol,automatic,electric,8,101904.77,inactive,19552,11140,Laura Miller,66,Male,Australia,Oceania,"Lecturer, higher education",08/02/2024
+Volkswagen,2009,PowderBlue,Sedan,petrol,manual,gasoline,10,64696.45,active,9596,24167,Sean Kane,18,Male,Uganda,Africa,Town planner,30/03/2021
+Mercedes-Benz,2009,Olive,Truck,diesel,manual,diesel,8,179467.99,active,8772,22638,Joseph Flores,27,Male,Australia,Oceania,"Journalist, newspaper",02/06/2025
+Kia,2024,Indigo,Van,hybrid,manual,hybrid,10,19839.47,inactive,18158,27138,Michael Osborn,24,Female,Japan,Asia,"Therapist, nutritional",15/01/2026
+Ford,2021,Tan,Truck,diesel,manual,electric,3,21921.03,active,12371,19517,Jeffrey Hartman,43,Male,Japan,Asia,Consulting civil engineer,03/01/2024
+Hyundai,2025,DarkBlue,Sedan,diesel,manual,gasoline,3,262232.39,active,18717,15922,Patrick Kelley,55,Female,Burundi,Africa,Chartered certified accountant,15/07/2024
+BMW,2019,SteelBlue,Truck,petrol,manual,electric,9,139198.8,inactive,16258,15727,Michael Gill,79,Female,United Kingdom,Europe,"Surveyor, land/geomatics",31/10/2022
+BMW,2007,SlateBlue,Coupe,hybrid,manual,electric,8,16739.89,inactive,9674,25523,Kenneth Hoffman,48,Male,Canada,North America,Financial manager,03/10/2021
+Volkswagen,2005,LightGreen,Truck,electric,manual,electric,10,178244.87,inactive,17485,16727,Erica Glass,78,Male,United Kingdom,Europe,"Clinical scientist, histocompatibility and immunogenetics",30/08/2024
+Volkswagen,2015,Peru,Sedan,diesel,automatic,diesel,7,257769.46,active,19158,17588,Connor Cooper,75,Male,Brazil,South America,Industrial/product designer,02/08/2022
+Ford,2004,MediumVioletRed,Sedan,electric,manual,diesel,9,251885.48,active,11120,15301,Wanda Ramos,63,Male,Australia,Oceania,Prison officer,12/07/2021
+BMW,2007,Lavender,Coupe,petrol,automatic,gasoline,4,297256.15,active,10871,21868,James Todd,47,Male,India,Asia,"Clinical scientist, histocompatibility and immunogenetics",11/08/2021
+Toyota,2010,LemonChiffon,Hatchback,hybrid,automatic,electric,5,229653.54,active,16522,16390,Tammy Melton,76,Female,Zambia,Africa,"Administrator, education",25/01/2024
+BMW,2022,DarkOliveGreen,Van,electric,automatic,gasoline,4,91218,inactive,11706,27313,John Rivera,44,Male,Brazil,South America,"Engineer, electronics",17/10/2025
+Toyota,2005,Turquoise,Van,electric,automatic,gasoline,8,54395.08,inactive,13018,17104,Kimberly Dean,64,Male,India,Asia,Adult nurse,08/05/2024
+Honda,2021,Violet,SUV,electric,automatic,diesel,9,116646.78,active,10114,10659,Christopher Campbell,76,Female,United Kingdom,Europe,Astronomer,06/02/2025
+Mercedes-Benz,2021,Aqua,SUV,petrol,automatic,diesel,5,274241.06,inactive,17618,19299,Matthew Alvarado,22,Female,China,Asia,Clinical cytogeneticist,23/04/2021
+Mercedes-Benz,2001,LightSteelBlue,Hatchback,electric,manual,hybrid,5,130779.28,inactive,8272,13624,Marie Hall,67,Female,India,Asia,Rural practice surveyor,29/12/2021
+BMW,2019,Maroon,Van,electric,manual,hybrid,10,46284.9,inactive,17447,23067,Mr. Brandon Gonzalez,49,Female,Canada,North America,"Surveyor, mining",30/04/2021
+Nissan,2015,BlueViolet,Sedan,diesel,automatic,diesel,3,229541.89,active,18123,24052,Joseph Cook,26,Female,Brazil,South America,"Designer, graphic",21/04/2021
+Volkswagen,2005,MediumTurquoise,Hatchback,petrol,manual,gasoline,3,123374.9,active,10194,21795,Heather Turner,32,Female,Rwanda,Africa,Biomedical engineer,04/05/2023
+Toyota,2000,Orange,Coupe,hybrid,automatic,gasoline,6,177988.33,inactive,12070,12100,Robin Johnson,56,Female,Rwanda,Africa,Equality and diversity officer,09/06/2022
+Honda,2004,MediumSpringGreen,Coupe,petrol,manual,diesel,5,5136.53,active,11885,23101,Mary Miller,18,Female,Zambia,Africa,"Scientist, research (life sciences)",30/01/2023
+Toyota,2008,PapayaWhip,Hatchback,electric,automatic,diesel,5,76239.62,active,19091,18568,Christian Waller,44,Female,Rwanda,Africa,"Production assistant, radio",04/10/2025
+BMW,2007,DarkSeaGreen,Hatchback,hybrid,automatic,diesel,3,299109.57,inactive,11959,18926,Charles Weaver,47,Male,United States,North America,Corporate investment banker,11/10/2023
+Nissan,2011,Violet,Hatchback,diesel,automatic,diesel,8,101141.25,active,8505,24589,Jessica Stout,48,Male,France,Europe,Systems analyst,29/06/2022
+Kia,2023,MediumAquaMarine,Coupe,electric,manual,electric,3,287293.66,inactive,17550,19157,Joseph Ball,57,Male,Germany,Europe,"Investment banker, corporate",21/05/2022
+Toyota,2004,Black,SUV,petrol,manual,electric,6,41897.61,active,17490,17343,Sheryl Gutierrez,55,Female,France,Europe,Immunologist,30/11/2024
+Kia,2020,LightSalmon,Van,petrol,automatic,hybrid,3,275539.41,active,16191,29730,Cole Anderson,40,Male,Japan,Asia,Veterinary surgeon,02/06/2023
+Volkswagen,2021,Lavender,Truck,diesel,manual,diesel,4,202831.14,inactive,19794,25083,Crystal Johnson,31,Male,Uganda,Africa,Publishing rights manager,15/04/2022
+Mercedes-Benz,2014,SteelBlue,Hatchback,petrol,manual,electric,10,195210.65,inactive,10872,23149,Julie Banks,25,Male,Germany,Europe,Naval architect,29/04/2025
+Nissan,2004,Sienna,Hatchback,petrol,manual,hybrid,6,123247.82,inactive,19665,14080,Corey Johnson,80,Male,China,Asia,Geophysicist/field seismologist,29/08/2024
+Toyota,2012,Indigo,Coupe,hybrid,manual,diesel,6,216595.57,active,13248,20040,Virginia Todd,21,Male,India,Asia,"Editor, film/video",18/11/2024
+Toyota,2003,SlateGray,Van,petrol,manual,electric,4,229813.04,inactive,13715,12197,Sharon Clay,58,Female,India,Asia,Ophthalmologist,02/07/2021
+Audi,2021,Olive,SUV,hybrid,automatic,electric,7,89269.34,active,19423,19064,Jennifer Crosby,24,Male,Canada,North America,"Scientist, research (life sciences)",28/01/2022
+Hyundai,2012,RoyalBlue,Van,hybrid,automatic,electric,4,3507.44,inactive,8559,19684,Shawn Rich,50,Male,United Kingdom,Europe,"Scientist, physiological",21/09/2025
+Toyota,2006,Orchid,SUV,hybrid,manual,electric,10,68477.81,inactive,12229,15197,Mrs. Jasmine Hubbard,66,Male,Canada,North America,Energy manager,16/08/2023
+Mercedes-Benz,2000,Purple,Coupe,electric,manual,hybrid,10,232582.19,active,19468,13110,Eric Carey,79,Female,Uganda,Africa,Dietitian,27/09/2024
+Volkswagen,2000,LightYellow,SUV,petrol,manual,gasoline,4,67995.16,inactive,12866,18865,Amy Black,72,Male,Burundi,Africa,"Psychologist, educational",27/12/2024
+Hyundai,2011,DarkGoldenRod,Sedan,diesel,automatic,electric,6,181938.88,inactive,9444,14305,Ashley Osborne,59,Male,Brazil,South America,"Nurse, learning disability",30/08/2024
+Nissan,2003,MediumBlue,Sedan,diesel,manual,diesel,3,145696.44,inactive,9826,11122,Christopher Garza,70,Male,Japan,Asia,"Programme researcher, broadcasting/film/video",30/11/2021
+Kia,2012,LightCoral,Coupe,petrol,manual,diesel,9,296806.09,active,19594,11880,Matthew Dawson,55,Male,Australia,Oceania,Community pharmacist,03/12/2021
+Hyundai,2020,DarkOrange,Hatchback,electric,manual,electric,3,25788.58,inactive,12823,22539,Madison Miller,22,Female,United States,North America,Sales promotion account executive,04/07/2022
+Nissan,2015,OldLace,Coupe,petrol,manual,gasoline,7,54095.15,active,15695,18229,Amanda Jackson,18,Female,Brazil,South America,Systems developer,04/06/2022
+Audi,2001,DodgerBlue,Van,hybrid,automatic,diesel,10,22558.23,inactive,9083,17079,Cassidy Joseph,52,Female,Canada,North America,Insurance account manager,12/10/2023
+Honda,2000,RosyBrown,Coupe,diesel,manual,diesel,7,90507.85,active,9672,19820,Christopher Roach,19,Male,China,Asia,"Accountant, chartered certified",20/04/2023
+Toyota,2001,Aquamarine,Hatchback,hybrid,automatic,diesel,4,219435.38,active,12233,11173,Scott Stephens,57,Male,United States,North America,Translator,06/05/2025
+Ford,2013,LavenderBlush,Van,petrol,automatic,electric,3,250515.62,active,13858,27512,Matthew Chavez,42,Female,China,Asia,Cartographer,15/03/2021
+Hyundai,2006,LemonChiffon,Coupe,petrol,manual,diesel,9,209960.6,active,9162,18310,Diana Fuller,61,Male,Germany,Europe,Artist,20/09/2022
+Honda,2020,DarkViolet,Hatchback,diesel,automatic,hybrid,8,6665.66,active,17620,18758,Gregory Thomas,23,Male,United States,North America,Technical brewer,08/09/2023
+Hyundai,2015,MediumPurple,Sedan,diesel,manual,gasoline,5,260629.18,inactive,19618,22780,Amber Butler,37,Male,United States,North America,"Designer, television/film set",26/07/2023
+Mercedes-Benz,2014,Fuchsia,Coupe,diesel,automatic,gasoline,8,126996.69,inactive,8924,28399,Nicole Ward,35,Male,India,Asia,Chief Financial Officer,10/09/2023
+Toyota,2014,MediumBlue,Hatchback,electric,automatic,hybrid,4,13366.8,inactive,15563,25640,James Jones,20,Female,Japan,Asia,Statistician,12/09/2021
+Audi,2009,LightSteelBlue,Sedan,petrol,automatic,hybrid,10,162168.28,active,13624,28929,Bryan Villarreal,32,Female,Australia,Oceania,Secretary/administrator,31/08/2024
+Kia,2021,Violet,Truck,hybrid,automatic,hybrid,8,252680.47,inactive,17887,17873,Daniel Brown,52,Male,Australia,Oceania,Radio broadcast assistant,04/08/2023
+Honda,2020,Pink,Sedan,hybrid,automatic,electric,4,70469.34,active,14808,23961,Emily Fox,46,Female,Rwanda,Africa,"Conservation officer, nature",07/12/2025
+Nissan,2006,SpringGreen,SUV,petrol,manual,electric,6,4048.67,inactive,9032,13013,Lynn Vasquez,69,Male,Germany,Europe,Travel agency manager,16/02/2023
+Volkswagen,2022,LightSteelBlue,Hatchback,hybrid,manual,gasoline,7,288297.59,inactive,15220,19207,April Johnson,32,Male,Japan,Asia,"Engineer, maintenance (IT)",03/09/2024
+Mercedes-Benz,2009,PaleVioletRed,Hatchback,hybrid,automatic,gasoline,3,63322.01,active,13956,14289,Gregory Shaffer,56,Male,India,Asia,"Administrator, arts",10/11/2022
+Toyota,2017,LightSkyBlue,Truck,hybrid,manual,electric,9,124558.74,inactive,19133,21575,Barry Evans,18,Female,Rwanda,Africa,Accounting technician,11/02/2022
+Audi,2009,MediumSeaGreen,Truck,electric,manual,hybrid,5,49883.45,inactive,10380,19457,Nathaniel Gilbert,40,Male,France,Europe,Economist,18/10/2022
+Audi,2002,MediumPurple,Hatchback,petrol,manual,gasoline,3,79609.77,active,15969,25079,Tammy Mendoza,18,Female,Canada,North America,Animal technologist,20/04/2022
+Toyota,2005,SkyBlue,Sedan,diesel,manual,hybrid,10,49166.72,inactive,14125,11188,Joe Grimes,65,Female,Burundi,Africa,"Psychologist, counselling",01/09/2024
+Nissan,2010,Chartreuse,Hatchback,hybrid,manual,electric,7,261529.98,active,19370,20512,Elizabeth Hardy,49,Female,Uganda,Africa,"Surveyor, building control",14/09/2025
+Toyota,2009,Azure,Van,diesel,automatic,electric,8,134201.06,active,10463,15562,Michael Marsh,72,Female,Brazil,South America,Brewing technologist,01/06/2022
+Nissan,2006,LightSeaGreen,Truck,diesel,automatic,hybrid,3,34903.88,inactive,14279,27297,Gina Brooks,20,Male,Burundi,Africa,"Teacher, English as a foreign language",17/06/2024
+Kia,2009,GhostWhite,Sedan,electric,automatic,gasoline,9,135106.35,active,13260,27651,Sharon Walton,27,Female,India,Asia,Ambulance person,16/06/2023
+Honda,2007,PaleVioletRed,SUV,hybrid,automatic,gasoline,6,198537.26,active,9322,16053,Shawn Watson,69,Female,Canada,North America,"Engineer, technical sales",12/08/2025
+Ford,2009,LimeGreen,Van,electric,manual,gasoline,10,118956.99,inactive,13043,28766,James Johnson,34,Male,United States,North America,Chief Executive Officer,02/12/2024
+Nissan,2011,Tan,Truck,diesel,manual,gasoline,4,90624.37,inactive,15325,12627,John Porter,77,Male,Rwanda,Africa,"Librarian, public",05/04/2025
+Volkswagen,2000,Violet,Van,electric,manual,gasoline,5,79378.7,active,17559,24815,Garrett Hammond,45,Male,United States,North America,"Scientist, clinical (histocompatibility and immunogenetics)",11/04/2022
+Mercedes-Benz,2025,GreenYellow,Coupe,electric,automatic,gasoline,9,294047.69,active,14423,16092,Julia Reeves,76,Male,China,Asia,"Accountant, chartered management",17/10/2023
+Honda,2017,Brown,Van,hybrid,manual,hybrid,9,71290.85,inactive,15318,28697,Linda Miller,36,Female,Uganda,Africa,Armed forces training and education officer,09/01/2022
+Toyota,2000,Turquoise,Van,electric,automatic,gasoline,2,201784.88,active,9779,17245,Nichole Johnson,79,Female,United Kingdom,Europe,"Engineer, manufacturing systems",16/11/2023
+Audi,2003,Green,Van,diesel,manual,hybrid,7,52640.65,inactive,19433,26703,Donald Flores,34,Female,Canada,North America,Commercial/residential surveyor,20/06/2023
+Kia,2008,DeepPink,Sedan,petrol,automatic,diesel,6,294309.16,inactive,17636,18012,Brian Mullen,31,Male,Germany,Europe,"Engineer, maintenance",05/10/2025
+Toyota,2022,MediumVioletRed,SUV,petrol,automatic,gasoline,6,243163.55,active,15972,12893,Denise Harding,70,Female,India,Asia,"Teacher, secondary school",25/03/2023
+Kia,2009,FloralWhite,Sedan,hybrid,automatic,electric,3,148506.84,active,10436,23709,Louis Morgan,25,Female,France,Europe,Arts administrator,03/04/2022
+Audi,2016,Black,Sedan,electric,automatic,gasoline,2,247671.55,active,10430,21674,Michael Rodriguez,24,Male,United States,North America,Chartered legal executive (England and Wales),09/10/2024
+Nissan,2024,OrangeRed,Coupe,diesel,automatic,gasoline,9,103597.62,active,19011,12581,Kyle Watkins,79,Female,China,Asia,Warehouse manager,03/03/2024
+Hyundai,2000,Magenta,Van,petrol,manual,gasoline,8,148131.19,inactive,19941,16879,Craig Chang,65,Male,Australia,Oceania,"Psychologist, occupational",23/12/2025
+Kia,2008,DarkSeaGreen,Hatchback,diesel,automatic,hybrid,6,23616.32,active,15983,19746,Robert Hale,73,Male,France,Europe,"Programmer, applications",15/10/2023
+Volkswagen,2011,SeaGreen,Coupe,electric,automatic,hybrid,5,69697.79,inactive,11616,29849,Travis Thomas,23,Female,Australia,Oceania,Medical physicist,25/06/2024
+Audi,2001,Gainsboro,Truck,hybrid,manual,diesel,10,295963.18,inactive,14133,18414,Mary Mccormick,18,Female,China,Asia,Professor Emeritus,17/04/2025
+Hyundai,2011,Black,SUV,hybrid,automatic,electric,8,39187.49,active,16079,12464,Brian Mendoza,55,Male,Zambia,Africa,Heritage manager,11/02/2024
+Honda,2001,DarkSalmon,SUV,hybrid,automatic,gasoline,4,117834.68,active,17164,24906,Jennifer Klein,42,Male,Brazil,South America,"Journalist, magazine",16/11/2025
+Toyota,2004,Cornsilk,Hatchback,diesel,automatic,gasoline,5,245648.52,inactive,16213,25777,Kim Morales,35,Female,India,Asia,Field trials officer,22/03/2023
+Mercedes-Benz,2010,DimGray,Coupe,petrol,automatic,electric,10,259988.37,inactive,17604,29748,Janet Peterson,45,Female,Rwanda,Africa,"Presenter, broadcasting",21/12/2025
+Nissan,2009,MediumSpringGreen,Hatchback,diesel,automatic,gasoline,8,147478.79,inactive,19503,18685,Cynthia Bates,72,Male,Japan,Asia,"Teacher, secondary school",14/04/2025
+Mercedes-Benz,2018,DarkOrange,SUV,hybrid,automatic,gasoline,10,224409.19,inactive,14027,27987,Julie Peters,22,Female,Uganda,Africa,"Editor, commissioning",08/10/2023
+Ford,2013,PaleGreen,Van,electric,automatic,gasoline,10,141400.62,active,19808,13923,Brian Cervantes,59,Female,Australia,Oceania,Land,08/05/2025
+Mercedes-Benz,2014,Chocolate,Truck,hybrid,automatic,gasoline,10,141148.39,active,12965,24364,Robert Clay,40,Male,Canada,North America,Data processing manager,01/06/2022
+Kia,2002,RoyalBlue,Truck,hybrid,manual,hybrid,2,145264.6,active,12448,15218,Jean Lane,65,Male,Japan,Asia,"Engineer, land",03/11/2023
+Audi,2008,Lime,Coupe,electric,manual,diesel,7,182914.35,inactive,8840,23200,Susan Torres,28,Female,United Kingdom,Europe,Local government officer,27/11/2021
+Hyundai,2023,Aqua,SUV,electric,automatic,electric,7,269581.61,inactive,12112,19453,Kayla Abbott,50,Female,Brazil,South America,Biomedical engineer,15/04/2024
+Ford,2008,CadetBlue,SUV,petrol,automatic,gasoline,8,140850.46,inactive,9869,27176,Justin Irwin,20,Male,Germany,Europe,Herbalist,30/05/2021
+Kia,2015,LavenderBlush,SUV,petrol,automatic,electric,6,162971.6,inactive,10348,12740,Kevin Garrett,60,Female,Uganda,Africa,"Optician, dispensing",23/05/2024
+Volkswagen,2014,PowderBlue,Van,diesel,automatic,gasoline,3,20614.42,active,19553,20400,Mary Wells,35,Male,Brazil,South America,"Surveyor, building control",01/06/2024
+Hyundai,2020,MistyRose,Hatchback,diesel,automatic,electric,8,187711.95,active,9350,22216,Brittany Bright,45,Male,Rwanda,Africa,Contractor,31/03/2021
+Volkswagen,2017,Cornsilk,Coupe,diesel,manual,hybrid,9,299442.67,active,14970,17064,Brianna Dyer,51,Female,Japan,Asia,Copy,13/11/2021
+Audi,2024,DarkSlateGray,Van,petrol,automatic,gasoline,4,158060.2,inactive,15867,18507,Jennifer Bryant,79,Female,Uganda,Africa,Youth worker,04/09/2022
+Kia,2024,SaddleBrown,Hatchback,hybrid,automatic,hybrid,10,31925.5,active,12391,13623,Kristen Cole,79,Female,Rwanda,Africa,Equities trader,23/09/2022
+BMW,2002,Peru,Truck,electric,automatic,gasoline,8,90873.47,inactive,16393,14197,Laura Bradford,65,Male,Canada,North America,Retail banker,09/06/2023
+Honda,2019,PaleVioletRed,Van,petrol,manual,hybrid,9,280142.45,active,8376,15292,Laura Johnson,67,Male,Rwanda,Africa,Tax inspector,04/04/2025
+Hyundai,2002,NavajoWhite,Hatchback,electric,automatic,diesel,5,3322.17,active,13131,14967,John Vaughn,60,Male,China,Asia,Secretary/administrator,11/07/2023
+Hyundai,2003,SeaGreen,Hatchback,hybrid,manual,diesel,3,278306.33,active,8020,26346,Kelly Bishop,37,Male,United States,North America,Public house manager,23/10/2021
+Volkswagen,2006,Yellow,SUV,diesel,manual,hybrid,2,16132.29,active,18310,11709,Emily Brown,71,Female,United Kingdom,Europe,Social researcher,28/03/2021
+Kia,2010,SeaShell,SUV,diesel,manual,gasoline,7,289844.32,inactive,11863,20801,Taylor Berry,21,Female,China,Asia,"Pharmacist, community",24/02/2024
+Kia,2014,LightYellow,Hatchback,electric,automatic,hybrid,7,119316.79,inactive,16725,13477,Andrew Livingston,68,Female,India,Asia,"Surveyor, rural practice",13/05/2023
+BMW,2000,Chocolate,Van,electric,automatic,diesel,2,108462.07,active,10701,10926,Laura Berry,54,Female,Canada,North America,Aid worker,03/08/2023
+Toyota,2023,SlateBlue,Truck,petrol,automatic,hybrid,2,198349.63,active,13509,24218,Jonathan York,44,Female,Rwanda,Africa,Forensic psychologist,10/04/2022
+Mercedes-Benz,2017,LightSeaGreen,SUV,electric,automatic,hybrid,10,234125.52,inactive,13269,24105,David Figueroa,26,Male,Germany,Europe,"Therapist, art",07/06/2022
+Kia,2022,RosyBrown,Van,hybrid,automatic,electric,8,61541.76,inactive,11025,13178,Christopher Patton,71,Male,Uganda,Africa,Radio producer,07/09/2022
+Volkswagen,2009,Wheat,Sedan,diesel,automatic,hybrid,7,184877.62,inactive,19053,12961,Grace Miller,62,Male,Rwanda,Africa,"Therapist, nutritional",16/06/2022
+Hyundai,2018,Snow,SUV,hybrid,manual,gasoline,6,56472.59,inactive,10204,19022,Jennifer Reyes,76,Female,Germany,Europe,Diplomatic Services operational officer,10/12/2022
+Mercedes-Benz,2024,MediumTurquoise,Van,petrol,automatic,gasoline,2,277442.46,inactive,18072,14917,Dennis Weiss,54,Male,China,Asia,Diplomatic Services operational officer,03/02/2025
+Toyota,2011,PaleGoldenRod,Coupe,diesel,automatic,electric,2,85996.9,active,8714,11583,John Vaughan,62,Male,Zambia,Africa,Museum education officer,18/06/2024
+Volkswagen,2019,Sienna,Van,hybrid,manual,hybrid,5,58654.71,active,13826,19617,Joseph Graham,27,Female,United Kingdom,Europe,"Production assistant, radio",24/05/2024
+Mercedes-Benz,2011,Maroon,Hatchback,petrol,manual,gasoline,2,159175.21,active,13955,17847,Melanie Williams,62,Female,Australia,Oceania,Podiatrist,19/06/2023
+Volkswagen,2010,MediumSeaGreen,Truck,diesel,automatic,diesel,2,172359.36,active,14188,24926,Robert Scott,49,Female,Zambia,Africa,"Psychologist, clinical",16/03/2023
+Kia,2021,GoldenRod,SUV,petrol,manual,hybrid,6,145843.51,active,13289,19289,Megan Kaiser,71,Female,Japan,Asia,Sports development officer,27/03/2021
+Mercedes-Benz,2020,Aqua,Hatchback,diesel,manual,gasoline,2,2984.17,inactive,19701,11774,Alexandra Davis,52,Male,United States,North America,Product designer,20/02/2024
+Honda,2006,Indigo,Sedan,petrol,automatic,diesel,5,194670.13,inactive,8409,21482,Darlene Johnson,42,Male,Japan,Asia,Barista,28/12/2022
+Toyota,2003,DarkRed,Van,hybrid,automatic,hybrid,9,20076.05,inactive,13171,11700,Barbara Gates,53,Male,Canada,North America,Mining engineer,17/12/2025
+Toyota,2005,GhostWhite,Hatchback,electric,manual,diesel,6,25491.62,active,12745,20154,Melissa King,30,Female,Australia,Oceania,Call centre manager,01/01/2025
+Volkswagen,2014,LightSalmon,Van,electric,automatic,gasoline,4,181198.29,active,17460,18185,Melissa Contreras,61,Female,Australia,Oceania,Furniture designer,11/07/2022
+BMW,2003,Cornsilk,Coupe,diesel,manual,diesel,5,35770.8,inactive,18336,16709,Antonio Price,70,Male,Zambia,Africa,Further education lecturer,26/05/2023
+Audi,2004,Fuchsia,SUV,electric,automatic,hybrid,6,13880.04,active,17187,22321,John Mcfarland,40,Female,Australia,Oceania,"Editor, magazine features",01/05/2025
+Audi,2024,DarkMagenta,Coupe,petrol,manual,diesel,7,54591.87,inactive,16269,15520,Randy Robinson,67,Male,United Kingdom,Europe,Private music teacher,08/05/2023
+Ford,2025,DarkKhaki,Coupe,hybrid,manual,electric,3,277159.08,active,10830,19445,Benjamin Luna,33,Female,Australia,Oceania,Advertising account executive,19/05/2025
+Kia,2003,DeepPink,Van,petrol,automatic,diesel,4,8788.57,inactive,16757,19188,April Johnson,34,Female,India,Asia,Geographical information systems officer,09/06/2022
+Toyota,2001,MediumPurple,Hatchback,petrol,manual,gasoline,3,43919.07,inactive,19380,24459,Laura Robertson,40,Female,Uganda,Africa,Purchasing manager,08/11/2024
+Hyundai,2021,PaleGreen,Hatchback,hybrid,automatic,electric,9,248263.08,active,17026,18961,Priscilla Floyd,46,Male,Japan,Asia,"Accountant, chartered certified",01/06/2024
+Nissan,2009,SkyBlue,SUV,diesel,manual,gasoline,4,7228.18,active,10420,19978,Joseph Frey,79,Female,Zambia,Africa,Immunologist,21/07/2024
+Toyota,2003,Chartreuse,Hatchback,hybrid,automatic,gasoline,9,138147.19,active,19590,25566,Tina Davis,50,Female,Australia,Oceania,Catering manager,21/01/2025
+Nissan,2020,LightSteelBlue,Coupe,diesel,manual,electric,6,3934.81,active,11408,15643,Cassandra Williams,63,Female,Rwanda,Africa,"Engineer, aeronautical",09/09/2023
+Ford,2007,Orange,Coupe,hybrid,automatic,hybrid,3,296208.59,active,9445,28764,Lydia Howard,36,Male,Australia,Oceania,Primary school teacher,04/10/2022
+Toyota,2005,DarkSlateGray,SUV,electric,automatic,diesel,5,291001.75,active,16490,13569,Alexander Davies,52,Male,Rwanda,Africa,Records manager,14/06/2024
+Ford,2015,Coral,Sedan,petrol,automatic,gasoline,10,131774.39,inactive,13152,18508,Maria Porter,65,Female,Canada,North America,"Administrator, sports",18/06/2021
+Audi,2003,MediumSlateBlue,Sedan,hybrid,automatic,gasoline,3,140718.83,inactive,11231,11715,Richard Williams,59,Male,United States,North America,"Engineer, mining",06/08/2025
+BMW,2025,Salmon,Van,electric,manual,electric,8,17061.66,active,16714,24775,Sheila Herrera,41,Male,China,Asia,Building surveyor,17/06/2021
+Honda,2015,DarkTurquoise,Van,diesel,manual,diesel,2,105636.11,active,17014,22839,Alec Meadows DDS,49,Male,Rwanda,Africa,"Conservator, furniture",08/04/2021
+Honda,2000,ForestGreen,Coupe,hybrid,manual,electric,8,3944.48,active,10665,16811,Summer Hoover,60,Male,Australia,Oceania,"Programmer, multimedia",07/08/2022
+Nissan,2014,Coral,Hatchback,electric,automatic,hybrid,6,134410.62,active,12817,26477,Ashley Crawford,22,Male,Rwanda,Africa,Biomedical scientist,14/11/2022
+Audi,2021,Pink,Coupe,hybrid,automatic,hybrid,8,254704.35,active,14377,22351,Russell Rojas,32,Female,United States,North America,"Journalist, broadcasting",05/03/2022
+Kia,2006,YellowGreen,Van,diesel,manual,electric,7,245185.04,active,17432,23842,Russell Mcguire,50,Male,Uganda,Africa,"Therapist, horticultural",15/08/2022
+Toyota,2004,MediumSeaGreen,Van,petrol,manual,gasoline,5,283937.63,active,16635,17693,Donald Todd,60,Male,United Kingdom,Europe,Merchant navy officer,08/11/2025
+Mercedes-Benz,2005,FireBrick,Hatchback,hybrid,automatic,gasoline,8,158454.74,active,18093,18813,Timothy Williams,26,Male,Australia,Oceania,Video editor,06/05/2024
+Toyota,2004,DimGray,Coupe,electric,automatic,hybrid,2,187219.82,active,9533,12878,John Smith,52,Male,Brazil,South America,Chartered public finance accountant,24/07/2023
+Mercedes-Benz,2005,PapayaWhip,Sedan,electric,automatic,diesel,9,196520.91,inactive,8005,13569,Rebecca Alvarez,51,Male,United States,North America,"Engineer, maintenance",13/05/2022
+BMW,2000,LightPink,Van,hybrid,automatic,hybrid,8,62567.8,active,18452,17713,Jennifer Hurley,53,Male,Rwanda,Africa,"Therapist, occupational",05/09/2022
+Audi,2015,SpringGreen,Coupe,electric,manual,hybrid,4,97808.44,active,19353,14839,Anita Serrano,65,Female,India,Asia,Magazine features editor,16/09/2024
+BMW,2025,AntiqueWhite,Sedan,hybrid,manual,gasoline,10,266682.37,active,19241,25170,Cheryl Downs,27,Male,China,Asia,Water engineer,23/03/2024
+Mercedes-Benz,2011,Yellow,Hatchback,petrol,automatic,diesel,9,98775.89,inactive,10402,10729,Julie Sims,66,Male,Germany,Europe,Health and safety inspector,06/08/2021
+Kia,2018,GoldenRod,Coupe,hybrid,automatic,electric,4,139577.31,active,15072,13174,Chase Anthony,73,Female,Zambia,Africa,Research scientist (medical),24/08/2022
+Mercedes-Benz,2010,DimGray,Hatchback,electric,manual,gasoline,5,65176.58,active,16983,13152,Amanda Newman,67,Female,Rwanda,Africa,"Engineer, manufacturing systems",04/11/2024
+Toyota,2021,LightCoral,Coupe,petrol,automatic,electric,4,124583.1,active,12287,22779,Robert Chang,39,Male,United Kingdom,Europe,Civil Service administrator,04/08/2021
+Toyota,2014,WhiteSmoke,Hatchback,electric,automatic,hybrid,3,48965.5,active,15281,11182,Richard Washington,67,Male,Uganda,Africa,Building services engineer,24/02/2023
+Toyota,2017,Red,Truck,petrol,manual,diesel,3,137683.46,active,15903,24899,Erika Gonzalez,24,Female,Australia,Oceania,Event organiser,31/01/2022
+Mercedes-Benz,2012,MediumOrchid,Hatchback,diesel,automatic,gasoline,7,2885.89,inactive,8791,11264,David Gutierrez,51,Male,Uganda,Africa,Mining engineer,09/01/2023
+Volkswagen,2018,Cornsilk,SUV,hybrid,automatic,hybrid,9,242498.07,active,19004,12098,John Zamora,72,Male,Canada,North America,"Engineer, technical sales",06/01/2025
+BMW,2005,Fuchsia,Hatchback,diesel,manual,hybrid,4,202291.41,active,9947,11033,Chad Cortez,71,Female,Canada,North America,Geophysicist/field seismologist,13/11/2022
+Volkswagen,2001,MediumSeaGreen,Sedan,electric,manual,hybrid,10,177735.6,active,10195,23912,Michael Brown,39,Male,China,Asia,Clinical psychologist,08/02/2025
+Audi,2000,Salmon,Truck,electric,manual,diesel,10,227636.87,inactive,8599,17103,Philip Robinson,69,Female,Uganda,Africa,Trade mark attorney,25/06/2022
+Kia,2021,FloralWhite,Coupe,petrol,automatic,diesel,8,54224.96,inactive,14724,14256,Kristen Hall,55,Female,India,Asia,"Scientist, research (maths)",22/04/2025
+Honda,2004,IndianRed,Truck,petrol,manual,gasoline,3,214277.41,inactive,17101,14075,Sara Ramirez,57,Female,Germany,Europe,Fine artist,03/04/2023
+Toyota,2013,MediumOrchid,Coupe,diesel,manual,diesel,7,250565.69,active,14054,19389,Daniel Pennington,52,Male,Canada,North America,"Teacher, secondary school",10/03/2021
+BMW,2012,PapayaWhip,Sedan,diesel,manual,hybrid,7,75697.81,inactive,11591,15323,Amanda Ruiz,76,Male,Burundi,Africa,"Physicist, medical",31/08/2025
+Mercedes-Benz,2018,OrangeRed,Coupe,electric,automatic,diesel,5,172258.06,inactive,12445,19572,Robert Nicholson,72,Female,Zambia,Africa,Research scientist (life sciences),12/03/2023
+Kia,2012,DarkBlue,SUV,petrol,automatic,diesel,2,154853.76,inactive,17446,11696,Alexandria Dennis,62,Male,Zambia,Africa,Consulting civil engineer,12/03/2024
+Nissan,2009,LightYellow,Truck,petrol,manual,gasoline,6,239434.14,inactive,11469,26298,Zachary Smith,41,Female,United States,North America,"Designer, television/film set",19/01/2025
+Toyota,2024,Bisque,SUV,hybrid,automatic,electric,5,185843.4,active,12869,24876,Julie Taylor,49,Female,Germany,Europe,Electrical engineer,18/04/2024
+Nissan,2022,SandyBrown,Truck,hybrid,manual,electric,8,43979.08,active,8706,27542,April Burton,48,Female,Brazil,South America,Learning mentor,30/08/2025
+Audi,2007,BlanchedAlmond,SUV,electric,manual,electric,4,151099.95,inactive,12801,11883,Paul Wolfe,73,Male,Canada,North America,Catering manager,01/01/2024
+Audi,2011,Chartreuse,Sedan,electric,automatic,gasoline,4,115058.29,inactive,15015,25506,Susan Cox,29,Male,Uganda,Africa,Clinical psychologist,27/05/2024
+Honda,2001,Moccasin,Van,electric,manual,electric,8,236083.7,inactive,8916,24947,Andrew Richardson,46,Male,United Kingdom,Europe,"Surveyor, mining",21/11/2022
+BMW,2012,DarkSlateGray,Sedan,electric,manual,electric,7,10323.27,active,19831,19458,Mrs. Ashley Mendoza,70,Male,United States,North America,Equality and diversity officer,15/11/2023
+Nissan,2000,MidnightBlue,Coupe,diesel,automatic,electric,8,196885.77,active,9997,15843,Kathy Henderson,63,Male,Germany,Europe,Biomedical scientist,26/04/2024
+Volkswagen,2000,MediumTurquoise,Truck,petrol,manual,diesel,4,19430.84,active,18093,18250,Jonathan Gallegos,47,Female,Australia,Oceania,Ship broker,05/09/2025
+Audi,2025,LightSteelBlue,Truck,hybrid,manual,gasoline,4,83186.24,inactive,12104,13073,Jacob Nunez,55,Male,Burundi,Africa,Emergency planning/management officer,15/01/2025
+Volkswagen,2012,DarkCyan,Sedan,petrol,manual,diesel,5,88546.37,active,10862,25206,Steven Roberts,27,Male,Burundi,Africa,Clinical embryologist,19/07/2022
+BMW,2015,LightSalmon,Truck,petrol,manual,hybrid,9,97102.1,active,17731,28534,Charles Hernandez,43,Male,United States,North America,"Scientist, research (life sciences)",04/05/2021
+Ford,2013,LightYellow,Truck,diesel,manual,electric,6,81328.23,active,8593,12579,Michael Huynh,62,Female,Burundi,Africa,"Loss adjuster, chartered",20/09/2024
+Nissan,2009,Red,Sedan,petrol,automatic,electric,4,286328.31,active,11382,11665,Alison Lopez,74,Male,Canada,North America,Exhibition designer,26/07/2025
+Ford,2022,MediumSeaGreen,Hatchback,diesel,manual,hybrid,3,209180.67,active,18115,15796,Grant Lucas,57,Female,United Kingdom,Europe,"Radiographer, diagnostic",28/08/2025
+Nissan,2000,Red,Hatchback,diesel,automatic,hybrid,5,128736.29,active,12089,14542,Keith Villanueva,75,Female,Canada,North America,Dramatherapist,11/05/2023
+Toyota,2000,Khaki,Hatchback,electric,automatic,hybrid,8,124326.17,active,17003,17022,Dr. Randy Williams,79,Female,Australia,Oceania,Higher education careers adviser,09/01/2025
+Audi,2024,FireBrick,Truck,petrol,manual,electric,4,56346.61,inactive,10562,18100,Caitlyn Nichols,53,Male,Zambia,Africa,Economist,14/06/2022
+Hyundai,2006,DodgerBlue,Van,petrol,manual,electric,8,9597.6,inactive,15719,11160,Andrew Stewart,66,Male,Uganda,Africa,Prison officer,13/05/2023
+Nissan,2007,NavajoWhite,Coupe,electric,manual,gasoline,8,103767.41,inactive,18289,15421,Justin Johnson,63,Female,Canada,North America,Local government officer,28/05/2022
+Hyundai,2020,Navy,Sedan,electric,manual,gasoline,8,176173.61,inactive,18454,18749,William Ferguson,21,Male,Uganda,Africa,Agricultural consultant,02/08/2024
+Hyundai,2025,SpringGreen,Hatchback,electric,manual,diesel,7,66740.51,inactive,9371,15742,Theresa Reilly,62,Male,Rwanda,Africa,"Accountant, chartered management",16/10/2025
+Ford,2022,Tan,Truck,petrol,manual,hybrid,4,114236.75,active,12760,10973,Michael Wells,67,Female,Canada,North America,"Teacher, secondary school",25/05/2022
+BMW,2004,Red,Truck,electric,automatic,diesel,10,148598.51,active,19860,28833,Brian Mendoza,32,Male,Rwanda,Africa,Corporate treasurer,31/10/2025
+Mercedes-Benz,2015,DarkOrange,Van,diesel,manual,hybrid,7,6785.07,active,12069,29472,James Randall,40,Female,Burundi,Africa,Marketing executive,07/12/2021
+Kia,2007,MediumOrchid,Coupe,petrol,manual,gasoline,8,92350.87,inactive,10955,13227,Martin Silva,55,Male,Rwanda,Africa,Health physicist,24/10/2022
+Hyundai,2022,Beige,Van,petrol,automatic,electric,7,25591.89,active,14112,12642,Samuel Rhodes,59,Male,Australia,Oceania,Science writer,02/07/2024
+Kia,2022,GoldenRod,Truck,petrol,automatic,gasoline,6,173042.91,inactive,9099,24808,Larry Hunt Jr.,37,Female,China,Asia,Occupational therapist,28/05/2022
+Kia,2021,Pink,SUV,diesel,automatic,diesel,3,246225.32,active,19871,12390,Jake Mitchell,60,Female,Canada,North America,Insurance account manager,08/12/2024
+Kia,2012,DarkCyan,Sedan,petrol,automatic,diesel,4,165371.37,active,11202,20262,Stephen Figueroa,43,Female,India,Asia,Probation officer,08/08/2023
+Kia,2011,DodgerBlue,Truck,electric,manual,diesel,9,148616.88,inactive,15947,11195,Tracy Coleman,51,Female,Brazil,South America,Corporate treasurer,21/02/2026
+Honda,2010,DarkCyan,Hatchback,diesel,manual,electric,7,120909.32,inactive,19129,19029,Eric Mcneil,22,Female,Zambia,Africa,Brewing technologist,05/05/2024
+Mercedes-Benz,2010,DarkCyan,Sedan,petrol,automatic,gasoline,9,78481.11,active,18352,15160,Mark Nelson,60,Male,Brazil,South America,"Surveyor, commercial/residential",28/01/2025
+Audi,2024,DarkSlateGray,Coupe,hybrid,automatic,gasoline,7,62625.32,inactive,16940,19439,Ronnie Roberts,63,Female,Uganda,Africa,Archivist,19/09/2023
+Mercedes-Benz,2007,LimeGreen,SUV,electric,automatic,gasoline,8,16431.4,inactive,9510,18486,Patrick Walker DDS,30,Male,Japan,Asia,Garment/textile technologist,13/09/2023
+Toyota,2015,SeaShell,Hatchback,electric,automatic,diesel,7,60241.47,inactive,13594,27274,Maxwell Roberts,34,Male,Zambia,Africa,Regulatory affairs officer,25/03/2023
+Hyundai,2018,Black,Coupe,petrol,manual,gasoline,7,242427.73,inactive,15932,19640,Donald Gamble,64,Male,Uganda,Africa,Tour manager,22/03/2024
+BMW,2025,SkyBlue,Hatchback,petrol,automatic,diesel,2,224884.2,inactive,18928,20984,Sheena Burton,23,Female,Japan,Asia,Communications engineer,27/04/2024
+Honda,2009,Thistle,Van,diesel,manual,gasoline,8,187678.01,inactive,19363,16560,Alicia Green,70,Male,United Kingdom,Europe,Dancer,13/11/2023
+Kia,2012,SandyBrown,Hatchback,hybrid,automatic,gasoline,10,229425.4,inactive,16590,26671,Brandy Martin,47,Female,France,Europe,Media planner,18/09/2024
+Hyundai,2004,MintCream,SUV,hybrid,automatic,gasoline,3,188117.26,inactive,14045,28053,Eddie Fowler,31,Male,Zambia,Africa,"Scientist, audiological",18/10/2022
+Hyundai,2022,Gainsboro,Hatchback,electric,manual,diesel,7,263832.53,inactive,12947,28292,Linda Jackson,20,Female,China,Asia,Interpreter,16/09/2023
+Ford,2022,LightPink,SUV,electric,automatic,diesel,7,24791.09,inactive,14574,13808,Melissa Davis,57,Female,Zambia,Africa,Cytogeneticist,04/04/2021
+Toyota,2018,DarkSlateGray,Hatchback,electric,manual,hybrid,8,22551.5,active,10657,29963,Jacqueline Washington,32,Female,United Kingdom,Europe,"Designer, textile",07/01/2022
+Ford,2011,IndianRed,Van,electric,automatic,electric,8,278257.03,active,16905,11115,Daniel Lopez,58,Male,United Kingdom,Europe,Pensions consultant,23/01/2025
+BMW,2013,Crimson,SUV,diesel,manual,gasoline,9,41159.8,inactive,9858,25967,Carlos Smith,22,Female,China,Asia,Insurance underwriter,25/03/2024
+Kia,2021,DarkSlateGray,Sedan,diesel,automatic,diesel,2,92656.54,inactive,11544,18546,Stacy Harper,74,Female,Canada,North America,Drilling engineer,27/09/2023
+Kia,2022,Black,Sedan,electric,manual,hybrid,10,186387.62,active,15720,17011,Barbara Anderson,59,Male,Rwanda,Africa,Ergonomist,06/10/2023
+Honda,2006,DarkSalmon,SUV,electric,automatic,gasoline,5,299804.12,inactive,15952,15630,William Coleman,70,Male,Japan,Asia,Careers adviser,22/04/2021
+Ford,2014,SkyBlue,Hatchback,petrol,automatic,electric,2,163314.92,inactive,11007,16032,Amanda Rodriguez,66,Male,United States,North America,"Psychotherapist, child",27/02/2022
+Audi,2013,LightCoral,Truck,diesel,automatic,electric,4,111531.66,inactive,8173,19092,Eric Smith,50,Male,United Kingdom,Europe,Community pharmacist,23/11/2022
+Mercedes-Benz,2017,Green,Truck,electric,automatic,diesel,9,38141.71,active,9605,22673,Gregory Davis,49,Female,Rwanda,Africa,TEFL teacher,08/02/2024
+Kia,2014,MidnightBlue,Hatchback,electric,manual,gasoline,4,213207.42,inactive,17459,10355,Jonathan Chandler,71,Male,Zambia,Africa,Risk analyst,30/12/2025
+Honda,2025,CornflowerBlue,Truck,electric,automatic,electric,10,115812.81,inactive,13347,19055,Kenneth Smith,47,Male,Rwanda,Africa,"Engineer, agricultural",18/07/2023
+Nissan,2009,FloralWhite,Hatchback,electric,automatic,electric,4,135690.88,active,11425,11981,Kimberly Beltran,61,Male,United Kingdom,Europe,"Engineer, site",08/06/2025
+Audi,2011,Sienna,Truck,petrol,manual,diesel,3,182990.23,inactive,13666,21668,Kevin Gonzales,40,Male,United Kingdom,Europe,"Education officer, community",01/03/2024
+Mercedes-Benz,2008,Olive,Van,petrol,automatic,electric,5,257161.69,active,16218,13547,Jose Russell,72,Female,United States,North America,Community pharmacist,09/02/2025
+BMW,2016,DarkOliveGreen,Van,hybrid,manual,gasoline,9,246148.77,active,13211,23583,Kathleen Ward,47,Female,China,Asia,"Surveyor, hydrographic",29/06/2021
+Honda,2015,DarkBlue,Van,electric,automatic,electric,7,85744.27,active,16158,20477,Brian Campbell,48,Female,Rwanda,Africa,"Producer, radio",25/01/2023
+Hyundai,2011,PaleTurquoise,Coupe,diesel,automatic,diesel,8,113717.81,active,19839,25217,Scott Lopez,27,Male,Japan,Asia,Publishing copy,09/04/2024
+Audi,2012,Fuchsia,Coupe,hybrid,automatic,hybrid,10,132772.64,inactive,10870,12689,Michael Powers,53,Female,Rwanda,Africa,Primary school teacher,04/08/2025
+BMW,2011,DarkBlue,Sedan,hybrid,manual,hybrid,5,217113.5,inactive,19017,10927,James Neal,78,Male,Zambia,Africa,Dispensing optician,12/09/2021
+Hyundai,2017,Moccasin,Van,electric,automatic,hybrid,3,64194.71,active,19193,21519,Gina Larson,43,Female,Japan,Asia,Community education officer,16/02/2023
+Kia,2008,Peru,Coupe,diesel,automatic,hybrid,9,145793.11,inactive,17345,19844,Diana Reeves,70,Female,United States,North America,Office manager,05/03/2024
+Hyundai,2021,Sienna,Sedan,petrol,manual,gasoline,6,127891.17,inactive,19184,10955,Tiffany Archer,64,Female,Zambia,Africa,Data processing manager,05/01/2025
+Ford,2020,DarkMagenta,Hatchback,diesel,manual,electric,3,126574.88,inactive,10304,21741,John Hall,24,Male,China,Asia,Air traffic controller,29/12/2021
+Honda,2009,CadetBlue,Van,diesel,automatic,diesel,2,139247.07,inactive,19230,14191,Kathleen Johnson,74,Male,Japan,Asia,Museum/gallery exhibitions officer,05/12/2023
+Hyundai,2011,DeepSkyBlue,SUV,petrol,automatic,diesel,4,81495.37,inactive,19346,20325,Marcus Wolf,34,Female,Australia,Oceania,"Psychologist, prison and probation services",12/11/2022
+Nissan,2024,LightYellow,Sedan,hybrid,manual,gasoline,9,165880.6,inactive,8648,15079,Katherine Green,69,Female,United States,North America,"Sound technician, broadcasting/film/video",18/10/2025
+Honda,2018,Azure,SUV,hybrid,manual,gasoline,7,48903.49,active,12044,10121,Amanda Jordan,72,Male,United Kingdom,Europe,Music therapist,22/12/2024
+Mercedes-Benz,2000,Maroon,Sedan,petrol,automatic,gasoline,9,108401.92,active,18401,21179,Jessica Johnson,24,Male,France,Europe,"Surveyor, hydrographic",22/09/2023
+Toyota,2010,FireBrick,SUV,electric,automatic,gasoline,5,60121.95,inactive,18290,13599,Chad Baldwin MD,79,Male,France,Europe,"Teacher, adult education",27/04/2025
+Nissan,2012,Yellow,Truck,electric,automatic,diesel,5,96432.17,active,18389,14128,Karen Dickerson,62,Male,Uganda,Africa,"Nurse, adult",22/05/2023
+Hyundai,2012,Snow,Van,petrol,manual,hybrid,5,233925.07,active,14372,24788,Jamie Rhodes,34,Female,Canada,North America,IT sales professional,01/09/2021
+Toyota,2019,Black,SUV,diesel,manual,diesel,6,175172.46,inactive,16475,26100,Bethany Richardson,26,Male,Burundi,Africa,Licensed conveyancer,20/05/2024
+Mercedes-Benz,2002,DarkGray,Sedan,diesel,automatic,gasoline,7,293257.78,inactive,19365,26241,William Jenkins,35,Male,United Kingdom,Europe,Financial risk analyst,03/04/2023
+Nissan,2005,LavenderBlush,Truck,diesel,automatic,electric,9,234581.96,active,19422,14536,Leslie Lozano,68,Male,United States,North America,Industrial/product designer,13/02/2022
+Nissan,2007,MediumSlateBlue,Coupe,petrol,manual,electric,9,255270.34,active,18980,19864,Joshua Johnson,38,Female,Canada,North America,Tax inspector,11/07/2025
+Toyota,2019,PeachPuff,SUV,diesel,automatic,diesel,8,40136.34,active,8448,11237,Michael Chapman,65,Female,United Kingdom,Europe,Multimedia programmer,31/12/2025
+Honda,2008,Orange,Coupe,electric,manual,hybrid,2,146899.76,active,8004,16606,Brent Freeman,74,Male,India,Asia,Legal secretary,16/05/2025
+Hyundai,2012,SteelBlue,Van,electric,manual,hybrid,3,57063.61,inactive,9883,28783,Mary Jackson,34,Female,France,Europe,Medical physicist,08/11/2024
+BMW,2008,Green,Van,hybrid,manual,hybrid,7,232566.9,inactive,10639,12812,Ryan Cobb PhD,52,Male,France,Europe,Holiday representative,27/05/2023
+Volkswagen,2002,BurlyWood,Coupe,diesel,automatic,electric,6,103709.8,inactive,18900,15892,Kenneth Ballard,54,Male,Zambia,Africa,Technical sales engineer,14/12/2021
+Kia,2009,MediumSlateBlue,SUV,electric,automatic,gasoline,3,230703.37,inactive,17389,14078,Keith Schmidt,53,Female,France,Europe,"Engineer, manufacturing systems",07/02/2024
+Nissan,2011,Crimson,Van,hybrid,manual,diesel,9,136911.69,active,11766,26353,Elizabeth Brock,26,Female,United States,North America,"Solicitor, Scotland",24/10/2023
+Kia,2018,Green,Truck,hybrid,automatic,hybrid,5,193812.18,active,12191,16310,David Robertson,77,Male,India,Asia,Advertising account executive,15/07/2025
+Volkswagen,2016,GhostWhite,Truck,hybrid,manual,electric,8,84773.62,inactive,14498,22883,Christy Hayden,34,Female,Zambia,Africa,"Geologist, wellsite",05/09/2025
+Toyota,2009,PowderBlue,Sedan,diesel,manual,diesel,9,198203.89,inactive,15066,23987,Molly Brown,38,Male,Zambia,Africa,Medical sales representative,29/01/2025
+Honda,2008,DarkViolet,Van,diesel,automatic,electric,3,59748.69,inactive,13930,14558,Paul Cannon,60,Female,Zambia,Africa,Paediatric nurse,10/11/2023
+Volkswagen,2010,Coral,Sedan,electric,automatic,hybrid,10,118318.45,inactive,8482,28476,Sarah Adams,32,Female,Australia,Oceania,"Designer, multimedia",30/04/2023
+BMW,2018,LavenderBlush,SUV,petrol,manual,hybrid,6,135305.19,active,8887,13776,Brian Lee,80,Male,United Kingdom,Europe,Insurance claims handler,04/02/2025
+Hyundai,2009,SlateBlue,Hatchback,petrol,manual,diesel,3,140222.06,active,8267,10043,Jessica Lucas,67,Male,India,Asia,"Engineer, drilling",03/07/2022
+Honda,2022,LightPink,SUV,electric,manual,diesel,7,255443.04,inactive,15918,11311,David Lara,73,Male,United Kingdom,Europe,Archivist,12/04/2025
+Audi,2017,Beige,Truck,electric,automatic,diesel,2,141983.47,inactive,15451,26845,Steven Edwards,33,Female,Uganda,Africa,Bonds trader,10/08/2024
+Hyundai,2009,Moccasin,SUV,petrol,automatic,electric,3,35235.53,active,14219,15898,Stacey Sanders,70,Male,Canada,North America,Fashion designer,05/02/2022
+Hyundai,2014,SteelBlue,Truck,petrol,manual,electric,6,62465.19,inactive,17218,18915,Kelly Calderon,20,Female,Uganda,Africa,Research scientist (maths),30/11/2021
+Honda,2003,LavenderBlush,Sedan,diesel,manual,hybrid,10,59106.73,active,14929,10732,Patricia Edwards,75,Female,Uganda,Africa,Fashion designer,28/09/2024
+Hyundai,2012,IndianRed,Sedan,hybrid,automatic,diesel,2,214183.44,active,10547,11008,Christopher Booker,77,Female,Canada,North America,Osteopath,24/04/2023
+Kia,2011,Chartreuse,Sedan,petrol,manual,diesel,4,59325.88,active,8690,25267,James Fry MD,42,Female,Brazil,South America,Public relations officer,30/03/2023
+Honda,2021,LightSeaGreen,Hatchback,diesel,automatic,diesel,5,252295.27,active,15168,29248,Taylor Cox,39,Female,United States,North America,Insurance account manager,29/04/2021
+Nissan,2009,BlanchedAlmond,Van,petrol,automatic,hybrid,10,166390.85,inactive,17162,12013,Mary Everett,62,Male,France,Europe,Forensic scientist,06/11/2025
+Ford,2013,OliveDrab,Coupe,electric,manual,diesel,8,122885.35,active,14348,11732,Tyler Cox,57,Male,China,Asia,Social researcher,27/02/2023
+Kia,2001,Red,Coupe,diesel,manual,diesel,9,158793.18,active,14030,10262,Theodore Long,73,Female,Germany,Europe,Illustrator,30/11/2021
+Honda,2013,LavenderBlush,Coupe,electric,manual,electric,3,230479.46,inactive,17101,19640,Scott Martin,20,Female,Brazil,South America,Investment analyst,08/08/2024
+BMW,2006,BlanchedAlmond,Hatchback,diesel,manual,gasoline,10,252782.73,inactive,15974,28276,Bobby Chan,31,Female,United Kingdom,Europe,Public affairs consultant,29/08/2024
+Volkswagen,2019,MediumSeaGreen,SUV,hybrid,automatic,electric,7,263525.22,active,15816,11041,Sherri Wilkins,68,Male,Canada,North America,Games developer,15/06/2025
+Audi,2001,Coral,Truck,petrol,automatic,hybrid,10,252330.99,inactive,15019,13661,Lance Li,61,Female,India,Asia,Professor Emeritus,18/05/2021
+Volkswagen,2006,CadetBlue,Hatchback,electric,automatic,gasoline,6,68110.37,active,9454,28794,Catherine Ramos,50,Male,France,Europe,"Accountant, chartered certified",21/07/2024
+Volkswagen,2020,Green,Hatchback,diesel,manual,electric,9,194299.29,active,14463,17424,Emily Miller,75,Male,Canada,North America,Fisheries officer,16/07/2025
+Kia,2013,DarkSeaGreen,Van,electric,automatic,diesel,3,34007.72,active,19512,13818,Melissa Sparks,70,Female,China,Asia,Production engineer,20/03/2025
+Toyota,2006,DarkSlateBlue,Hatchback,hybrid,manual,hybrid,7,65969.06,inactive,18856,29809,Michael Serrano,47,Female,Japan,Asia,"Engineer, civil (contracting)",12/11/2021
+Honda,2023,PapayaWhip,Sedan,hybrid,automatic,gasoline,4,210695.46,active,8791,24205,James Bennett,20,Male,United States,North America,Advertising art director,05/05/2021
+Honda,2010,Khaki,SUV,hybrid,manual,gasoline,8,49319.37,active,15499,19946,Valerie Gonzalez,67,Male,Burundi,Africa,Artist,22/07/2024
+BMW,2016,Pink,Hatchback,electric,automatic,hybrid,10,93253.39,active,15641,11432,Brittany Rubio,65,Male,Germany,Europe,Tax adviser,22/02/2022
+BMW,2018,Aquamarine,Coupe,electric,automatic,hybrid,8,271393.91,active,17015,26964,Jessica Mora,43,Female,Germany,Europe,"Research officer, trade union",26/02/2022
+Nissan,2007,Ivory,Sedan,diesel,manual,hybrid,3,244470.69,inactive,9136,29513,Cheryl Atkins,42,Female,Germany,Europe,Holiday representative,08/05/2025
+Nissan,2020,Olive,SUV,hybrid,automatic,gasoline,8,23722.9,inactive,16366,18779,Scott Greene,28,Female,Australia,Oceania,Energy engineer,14/09/2024
+Volkswagen,2024,Gainsboro,Truck,electric,automatic,diesel,6,288930.94,active,10947,19899,Charles Roberts,22,Female,Zambia,Africa,Fashion designer,25/12/2024
+Honda,2009,LightBlue,Truck,diesel,manual,electric,6,127171.37,active,11180,29936,Michael Ellis,45,Male,Burundi,Africa,"Psychotherapist, child",12/04/2022
+Hyundai,2001,MediumBlue,Hatchback,diesel,manual,hybrid,8,200308.21,active,10817,10943,Jennifer Lewis,72,Female,Germany,Europe,Pharmacologist,30/04/2023
+Mercedes-Benz,2016,Cornsilk,Coupe,petrol,manual,hybrid,4,274377.62,active,13929,28990,Anthony Cook,45,Male,Brazil,South America,Public affairs consultant,28/02/2024
+Audi,2017,Brown,Hatchback,hybrid,automatic,gasoline,2,103037.26,inactive,13829,20706,Jonathan James,42,Female,Burundi,Africa,Metallurgist,09/04/2022
+BMW,2012,BlueViolet,Hatchback,electric,manual,diesel,5,193764.8,inactive,9944,12284,Debbie Gordon,68,Female,Canada,North America,Psychotherapist,08/04/2022
+Kia,2017,DarkCyan,Van,electric,manual,gasoline,10,243555.64,inactive,14411,29838,Joseph Thomas,50,Male,Japan,Asia,Intelligence analyst,10/07/2021
+Kia,2013,DarkSalmon,Van,electric,automatic,gasoline,9,101390.25,active,9153,10624,Dr. Douglas Ward MD,51,Female,France,Europe,Video editor,23/05/2023
+Mercedes-Benz,2021,Tomato,Sedan,electric,manual,gasoline,4,54187.9,active,17222,11912,Steven Stewart,58,Female,Burundi,Africa,Dentist,15/11/2025
+BMW,2013,Purple,Coupe,diesel,manual,electric,6,252849.44,active,15878,19917,Charles Hall,30,Male,United Kingdom,Europe,"Psychotherapist, dance movement",12/05/2023
+BMW,2008,DodgerBlue,Sedan,diesel,manual,hybrid,4,47083.76,active,17753,16115,Jessica Carney,60,Female,United Kingdom,Europe,Architect,25/11/2024
+BMW,2009,MintCream,Van,petrol,automatic,electric,5,164408.29,active,13731,17437,Kristina Ellis MD,51,Male,India,Asia,Community pharmacist,14/02/2024
+Volkswagen,2014,DarkGoldenRod,Van,petrol,manual,hybrid,2,37818.18,inactive,10457,12372,Duane Conley,59,Female,Canada,North America,"Surveyor, quantity",16/02/2026
+Toyota,2018,HotPink,Sedan,diesel,manual,diesel,10,171122.68,inactive,12108,29274,Valerie Fox,21,Male,Australia,Oceania,Pension scheme manager,19/10/2021
+Volkswagen,2023,LightBlue,Truck,electric,manual,diesel,4,158920.77,active,12507,21100,Megan Clay,45,Male,France,Europe,Higher education careers adviser,09/03/2022
+Toyota,2005,OrangeRed,SUV,electric,automatic,electric,5,137375.92,inactive,11509,24653,Timothy Rodriguez,44,Female,China,Asia,"Designer, exhibition/display",23/05/2021
+Ford,2023,Cyan,Van,petrol,manual,hybrid,3,174548.14,inactive,16624,28847,Michael Castillo,32,Female,Canada,North America,"Therapist, music",13/03/2021
+Kia,2008,MediumPurple,Van,hybrid,automatic,hybrid,6,128074.43,active,15489,16517,Mary Tapia,60,Female,United States,North America,"Teacher, adult education",31/03/2022
+Mercedes-Benz,2011,HotPink,Coupe,hybrid,automatic,gasoline,10,41551.15,active,19516,10178,Rebecca Campbell,59,Male,Burundi,Africa,Building services engineer,19/10/2025
+Honda,2024,Olive,Truck,hybrid,automatic,gasoline,7,29886.29,active,17287,13524,David Allen,52,Female,Japan,Asia,Chartered public finance accountant,27/04/2021
+Kia,2005,HoneyDew,Van,electric,manual,gasoline,2,261542.16,active,14819,25871,Richard Mitchell,34,Male,Rwanda,Africa,Community arts worker,08/09/2023
+Honda,2014,SlateGray,SUV,diesel,automatic,hybrid,6,19355.46,inactive,16318,21980,Nancy Dorsey,46,Male,France,Europe,Mechanical engineer,18/12/2021
+BMW,2025,NavajoWhite,Van,hybrid,manual,diesel,7,221197.93,inactive,16942,12556,Katherine Mcclure,53,Female,Brazil,South America,"Geologist, wellsite",08/12/2025
