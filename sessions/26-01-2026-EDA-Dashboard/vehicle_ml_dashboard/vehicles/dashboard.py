@@ -18,6 +18,13 @@ def frequency_table(df):
         justify='center'
     )
     return table_html
+def frequency_bar_chart(df):
+    """Generate a bar chart for manufacturer frequencies."""
+    manufacturer_counts = df['manufacturer'].value_counts().reset_index()
+    manufacturer_counts.columns = ['Manufacturer', 'Count']
+    fig = px.bar(manufacturer_counts, x='Manufacturer', y='Count', title='Manufacturer Frequency')
+    return opy.plot(fig, output_type='div')
+
 def sales_visualization_table(df):
     df['profit']=df['selling_price']-df['wholesale_price']
     table_html= df.groupby(['manufacturer','transmission','fuel_type']).agg({
@@ -70,6 +77,16 @@ def pivot_table(df):
     return table_html
 def sales_visualization_with_sunburst_chart(df,height=800):
     fig=px.sunburst(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')
+def sales_visualization_with_tree_map_chart(df,height=800):
+    fig=px.treemap(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')
+def sales_visualization_with_icicle_chart(df,height=800):
+    fig=px.icicle(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
     fig.update_traces(textinfo='label+value')
     fig.update_layout(height=height)
     return opy.plot(fig,output_type='div')
