@@ -69,6 +69,11 @@
               href="#pivot-table"
               >Pivot Table
             </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#sunburst-chart"
+              >Sunburst Chart
+            </a>
           </div>
         </div>
 
@@ -131,6 +136,13 @@
                 Pivot Table
               </div>
               <div class="card-body">{{ pivot_table|safe }}</div>
+            </div>
+
+            <div id="sunburst-chart" class="card shadow mb-5">
+              <div class="card-header bg-success text-white">
+                Sales Visualization with Sunburst Chart
+              </div>
+              <div class="card-body">{{ sales_sunburst_chart|safe }}</div>
             </div>
           </div>
         </div>

@@ -7,8 +7,10 @@ from .dashboard import (
     multi_dimensional_tabulation_visualization_table,
     cross_tabulation_with_more_details_visualization_table,
     cross_tabulation_with_lambda_visualization_table,
-    pivot_table
+    pivot_table,
+    sales_visualization_with_sunburst_chart
 )
+
 def dashboard_view(request):
     """Main dashboard view that loads vehicle data and renders charts."""
     queryset = pd.read_csv("dummy_data/vehicles_data_1000.csv")
@@ -17,6 +19,7 @@ def dashboard_view(request):
     return render(request, "vehicles/index.html", {
         "frequency_table": frequency_table(df),
         "sales_table": sales_visualization_table(df),
+        "sales_sunburst_chart": sales_visualization_with_sunburst_chart(df),
         "cross_tabulation_table": cross_tabulation_visualization_table(df),
         "multi_dimensional_table": multi_dimensional_tabulation_visualization_table(df),
         "cross_tabulation_details_table": cross_tabulation_with_more_details_visualization_table(df),

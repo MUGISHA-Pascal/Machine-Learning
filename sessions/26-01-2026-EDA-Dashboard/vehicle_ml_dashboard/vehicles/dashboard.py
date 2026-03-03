@@ -62,11 +62,14 @@ def cross_tabulation_with_lambda_visualization_table(df):
     )
     return table_html
 def pivot_table(df):
-    table_html=pd.pivot_table(df,index='manufacturer',values=['selling_price'],aggfunc='sum').to_html(
+    table_html=pd.pivot_table(df,index=['manufacturer','body_type'],values=['selling_price'],aggfunc=['sum','count']).to_html(
         classes="table table-bordered table-striped table-sm",
         float_format='%.2f',
         justify='center'
     )
     return table_html
-
-
+def sales_visualization_with_sunburst_chart(df,height=800):
+    fig=px.sunburst(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')
