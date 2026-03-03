@@ -18,6 +18,13 @@ def frequency_table(df):
         justify='center'
     )
     return table_html
+def frequency_bar_chart(df):
+    """Generate a bar chart for manufacturer frequencies."""
+    manufacturer_counts = df['manufacturer'].value_counts().reset_index()
+    manufacturer_counts.columns = ['Manufacturer', 'Count']
+    fig = px.bar(manufacturer_counts, x='Manufacturer', y='Count', title='Manufacturer Frequency')
+    return opy.plot(fig, output_type='div')
+
 def sales_visualization_table(df):
     df['profit']=df['selling_price']-df['wholesale_price']
     table_html= df.groupby(['manufacturer','transmission','fuel_type']).agg({
@@ -51,5 +58,35 @@ def cross_tabulation_with_more_details_visualization_table(df):
         justify='center'
     )
     return table_html
-
-
+def cross_tabulation_with_lambda_visualization_table(df):
+    def price_range(x):
+        return x.max()-x.min()
+    price_range.__name__='price range'
+    table_html=pd.crosstab(df['manufacturer'],df['body_type'],values=df['selling_price'],aggfunc=[price_range,'sum'],margins=True).to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center'
+    )
+    return table_html
+def pivot_table(df):
+    table_html=pd.pivot_table(df,index=['manufacturer','body_type'],values=['selling_price'],aggfunc=['sum','count']).to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center'
+    )
+    return table_html
+def sales_visualization_with_sunburst_chart(df,height=800):
+    fig=px.sunburst(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')
+def sales_visualization_with_tree_map_chart(df,height=800):
+    fig=px.treemap(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')
+def sales_visualization_with_icicle_chart(df,height=800):
+    fig=px.icicle(df,path=['manufacturer','fuel_type','body_type'],values='selling_price')
+    fig.update_traces(textinfo='label+value')
+    fig.update_layout(height=height)
+    return opy.plot(fig,output_type='div')

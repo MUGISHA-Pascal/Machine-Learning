@@ -41,6 +41,11 @@
             </a>
             <a
               class="list-group-item list-group-item-action"
+              href="#frequency-bar-chart"
+              >Frequency Bar Chart
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
               href="#sales-table"
               >Sales Visualization Table
             </a>
@@ -58,6 +63,31 @@
               class="list-group-item list-group-item-action"
               href="#cross-tabulation-details"
               >Cross Tabulation with Details
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#cross-tabulation-lambda"
+              >Cross Tabulation with Lambda
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#pivot-table"
+              >Pivot Table
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#sunburst-chart"
+              >Sunburst Chart
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#treemap-chart"
+              >Treemap Chart
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#icicle-chart"
+              >Icicle Chart
             </a>
           </div>
         </div>
@@ -79,6 +109,13 @@
                 Frequency Tables (One-way)
               </div>
               <div class="card-body">{{ frequency_table|safe }}</div>
+            </div>
+
+            <div id="frequency-bar-chart" class="card shadow mb-5">
+              <div class="card-header bg-primary text-white">
+                Frequency Bar Chart
+              </div>
+              <div class="card-body">{{ frequency_bar_chart|safe }}</div>
             </div>
 
             <div id="sales-table" class="card shadow mb-5">
@@ -107,6 +144,41 @@
                 Cross Tabulation with More Details
               </div>
               <div class="card-body">{{ cross_tabulation_details_table|safe }}</div>
+            </div>
+
+            <div id="cross-tabulation-lambda" class="card shadow mb-5">
+              <div class="card-header bg-info text-white">
+                Cross Tabulation with Lambda
+              </div>
+              <div class="card-body">{{ cross_tabulation_lambda_table|safe }}</div>
+            </div>
+
+            <div id="pivot-table" class="card shadow mb-5">
+              <div class="card-header bg-dark text-white">
+                Pivot Table
+              </div>
+              <div class="card-body">{{ pivot_table|safe }}</div>
+            </div>
+
+            <div id="sunburst-chart" class="card shadow mb-5">
+              <div class="card-header bg-success text-white">
+                Sales Visualization with Sunburst Chart
+              </div>
+              <div class="card-body">{{ sales_sunburst_chart|safe }}</div>
+            </div>
+
+            <div id="treemap-chart" class="card shadow mb-5">
+              <div class="card-header bg-warning text-dark">
+                Sales Visualization with Treemap Chart
+              </div>
+              <div class="card-body">{{ sales_tree_map_chart|safe }}</div>
+            </div>
+
+            <div id="icicle-chart" class="card shadow mb-5">
+              <div class="card-header bg-light text-dark">
+                Sales Visualization with Icicle Chart
+              </div>
+              <div class="card-body">{{ sales_icicle_chart|safe }}</div>
             </div>
           </div>
         </div>
