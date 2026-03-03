@@ -51,5 +51,22 @@ def cross_tabulation_with_more_details_visualization_table(df):
         justify='center'
     )
     return table_html
+def cross_tabulation_with_lambda_visualization_table(df):
+    def price_range(x):
+        return x.max()-x.min()
+    price_range.__name__='price range'
+    table_html=pd.crosstab(df['manufacturer'],df['body_type'],values=df['selling_price'],aggfunc=[price_range,'sum'],margins=True).to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center'
+    )
+    return table_html
+def pivot_table(df):
+    table_html=pd.pivot_table(df,index='manufacturer',values=['selling_price'],aggfunc='sum').to_html(
+        classes="table table-bordered table-striped table-sm",
+        float_format='%.2f',
+        justify='center'
+    )
+    return table_html
 
 
