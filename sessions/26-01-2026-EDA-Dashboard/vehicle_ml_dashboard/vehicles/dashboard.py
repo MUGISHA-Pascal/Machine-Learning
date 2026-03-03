@@ -90,3 +90,15 @@ def sales_visualization_with_icicle_chart(df,height=800):
     fig.update_traces(textinfo='label+value')
     fig.update_layout(height=height)
     return opy.plot(fig,output_type='div')
+def client_distribution_by_country_map(df):
+    country_counts = df['client_country'].value_counts().reset_index()
+    country_counts.columns = ['Country', 'Count']
+    fig = px.choropleth(country_counts, locations='Country', locationmode='country names', color='Count', title='Client Distribution by Country')
+    fig.update_layout(height=600)
+    return opy.plot(fig, output_type='div')
+def sales_distribution_by_country_map(df):
+    sales_by_country = df.groupby('client_country')['selling_price'].sum().reset_index()
+    sales_by_country.columns = ['Country', 'Sales']
+    fig = px.choropleth(sales_by_country, locations='Country', locationmode='country names', color='Sales', title='Sales Distribution by Country')
+    fig.update_layout(height=600)
+    return opy.plot(fig, output_type='div')

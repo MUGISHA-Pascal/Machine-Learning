@@ -11,7 +11,9 @@ from .dashboard import (
     pivot_table,
     sales_visualization_with_sunburst_chart,
     sales_visualization_with_tree_map_chart,
-    sales_visualization_with_icicle_chart
+    sales_visualization_with_icicle_chart,
+    client_distribution_by_country_map,
+    sales_distribution_by_country_map
 )
 
 def dashboard_view(request):
@@ -30,5 +32,7 @@ def dashboard_view(request):
         "multi_dimensional_table": multi_dimensional_tabulation_visualization_table(df),
         "cross_tabulation_details_table": cross_tabulation_with_more_details_visualization_table(df),
         "cross_tabulation_lambda_table": cross_tabulation_with_lambda_visualization_table(df),
-        "pivot_table": pivot_table(df)
+        "pivot_table": pivot_table(df),
+        "client_distribution_by_country_map": client_distribution_by_country_map(df),
+        "sales_distribution_by_country_map": sales_distribution_by_country_map(df)
     })

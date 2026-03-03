@@ -89,6 +89,16 @@
               href="#icicle-chart"
               >Icicle Chart
             </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#client-distribution-country-map"
+              >Client Distribution by Country Map
+            </a>
+            <a
+              class="list-group-item list-group-item-action"
+              href="#sales-distribution-country-map"
+              >Sales Distribution by Country Map
+            </a>
           </div>
         </div>
 
@@ -179,6 +189,20 @@
                 Sales Visualization with Icicle Chart
               </div>
               <div class="card-body">{{ sales_icicle_chart|safe }}</div>
+            </div>
+
+            <div id="client-distribution-country-map" class="card shadow mb-5">
+              <div class="card-header bg-secondary text-white">
+                Client Distribution by Country Map
+              </div>
+              <div class="card-body">{{ client_distribution_by_country_map|safe }}</div>
+            </div>
+
+            <div id="sales-distribution-country-map" class="card shadow mb-5">
+              <div class="card-header bg-danger text-white">
+                Sales Distribution by Country Map
+              </div>
+              <div class="card-body">{{ sales_distribution_by_country_map|safe }}</div>
             </div>
           </div>
         </div>
