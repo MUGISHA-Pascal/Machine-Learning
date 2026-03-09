@@ -28,7 +28,7 @@ classification_model = load_model("model_generators/classification/classificatio
 clustering_model = load_model("model_generators/clustering/clustering_model.pkl")
 
 def data_exploration_view(request):
-    df = pd.read_csv("dummy-data/vehicles_ml_dataset.csv")
+    df = pd.read_csv(os.path.join(BASE_DIR, "dummy-data/vehicles_ml_dataset.csv"))
     
     # Task (a): Rwanda Map
     rwanda_map_html = generate_rwanda_map(df)
@@ -81,7 +81,7 @@ def classification_analysis(request):
     return render(request, "predictor/classification_analysis.html", context)
 
 def clustering_analysis(request):
-    df = pd.read_csv("dummy-data/vehicles_ml_dataset.csv")
+    df = pd.read_csv(os.path.join(BASE_DIR, "dummy-data/vehicles_ml_dataset.csv"))
     
     # Calculate Coefficient of Variation for exercise
     cv_score = calculate_cv(df["estimated_income"])
