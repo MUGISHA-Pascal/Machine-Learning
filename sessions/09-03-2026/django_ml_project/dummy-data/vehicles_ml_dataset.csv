@@ -1,0 +1,1001 @@
+manufacturer,year,color,body_type,engine_type,transmission,fuel_type,seating_capacity,kilometers_driven,vehicle_condition,wholesale_price,selling_price,client_name,client_age,client_gender,province,district,income_level,client_profession,estimated_income,client_retail_date,season
+Volkswagen,2020,Bisque,Hatchback,petrol,automatic,diesel,7,69137.22,inactive,13790,15492,Danielle Taylor,51,Male,Western Province,Rusizi,medium,Sports administrator,2482,2022-02-15,normal
+Kia,2005,Peru,Truck,petrol,automatic,gasoline,8,169547.76,active,6606,8000,Brandon Hall,64,Male,Southern Province,Huye,medium,"Surveyor, mining",1972,2021-12-02,holiday_sales
+Toyota,2024,YellowGreen,SUV,electric,manual,hybrid,2,15024.25,inactive,25113,31620,Jerry Ramirez,42,Male,Western Province,Nyabihu,medium,"Designer, jewellery",3322,2022-11-14,holiday_sales
+Kia,2025,MediumSpringGreen,Sedan,diesel,manual,hybrid,2,0.0,inactive,15934,18900,Daniel Gallagher,42,Male,Western Province,Karongi,medium,Chief Executive Officer,1944,2024-10-10,normal
+Mercedes-Benz,2025,DarkGray,Hatchback,hybrid,manual,diesel,3,0.0,inactive,39168,50625,Gregory Baker,54,Male,Western Province,Rusizi,high,Psychiatric nurse,7185,2024-05-30,normal
+Hyundai,2014,DarkRed,Sedan,hybrid,manual,gasoline,5,136629.73,inactive,6157,8000,Jamie Arnold,22,Female,Northern Province,Musanze,medium,Technical brewer,1703,2025-09-28,normal
+Nissan,2008,CornflowerBlue,Truck,electric,automatic,diesel,8,283632.12,inactive,6810,8000,Darren Roberts,22,Male,Eastern Province,Ngoma,low,"Exhibitions officer, museum/gallery",1088,2022-10-25,normal
+Volkswagen,2015,Olive,Coupe,hybrid,manual,diesel,7,97416.68,active,12251,16020,Mark Diaz,65,Female,Kigali City,Nyarugenge,medium,Marine scientist,3841,2022-01-14,normal
+Ford,2012,LightGreen,SUV,petrol,manual,hybrid,4,213612.46,inactive,6388,8000,Melinda Jones,56,Male,Southern Province,Huye,low,"Social research officer, government",1496,2022-12-17,holiday_sales
+Kia,2005,DodgerBlue,Hatchback,hybrid,automatic,hybrid,2,371009.38,inactive,6756,8000,Devin Schaefer,25,Male,Southern Province,Gisagara,low,"Journalist, broadcasting",1173,2023-04-06,normal
+Nissan,2013,Khaki,Truck,hybrid,manual,electric,8,182979.04,inactive,8049,9340,Renee Morales,54,Male,Eastern Province,Bugesera,medium,"Engineer, mining",2042,2021-08-27,tourism_peak
+Honda,2016,Maroon,Van,electric,manual,diesel,7,101362.01,active,12539,15760,Jonathan Wilkerson,31,Female,Southern Province,Nyamagabe,medium,Customer service manager,2455,2026-01-02,normal
+Nissan,2016,DarkSlateGray,Van,diesel,automatic,diesel,4,141729.66,active,8113,9870,Justin Baker,55,Female,Northern Province,Burera,low,Television production assistant,1181,2023-06-07,tourism_peak
+Toyota,2016,MistyRose,SUV,petrol,manual,diesel,7,152102.25,active,8446,10158,Zachary Hicks,34,Male,Kigali City,Kicukiro,low,Art gallery manager,1466,2024-07-29,tourism_peak
+Volkswagen,2005,DeepSkyBlue,Truck,petrol,manual,hybrid,3,366366.03,active,6058,8000,Rebecca Henderson,55,Male,Southern Province,Huye,medium,Musician,1811,2022-02-10,normal
+Volkswagen,2016,SeaGreen,Hatchback,electric,automatic,hybrid,4,117406.69,active,11386,14977,Tricia Valencia,32,Male,Northern Province,Burera,medium,Colour technologist,1636,2024-06-04,tourism_peak
+Toyota,2013,LightGreen,Truck,diesel,automatic,electric,7,189510.24,inactive,6808,8000,Gina Carter,42,Male,Northern Province,Gicumbi,low,Professor Emeritus,1076,2025-09-30,normal
+Audi,2016,LightGray,Sedan,petrol,manual,electric,6,86538.04,inactive,15322,19169,Pamela Romero,41,Male,Western Province,Nyabihu,medium,Hydrogeologist,2287,2021-03-17,normal
+Hyundai,2024,Gray,Van,diesel,manual,hybrid,7,9462.86,inactive,17468,20658,Phillip Ryan,34,Male,Eastern Province,Kayonza,high,Tour manager,4403,2025-07-01,tourism_peak
+Toyota,2007,SlateGray,Hatchback,electric,automatic,diesel,4,265768.48,active,7128,8000,Timothy Koch,53,Female,Kigali City,Kicukiro,medium,Film/video editor,1703,2023-12-09,holiday_sales
+Toyota,2022,LawnGreen,SUV,electric,automatic,electric,5,39606.49,inactive,23166,27768,Theresa Miller,22,Female,Eastern Province,Kayonza,high,Broadcast presenter,6171,2021-09-02,normal
+BMW,2016,DarkSalmon,Van,electric,automatic,electric,7,86000.6,inactive,25893,32160,John Pierce,41,Female,Western Province,Ngororero,high,"Secretary, company",4312,2025-09-17,normal
+Kia,2017,HotPink,Sedan,petrol,manual,electric,6,68561.63,active,7726,9429,Nicole Vaughn,70,Female,Kigali City,Gasabo,low,Oceanographer,1207,2024-10-11,normal
+Kia,2005,Purple,SUV,diesel,manual,hybrid,7,309556.49,inactive,6187,8000,Jocelyn Wright,58,Male,Eastern Province,Ngoma,low,Lexicographer,1379,2024-05-10,normal
+Toyota,2012,Khaki,SUV,hybrid,manual,diesel,4,120002.53,inactive,7245,8100,Adrienne Zimmerman,22,Male,Western Province,Rubavu,low,Estate manager/land agent,1134,2021-05-11,normal
+Ford,2021,BlanchedAlmond,Sedan,hybrid,manual,electric,5,52264.3,inactive,18449,20955,Andrea Young,39,Female,Eastern Province,Kayonza,medium,"Engineer, site",2967,2021-10-02,normal
+Audi,2005,DarkSeaGreen,Truck,diesel,manual,electric,2,163567.82,inactive,6583,8000,Sonya Johnston,27,Male,Kigali City,Nyarugenge,low,Public librarian,1268,2025-10-07,normal
+Ford,2010,Gold,Sedan,electric,automatic,electric,6,236344.32,active,6995,8000,Matthew Gomez,21,Female,Northern Province,Musanze,medium,"Psychologist, sport and exercise",1690,2024-08-22,tourism_peak
+Ford,2018,DarkGreen,Sedan,diesel,manual,gasoline,2,64275.28,active,10985,13729,Nicholas Mcbride,48,Male,Western Province,Ngororero,medium,Fish farm manager,3079,2021-08-22,tourism_peak
+Mercedes-Benz,2021,Gold,Sedan,electric,manual,gasoline,5,55515.84,inactive,39405,49290,Brenda White,57,Female,Eastern Province,Gatsibo,high,Fisheries officer,7729,2022-10-23,normal
+Toyota,2022,Red,Truck,diesel,manual,electric,7,25527.51,inactive,17980,22694,Savannah Garcia,64,Male,Eastern Province,Ngoma,high,Chief Financial Officer,4032,2021-10-27,normal
+BMW,2007,FireBrick,Van,petrol,manual,hybrid,2,171264.98,inactive,6518,8000,John Hancock,26,Male,Kigali City,Nyarugenge,low,"Development worker, international aid",1089,2023-03-11,normal
+Ford,2022,AliceBlue,SUV,petrol,manual,gasoline,3,30991.64,inactive,17920,21820,Mrs. Rachel Gibson,33,Female,Southern Province,Nyaruguru,high,"Surveyor, commercial/residential",4218,2024-05-27,normal
+Nissan,2018,DeepSkyBlue,Hatchback,petrol,manual,gasoline,3,85219.09,inactive,8141,9996,Daniel Brown,25,Male,Eastern Province,Nyagatare,low,Interior and spatial designer,1079,2025-04-27,normal
+Mercedes-Benz,2005,BurlyWood,Van,petrol,automatic,diesel,6,174083.01,active,6004,8000,Kathryn Farrell,60,Male,Southern Province,Muhanga,low,Barista,1199,2021-08-31,tourism_peak
+Ford,2025,Cyan,Hatchback,hybrid,manual,gasoline,5,0.0,active,20306,24750,Andrea Jones,48,Male,Northern Province,Gakenke,medium,Operations geologist,3675,2025-07-01,tourism_peak
+Mercedes-Benz,2017,LightBlue,Truck,diesel,automatic,diesel,7,137929.51,active,30641,34096,Amanda Miller,56,Female,Northern Province,Gakenke,medium,Games developer,3597,2022-03-14,normal
+Mercedes-Benz,2014,Maroon,SUV,electric,manual,hybrid,8,109283.32,active,28603,31834,James Powers,24,Female,Northern Province,Rulindo,high,"Programmer, systems",7793,2022-12-01,holiday_sales
+Volkswagen,2010,Cornsilk,Coupe,electric,automatic,diesel,8,236954.1,active,7047,8000,Marc Hart,30,Male,Southern Province,Kamonyi,medium,"Buyer, retail",1940,2023-11-14,holiday_sales
+BMW,2022,HotPink,Van,petrol,automatic,gasoline,8,38275.66,inactive,28815,36634,Brandi Bailey,44,Male,Northern Province,Rulindo,high,Financial risk analyst,5874,2025-10-02,normal
+Honda,2025,LightSkyBlue,Sedan,hybrid,manual,electric,3,0.0,inactive,23031,26250,Roy Warner,33,Male,Northern Province,Rulindo,high,"Surveyor, building",6499,2024-04-28,normal
+Audi,2019,DarkKhaki,Hatchback,hybrid,manual,diesel,7,68890.68,active,25365,28547,Brandy Wilson,63,Male,Western Province,Ngororero,high,Surgeon,6037,2023-09-23,normal
+Toyota,2022,LightPink,Sedan,electric,manual,gasoline,8,54845.49,inactive,18942,22703,Daniel Cooper,45,Female,Eastern Province,Gatsibo,high,Risk analyst,5640,2022-07-02,tourism_peak
+Nissan,2024,LightCoral,SUV,electric,automatic,diesel,5,18324.69,inactive,25225,31554,Sarah Davis,21,Female,Southern Province,Nyanza,high,Health and safety inspector,6739,2025-05-02,normal
+Kia,2014,AliceBlue,Coupe,electric,automatic,electric,5,145262.65,inactive,8310,10136,Carlos Whitney,23,Male,Southern Province,Huye,medium,Private music teacher,2449,2021-07-21,tourism_peak
+Honda,2012,Pink,SUV,hybrid,automatic,gasoline,6,108417.12,active,7753,8857,Ashley Landry,33,Male,Southern Province,Nyaruguru,low,Sports administrator,1114,2025-11-15,holiday_sales
+Toyota,2023,NavajoWhite,SUV,hybrid,manual,electric,5,27164.56,inactive,22092,26457,Brittany Anderson,52,Female,Southern Province,Kamonyi,high,Medical sales representative,6131,2021-06-26,tourism_peak
+Volkswagen,2005,MintCream,SUV,hybrid,manual,hybrid,8,217840.07,inactive,6017,8000,David Garcia,45,Female,Northern Province,Gicumbi,medium,Web designer,1552,2021-07-08,tourism_peak
+Ford,2018,LavenderBlush,Coupe,petrol,automatic,diesel,7,117900.51,inactive,11364,14087,Vanessa Cochran,44,Female,Eastern Province,Bugesera,medium,Agricultural consultant,2728,2022-06-30,tourism_peak
+BMW,2006,MediumSeaGreen,Truck,hybrid,automatic,gasoline,4,327974.71,inactive,6464,8000,Jennifer Santiago,69,Male,Kigali City,Kicukiro,medium,"Geologist, engineering",1614,2022-09-15,normal
+Toyota,2008,DarkMagenta,Sedan,diesel,manual,diesel,8,266798.33,inactive,7038,8000,Andrew Ruiz,42,Male,Eastern Province,Kirehe,medium,Psychiatrist,1632,2022-07-14,tourism_peak
+Mercedes-Benz,2017,Linen,SUV,diesel,automatic,diesel,6,110950.42,inactive,24777,31801,Shelby Walker,21,Male,Eastern Province,Nyagatare,high,Oceanographer,7807,2024-02-26,normal
+BMW,2016,LightSeaGreen,Sedan,petrol,automatic,electric,3,172778.11,active,15724,18544,Tracy Ramirez,37,Female,Kigali City,Nyarugenge,medium,Software engineer,3079,2023-12-21,holiday_sales
+Nissan,2017,Black,Coupe,electric,automatic,gasoline,4,119350.57,inactive,13634,16933,Wesley White,27,Female,Western Province,Karongi,high,Arboriculturist,4054,2023-12-30,holiday_sales
+Hyundai,2019,PowderBlue,Truck,diesel,manual,diesel,6,84117.13,active,14013,16472,Richard Graham,50,Male,Western Province,Nyamasheke,medium,Musician,1939,2022-02-06,normal
+Audi,2021,Gold,Van,petrol,manual,hybrid,2,68509.91,active,27290,32070,Michael Smith,48,Male,Eastern Province,Gatsibo,high,Medical physicist,4302,2026-01-31,normal
+Nissan,2016,CornflowerBlue,Truck,hybrid,automatic,diesel,5,142561.79,inactive,13073,15024,Tammie Hanson,20,Male,Western Province,Rutsiro,medium,Hydrologist,1763,2024-11-05,holiday_sales
+Nissan,2018,Magenta,Van,diesel,automatic,gasoline,6,81300.32,inactive,10166,13389,Erika Terry,61,Male,Kigali City,Kicukiro,medium,"Engineer, agricultural",2878,2025-06-29,tourism_peak
+Mercedes-Benz,2008,Olive,Truck,petrol,automatic,hybrid,3,197583.29,active,6711,8000,Stephanie Gilbert,24,Female,Eastern Province,Kayonza,low,"Optician, dispensing",1163,2024-10-03,normal
+Hyundai,2009,AliceBlue,Van,petrol,manual,hybrid,3,200433.94,inactive,6474,8000,Daniel Floyd,61,Female,Northern Province,Gakenke,medium,"Psychologist, occupational",1507,2025-11-03,holiday_sales
+Hyundai,2020,Red,SUV,petrol,automatic,gasoline,7,72326.62,active,12491,15653,Kayla Leon,53,Male,Kigali City,Nyarugenge,medium,Chartered accountant,2781,2024-12-08,holiday_sales
+Ford,2015,Thistle,Truck,diesel,automatic,gasoline,5,161849.95,inactive,9059,11778,Lisa Davis,33,Male,Eastern Province,Nyagatare,medium,Insurance claims handler,2523,2023-08-05,tourism_peak
+Ford,2008,Gray,Hatchback,diesel,automatic,electric,3,284155.61,active,7036,8000,Angel Riggs,36,Male,Southern Province,Huye,medium,"Programmer, applications",1511,2023-02-02,normal
+Toyota,2006,GoldenRod,Hatchback,hybrid,manual,diesel,6,192293.46,inactive,7144,8000,Janet Ross,47,Male,Southern Province,Nyaruguru,low,"Accountant, chartered public finance",1463,2024-09-14,normal
+Mercedes-Benz,2022,Peru,SUV,petrol,automatic,electric,4,39533.87,inactive,35358,45109,Robert Dominguez,45,Female,Western Province,Nyamasheke,high,Arts administrator,5910,2022-02-01,normal
+Hyundai,2005,LightBlue,Van,hybrid,automatic,hybrid,8,355456.54,active,6961,8000,Barbara Anderson,23,Female,Western Province,Nyabihu,medium,Set designer,1801,2025-12-02,holiday_sales
+Ford,2016,MediumAquaMarine,SUV,diesel,manual,gasoline,4,94810.63,active,10828,13350,Stephanie Salazar,25,Female,Kigali City,Nyarugenge,medium,Sports therapist,3207,2025-12-07,holiday_sales
+Honda,2017,DimGray,Van,electric,manual,diesel,2,123861.11,active,13442,16927,Karen Green,45,Male,Southern Province,Kamonyi,medium,Health and safety inspector,2610,2024-12-21,holiday_sales
+Kia,2024,SlateBlue,SUV,petrol,manual,hybrid,7,10973.75,active,16276,20301,Denise Jones,26,Female,Eastern Province,Gatsibo,high,Farm manager,4291,2025-08-12,tourism_peak
+Mercedes-Benz,2025,MediumSeaGreen,Van,diesel,automatic,gasoline,2,0.0,inactive,46351,51975,Joshua Taylor,38,Male,Eastern Province,Kayonza,high,Music therapist,11431,2023-06-29,tourism_peak
+Hyundai,2012,HotPink,Sedan,electric,manual,hybrid,7,220969.55,active,6202,8000,Jason Daniels,41,Female,Eastern Province,Kayonza,low,Biomedical engineer,1255,2022-06-24,tourism_peak
+Hyundai,2023,PeachPuff,Van,diesel,automatic,diesel,2,19488.53,active,17393,19361,Randy Shah,49,Male,Western Province,Rusizi,medium,Teaching laboratory technician,2242,2022-12-09,holiday_sales
+BMW,2019,Silver,Sedan,hybrid,automatic,gasoline,4,103098.89,inactive,28550,32938,Guy Molina,21,Female,Kigali City,Nyarugenge,high,Solicitor,5017,2024-05-31,normal
+Volkswagen,2021,Indigo,Truck,diesel,automatic,hybrid,2,66687.62,active,20244,25966,Don Tucker MD,39,Female,Eastern Province,Bugesera,medium,Diagnostic radiographer,2930,2025-10-28,normal
+Kia,2017,DarkSalmon,SUV,hybrid,manual,electric,7,127046.4,active,12004,13659,Ms. Susan Vargas,67,Male,Western Province,Nyabihu,medium,Charity officer,1766,2025-02-26,normal
+Hyundai,2007,DarkSlateBlue,Van,petrol,automatic,hybrid,8,228473.31,active,6825,8000,Catherine Green,26,Female,Southern Province,Nyaruguru,medium,"Engineer, mining",1989,2024-10-28,normal
+Nissan,2007,MediumOrchid,SUV,diesel,manual,electric,3,199318.03,inactive,6325,8000,Shawn Ramirez,60,Female,Eastern Province,Gatsibo,low,Forensic psychologist,1465,2025-01-17,normal
+BMW,2019,SeaShell,Van,electric,automatic,hybrid,4,108538.14,active,31207,40949,Joshua Cooke,37,Female,Kigali City,Kicukiro,high,Environmental manager,4771,2021-11-16,holiday_sales
+Hyundai,2017,BlueViolet,Van,electric,automatic,gasoline,6,143747.25,inactive,11624,14681,Tiffany Gonzalez,42,Male,Northern Province,Burera,medium,Wellsite geologist,2161,2021-10-06,normal
+Hyundai,2015,LawnGreen,Van,diesel,manual,hybrid,7,130514.64,inactive,6296,8362,Michael Elliott,32,Male,Eastern Province,Ngoma,low,"Psychologist, occupational",990,2022-06-23,tourism_peak
+Honda,2012,NavajoWhite,Van,electric,automatic,hybrid,7,202282.41,inactive,6899,8000,Lawrence Adkins,63,Male,Eastern Province,Bugesera,low,"Development worker, community",919,2023-05-12,normal
+Audi,2018,DarkMagenta,Truck,hybrid,automatic,hybrid,6,74527.43,inactive,32735,38647,Tanya Johnston,64,Female,Northern Province,Rulindo,high,Occupational psychologist,5729,2023-10-29,normal
+Kia,2024,Crimson,Sedan,diesel,manual,diesel,5,18463.83,active,14626,17586,Sandra Sanchez,41,Female,Southern Province,Huye,medium,Tourism officer,2484,2022-11-13,holiday_sales
+Mercedes-Benz,2025,BlueViolet,SUV,diesel,manual,electric,6,0.0,active,44994,56700,Jeffrey Wood,58,Female,Kigali City,Kicukiro,high,"Administrator, charities/voluntary organisations",10939,2022-03-18,normal
+Nissan,2010,SlateGray,SUV,petrol,automatic,electric,2,286018.47,active,6274,8000,Tyler Reid,64,Female,Northern Province,Gakenke,low,"Designer, ceramics/pottery",1119,2024-10-02,normal
+Volkswagen,2014,Fuchsia,Van,diesel,manual,electric,3,138500.56,active,7850,10224,Tracie Nelson,48,Female,Eastern Province,Nyagatare,medium,"Psychologist, occupational",2106,2024-11-19,holiday_sales
+Nissan,2012,LightGreen,Van,hybrid,manual,hybrid,8,202832.06,inactive,7066,8000,David Michael,51,Female,Western Province,Rusizi,low,"Production designer, theatre/television/film",1351,2024-11-19,holiday_sales
+BMW,2020,SandyBrown,Coupe,petrol,automatic,electric,4,52311.31,inactive,26085,33454,Mary Rogers,30,Female,Northern Province,Gicumbi,high,"Journalist, broadcasting",7009,2023-04-03,normal
+Volkswagen,2016,SlateBlue,Hatchback,hybrid,manual,hybrid,8,164903.74,inactive,10227,12171,Robert Peterson,23,Female,Kigali City,Kicukiro,medium,"Surveyor, commercial/residential",2286,2022-09-22,normal
+Volkswagen,2005,Tomato,Hatchback,hybrid,manual,electric,7,281854.67,active,6573,8000,Angela Cortez,48,Female,Eastern Province,Kirehe,medium,"Surveyor, building control",1716,2021-04-07,normal
+Audi,2009,Sienna,Hatchback,diesel,manual,electric,3,251608.2,active,6170,8000,Katherine Mcguire,45,Male,Northern Province,Gicumbi,medium,Hospital pharmacist,1942,2023-03-23,normal
+Toyota,2012,PaleGreen,SUV,diesel,manual,electric,4,123285.26,active,6056,8000,Elizabeth Perkins,30,Female,Northern Province,Gicumbi,low,Surgeon,881,2023-01-24,normal
+Mercedes-Benz,2010,MediumTurquoise,SUV,diesel,manual,gasoline,4,258406.4,active,6875,9007,Patrick Rivera,20,Female,Southern Province,Ruhango,low,Geoscientist,1490,2025-09-11,normal
+Kia,2008,LightCoral,Hatchback,petrol,automatic,electric,2,211831.3,active,6041,8000,Nathan Stewart,27,Male,Kigali City,Gasabo,medium,"Engineer, agricultural",1758,2023-10-15,normal
+BMW,2006,SkyBlue,Van,diesel,manual,gasoline,2,177950.78,inactive,6281,8000,Kevin Wolf,68,Female,Northern Province,Gakenke,low,Chiropodist,1210,2023-01-08,normal
+Ford,2013,LightYellow,Van,petrol,automatic,gasoline,3,157088.05,inactive,6272,8000,Christopher Smith,63,Male,Northern Province,Burera,low,Graphic designer,1096,2022-10-31,normal
+Nissan,2020,CadetBlue,Hatchback,diesel,manual,gasoline,8,82087.87,inactive,9917,12533,Melissa Martinez,58,Female,Kigali City,Gasabo,low,"Civil engineer, contracting",1314,2021-07-26,tourism_peak
+Honda,2012,LightSkyBlue,Sedan,diesel,automatic,diesel,6,141225.73,active,6850,8000,Jeremiah Lopez,49,Male,Western Province,Rusizi,medium,Forensic psychologist,1798,2021-04-14,normal
+Kia,2022,DarkOrange,Hatchback,diesel,automatic,hybrid,4,33650.65,inactive,12038,13785,Jennifer Jones,54,Male,Northern Province,Rulindo,medium,"Designer, blown glass/stained glass",3372,2025-03-30,normal
+Kia,2024,LimeGreen,Van,hybrid,automatic,gasoline,4,18843.38,inactive,20289,23136,David Grant,62,Female,Kigali City,Kicukiro,high,Trading standards officer,5200,2022-06-13,tourism_peak
+Toyota,2008,Turquoise,Hatchback,diesel,automatic,gasoline,7,226661.87,active,6469,8000,Terry Evans,70,Female,Kigali City,Nyarugenge,low,Industrial/product designer,1254,2023-02-06,normal
+Kia,2006,Chocolate,Sedan,diesel,automatic,diesel,2,155550.56,active,7176,8000,Natalie Meza,42,Male,Kigali City,Kicukiro,low,"Engineer, mining",1325,2026-01-06,normal
+Volkswagen,2016,Cyan,Truck,electric,manual,hybrid,8,142335.77,active,19591,22178,Christopher Jones,40,Male,Western Province,Rusizi,high,Osteopath,4003,2023-06-07,tourism_peak
+Kia,2014,SeaShell,Hatchback,hybrid,manual,gasoline,7,109937.56,active,6058,8000,David Mann,21,Female,Southern Province,Ruhango,low,Building services engineer,1050,2025-01-04,normal
+Mercedes-Benz,2009,LightGray,Coupe,hybrid,manual,diesel,4,201623.68,active,7333,8905,Lori Guerrero,66,Male,Eastern Province,Rwamagana,medium,"Physicist, medical",1670,2023-03-02,normal
+Honda,2012,YellowGreen,SUV,diesel,manual,electric,6,248926.69,active,6273,8000,Chase Baker,28,Male,Kigali City,Gasabo,low,Building surveyor,952,2022-02-26,normal
+Honda,2007,FireBrick,SUV,diesel,automatic,electric,6,203718.84,active,6322,8000,Linda Holloway,24,Female,Kigali City,Nyarugenge,low,Print production planner,873,2021-09-08,normal
+Mercedes-Benz,2011,SeaGreen,Van,hybrid,automatic,hybrid,2,142276.3,inactive,12366,15717,Melissa Bender,32,Female,Northern Province,Rulindo,medium,Primary school teacher,3144,2022-03-28,normal
+Nissan,2023,BlueViolet,SUV,petrol,automatic,gasoline,8,20510.66,inactive,18401,21190,Morgan Munoz,62,Male,Kigali City,Kicukiro,medium,"Chemist, analytical",3894,2021-11-11,holiday_sales
+Mercedes-Benz,2022,Beige,Coupe,petrol,automatic,gasoline,7,38571.64,inactive,35738,43216,Miss Debra Williams PhD,24,Female,Kigali City,Kicukiro,high,"Scientist, physiological",10803,2023-02-16,normal
+Mercedes-Benz,2025,LightSeaGreen,Coupe,petrol,manual,electric,8,0.0,active,45101,51750,Kevin Walters,24,Female,Kigali City,Nyarugenge,high,"Chemist, analytical",7787,2024-12-09,holiday_sales
+Hyundai,2006,MediumVioletRed,Coupe,hybrid,automatic,electric,2,253455.13,inactive,6148,8000,Frank Garcia,59,Male,Northern Province,Musanze,low,Landscape architect,1041,2025-03-06,normal
+BMW,2009,Snow,Van,diesel,manual,electric,2,172461.24,active,7001,8000,Tony Cervantes,41,Male,Eastern Province,Kirehe,low,"Programme researcher, broadcasting/film/video",1453,2024-09-05,normal
+Kia,2005,Maroon,Coupe,petrol,automatic,gasoline,6,223849.92,inactive,6878,8000,Brian Barton,23,Male,Western Province,Ngororero,low,Special effects artist,1361,2021-12-05,holiday_sales
+Volkswagen,2018,PaleVioletRed,Van,hybrid,manual,hybrid,7,82009.59,active,17718,20704,Joseph Dean,62,Female,Northern Province,Rulindo,medium,Private music teacher,2789,2025-02-09,normal
+Kia,2010,GreenYellow,Coupe,electric,manual,electric,8,253088.47,active,6617,8000,Carlos Roberts,40,Female,Kigali City,Gasabo,low,Community development worker,1202,2021-08-14,tourism_peak
+Nissan,2015,LawnGreen,Hatchback,hybrid,manual,gasoline,5,173200.29,active,6493,8000,Emily Smith,38,Female,Kigali City,Kicukiro,medium,Chief Financial Officer,1533,2021-06-04,tourism_peak
+Nissan,2024,DarkOrange,SUV,electric,automatic,hybrid,6,9112.22,inactive,24043,31738,Bruce Collier,57,Female,Kigali City,Kicukiro,high,"Horticulturist, amenity",6818,2023-02-03,normal
+Ford,2016,LightPink,Truck,petrol,manual,electric,6,124681.1,active,10609,13236,John Kennedy,56,Female,Kigali City,Kicukiro,medium,Structural engineer,2053,2025-07-05,tourism_peak
+Honda,2011,OliveDrab,Coupe,hybrid,manual,gasoline,7,124118.82,active,6807,8000,Kyle Francis,50,Male,Southern Province,Huye,low,Building control surveyor,1257,2022-05-30,normal
+Toyota,2012,PapayaWhip,Van,hybrid,automatic,hybrid,2,183984.38,inactive,6540,8000,Richard Adams,42,Male,Western Province,Rusizi,low,Heritage manager,1181,2023-07-13,tourism_peak
+Kia,2025,SlateGray,Coupe,petrol,manual,gasoline,8,0.0,inactive,18127,20700,Jill Washington,59,Female,Kigali City,Kicukiro,high,Sub,4533,2023-09-20,normal
+Ford,2025,OldLace,Coupe,electric,automatic,hybrid,6,0.0,active,31407,35420,Frank Lopez,44,Male,Kigali City,Gasabo,high,"Teacher, music",4677,2025-10-20,normal
+Toyota,2014,Lavender,Hatchback,diesel,automatic,diesel,4,101767.77,inactive,6047,8000,Jennifer Flores,42,Female,Western Province,Ngororero,medium,Museum/gallery curator,1862,2024-06-08,tourism_peak
+Nissan,2013,DeepPink,Sedan,diesel,automatic,hybrid,2,161233.34,inactive,6090,8000,Andrew Shaw MD,40,Male,Kigali City,Kicukiro,medium,Printmaker,1661,2024-06-18,tourism_peak
+Audi,2013,Violet,Hatchback,hybrid,automatic,gasoline,6,131757.01,inactive,12943,14465,Alexis Thomas,47,Male,Southern Province,Muhanga,medium,Cabin crew,3094,2022-01-10,normal
+Nissan,2013,LightGray,Sedan,electric,automatic,diesel,7,186947.13,inactive,6359,8000,Michael Santos,28,Female,Northern Province,Gakenke,low,"Social research officer, government",1151,2025-03-04,normal
+Ford,2015,MediumAquaMarine,Hatchback,hybrid,automatic,electric,6,127840.31,inactive,7429,9818,Stacy Freeman,30,Male,Southern Province,Ruhango,medium,Waste management officer,1956,2024-05-30,normal
+Nissan,2009,LavenderBlush,Van,hybrid,manual,hybrid,3,296942.9,inactive,6756,8000,Tammie Bright,37,Male,Western Province,Rutsiro,medium,Politician's assistant,1523,2021-10-05,normal
+Honda,2008,DarkGreen,Coupe,electric,automatic,diesel,7,307351.93,inactive,6738,8000,Michael Berger,38,Male,Western Province,Rutsiro,medium,"Journalist, broadcasting",1929,2022-01-06,normal
+Nissan,2019,LightYellow,Hatchback,electric,automatic,hybrid,5,115358.82,active,12422,15333,Jeffrey Sanchez,48,Female,Eastern Province,Rwamagana,medium,Systems developer,2232,2021-08-28,tourism_peak
+Toyota,2010,FloralWhite,Hatchback,diesel,automatic,gasoline,2,145050.47,inactive,6408,8000,Leon Reyes,69,Male,Southern Province,Huye,low,Research scientist (medical),1287,2022-09-17,normal
+Nissan,2009,DarkTurquoise,Coupe,electric,automatic,diesel,4,231527.29,active,6564,8000,Mark Stevens,39,Male,Southern Province,Kamonyi,medium,"Psychologist, occupational",1740,2026-02-20,normal
+Nissan,2005,YellowGreen,Truck,diesel,automatic,diesel,7,321445.03,inactive,6647,8000,Jeremy Reed,66,Female,Northern Province,Gicumbi,medium,Photographer,1824,2023-08-17,tourism_peak
+Volkswagen,2016,SaddleBrown,Coupe,hybrid,manual,electric,6,149303.31,inactive,13711,16780,Christina Cruz,58,Female,Western Province,Nyamasheke,medium,Clinical biochemist,2719,2023-04-23,normal
+Hyundai,2017,Olive,Van,petrol,manual,diesel,3,64413.41,inactive,9925,11252,Laura Haney,54,Female,Eastern Province,Bugesera,medium,Advertising copywriter,2331,2023-03-13,normal
+Toyota,2021,LightSalmon,Van,hybrid,automatic,hybrid,8,77254.13,active,18124,20455,Sean Osborne,67,Male,Southern Province,Ruhango,medium,Trading standards officer,3387,2024-07-18,tourism_peak
+Audi,2024,LightSlateGray,Van,petrol,automatic,gasoline,3,17983.98,active,34986,39350,Crystal Pham,26,Male,Eastern Province,Rwamagana,high,Energy manager,6599,2025-05-28,normal
+Ford,2023,DarkSlateGray,Coupe,petrol,automatic,electric,6,24941.11,active,18608,22271,Stephanie Lucas,63,Female,Eastern Province,Gatsibo,high,Prison officer,4807,2023-04-24,normal
+Nissan,2020,Moccasin,Sedan,hybrid,manual,hybrid,7,90886.09,inactive,14745,16932,Ann Phillips,62,Female,Western Province,Ngororero,medium,Economist,2015,2021-06-18,tourism_peak
+Nissan,2016,DarkSeaGreen,Sedan,diesel,manual,hybrid,3,79365.36,inactive,8313,9963,Sherri Diaz,26,Female,Southern Province,Nyanza,medium,"Development worker, international aid",2381,2022-11-20,holiday_sales
+Nissan,2023,SkyBlue,SUV,electric,automatic,hybrid,5,30209.25,inactive,24172,29636,Elizabeth Harrell,44,Male,Southern Province,Ruhango,high,Psychotherapist,4623,2023-05-14,normal
+Nissan,2013,DarkTurquoise,SUV,hybrid,automatic,hybrid,3,103290.83,active,8446,9934,Courtney Rhodes,57,Female,Kigali City,Gasabo,low,"Surveyor, hydrographic",1316,2021-10-26,normal
+Kia,2014,DarkGoldenRod,SUV,diesel,automatic,diesel,6,186794.61,inactive,6469,8000,Alexis Herrera,64,Female,Eastern Province,Ngoma,low,"Merchandiser, retail",1389,2024-04-16,normal
+Ford,2011,Olive,SUV,diesel,manual,diesel,2,184273.22,active,7161,8000,Teresa Rodriguez,70,Male,Kigali City,Gasabo,medium,Public affairs consultant,1641,2023-05-30,normal
+Audi,2008,MediumOrchid,Van,diesel,automatic,gasoline,4,168700.6,inactive,6270,8000,Connie Brown,20,Female,Western Province,Nyabihu,medium,Immigration officer,1597,2021-05-23,normal
+Ford,2008,DarkOrange,Coupe,petrol,manual,diesel,5,280473.26,inactive,6191,8000,Tracy Torres,52,Female,Kigali City,Kicukiro,low,Commercial art gallery manager,1090,2024-08-26,tourism_peak
+Ford,2016,LavenderBlush,Coupe,petrol,automatic,hybrid,3,146659.62,inactive,8846,10982,Brandy Chavez,31,Female,Southern Province,Gisagara,medium,Theatre manager,1659,2022-01-02,normal
+Volkswagen,2018,PapayaWhip,Coupe,hybrid,manual,hybrid,2,98718.82,active,16573,21385,Sandra Gilbert,34,Female,Western Province,Karongi,medium,Amenity horticulturist,2730,2022-06-30,tourism_peak
+Volkswagen,2011,IndianRed,Hatchback,diesel,manual,diesel,5,114511.98,inactive,7016,8000,Trevor Foley,30,Male,Eastern Province,Nyagatare,medium,Mental health nurse,1692,2024-05-01,normal
+Kia,2010,MintCream,Truck,petrol,automatic,diesel,8,188718.04,active,6401,8000,Donald Donaldson,63,Female,Southern Province,Muhanga,medium,"Chemist, analytical",1555,2025-10-23,normal
+Mercedes-Benz,2016,Beige,Van,petrol,automatic,hybrid,5,166709.58,inactive,19802,23891,Gavin Zhang,36,Male,Western Province,Nyamasheke,medium,Broadcast presenter,3276,2022-12-25,holiday_sales
+Hyundai,2012,HoneyDew,Van,diesel,automatic,diesel,5,183414.59,active,6994,8000,Robin Hall,20,Male,Southern Province,Nyaruguru,low,"Therapist, occupational",1318,2025-11-22,holiday_sales
+Nissan,2019,LightSalmon,Hatchback,petrol,manual,electric,8,94478.55,active,8995,10710,Brianna Anderson,67,Female,Western Province,Rusizi,low,Ecologist,1382,2021-03-15,normal
+Nissan,2021,Bisque,SUV,hybrid,manual,gasoline,2,41855.03,active,20106,23163,Hunter Kramer,43,Female,Southern Province,Ruhango,medium,"Administrator, sports",3345,2022-02-11,normal
+BMW,2025,LightGray,Sedan,petrol,automatic,hybrid,6,0.0,active,30593,40000,Patrick Fox,68,Male,Eastern Province,Kayonza,high,Publishing copy,7070,2022-08-30,tourism_peak
+Volkswagen,2012,MistyRose,SUV,diesel,automatic,electric,2,127776.73,inactive,7444,8469,Ashley Gordon,51,Male,Eastern Province,Ngoma,medium,"Scientist, research (life sciences)",2067,2024-12-28,holiday_sales
+Honda,2009,Salmon,Truck,hybrid,automatic,hybrid,7,278137.44,inactive,6811,8000,Amanda Lutz,56,Female,Kigali City,Nyarugenge,low,Physiological scientist,1299,2023-09-30,normal
+Kia,2007,SlateGray,SUV,electric,manual,diesel,3,150225.61,inactive,6801,8000,Jill Lam,59,Female,Western Province,Nyabihu,low,Translator,1452,2022-02-05,normal
+Honda,2007,Coral,SUV,hybrid,manual,gasoline,2,175130.34,active,6359,8000,Marcus Richards,48,Female,Northern Province,Gicumbi,medium,Museum/gallery curator,1565,2022-06-10,tourism_peak
+Nissan,2020,LightYellow,Sedan,diesel,manual,diesel,5,71944.33,inactive,11117,14311,Larry Garcia,58,Male,Kigali City,Gasabo,medium,Structural engineer,2026,2025-09-10,normal
+BMW,2021,Plum,Van,diesel,manual,electric,7,65175.53,inactive,28499,35656,Darryl Morgan,28,Female,Kigali City,Gasabo,high,Oceanographer,5547,2023-01-04,normal
+BMW,2007,DarkGray,Hatchback,electric,manual,diesel,6,288925.45,inactive,6681,8000,Erik Scott,45,Male,Kigali City,Gasabo,low,Public relations account executive,1140,2024-09-19,normal
+Mercedes-Benz,2011,DarkGoldenRod,Coupe,petrol,automatic,diesel,8,174985.0,active,9575,12025,Anna Davis,60,Female,Southern Province,Muhanga,medium,"Conservator, furniture",2035,2021-10-01,normal
+Ford,2024,Chocolate,Sedan,diesel,manual,gasoline,4,19523.42,inactive,16591,21555,Kristina Rivera,53,Male,Southern Province,Nyanza,high,Paediatric nurse,4860,2025-11-29,holiday_sales
+Mercedes-Benz,2009,Peru,SUV,hybrid,automatic,electric,4,301138.32,active,6704,8000,Michelle Schmitt,55,Female,Southern Province,Muhanga,low,Management consultant,1023,2024-03-09,normal
+Volkswagen,2015,Tan,SUV,hybrid,automatic,electric,3,143089.88,active,13612,15888,Matthew Walker,30,Male,Southern Province,Huye,medium,Maintenance engineer,2082,2022-01-22,normal
+Audi,2021,NavajoWhite,Coupe,hybrid,automatic,diesel,8,63857.92,inactive,34235,42423,Donald Perez,59,Female,Northern Province,Gakenke,high,"Surveyor, mining",8820,2025-11-29,holiday_sales
+Mercedes-Benz,2007,Bisque,Truck,electric,manual,gasoline,8,302270.64,active,6766,8000,Mary Steele,48,Male,Eastern Province,Kayonza,low,Education administrator,983,2025-11-30,holiday_sales
+Mercedes-Benz,2009,Magenta,Sedan,electric,manual,gasoline,5,170424.78,inactive,7372,9192,Heather White,56,Male,Eastern Province,Nyagatare,medium,Systems developer,1601,2023-07-04,tourism_peak
+Mercedes-Benz,2023,CornflowerBlue,Hatchback,diesel,automatic,diesel,8,32238.24,active,32410,37628,Mark Johnson,30,Male,Eastern Province,Kayonza,high,Mudlogger,7898,2024-08-03,tourism_peak
+BMW,2006,SaddleBrown,SUV,electric,manual,electric,3,177325.42,active,6713,8000,Jacob Griffith,66,Male,Northern Province,Musanze,low,Associate Professor,1492,2024-10-01,normal
+BMW,2019,DimGray,Sedan,hybrid,automatic,diesel,3,74183.73,inactive,28344,33516,Amber Miller,44,Female,Northern Province,Gakenke,high,Photographer,5515,2022-07-03,tourism_peak
+Toyota,2023,Red,Sedan,electric,manual,electric,3,19556.83,inactive,21832,24809,Daniel Hunt,23,Female,Southern Province,Nyamagabe,high,Planning and development surveyor,4517,2025-04-23,normal
+Volkswagen,2006,LightSkyBlue,Sedan,hybrid,manual,electric,4,308885.73,active,7087,8000,Leslie Rose,52,Female,Southern Province,Muhanga,medium,Armed forces technical officer,1874,2022-02-14,normal
+Honda,2025,Orchid,Van,petrol,automatic,electric,5,0.0,inactive,17562,23100,Mrs. Christine Dougherty,62,Male,Eastern Province,Kayonza,high,Freight forwarder,4931,2023-01-21,normal
+Honda,2025,MediumOrchid,Hatchback,electric,automatic,diesel,8,0.0,active,23723,26460,Jonathan Jordan,26,Male,Kigali City,Gasabo,high,Museum/gallery conservator,4391,2023-08-23,tourism_peak
+BMW,2019,Khaki,SUV,hybrid,automatic,electric,7,57483.71,active,34228,40850,Sandra Drake,39,Male,Eastern Province,Kirehe,high,Occupational psychologist,8071,2025-09-16,normal
+Toyota,2015,PowderBlue,Van,electric,automatic,hybrid,8,157099.59,active,9330,12258,Thomas Atkins,44,Female,Northern Province,Burera,medium,"Teacher, secondary school",2961,2021-07-16,tourism_peak
+Volkswagen,2023,PapayaWhip,Hatchback,petrol,manual,hybrid,5,38967.57,active,16428,19471,Jared Burch,30,Male,Southern Province,Nyamagabe,medium,Waste management officer,3690,2024-08-14,tourism_peak
+Toyota,2011,MistyRose,SUV,petrol,manual,electric,8,249278.33,active,6138,8000,Ryan Sanchez,47,Female,Eastern Province,Rwamagana,low,"Scientist, research (physical sciences)",1274,2025-02-03,normal
+Volkswagen,2014,Orchid,Coupe,petrol,manual,diesel,5,106629.07,active,9396,10805,Nichole Walker,63,Male,Northern Province,Gakenke,low,Camera operator,1452,2021-11-06,holiday_sales
+Toyota,2025,DarkOrange,Hatchback,electric,automatic,hybrid,4,0.0,active,21539,25200,Cheyenne Parsons,29,Female,Southern Province,Huye,high,Data scientist,5669,2025-07-10,tourism_peak
+Ford,2024,DarkKhaki,SUV,diesel,automatic,hybrid,2,18096.68,active,21430,25972,Craig Morrison,22,Male,Northern Province,Gakenke,high,"Editor, film/video",5041,2023-03-11,normal
+Ford,2021,SandyBrown,Sedan,hybrid,automatic,gasoline,5,68066.04,inactive,16033,20639,Olivia Cole,39,Female,Northern Province,Burera,medium,Interpreter,3518,2025-05-20,normal
+Nissan,2018,Purple,Coupe,petrol,manual,electric,7,79126.75,active,11508,13367,Jeremy Turner,46,Female,Northern Province,Rulindo,medium,"Therapist, art",1752,2022-06-19,tourism_peak
+Mercedes-Benz,2006,MidnightBlue,Van,electric,manual,electric,5,330748.33,active,6393,8000,Emily Hayes,35,Male,Eastern Province,Bugesera,medium,"Merchandiser, retail",1568,2021-08-28,tourism_peak
+Nissan,2023,Crimson,Truck,diesel,automatic,diesel,3,27145.85,active,19660,24027,Vanessa Davis,31,Female,Southern Province,Kamonyi,medium,"Psychologist, counselling",3295,2023-08-15,tourism_peak
+Kia,2011,BlueViolet,SUV,electric,manual,hybrid,4,117522.47,active,6327,8000,Robert Pearson,63,Female,Western Province,Rutsiro,medium,Trade union research officer,1601,2026-02-12,normal
+BMW,2014,SteelBlue,Coupe,petrol,automatic,diesel,6,127614.25,inactive,14928,18148,Antonio Garcia,41,Female,Western Province,Ngororero,high,Chartered accountant,4158,2025-03-23,normal
+Toyota,2007,ForestGreen,Sedan,diesel,manual,electric,8,198585.55,inactive,6413,8000,Michael Ritter,55,Male,Western Province,Nyamasheke,medium,Medical physicist,1677,2025-06-21,tourism_peak
+Volkswagen,2007,LightSkyBlue,SUV,diesel,automatic,hybrid,4,209861.9,inactive,6738,8000,Raymond Shelton,31,Male,Eastern Province,Bugesera,low,"Lecturer, higher education",879,2024-05-08,normal
+Kia,2016,MediumPurple,SUV,electric,manual,gasoline,7,142389.27,active,12334,13784,Michael Mitchell,28,Male,Northern Province,Gakenke,medium,"Lecturer, further education",2763,2021-09-27,normal
+Toyota,2013,DarkTurquoise,SUV,petrol,manual,diesel,8,213865.27,active,6341,8000,Emily Douglas,50,Female,Eastern Province,Rwamagana,low,"Conservation officer, nature",846,2021-11-15,holiday_sales
+Ford,2012,Magenta,Van,petrol,manual,hybrid,4,186120.45,inactive,6436,8000,Maria Murphy,41,Male,Southern Province,Nyanza,medium,Secretary/administrator,1846,2021-11-25,holiday_sales
+BMW,2015,Peru,Van,petrol,automatic,electric,3,142789.11,active,15644,19144,Alicia Parker,23,Male,Southern Province,Huye,medium,Licensed conveyancer,2344,2021-12-22,holiday_sales
+Audi,2019,GoldenRod,SUV,petrol,automatic,diesel,8,75830.83,inactive,24848,30403,Chad Jones,39,Male,Eastern Province,Bugesera,high,"Runner, broadcasting/film/video",4100,2025-04-25,normal
+Ford,2025,Violet,Truck,petrol,manual,gasoline,4,0.0,active,24424,28600,George Miranda,37,Male,Southern Province,Ruhango,high,"Therapist, speech and language",6241,2025-10-09,normal
+Hyundai,2008,DeepSkyBlue,SUV,petrol,manual,hybrid,5,157721.86,active,6332,8000,Ronald Wise,54,Male,Eastern Province,Rwamagana,low,Primary school teacher,933,2024-05-20,normal
+Honda,2016,PaleVioletRed,Hatchback,diesel,automatic,electric,2,100577.87,inactive,7704,8903,Nathan Montes,21,Female,Kigali City,Gasabo,medium,"Production assistant, radio",1703,2021-07-20,tourism_peak
+Audi,2019,White,Van,hybrid,manual,diesel,4,105179.37,inactive,28979,34471,Vincent Mueller,28,Male,Eastern Province,Bugesera,high,Mental health nurse,5554,2023-03-04,normal
+BMW,2005,Purple,Truck,petrol,manual,gasoline,3,172724.51,active,6145,8000,Douglas Reyes,38,Female,Kigali City,Nyarugenge,medium,"Designer, television/film set",1612,2026-01-12,normal
+Toyota,2007,DarkSlateGray,Hatchback,petrol,automatic,electric,7,304788.25,active,6633,8000,Amy Castillo,30,Female,Eastern Province,Rwamagana,low,"Surveyor, building",1220,2022-11-17,holiday_sales
+Honda,2009,Tomato,Sedan,diesel,automatic,gasoline,2,247575.7,active,6591,8000,Dominique Hines,31,Female,Northern Province,Burera,low,"Production assistant, television",837,2022-01-19,normal
+Volkswagen,2023,DarkViolet,Truck,diesel,automatic,gasoline,2,27873.47,active,23510,30155,Anna Lozano,40,Female,Kigali City,Gasabo,high,Magazine journalist,6312,2025-07-18,tourism_peak
+Honda,2023,PapayaWhip,Van,petrol,manual,electric,4,36778.96,inactive,15711,20054,Jonathan Young,26,Male,Northern Province,Rulindo,medium,Minerals surveyor,2656,2021-05-28,normal
+Nissan,2005,Black,SUV,hybrid,manual,hybrid,4,279657.67,active,7118,8000,Brett Espinoza,58,Female,Northern Province,Rulindo,low,Dancer,1425,2023-02-02,normal
+Kia,2005,Blue,Hatchback,diesel,automatic,diesel,8,167722.8,inactive,6097,8000,Ronald Horton,32,Male,Kigali City,Gasabo,medium,"Psychotherapist, child",1655,2022-05-08,normal
+BMW,2010,AntiqueWhite,Hatchback,petrol,automatic,diesel,8,257861.36,active,6102,8000,Alicia Lewis,48,Male,Southern Province,Nyamagabe,low,Sports therapist,1133,2024-12-29,holiday_sales
+Audi,2013,Peru,Van,electric,manual,diesel,3,210183.21,active,15261,19204,Dwayne Turner,52,Male,Kigali City,Kicukiro,high,Field trials officer,4354,2025-09-01,normal
+Honda,2013,Salmon,Truck,electric,manual,gasoline,4,168457.4,inactive,9666,11919,Russell Porter,41,Male,Western Province,Nyamasheke,low,"Scientist, biomedical",1230,2024-10-01,normal
+Audi,2010,LawnGreen,Truck,petrol,manual,diesel,7,155881.44,inactive,8029,9232,Doris Smith,42,Female,Eastern Province,Bugesera,medium,Financial adviser,1526,2026-01-26,normal
+BMW,2019,PapayaWhip,Sedan,diesel,manual,gasoline,5,74984.07,inactive,23657,27900,Michael Mills,36,Female,Southern Province,Muhanga,high,Broadcast journalist,4763,2026-01-12,normal
+Ford,2017,YellowGreen,Hatchback,hybrid,automatic,hybrid,5,112268.43,inactive,10299,12605,Virginia Spencer,70,Female,Kigali City,Kicukiro,medium,"Psychotherapist, dance movement",1527,2025-08-27,tourism_peak
+Kia,2017,Orange,Truck,petrol,automatic,electric,8,82492.47,active,9508,12390,Mrs. Alexis Kramer,64,Female,Western Province,Rubavu,medium,Financial adviser,2304,2021-07-20,tourism_peak
+Kia,2011,MediumSeaGreen,SUV,hybrid,automatic,diesel,7,242503.46,active,7187,8000,Harold Morgan,34,Male,Kigali City,Nyarugenge,low,"Psychologist, forensic",1341,2022-01-23,normal
+Nissan,2011,Gainsboro,Truck,hybrid,manual,electric,7,142540.59,active,6542,8000,Amy Parsons,42,Female,Southern Province,Nyanza,medium,Animator,1988,2025-04-01,normal
+Nissan,2005,Green,Truck,petrol,automatic,diesel,2,354849.37,inactive,7029,8000,Curtis Williams,49,Female,Northern Province,Gakenke,low,"Scientist, biomedical",918,2023-09-04,normal
+Audi,2011,YellowGreen,SUV,electric,manual,hybrid,2,234213.03,active,12740,14468,Andrew Lucas,53,Female,Kigali City,Nyarugenge,medium,Marketing executive,3437,2024-07-26,tourism_peak
+Mercedes-Benz,2020,MediumPurple,Sedan,hybrid,automatic,gasoline,8,86407.79,inactive,32976,40459,Robert Kim,42,Female,Eastern Province,Bugesera,high,Printmaker,5172,2021-08-02,tourism_peak
+Toyota,2025,MediumSlateBlue,Coupe,diesel,manual,gasoline,3,0.0,active,20656,24150,Kathleen Jimenez,69,Female,Southern Province,Nyanza,high,Charity fundraiser,5656,2024-06-20,tourism_peak
+Ford,2013,Cyan,Hatchback,electric,manual,diesel,8,161930.35,active,6151,8000,Zachary White,53,Female,Northern Province,Gakenke,medium,IT sales professional,1550,2024-10-15,normal
+Nissan,2009,Cyan,Truck,diesel,automatic,hybrid,3,249146.7,inactive,6192,8000,Edward Griffin,62,Female,Kigali City,Nyarugenge,low,Dietitian,1442,2022-01-19,normal
+Kia,2009,MediumVioletRed,SUV,electric,manual,hybrid,8,313577.1,inactive,6089,8000,Nicholas Buck,65,Female,Kigali City,Kicukiro,low,Haematologist,970,2024-12-15,holiday_sales
+Kia,2005,Crimson,Coupe,diesel,automatic,diesel,6,239418.04,active,6741,8000,Jennifer Palmer,22,Male,Kigali City,Nyarugenge,medium,Airline pilot,1812,2021-09-01,normal
+Nissan,2011,Purple,Hatchback,hybrid,automatic,electric,7,207537.46,active,6150,8000,Austin Osborne,22,Female,Northern Province,Gicumbi,medium,Medical illustrator,1760,2022-05-24,normal
+Ford,2010,BlanchedAlmond,Van,diesel,manual,gasoline,4,232943.39,active,6726,8000,Meghan Rush,37,Female,Southern Province,Nyaruguru,low,"Producer, radio",857,2024-06-08,tourism_peak
+BMW,2020,DarkSlateGray,Truck,petrol,manual,diesel,6,49782.0,active,31151,38004,Jennifer Banks,43,Male,Northern Province,Rulindo,high,Clothing/textile technologist,7930,2021-10-31,normal
+Mercedes-Benz,2019,GhostWhite,Sedan,electric,manual,electric,8,109519.16,active,35661,41910,Mr. Justin Green III,36,Female,Western Province,Nyamasheke,high,"Engineer, site",5598,2021-05-26,normal
+Toyota,2011,SlateGray,Hatchback,electric,automatic,gasoline,7,136966.09,inactive,6295,8000,Chad Jones,66,Male,Eastern Province,Ngoma,medium,"Producer, television/film/video",1722,2023-08-11,tourism_peak
+Nissan,2010,MediumAquaMarine,Truck,diesel,manual,hybrid,4,203721.24,active,6928,8000,Michelle Pierce,28,Female,Northern Province,Musanze,medium,Hydrologist,1745,2021-12-04,holiday_sales
+Toyota,2005,ForestGreen,Hatchback,hybrid,automatic,diesel,7,217616.26,active,6291,8000,Katie Martinez,55,Male,Western Province,Ngororero,low,Corporate treasurer,1284,2022-07-09,tourism_peak
+BMW,2023,Snow,Van,petrol,automatic,electric,3,34442.0,inactive,34418,38911,Julian Wood,66,Male,Western Province,Rubavu,high,Veterinary surgeon,4497,2023-03-12,normal
+Audi,2023,Coral,Coupe,hybrid,manual,electric,7,20646.14,active,41358,48750,Zachary Higgins,67,Female,Southern Province,Huye,high,Outdoor activities/education manager,7712,2021-11-29,holiday_sales
+Kia,2011,Cornsilk,Sedan,petrol,automatic,electric,2,139021.93,inactive,6006,8000,Evan Jones,47,Female,Kigali City,Nyarugenge,medium,"Scientist, forensic",1768,2026-01-26,normal
+Mercedes-Benz,2005,DarkSalmon,SUV,electric,automatic,hybrid,4,257923.5,active,6950,8000,Penny Bowman,63,Male,Southern Province,Nyaruguru,medium,"Conservation officer, nature",1537,2024-02-10,normal
+Volkswagen,2016,SteelBlue,SUV,diesel,manual,hybrid,8,129718.08,inactive,12286,14731,Amy Martinez,26,Male,Eastern Province,Kayonza,medium,Industrial buyer,1890,2024-11-10,holiday_sales
+Toyota,2020,DodgerBlue,Hatchback,diesel,manual,diesel,4,90823.11,active,10565,12359,Michael Reed,66,Female,Kigali City,Kicukiro,medium,Careers information officer,1525,2022-07-31,tourism_peak
+Ford,2024,Gray,Sedan,diesel,automatic,gasoline,6,9932.22,inactive,17207,21746,Krista Martinez,26,Female,Southern Province,Nyamagabe,medium,Volunteer coordinator,3739,2023-04-24,normal
+Audi,2019,DarkGoldenRod,Van,petrol,automatic,gasoline,7,68823.09,active,24729,27884,Caroline David,45,Male,Northern Province,Gicumbi,high,Dramatherapist,6309,2025-09-19,normal
+Mercedes-Benz,2022,BlueViolet,Sedan,diesel,automatic,gasoline,2,53016.71,active,32610,39102,Alyssa Williams,26,Female,Western Province,Karongi,high,"Engineer, materials",5953,2024-01-19,normal
+Kia,2014,PapayaWhip,Truck,diesel,manual,hybrid,3,100264.17,inactive,7928,9051,Amanda Small,58,Female,Western Province,Rubavu,medium,Immigration officer,2002,2026-01-17,normal
+Honda,2020,LemonChiffon,Van,electric,automatic,electric,7,97102.08,active,16871,22313,Melinda Evans,35,Male,Eastern Province,Kirehe,medium,Best boy,3484,2025-04-15,normal
+Volkswagen,2008,Purple,SUV,diesel,automatic,electric,6,221686.75,active,7003,8000,John Peterson,70,Male,Southern Province,Nyaruguru,low,Intelligence analyst,1078,2022-07-11,tourism_peak
+Ford,2015,MediumTurquoise,Truck,diesel,automatic,hybrid,8,188078.84,inactive,8632,11253,Bianca Wood,45,Male,Eastern Province,Ngoma,medium,"Investment banker, operational",2276,2023-11-24,holiday_sales
+Mercedes-Benz,2016,SeaGreen,Hatchback,electric,manual,diesel,8,124283.19,active,25625,28699,Jerry Thomas,68,Male,Eastern Province,Kirehe,high,Horticultural therapist,4605,2023-03-28,normal
+Volkswagen,2025,PeachPuff,Hatchback,hybrid,manual,gasoline,2,0.0,inactive,21393,28125,Sean Moore,35,Female,Southern Province,Huye,high,Technical brewer,6239,2024-06-12,tourism_peak
+Honda,2023,Gold,Coupe,diesel,manual,gasoline,6,26359.05,inactive,18910,22295,Kathleen Robertson,29,Female,Southern Province,Nyamagabe,high,Insurance account manager,4920,2023-11-03,holiday_sales
+Ford,2016,Beige,Van,hybrid,automatic,electric,8,173483.03,active,9935,13168,James Bryant,66,Male,Eastern Province,Kirehe,medium,"Engineer, structural",1939,2025-05-30,normal
+Hyundai,2007,MidnightBlue,Van,electric,automatic,diesel,2,311191.12,inactive,6778,8000,Douglas Harper,62,Female,Eastern Province,Ngoma,medium,Higher education lecturer,1750,2026-02-21,normal
+Ford,2016,Aqua,Truck,petrol,automatic,gasoline,2,91040.27,inactive,11199,13909,Jessica Khan,28,Female,Eastern Province,Bugesera,medium,Operational researcher,2620,2025-09-29,normal
+Volkswagen,2014,Brown,SUV,hybrid,automatic,gasoline,5,120161.28,inactive,11105,14472,Kelly Lee,25,Female,Western Province,Ngororero,medium,"Buyer, retail",2385,2024-04-16,normal
+Audi,2021,Tan,Coupe,petrol,manual,diesel,4,59927.69,active,28289,33761,Joshua Bryan,27,Male,Western Province,Rusizi,high,"Conservation officer, historic buildings",4665,2024-06-19,tourism_peak
+BMW,2015,OrangeRed,Sedan,hybrid,manual,hybrid,2,175273.92,inactive,17117,21495,William Grant,55,Female,Eastern Province,Nyagatare,high,Cytogeneticist,4358,2022-01-01,normal
+Toyota,2015,Teal,Truck,diesel,automatic,hybrid,2,169679.19,inactive,8037,10256,Andrew Williams,62,Female,Kigali City,Gasabo,medium,Public relations account executive,1829,2022-11-15,holiday_sales
+Kia,2024,SaddleBrown,Coupe,electric,manual,hybrid,3,14051.98,active,21900,27250,Steven Taylor,34,Female,Eastern Province,Nyagatare,medium,"Designer, textile",3318,2025-08-06,tourism_peak
+Nissan,2022,Lime,Hatchback,hybrid,manual,gasoline,8,46767.75,inactive,14350,18190,Katie Hicks,22,Female,Eastern Province,Nyagatare,high,"Surveyor, quantity",4075,2024-07-09,tourism_peak
+Hyundai,2007,Sienna,Coupe,petrol,automatic,gasoline,8,174229.33,active,6621,8000,Isabella Nunez,65,Female,Western Province,Nyamasheke,low,Television production assistant,978,2023-09-24,normal
+Audi,2023,Bisque,Hatchback,electric,manual,gasoline,4,22977.11,inactive,33310,42632,Deborah Rios,47,Male,Kigali City,Nyarugenge,high,Arts development officer,8616,2023-10-18,normal
+Mercedes-Benz,2019,Silver,Sedan,diesel,manual,hybrid,6,85600.47,active,27392,31363,Mark Harvey,46,Female,Kigali City,Gasabo,high,Data scientist,7157,2026-02-21,normal
+Ford,2025,BlanchedAlmond,SUV,diesel,manual,diesel,2,0.0,inactive,24888,27720,Melody Lee,60,Female,Eastern Province,Ngoma,high,Interior and spatial designer,5413,2023-03-29,normal
+Volkswagen,2019,DeepPink,Truck,petrol,manual,diesel,3,101272.35,inactive,17885,20725,Damon Shaw,68,Female,Western Province,Ngororero,medium,Biomedical engineer,2337,2024-09-28,normal
+Ford,2020,Tomato,Hatchback,diesel,manual,diesel,6,49412.53,inactive,12060,14604,Frederick Bates,70,Female,Kigali City,Nyarugenge,medium,Interior and spatial designer,3508,2022-05-10,normal
+Honda,2025,Salmon,Coupe,electric,manual,electric,4,0.0,active,27739,33810,Gloria Gomez,64,Female,Western Province,Nyabihu,high,Travel agency manager,6773,2022-08-27,tourism_peak
+BMW,2023,GoldenRod,Sedan,petrol,manual,hybrid,6,19567.67,inactive,31148,35609,Diana Evans,38,Female,Southern Province,Kamonyi,high,Homeopath,4067,2025-04-19,normal
+Honda,2006,SlateGray,Hatchback,diesel,automatic,hybrid,7,243686.44,inactive,7161,8000,Gregory Peck,37,Female,Eastern Province,Kayonza,low,Holiday representative,1244,2022-12-10,holiday_sales
+Kia,2008,YellowGreen,Van,hybrid,manual,diesel,7,308111.0,inactive,6831,8000,William Cardenas,46,Male,Kigali City,Gasabo,medium,Horticultural therapist,1723,2022-03-20,normal
+Hyundai,2008,LightSlateGray,Hatchback,hybrid,automatic,diesel,3,217167.95,active,6389,8000,Angela Bradshaw,36,Female,Northern Province,Gicumbi,medium,Quality manager,1764,2021-07-15,tourism_peak
+Mercedes-Benz,2014,Green,Truck,petrol,automatic,diesel,8,123015.2,inactive,21351,23865,Denise Hoffman,63,Female,Eastern Province,Kirehe,high,"Copywriter, advertising",5602,2022-12-31,holiday_sales
+BMW,2013,LawnGreen,Hatchback,petrol,automatic,diesel,8,229897.86,inactive,7884,9802,Michael Schmidt,52,Male,Western Province,Karongi,medium,Associate Professor,1577,2022-02-09,normal
+Honda,2007,PaleVioletRed,Truck,electric,manual,diesel,4,339255.46,active,7027,8000,John Maldonado,23,Male,Eastern Province,Ngoma,medium,"Accountant, chartered public finance",1913,2022-01-12,normal
+Honda,2022,DimGray,SUV,hybrid,automatic,hybrid,3,36106.59,active,21129,26053,Timothy Johns,25,Female,Southern Province,Nyaruguru,high,"Engineer, communications",5600,2025-11-10,holiday_sales
+Toyota,2012,MediumBlue,Coupe,electric,automatic,electric,5,251079.63,active,6528,8000,Anthony Mack,68,Male,Kigali City,Gasabo,low,Social researcher,1062,2023-08-16,tourism_peak
+Nissan,2023,ForestGreen,Coupe,petrol,manual,electric,6,31270.13,active,17004,20075,Ryan Peck,53,Male,Western Province,Rubavu,medium,Occupational psychologist,2239,2021-06-30,tourism_peak
+Kia,2005,GhostWhite,Van,petrol,automatic,hybrid,6,311422.57,inactive,6327,8000,Tonya Howe,67,Male,Kigali City,Gasabo,low,Acupuncturist,1046,2025-05-24,normal
+Kia,2024,DarkMagenta,Truck,hybrid,manual,hybrid,4,17457.68,inactive,22480,27438,Frances Gibson,30,Female,Eastern Province,Ngoma,high,Contractor,5431,2023-09-20,normal
+Honda,2012,SeaGreen,Hatchback,electric,automatic,electric,4,186941.32,inactive,6348,8000,Robert Rivera,58,Female,Eastern Province,Rwamagana,low,Furniture designer,1249,2025-06-20,tourism_peak
+Ford,2007,Aquamarine,Van,hybrid,automatic,electric,2,272921.12,inactive,6495,8000,Rachel Bradley,48,Male,Kigali City,Gasabo,medium,Economist,1743,2022-10-06,normal
+Volkswagen,2008,Pink,Coupe,petrol,manual,electric,6,206686.86,inactive,6584,8000,Angie Caldwell,57,Male,Western Province,Nyabihu,low,Counselling psychologist,1336,2024-08-17,tourism_peak
+Honda,2007,MediumBlue,Coupe,petrol,automatic,hybrid,4,261161.35,active,6847,8000,Adriana Reyes,27,Female,Eastern Province,Kirehe,low,"Geologist, engineering",1434,2025-03-29,normal
+Ford,2021,LimeGreen,Coupe,electric,manual,hybrid,6,33754.57,active,22053,27661,Laura Green,31,Female,Kigali City,Nyarugenge,high,Fashion designer,4274,2023-12-26,holiday_sales
+Nissan,2025,DarkOrchid,Van,hybrid,manual,hybrid,8,0.0,inactive,22054,27500,Christopher Parks,36,Female,Northern Province,Musanze,high,Commercial/residential surveyor,6154,2021-09-16,normal
+Toyota,2019,NavajoWhite,Van,petrol,automatic,diesel,6,117386.41,active,10522,13052,Colleen Anderson,70,Male,Kigali City,Kicukiro,medium,"Programme researcher, broadcasting/film/video",1954,2023-09-09,normal
+BMW,2022,PapayaWhip,Truck,petrol,automatic,gasoline,6,24360.06,active,34254,43713,Susan Todd,54,Male,Kigali City,Nyarugenge,high,Firefighter,9106,2024-05-10,normal
+BMW,2021,Violet,Van,petrol,manual,gasoline,3,47261.51,active,29412,34255,Michael Miller,20,Male,Western Province,Rusizi,high,Biomedical engineer,6963,2021-11-16,holiday_sales
+Nissan,2012,Tan,Truck,electric,manual,hybrid,2,149307.4,active,7492,9754,Joshua Martin,45,Female,Kigali City,Nyarugenge,medium,Commercial horticulturist,2431,2025-11-02,holiday_sales
+Honda,2011,SlateGray,Sedan,diesel,automatic,electric,4,189918.04,inactive,6618,8000,Jordan Stokes,68,Female,Southern Province,Ruhango,medium,Consulting civil engineer,1658,2022-12-05,holiday_sales
+Hyundai,2011,PapayaWhip,Van,diesel,manual,hybrid,5,264388.43,inactive,6264,8000,Anthony Ford,26,Female,Western Province,Karongi,medium,Advertising copywriter,1725,2025-07-18,tourism_peak
+Audi,2006,LightCyan,Van,electric,automatic,gasoline,7,205316.13,active,6797,8000,Nichole Lane,66,Male,Kigali City,Kicukiro,medium,Pharmacologist,1611,2024-07-19,tourism_peak
+Volkswagen,2012,Coral,Hatchback,hybrid,manual,diesel,7,171352.96,inactive,6731,8000,Amy Shannon,56,Female,Kigali City,Gasabo,low,Ambulance person,1303,2024-02-10,normal
+Hyundai,2013,PaleTurquoise,Van,hybrid,manual,diesel,7,149002.17,active,6764,8000,Chad May,66,Female,Southern Province,Ruhango,medium,Minerals surveyor,1824,2023-08-15,tourism_peak
+Audi,2006,RosyBrown,Coupe,electric,manual,electric,5,188570.1,inactive,7134,8000,Susan Bennett,52,Male,Western Province,Karongi,medium,Magazine features editor,1742,2024-06-07,tourism_peak
+Mercedes-Benz,2019,Fuchsia,Sedan,hybrid,manual,gasoline,4,76590.05,inactive,29901,37843,Jenna Anderson DVM,47,Male,Northern Province,Gicumbi,high,Advice worker,7075,2022-03-10,normal
+Volkswagen,2007,SandyBrown,Truck,petrol,automatic,electric,5,253671.8,inactive,6381,8000,Kimberly Patel,20,Male,Kigali City,Gasabo,medium,Firefighter,1985,2023-09-19,normal
+BMW,2005,MediumTurquoise,SUV,electric,automatic,hybrid,5,196193.77,inactive,6078,8000,Colin Golden,22,Male,Kigali City,Kicukiro,medium,Ambulance person,1630,2025-02-05,normal
+Mercedes-Benz,2007,Azure,SUV,hybrid,automatic,electric,6,254389.81,active,6925,8000,Austin Wheeler,46,Female,Kigali City,Gasabo,low,"Therapist, sports",916,2024-09-29,normal
+Nissan,2023,LemonChiffon,Truck,diesel,manual,gasoline,7,39155.8,inactive,17925,23787,Jennifer Young,20,Male,Northern Province,Gicumbi,high,Banker,5189,2021-08-05,tourism_peak
+Honda,2025,SteelBlue,Van,petrol,automatic,hybrid,5,0.0,inactive,18655,23100,Cynthia Hendricks DDS,28,Female,Western Province,Rubavu,medium,Fast food restaurant manager,2596,2022-05-16,normal
+BMW,2007,DarkTurquoise,Coupe,electric,manual,hybrid,6,245210.2,active,6129,8000,Ms. Jennifer Hill,46,Male,Western Province,Nyamasheke,low,Physiotherapist,1491,2023-09-30,normal
+Volkswagen,2018,Snow,Coupe,petrol,manual,diesel,3,70400.48,inactive,14938,17279,Gregory Schneider,39,Female,Northern Province,Gakenke,medium,"Scientist, water quality",2866,2025-11-27,holiday_sales
+Kia,2025,PapayaWhip,Sedan,hybrid,manual,electric,5,0.0,inactive,17128,22500,Elijah White,70,Female,Northern Province,Rulindo,medium,Financial adviser,3298,2023-11-22,holiday_sales
+BMW,2015,Lime,Coupe,electric,automatic,hybrid,8,164721.48,inactive,25694,28906,Brianna Ford,47,Male,Southern Province,Kamonyi,medium,"Surveyor, planning and development",3410,2023-02-05,normal
+Nissan,2025,PapayaWhip,Sedan,electric,manual,electric,3,0.0,active,22293,28000,Brandi Sanchez,37,Male,Kigali City,Kicukiro,high,Lawyer,4236,2024-09-09,normal
+BMW,2008,RoyalBlue,Sedan,petrol,automatic,electric,5,146068.22,active,6203,8000,Anna Hardy,40,Male,Southern Province,Muhanga,low,Arts development officer,1145,2021-11-07,holiday_sales
+Mercedes-Benz,2009,OldLace,Van,hybrid,automatic,gasoline,6,305386.84,active,6314,8000,Lindsey Russo,32,Male,Southern Province,Muhanga,medium,Theatre manager,1514,2023-06-19,tourism_peak
+Nissan,2017,IndianRed,Van,hybrid,automatic,diesel,5,104306.91,inactive,12256,14414,Sean Cook,39,Male,Southern Province,Muhanga,medium,"Engineer, mining",1998,2025-12-07,holiday_sales
+BMW,2022,DarkOrchid,SUV,hybrid,automatic,gasoline,6,40209.66,inactive,39212,50196,Nicole Rocha,40,Male,Eastern Province,Kirehe,high,Occupational psychologist,10114,2022-10-18,normal
+BMW,2019,MediumBlue,Hatchback,diesel,automatic,diesel,6,112116.24,inactive,18813,24218,Jamie Ferguson,46,Female,Kigali City,Gasabo,high,Insurance account manager,4455,2023-03-20,normal
+Hyundai,2009,MistyRose,Hatchback,hybrid,manual,gasoline,3,275284.0,inactive,7032,8000,Kathleen Garcia,64,Female,Northern Province,Gicumbi,low,IT consultant,1024,2023-05-28,normal
+Audi,2024,NavajoWhite,Truck,petrol,automatic,diesel,6,19322.51,active,39300,46544,Angel Shields,27,Male,Kigali City,Nyarugenge,high,"Administrator, sports",9685,2022-11-28,holiday_sales
+Hyundai,2018,PapayaWhip,Van,diesel,manual,gasoline,5,121117.71,active,9745,11842,Craig Hall,53,Male,Eastern Province,Gatsibo,medium,Restaurant manager,2327,2023-05-26,normal
+Volkswagen,2012,MediumSlateBlue,Truck,diesel,automatic,electric,8,111136.04,inactive,7986,9721,Roberto Levy,33,Female,Northern Province,Rulindo,low,Psychiatrist,1095,2025-11-11,holiday_sales
+Volkswagen,2006,MidnightBlue,Coupe,hybrid,manual,gasoline,5,286495.75,active,6614,8000,Nathan Freeman,38,Male,Eastern Province,Gatsibo,low,"Scientist, research (physical sciences)",1243,2022-08-11,tourism_peak
+BMW,2018,Crimson,Hatchback,diesel,manual,diesel,2,65962.44,active,20314,23251,Mary Duran,39,Female,Eastern Province,Bugesera,medium,"Copywriter, advertising",2647,2021-06-20,tourism_peak
+Toyota,2018,CornflowerBlue,Truck,diesel,automatic,diesel,4,93080.98,active,12035,15883,Alexa Wagner,31,Female,Southern Province,Kamonyi,medium,Best boy,3447,2023-02-24,normal
+BMW,2010,SlateBlue,Hatchback,diesel,manual,hybrid,6,199547.97,inactive,6682,8000,Joseph Jenkins,21,Male,Southern Province,Gisagara,medium,Senior tax professional/tax inspector,1540,2025-04-16,normal
+Hyundai,2005,WhiteSmoke,Coupe,diesel,automatic,hybrid,8,229892.16,active,6992,8000,Alicia Li,23,Female,Northern Province,Musanze,low,Editorial assistant,1169,2023-07-08,tourism_peak
+Kia,2006,DarkGray,Truck,electric,manual,electric,7,176879.47,inactive,6594,8000,Daisy Harvey,52,Female,Eastern Province,Kirehe,medium,Manufacturing systems engineer,1507,2022-02-02,normal
+Audi,2015,Orchid,Hatchback,diesel,manual,electric,4,147717.98,active,11844,15001,Tyler Stevens,53,Male,Eastern Province,Kirehe,medium,Equities trader,3144,2023-06-15,tourism_peak
+Kia,2017,Cyan,Sedan,diesel,automatic,gasoline,2,68485.11,inactive,8697,9970,Shannon Malone,57,Male,Western Province,Nyabihu,low,"Optician, dispensing",1451,2023-09-24,normal
+Toyota,2020,OldLace,Sedan,diesel,manual,diesel,7,71874.58,active,11476,14313,Amy Smith,29,Male,Kigali City,Nyarugenge,medium,Charity fundraiser,2165,2024-05-28,normal
+Nissan,2010,PowderBlue,Van,hybrid,manual,diesel,6,217074.84,inactive,6744,8000,Erin Madden,70,Male,Eastern Province,Ngoma,low,"Secretary, company",1400,2025-06-07,tourism_peak
+Ford,2005,Khaki,Sedan,electric,manual,gasoline,5,198585.66,inactive,6587,8000,Sean Clay,65,Female,Eastern Province,Kirehe,low,Geoscientist,1303,2021-07-17,tourism_peak
+Honda,2010,Crimson,Sedan,diesel,automatic,hybrid,8,171218.61,inactive,6723,8000,Diana Daniels,28,Male,Northern Province,Gakenke,low,Editorial assistant,939,2021-07-29,tourism_peak
+Kia,2019,Azure,SUV,hybrid,manual,gasoline,5,56175.99,active,14977,17776,Laurie Goodwin,66,Female,Southern Province,Ruhango,medium,Camera operator,2393,2023-11-09,holiday_sales
+Audi,2008,DodgerBlue,Van,hybrid,automatic,diesel,3,339353.77,inactive,6196,8000,Lacey Atkinson,41,Female,Western Province,Rubavu,medium,Music tutor,1764,2023-09-22,normal
+Kia,2021,Cyan,Coupe,petrol,automatic,diesel,7,41734.65,active,11896,15725,Valerie Brown,65,Female,Northern Province,Gicumbi,medium,Exhibition designer,2421,2022-05-15,normal
+Volkswagen,2009,MediumSpringGreen,Hatchback,diesel,manual,diesel,6,274608.5,inactive,6649,8000,Lisa Larson,22,Female,Northern Province,Musanze,low,Air traffic controller,1485,2021-10-29,normal
+Ford,2023,RoyalBlue,Coupe,electric,manual,diesel,6,25214.73,inactive,25928,31374,Henry Pugh MD,51,Female,Western Province,Ngororero,high,Chartered certified accountant,6036,2023-07-04,tourism_peak
+Ford,2019,LightBlue,Hatchback,hybrid,automatic,diesel,2,65521.67,inactive,12856,16015,Angela Moore,70,Male,Western Province,Karongi,medium,Neurosurgeon,2643,2023-09-10,normal
+Nissan,2013,MistyRose,Sedan,petrol,automatic,electric,4,169523.62,active,7036,8000,Aaron Parker,52,Female,Western Province,Nyamasheke,low,Geophysicist/field seismologist,1140,2023-11-15,holiday_sales
+Ford,2019,DarkSeaGreen,Coupe,diesel,manual,diesel,8,107352.57,active,13199,16448,Jeffrey Hawkins,40,Female,Kigali City,Kicukiro,medium,"Civil engineer, contracting",2959,2022-01-18,normal
+Mercedes-Benz,2006,DarkCyan,Coupe,hybrid,manual,hybrid,8,273133.51,inactive,6083,8000,Brandon George,33,Female,Southern Province,Kamonyi,low,Musician,1023,2021-05-27,normal
+Mercedes-Benz,2022,LightSteelBlue,Van,petrol,manual,gasoline,8,52059.58,inactive,31597,41034,Richard Hardy,31,Male,Northern Province,Gakenke,high,"Teacher, music",6440,2021-04-14,normal
+Volkswagen,2015,FloralWhite,Van,electric,automatic,gasoline,2,160146.25,inactive,13292,16047,Caroline Adams,51,Female,Western Province,Rusizi,medium,"Research officer, government",3127,2025-08-12,tourism_peak
+Mercedes-Benz,2014,Coral,SUV,diesel,manual,diesel,3,126357.62,active,18650,22988,Donald Evans,34,Male,Eastern Province,Gatsibo,medium,Media planner,2405,2022-06-03,tourism_peak
+Mercedes-Benz,2022,LightBlue,Coupe,hybrid,automatic,gasoline,5,42494.26,inactive,44152,54134,Kathleen Jensen,50,Female,Kigali City,Gasabo,high,Clinical biochemist,6739,2023-04-28,normal
+Toyota,2022,LimeGreen,Coupe,electric,automatic,diesel,2,40583.26,active,22718,26558,James Skinner,63,Female,Southern Province,Nyanza,medium,Landscape architect,3968,2022-05-01,normal
+Mercedes-Benz,2016,MediumSeaGreen,Hatchback,diesel,automatic,diesel,7,141806.08,inactive,18191,20553,Rodney Curtis,48,Male,Eastern Province,Ngoma,medium,Hydrologist,2190,2024-12-03,holiday_sales
+Hyundai,2011,Green,Hatchback,hybrid,automatic,diesel,4,140742.03,active,7081,8000,Christopher Sanders,20,Female,Southern Province,Kamonyi,low,"Horticulturist, amenity",1337,2023-11-28,holiday_sales
+Volkswagen,2025,LemonChiffon,SUV,petrol,manual,electric,6,0.0,active,25353,30000,Douglas Hartman,50,Female,Northern Province,Rulindo,high,Clothing/textile technologist,5570,2025-05-10,normal
+Audi,2024,Green,Sedan,petrol,automatic,hybrid,2,11215.69,active,31055,35876,Kimberly Maldonado,65,Male,Kigali City,Gasabo,medium,"Psychologist, clinical",3956,2025-12-22,holiday_sales
+Kia,2017,Purple,Sedan,petrol,manual,hybrid,5,92506.62,inactive,7787,8950,Sandra Jones,35,Female,Southern Province,Nyaruguru,medium,Restaurant manager,1596,2022-12-18,holiday_sales
+Audi,2023,LimeGreen,Sedan,diesel,automatic,hybrid,7,35882.28,inactive,30823,35192,Matthew Espinoza,20,Female,Northern Province,Musanze,high,"Buyer, retail",4906,2022-05-13,normal
+Volkswagen,2015,Silver,Coupe,petrol,manual,gasoline,5,130148.91,active,9510,11772,Kimberly Mclean,70,Female,Southern Province,Gisagara,medium,Speech and language therapist,2926,2024-12-31,holiday_sales
+Honda,2022,MistyRose,Truck,hybrid,manual,electric,3,25169.99,active,24538,28503,Robin Wheeler,49,Male,Southern Province,Nyamagabe,high,Clinical embryologist,6115,2021-06-29,tourism_peak
+Hyundai,2009,MidnightBlue,Truck,electric,manual,diesel,8,128490.12,inactive,6986,8000,Lonnie Hart,31,Female,Kigali City,Gasabo,medium,Learning disability nurse,1767,2023-04-17,normal
+Mercedes-Benz,2013,DarkMagenta,SUV,hybrid,manual,diesel,6,214722.29,inactive,17251,22706,David Dixon,43,Male,Southern Province,Nyaruguru,high,Product designer,4598,2024-11-03,holiday_sales
+BMW,2015,OrangeRed,Hatchback,electric,manual,gasoline,2,110640.44,inactive,17729,22987,Michael Vaughn,60,Male,Eastern Province,Kayonza,medium,Location manager,3795,2024-05-12,normal
+Volkswagen,2005,SkyBlue,Sedan,hybrid,manual,diesel,4,386742.51,inactive,6991,8000,Jason Nixon,59,Male,Eastern Province,Rwamagana,low,Curator,1286,2021-05-22,normal
+Audi,2019,Magenta,SUV,hybrid,manual,diesel,7,49701.54,active,32027,38906,Richard Boyd,68,Female,Southern Province,Huye,high,Publishing copy,5866,2024-02-22,normal
+Nissan,2023,Purple,SUV,hybrid,manual,hybrid,4,38381.03,inactive,22440,26232,Jodi Jones,65,Male,Eastern Province,Kayonza,medium,Colour technologist,3468,2022-01-04,normal
+Honda,2016,MediumSpringGreen,Hatchback,diesel,automatic,gasoline,3,178269.66,active,6970,8000,Megan Martin,43,Male,Southern Province,Huye,low,"Scientist, clinical (histocompatibility and immunogenetics)",1070,2021-05-16,normal
+Hyundai,2013,DimGray,Coupe,petrol,manual,gasoline,2,101393.24,active,6574,8000,Jeffery Murray,35,Female,Western Province,Karongi,low,Educational psychologist,1087,2022-08-31,tourism_peak
+Nissan,2010,Plum,Hatchback,hybrid,automatic,gasoline,4,202923.18,active,6238,8000,Omar Ware,35,Female,Eastern Province,Kirehe,medium,"Therapist, drama",1724,2022-10-07,normal
+Toyota,2013,Orange,Coupe,hybrid,manual,gasoline,8,184293.29,inactive,6585,8000,Daniel Ramirez,20,Male,Northern Province,Gicumbi,medium,Technical brewer,1657,2024-10-31,normal
+BMW,2025,WhiteSmoke,Van,petrol,automatic,hybrid,4,0.0,inactive,34798,44000,Gabriel Ellis,46,Female,Northern Province,Burera,high,Recruitment consultant,8998,2022-01-17,normal
+Mercedes-Benz,2011,Maroon,Van,petrol,automatic,electric,6,278159.26,inactive,7338,9287,Lisa Matthews,47,Female,Western Province,Ngororero,medium,Management consultant,2140,2025-09-01,normal
+Nissan,2007,ForestGreen,Hatchback,electric,manual,hybrid,5,275662.83,inactive,6671,8000,Michele Evans,47,Male,Northern Province,Burera,low,Contractor,1494,2025-01-27,normal
+Mercedes-Benz,2017,DarkOrchid,Coupe,diesel,manual,hybrid,6,152295.99,active,24249,29557,Bruce Brooks,33,Male,Southern Province,Nyanza,medium,Sales promotion account executive,3946,2023-11-05,holiday_sales
+Volkswagen,2008,PeachPuff,Sedan,diesel,automatic,electric,6,277071.42,active,6441,8000,Laura Henderson,52,Female,Northern Province,Musanze,low,Soil scientist,997,2024-06-25,tourism_peak
+Kia,2009,FireBrick,Truck,diesel,manual,electric,8,178695.7,active,6184,8000,Charles Edwards MD,41,Male,Kigali City,Kicukiro,medium,Mechanical engineer,1596,2022-08-27,tourism_peak
+Honda,2019,SlateBlue,Sedan,petrol,manual,diesel,5,111025.66,active,10215,12479,Robert Maynard,39,Female,Southern Province,Nyaruguru,medium,Osteopath,2423,2021-04-05,normal
+Toyota,2010,PapayaWhip,Hatchback,petrol,manual,electric,6,187308.98,active,6715,8000,Jill Jackson,24,Male,Northern Province,Gicumbi,medium,English as a second language teacher,1826,2025-05-12,normal
+Audi,2023,BlanchedAlmond,Sedan,hybrid,manual,diesel,5,23357.55,inactive,36104,42283,Joshua Jackson,52,Female,Southern Province,Gisagara,high,Systems developer,7797,2023-08-31,tourism_peak
+Audi,2022,Teal,Hatchback,diesel,manual,diesel,4,30035.58,inactive,25582,29923,Brian Hampton,69,Female,Northern Province,Musanze,high,Special effects artist,4620,2025-05-23,normal
+Audi,2010,Purple,Coupe,electric,manual,hybrid,2,213650.68,inactive,9199,11022,Wanda Garcia,56,Male,Southern Province,Nyaruguru,low,Human resources officer,1180,2021-07-14,tourism_peak
+Honda,2014,RoyalBlue,Coupe,petrol,automatic,electric,5,209564.59,active,6694,8000,Scott Miller,45,Male,Northern Province,Rulindo,medium,Fast food restaurant manager,1916,2021-06-15,tourism_peak
+Nissan,2016,MediumVioletRed,Hatchback,petrol,automatic,gasoline,4,151641.66,active,7144,8000,Lisa Patterson,20,Male,Eastern Province,Gatsibo,low,"Engineer, maintenance",1153,2022-12-19,holiday_sales
+BMW,2021,Chocolate,Truck,petrol,manual,hybrid,8,67338.09,inactive,35588,40253,Kim Carlson,21,Male,Eastern Province,Bugesera,high,Jewellery designer,7711,2022-12-09,holiday_sales
+Volkswagen,2014,LightSteelBlue,SUV,hybrid,automatic,diesel,3,171506.84,active,11468,13445,Tiffany Robertson,42,Male,Northern Province,Gicumbi,medium,Control and instrumentation engineer,2858,2023-09-02,normal
+Audi,2018,Chocolate,Van,electric,manual,hybrid,6,92630.01,inactive,29506,36185,Sharon Martinez DVM,69,Male,Western Province,Rutsiro,high,Dancer,7959,2024-09-05,normal
+Volkswagen,2007,LightBlue,Truck,hybrid,automatic,electric,4,244422.92,inactive,7151,8000,Megan Burns,53,Female,Western Province,Rubavu,low,Patent examiner,1386,2023-12-02,holiday_sales
+Ford,2015,RoyalBlue,Sedan,petrol,manual,diesel,5,173888.67,active,6118,8000,Robert Mack,61,Female,Kigali City,Kicukiro,low,"Scientist, biomedical",1091,2024-05-15,normal
+Audi,2019,NavajoWhite,Truck,diesel,automatic,diesel,4,69336.69,inactive,27104,34922,John Perkins,63,Male,Northern Province,Musanze,high,Proofreader,5924,2023-07-19,tourism_peak
+Honda,2013,Coral,SUV,petrol,manual,diesel,5,200722.59,inactive,7136,8000,Jennifer Donaldson,26,Male,Western Province,Ngororero,medium,"Research officer, trade union",1629,2024-03-23,normal
+Honda,2023,MediumBlue,Coupe,petrol,automatic,electric,4,22334.69,active,17635,21288,Gail Lane,56,Female,Western Province,Rutsiro,medium,Lobbyist,3637,2023-06-19,tourism_peak
+BMW,2014,Brown,Truck,diesel,manual,gasoline,4,145056.2,inactive,18657,21669,Richard Stevens,33,Male,Kigali City,Kicukiro,high,"Designer, industrial/product",4072,2021-08-04,tourism_peak
+Mercedes-Benz,2016,SaddleBrown,Hatchback,diesel,automatic,electric,3,170240.28,active,17459,19984,Tyler Harris,20,Male,Eastern Province,Bugesera,medium,Immigration officer,2629,2024-12-07,holiday_sales
+BMW,2025,LightSalmon,Coupe,diesel,manual,diesel,8,0.0,active,41738,48300,Isaac Miller,64,Male,Kigali City,Kicukiro,high,Associate Professor,8877,2022-07-13,tourism_peak
+BMW,2019,Linen,Sedan,petrol,manual,gasoline,4,112885.11,inactive,21704,25742,Nicole Patterson,50,Male,Southern Province,Nyanza,high,Chief of Staff,4268,2024-07-20,tourism_peak
+Audi,2023,HotPink,Van,electric,automatic,gasoline,2,30071.83,inactive,40961,52067,Casey Perez,20,Female,Kigali City,Gasabo,high,Acupuncturist,6246,2021-03-10,normal
+BMW,2025,MediumSpringGreen,Van,hybrid,manual,diesel,8,0.0,active,48164,55000,Virginia Henderson,36,Male,Kigali City,Nyarugenge,high,Purchasing manager,11014,2021-04-01,normal
+Nissan,2014,Khaki,SUV,petrol,manual,hybrid,2,207041.49,active,7028,8000,Nicholas Garcia,22,Female,Northern Province,Musanze,low,Mental health nurse,1167,2021-10-13,normal
+Nissan,2024,DarkSlateGray,Coupe,hybrid,manual,gasoline,8,17286.78,inactive,20272,26967,Robert Baxter,29,Male,Northern Province,Burera,high,Broadcast presenter,5394,2023-09-22,normal
+Kia,2024,Aqua,Van,hybrid,manual,gasoline,5,15636.61,inactive,19063,23200,Carly Bell,66,Male,Southern Province,Nyaruguru,medium,"Designer, blown glass/stained glass",2630,2025-09-10,normal
+Mercedes-Benz,2006,Red,Van,electric,automatic,gasoline,5,376120.05,inactive,6213,8000,Angelica Garcia,30,Male,Northern Province,Gicumbi,low,Theme park manager,872,2024-09-06,normal
+Volkswagen,2018,MediumVioletRed,SUV,electric,manual,hybrid,3,137630.62,active,21789,24547,Emily Taylor,26,Female,Eastern Province,Gatsibo,high,Chartered accountant,4107,2024-06-12,tourism_peak
+Honda,2014,LightSkyBlue,Truck,electric,manual,hybrid,5,150602.24,inactive,12515,14187,Melissa Abbott,67,Female,Northern Province,Musanze,medium,"Engineer, land",3175,2023-04-17,normal
+Toyota,2015,Teal,Van,electric,manual,electric,7,131029.31,active,10300,12779,James Lucas,39,Male,Western Province,Ngororero,medium,"Research officer, trade union",2531,2025-08-01,tourism_peak
+Ford,2022,DarkOliveGreen,Truck,electric,automatic,hybrid,6,45912.69,inactive,27255,33116,Mark Jones,33,Male,Northern Province,Musanze,high,Media planner,6266,2024-06-17,tourism_peak
+Mercedes-Benz,2012,DarkSeaGreen,Truck,hybrid,automatic,diesel,8,191149.68,inactive,19138,21771,Ryan Fisher,50,Male,Eastern Province,Gatsibo,high,Public affairs consultant,4841,2023-11-15,holiday_sales
+Toyota,2005,Azure,SUV,petrol,manual,gasoline,6,167678.66,inactive,6806,8000,Alexis Lewis,32,Male,Northern Province,Gakenke,low,Occupational therapist,1485,2021-10-19,normal
+Hyundai,2006,LightSlateGray,SUV,electric,automatic,gasoline,2,156706.39,inactive,6008,8000,Kathryn Perry,30,Female,Southern Province,Nyaruguru,medium,Charity fundraiser,1515,2025-06-27,tourism_peak
+Ford,2005,WhiteSmoke,Van,diesel,manual,diesel,5,272560.89,active,6368,8000,Diamond Collins,58,Male,Western Province,Nyabihu,medium,"Designer, furniture",1961,2025-09-29,normal
+Kia,2005,MediumOrchid,Hatchback,diesel,automatic,gasoline,5,236995.86,active,7147,8000,Mark Davenport,30,Male,Southern Province,Nyanza,medium,Insurance claims handler,1948,2025-09-28,normal
+Nissan,2017,LawnGreen,SUV,petrol,manual,hybrid,3,146805.2,inactive,9246,11464,Brandon Hamilton,61,Female,Southern Province,Nyamagabe,medium,Veterinary surgeon,2854,2024-11-25,holiday_sales
+BMW,2023,Magenta,SUV,hybrid,manual,diesel,2,22190.04,inactive,46697,53556,Mary Thompson,63,Male,Northern Province,Gakenke,high,"Copywriter, advertising",10586,2021-08-24,tourism_peak
+Nissan,2010,DodgerBlue,Van,petrol,automatic,electric,3,176358.48,active,6530,8000,Gregory Holmes PhD,43,Female,Western Province,Rutsiro,medium,Dietitian,1853,2021-04-11,normal
+Ford,2007,DarkSalmon,Truck,diesel,automatic,electric,5,213340.36,active,6010,8000,Shelley Quinn,62,Male,Eastern Province,Rwamagana,medium,Air traffic controller,1934,2024-05-05,normal
+Mercedes-Benz,2019,Pink,Sedan,electric,manual,hybrid,3,102367.82,inactive,33153,42053,Austin Joseph,26,Male,Eastern Province,Ngoma,high,Research scientist (maths),9449,2024-01-11,normal
+Volkswagen,2015,Teal,Truck,hybrid,manual,electric,5,82801.42,active,15295,18656,Jonathan Bradley,37,Female,Kigali City,Kicukiro,medium,"Designer, industrial/product",2985,2025-01-19,normal
+Mercedes-Benz,2017,DarkKhaki,Van,hybrid,manual,electric,4,113793.36,active,29159,34849,Megan Wilson,62,Male,Kigali City,Nyarugenge,high,Armed forces operational officer,7290,2023-05-08,normal
+Volkswagen,2011,LemonChiffon,Hatchback,hybrid,automatic,gasoline,5,130875.95,active,6852,8000,Jack Mora,60,Male,Kigali City,Kicukiro,medium,Animal technologist,1726,2021-04-14,normal
+Mercedes-Benz,2022,PeachPuff,Hatchback,petrol,automatic,electric,6,35393.14,active,29816,33717,David Moon,39,Female,Northern Province,Rulindo,high,Geoscientist,7011,2025-11-18,holiday_sales
+Hyundai,2015,Navy,Coupe,hybrid,automatic,diesel,4,147325.81,active,8164,10710,Michael Williams,24,Male,Northern Province,Musanze,medium,"Scientist, clinical (histocompatibility and immunogenetics)",2374,2021-11-03,holiday_sales
+Mercedes-Benz,2024,PaleGoldenRod,SUV,electric,automatic,hybrid,2,19032.26,active,58450,71439,John Campbell,39,Female,Western Province,Nyamasheke,high,Land,13191,2021-07-27,tourism_peak
+Toyota,2022,SaddleBrown,Truck,diesel,automatic,hybrid,7,44141.0,inactive,17956,22322,Curtis Elliott,28,Female,Northern Province,Gakenke,high,Writer,4074,2021-11-30,holiday_sales
+Volkswagen,2008,SandyBrown,SUV,electric,manual,hybrid,8,174994.37,inactive,6004,8000,Wesley Cuevas,30,Male,Northern Province,Gicumbi,low,Sports coach,1297,2023-03-30,normal
+Hyundai,2020,DeepPink,Sedan,hybrid,manual,gasoline,6,69366.65,inactive,13992,16425,Jason Hall,27,Female,Northern Province,Gicumbi,medium,Acupuncturist,2589,2023-04-07,normal
+Hyundai,2024,AliceBlue,Hatchback,petrol,manual,diesel,6,15663.04,active,13458,15932,Jamie Rojas,41,Female,Eastern Province,Bugesera,medium,Civil Service administrator,2376,2024-01-11,normal
+Mercedes-Benz,2013,Wheat,SUV,diesel,automatic,electric,5,118049.12,active,15641,20319,Mrs. Tonya Kaufman,35,Male,Eastern Province,Bugesera,medium,Health service manager,3741,2022-12-04,holiday_sales
+Ford,2023,Brown,Hatchback,petrol,manual,diesel,7,34181.5,active,14026,17136,Stephanie Meyer,53,Female,Southern Province,Nyanza,medium,Proofreader,1967,2021-12-21,holiday_sales
+Ford,2006,DarkGray,Hatchback,diesel,automatic,diesel,6,359265.83,active,6550,8000,Mandy Foster,50,Male,Western Province,Rubavu,medium,"Presenter, broadcasting",1992,2021-11-25,holiday_sales
+Nissan,2022,LavenderBlush,Coupe,petrol,automatic,gasoline,2,50687.72,inactive,14295,18536,Samuel Howe,27,Female,Western Province,Nyamasheke,medium,"Journalist, newspaper",2699,2022-04-17,normal
+Audi,2024,RoyalBlue,Truck,petrol,automatic,diesel,4,18353.28,active,36806,46563,Benjamin Harris,58,Male,Northern Province,Gakenke,high,"Designer, furniture",8859,2023-11-20,holiday_sales
+Kia,2020,FireBrick,Truck,diesel,automatic,diesel,3,83402.0,active,14551,16759,Erik Martinez,28,Female,Kigali City,Kicukiro,high,"Engineer, maintenance (IT)",4003,2022-01-29,normal
+Ford,2017,Linen,SUV,diesel,manual,gasoline,4,134470.9,active,10571,13943,Samuel Davis,36,Female,Kigali City,Kicukiro,medium,Toxicologist,2100,2025-01-09,normal
+Mercedes-Benz,2010,IndianRed,Coupe,electric,manual,gasoline,3,259551.93,active,10451,12921,Erin Davis,29,Male,Northern Province,Gicumbi,medium,Market researcher,1786,2021-07-10,tourism_peak
+Ford,2018,Thistle,Coupe,hybrid,manual,diesel,3,76602.36,inactive,16315,19024,Edwin Wilkins,31,Male,Kigali City,Kicukiro,medium,Airline pilot,3934,2024-07-20,tourism_peak
+Mercedes-Benz,2011,RoyalBlue,Truck,electric,manual,gasoline,2,203777.71,inactive,18097,20494,Krista Davis,38,Male,Eastern Province,Ngoma,high,Counselling psychologist,4090,2024-08-14,tourism_peak
+Hyundai,2017,Aquamarine,Truck,electric,automatic,hybrid,3,144737.37,active,15113,17853,Richard Walker,65,Male,Northern Province,Gakenke,medium,Oncologist,2990,2022-03-19,normal
+Mercedes-Benz,2005,DarkBlue,Coupe,diesel,automatic,diesel,6,193646.92,inactive,6272,8000,Deanna Hess,66,Male,Northern Province,Gakenke,low,Bookseller,1382,2024-05-06,normal
+Volkswagen,2012,Red,Truck,diesel,automatic,electric,4,246402.49,inactive,6118,8000,Anna Boone,47,Female,Southern Province,Kamonyi,low,Community education officer,884,2022-11-11,holiday_sales
+BMW,2007,SandyBrown,Van,electric,automatic,gasoline,2,326485.83,inactive,6784,8000,Thomas Hamilton,65,Female,Southern Province,Nyaruguru,low,Research scientist (maths),1410,2021-07-17,tourism_peak
+BMW,2012,Olive,Van,petrol,manual,gasoline,4,202627.34,inactive,9731,11347,Carrie Lewis,38,Male,Northern Province,Gakenke,medium,Haematologist,2632,2021-06-06,tourism_peak
+Kia,2016,RosyBrown,Hatchback,petrol,manual,electric,6,91672.33,inactive,6970,8000,Amanda Harvey,33,Male,Western Province,Karongi,low,Hotel manager,1298,2023-07-24,tourism_peak
+Audi,2013,PaleVioletRed,SUV,hybrid,manual,gasoline,2,151222.53,inactive,15100,19776,Karen Miller,45,Female,Northern Province,Burera,medium,"Copywriter, advertising",2223,2025-06-04,tourism_peak
+BMW,2025,Green,Hatchback,hybrid,manual,electric,6,0.0,active,36972,45000,Rebecca Wright,46,Male,Kigali City,Nyarugenge,high,Museum/gallery exhibitions officer,6040,2024-09-29,normal
+Honda,2012,Silver,SUV,electric,manual,diesel,6,195840.68,active,6933,8431,Kari Durham,62,Female,Southern Province,Gisagara,medium,Network engineer,1989,2024-03-26,normal
+Kia,2015,Gainsboro,Sedan,diesel,automatic,gasoline,6,120337.63,active,6160,8000,Kyle Johnson,43,Female,Northern Province,Gakenke,low,Barrister,988,2023-06-25,tourism_peak
+Toyota,2019,Wheat,SUV,hybrid,automatic,electric,5,55089.06,inactive,17730,19898,Kevin Hall,38,Male,Kigali City,Kicukiro,medium,Chiropodist,3405,2025-03-11,normal
+Mercedes-Benz,2007,LawnGreen,Truck,diesel,automatic,hybrid,4,237539.1,active,6774,8000,Robert Stark,69,Male,Northern Province,Gicumbi,low,English as a foreign language teacher,1211,2023-04-16,normal
+Audi,2015,Orange,Truck,hybrid,automatic,electric,6,140030.11,active,23477,28074,Ryan Bruce,60,Male,Eastern Province,Kayonza,high,Fast food restaurant manager,4934,2026-01-28,normal
+Hyundai,2024,MintCream,Coupe,petrol,automatic,hybrid,6,16944.57,active,17597,20419,Alyssa Haynes,36,Male,Southern Province,Gisagara,high,"Surveyor, quantity",4884,2023-11-20,holiday_sales
+Honda,2005,Snow,Coupe,hybrid,manual,gasoline,4,161395.4,active,6598,8000,Casey Johnson,64,Male,Western Province,Rusizi,medium,"Exhibitions officer, museum/gallery",1594,2022-10-12,normal
+Kia,2006,Beige,SUV,hybrid,automatic,gasoline,2,353316.72,active,6226,8000,April Hardin,68,Male,Western Province,Nyabihu,low,"Conservator, furniture",1484,2023-01-15,normal
+Audi,2016,Fuchsia,Hatchback,hybrid,manual,gasoline,4,173270.55,active,17988,20047,Sarah Morris,25,Male,Kigali City,Nyarugenge,medium,Data scientist,3908,2024-01-29,normal
+BMW,2022,DarkTurquoise,Van,diesel,automatic,hybrid,6,59522.43,inactive,30144,38080,Sarah Valencia,40,Male,Northern Province,Rulindo,medium,Midwife,3933,2026-03-03,normal
+Volkswagen,2014,DarkGreen,Hatchback,hybrid,manual,electric,3,101181.2,active,8835,10633,Frank Daugherty,29,Female,Southern Province,Nyanza,medium,"Radiographer, therapeutic",2086,2024-07-18,tourism_peak
+Ford,2007,ForestGreen,Van,electric,automatic,diesel,2,321716.19,inactive,6688,8000,Kristina Preston,60,Female,Kigali City,Gasabo,medium,Environmental health practitioner,1770,2023-11-17,holiday_sales
+Toyota,2016,OldLace,Truck,petrol,automatic,electric,2,159845.44,inactive,9563,11103,Michael Anderson,26,Male,Eastern Province,Nyagatare,low,"Teacher, primary school",1160,2022-09-02,normal
+Hyundai,2008,BlanchedAlmond,Sedan,petrol,automatic,electric,3,190130.01,active,7184,8000,Evan Lamb,56,Male,Eastern Province,Kirehe,medium,Systems developer,1979,2024-07-05,tourism_peak
+BMW,2019,SpringGreen,Sedan,electric,manual,gasoline,6,60493.55,active,30315,37990,Patrick Young,70,Female,Southern Province,Huye,high,Diplomatic Services operational officer,4160,2022-01-24,normal
+Nissan,2009,MediumSeaGreen,Van,hybrid,manual,gasoline,2,183125.38,active,6888,8000,Derek Wright,22,Male,Kigali City,Nyarugenge,medium,Maintenance engineer,1659,2021-12-07,holiday_sales
+Toyota,2016,DarkMagenta,Van,electric,automatic,gasoline,5,86303.48,inactive,12225,15214,Amber Kim,62,Female,Northern Province,Gicumbi,medium,Dietitian,2578,2023-05-13,normal
+Ford,2005,Snow,Truck,electric,automatic,diesel,7,236724.95,active,7052,8000,Heather Bennett,52,Female,Western Province,Karongi,low,Technical brewer,963,2024-09-13,normal
+Hyundai,2011,DodgerBlue,Truck,petrol,automatic,gasoline,8,137960.39,inactive,6724,8000,Robert Johnson,47,Male,Southern Province,Kamonyi,low,"Investment banker, operational",1189,2023-02-05,normal
+Toyota,2015,DarkKhaki,Hatchback,diesel,automatic,hybrid,8,186190.77,active,6117,8000,Christopher Bennett,26,Male,Eastern Province,Ngoma,medium,Sports development officer,1886,2023-05-27,normal
+Ford,2007,MediumSlateBlue,Hatchback,hybrid,manual,gasoline,7,277477.79,active,6039,8000,Lisa Webb,38,Male,Southern Province,Huye,low,Plant breeder/geneticist,1237,2021-12-21,holiday_sales
+Kia,2024,PowderBlue,Coupe,electric,automatic,gasoline,5,15198.89,active,23955,27227,Brian Harris,23,Male,Western Province,Karongi,high,Outdoor activities/education manager,6228,2022-08-01,tourism_peak
+Kia,2021,Yellow,Coupe,electric,manual,hybrid,6,53678.7,active,17659,22110,Douglas Young,40,Male,Kigali City,Nyarugenge,medium,"Nurse, learning disability",3883,2025-11-22,holiday_sales
+BMW,2019,SlateGray,Sedan,electric,manual,diesel,5,90123.71,active,33073,37398,Isaac Patterson,57,Female,Southern Province,Huye,high,Tourism officer,9316,2026-01-16,normal
+Toyota,2014,Green,Sedan,diesel,automatic,diesel,8,88639.93,inactive,6569,8000,Daniel Little,38,Male,Northern Province,Burera,low,Public librarian,1282,2025-04-07,normal
+Kia,2006,Linen,Van,petrol,manual,electric,6,354745.43,inactive,6323,8000,Kaitlin Jacobson,57,Female,Southern Province,Kamonyi,medium,"Chemist, analytical",1956,2022-02-28,normal
+Nissan,2017,Orange,Hatchback,diesel,manual,electric,2,136278.67,inactive,7467,8614,Stephen Wood,59,Female,Southern Province,Huye,medium,Armed forces operational officer,2080,2025-10-22,normal
+Ford,2014,Purple,Hatchback,electric,manual,hybrid,4,116904.34,inactive,8885,10136,Darrell Adams,36,Male,Eastern Province,Ngoma,medium,Dentist,2299,2023-06-03,tourism_peak
+Nissan,2016,DarkBlue,Sedan,petrol,manual,hybrid,6,120286.81,inactive,7252,8594,Rhonda Gutierrez,67,Male,Kigali City,Kicukiro,medium,Surgeon,1953,2022-01-01,normal
+Nissan,2025,Orange,Sedan,electric,automatic,hybrid,7,0.0,inactive,24608,28000,Jennifer Nichols,65,Female,Southern Province,Nyamagabe,high,"Teacher, primary school",6709,2021-09-12,normal
+Kia,2023,Sienna,SUV,hybrid,manual,hybrid,8,17590.6,active,21370,23948,James Nash,64,Male,Western Province,Ngororero,medium,Retail buyer,3716,2023-03-09,normal
+Toyota,2013,Tomato,Hatchback,petrol,manual,gasoline,5,202810.15,inactive,6978,8000,Megan Oliver,61,Male,Western Province,Nyamasheke,low,"Production assistant, radio",1346,2026-01-14,normal
+Audi,2017,FireBrick,Coupe,electric,automatic,diesel,6,130496.02,inactive,27584,34098,Rhonda Martinez,63,Female,Northern Province,Gakenke,high,Careers information officer,8481,2022-08-26,tourism_peak
+Ford,2020,Green,Coupe,hybrid,manual,electric,8,74042.75,active,17614,22238,Lori Flowers MD,51,Male,Northern Province,Rulindo,high,Chartered loss adjuster,4608,2024-11-18,holiday_sales
+Kia,2018,Orchid,Van,hybrid,automatic,diesel,8,130111.73,inactive,11816,13485,Shannon Stone,54,Male,Western Province,Rutsiro,medium,Youth worker,2701,2024-06-24,tourism_peak
+Volkswagen,2008,Turquoise,Truck,petrol,manual,gasoline,5,309734.89,inactive,6279,8000,Ashley Hernandez,35,Male,Northern Province,Burera,low,Claims inspector/assessor,880,2026-03-06,normal
+Ford,2014,DarkGreen,Hatchback,hybrid,automatic,electric,4,126575.44,inactive,7638,8606,Sharon Beard,45,Female,Kigali City,Nyarugenge,medium,"Geneticist, molecular",1696,2025-12-19,holiday_sales
+Volkswagen,2023,SlateBlue,Hatchback,hybrid,automatic,hybrid,3,30877.99,inactive,19979,24695,Kara Jackson,26,Female,Northern Province,Burera,medium,Cytogeneticist,2828,2024-06-09,tourism_peak
+Mercedes-Benz,2025,Blue,Hatchback,petrol,manual,hybrid,5,0.0,inactive,36432,40500,Shawn Vaughn,56,Male,Northern Province,Gicumbi,high,Public relations officer,8807,2024-08-06,tourism_peak
+BMW,2022,Navy,Van,hybrid,automatic,electric,5,27216.86,active,38284,46206,Robert Turner,56,Female,Eastern Province,Ngoma,high,Regulatory affairs officer,6205,2023-06-19,tourism_peak
+Kia,2005,Khaki,Truck,petrol,manual,electric,7,180635.03,inactive,6753,8000,William Ramos,28,Female,Eastern Province,Kirehe,medium,Geophysical data processor,1580,2022-01-06,normal
+BMW,2018,DarkCyan,Truck,electric,automatic,diesel,2,78900.15,inactive,38589,45742,Daniel Holloway,34,Female,Northern Province,Musanze,high,"Scientist, clinical (histocompatibility and immunogenetics)",7788,2024-09-21,normal
+Volkswagen,2005,Chartreuse,Truck,hybrid,automatic,hybrid,5,359535.65,active,6730,8000,Caitlin Collins,20,Female,Western Province,Rubavu,medium,Control and instrumentation engineer,1651,2024-05-11,normal
+Ford,2007,Black,Van,petrol,automatic,gasoline,3,231862.14,inactive,6033,8000,Shaun Gonzalez,22,Male,Western Province,Rubavu,low,Fisheries officer,1464,2025-08-21,tourism_peak
+Honda,2020,SaddleBrown,Truck,petrol,automatic,hybrid,2,43609.23,active,16440,19603,Isaac Gonzalez,55,Female,Kigali City,Nyarugenge,medium,"Psychologist, forensic",3394,2021-06-17,tourism_peak
+Volkswagen,2017,Orchid,SUV,electric,automatic,gasoline,7,152490.47,inactive,18105,22150,Becky Johnson,37,Female,Northern Province,Rulindo,medium,Records manager,3501,2025-06-23,tourism_peak
+Ford,2022,Fuchsia,Van,hybrid,automatic,electric,6,55960.43,inactive,19433,24593,Karen Arnold,68,Female,Northern Province,Gakenke,high,"Development worker, community",4818,2024-12-21,holiday_sales
+Kia,2022,DarkGoldenRod,Van,diesel,automatic,electric,8,51313.45,inactive,13021,16645,James Martin,54,Male,Southern Province,Nyaruguru,medium,Environmental consultant,3384,2023-05-19,normal
+Honda,2008,GreenYellow,SUV,hybrid,automatic,gasoline,6,250236.61,inactive,6064,8000,Jason Smith,48,Male,Eastern Province,Nyagatare,low,Public relations account executive,1244,2023-02-04,normal
+Mercedes-Benz,2005,ForestGreen,SUV,hybrid,automatic,hybrid,6,218849.77,active,6563,8000,Alejandra King,68,Female,Western Province,Karongi,low,Haematologist,1133,2022-04-22,normal
+Nissan,2018,OldLace,Sedan,hybrid,automatic,diesel,3,70379.5,active,13082,14842,Judy Robinson,64,Female,Kigali City,Nyarugenge,medium,"Scientist, research (life sciences)",3234,2024-10-13,normal
+Volkswagen,2007,DarkKhaki,Coupe,electric,automatic,gasoline,7,304729.84,active,6531,8000,Zachary Levy,25,Female,Eastern Province,Bugesera,low,"Surveyor, mining",1070,2024-07-22,tourism_peak
+Toyota,2012,Lime,Van,electric,manual,electric,7,248705.97,inactive,7111,8000,Karen Rogers,68,Female,Southern Province,Gisagara,medium,"Journalist, broadcasting",1654,2023-08-02,tourism_peak
+Toyota,2018,LightGoldenRodYellow,Sedan,hybrid,manual,electric,2,97748.04,active,10881,14295,Tiffany Curtis,40,Male,Kigali City,Nyarugenge,medium,Dealer,3284,2023-07-15,tourism_peak
+Honda,2018,LawnGreen,Van,hybrid,automatic,gasoline,4,93664.82,active,13628,16895,Renee Lang,61,Female,Northern Province,Gicumbi,medium,IT consultant,2032,2025-07-31,tourism_peak
+Kia,2019,Bisque,Van,diesel,manual,diesel,8,79442.79,inactive,11446,12964,Yolanda Green,58,Female,Eastern Province,Ngoma,medium,Ophthalmologist,1509,2022-05-15,normal
+BMW,2013,Blue,Hatchback,electric,automatic,diesel,6,232502.11,active,12830,15510,Wendy Cabrera,37,Female,Western Province,Ngororero,medium,Environmental education officer,3059,2024-06-25,tourism_peak
+Volkswagen,2013,Sienna,Coupe,diesel,automatic,hybrid,8,104633.07,active,8269,9982,Megan Romero,25,Male,Western Province,Karongi,medium,"Surveyor, insurance",1556,2025-09-23,normal
+Honda,2005,LightYellow,Sedan,hybrid,automatic,diesel,6,386054.39,active,6636,8000,Carl Green,68,Male,Western Province,Rubavu,medium,Legal executive,1524,2022-09-20,normal
+Audi,2023,Indigo,Sedan,electric,manual,hybrid,7,36330.88,inactive,36191,47153,Patrick Parker,39,Female,Southern Province,Ruhango,high,Meteorologist,6347,2021-12-09,holiday_sales
+Audi,2017,LightYellow,Van,electric,manual,diesel,3,99719.19,inactive,27777,33118,Bruce Brown,22,Male,Kigali City,Nyarugenge,high,Public house manager,4140,2023-05-25,normal
+Kia,2016,SteelBlue,Van,electric,manual,gasoline,8,125290.45,active,11120,12740,Michael Moreno,33,Female,Western Province,Rusizi,medium,Audiological scientist,2594,2022-11-01,holiday_sales
+Ford,2022,DarkSlateGray,Van,electric,automatic,electric,3,31130.48,active,21409,28175,Grace Benitez DVM,69,Female,Western Province,Ngororero,medium,Customer service manager,3395,2022-06-18,tourism_peak
+Kia,2023,Gainsboro,Hatchback,petrol,automatic,diesel,8,20238.24,active,12550,14175,Katherine Welch,41,Male,Northern Province,Musanze,medium,Intelligence analyst,2543,2023-11-14,holiday_sales
+Ford,2013,AntiqueWhite,Van,diesel,manual,electric,3,213765.45,active,6964,8000,Daniel Ayala,24,Male,Southern Province,Muhanga,low,Recruitment consultant,846,2021-09-03,normal
+Hyundai,2023,DarkSeaGreen,Coupe,electric,manual,electric,2,36521.66,inactive,21234,26801,Madeline Powell,62,Female,Northern Province,Musanze,medium,Music therapist,3584,2021-12-05,holiday_sales
+Kia,2005,Blue,Truck,hybrid,manual,diesel,3,269309.89,active,6101,8000,Monica Dodson,37,Female,Kigali City,Kicukiro,low,Set designer,910,2021-03-21,normal
+Ford,2011,Azure,Coupe,diesel,manual,hybrid,4,163537.95,active,6441,8000,Lori Wright,67,Female,Northern Province,Musanze,low,Insurance underwriter,953,2022-10-20,normal
+Mercedes-Benz,2006,DarkKhaki,Hatchback,petrol,automatic,gasoline,8,245246.07,active,6607,8000,Kevin Jackson,59,Male,Western Province,Rusizi,medium,Hydrogeologist,1526,2022-04-11,normal
+Hyundai,2008,SaddleBrown,Sedan,diesel,manual,electric,7,199081.05,active,6559,8000,Linda Morgan,31,Male,Western Province,Rubavu,low,"Lighting technician, broadcasting/film/video",857,2023-08-27,tourism_peak
+Kia,2014,MintCream,Hatchback,diesel,automatic,diesel,8,190153.03,inactive,6092,8000,Carmen Meadows,42,Female,Northern Province,Gicumbi,low,Advertising account executive,815,2025-05-07,normal
+Audi,2011,Ivory,Hatchback,diesel,automatic,electric,2,279567.86,active,7131,8000,Bonnie Gross,28,Male,Western Province,Rusizi,low,Community pharmacist,827,2023-02-14,normal
+Toyota,2012,Blue,Sedan,diesel,manual,diesel,8,234070.31,active,6663,8000,Martin Wise,62,Male,Kigali City,Kicukiro,medium,"Therapist, music",1556,2024-04-18,normal
+Mercedes-Benz,2005,DarkMagenta,Truck,hybrid,automatic,gasoline,2,185812.1,active,6546,8000,Alicia Norris,33,Female,Kigali City,Gasabo,medium,"Producer, radio",1937,2021-08-03,tourism_peak
+Audi,2015,DarkRed,Sedan,electric,automatic,electric,3,133912.13,active,19817,23922,Kara Hernandez,25,Male,Southern Province,Nyaruguru,medium,Illustrator,2572,2024-05-31,normal
+Toyota,2018,DarkGreen,Truck,hybrid,manual,electric,3,72256.11,inactive,16208,19680,Debra Obrien,42,Male,Northern Province,Gakenke,medium,Personal assistant,2591,2024-10-04,normal
+BMW,2008,Teal,Hatchback,electric,automatic,hybrid,5,203473.03,active,6926,8000,Autumn Wilson,43,Male,Kigali City,Kicukiro,medium,Research scientist (medical),1945,2022-01-26,normal
+Kia,2016,Green,Sedan,hybrid,automatic,hybrid,8,158952.88,inactive,7414,9196,Sandra Dudley,50,Female,Southern Province,Nyaruguru,medium,Outdoor activities/education manager,2102,2022-11-14,holiday_sales
+Nissan,2009,DodgerBlue,Sedan,diesel,manual,gasoline,6,252333.19,inactive,6176,8000,Jon Clark,38,Female,Eastern Province,Gatsibo,low,Lawyer,889,2023-09-10,normal
+Nissan,2010,AliceBlue,Truck,electric,automatic,hybrid,7,138967.58,inactive,6176,8000,Brandon Rodriguez,29,Female,Eastern Province,Bugesera,medium,Database administrator,1856,2023-03-05,normal
+Mercedes-Benz,2023,Teal,Hatchback,petrol,manual,diesel,4,21968.44,active,32231,36011,Nathaniel Conway,62,Male,Kigali City,Kicukiro,high,"Programmer, multimedia",5473,2021-12-11,holiday_sales
+Toyota,2020,LightGray,Sedan,petrol,automatic,electric,5,71539.31,inactive,11780,13569,Brett Thompson,60,Male,Kigali City,Nyarugenge,low,Horticultural therapist,1391,2023-09-12,normal
+Kia,2021,Maroon,Van,electric,manual,hybrid,2,76025.05,active,16550,20655,Brian York,48,Male,Southern Province,Huye,medium,Acupuncturist,2993,2024-03-30,normal
+Nissan,2023,FloralWhite,Van,electric,manual,diesel,8,35598.55,active,20866,27008,Steven Friedman,31,Female,Northern Province,Musanze,high,Chief Financial Officer,6220,2022-05-10,normal
+Honda,2013,MediumSpringGreen,Van,electric,automatic,diesel,5,231668.41,inactive,6848,8303,James Rivers,69,Female,Southern Province,Gisagara,low,Musician,1296,2024-05-07,normal
+Nissan,2015,PeachPuff,SUV,diesel,manual,diesel,8,90649.89,inactive,8445,10787,Rebecca Wilson,57,Male,Kigali City,Nyarugenge,low,"Designer, jewellery",1401,2025-03-31,normal
+Audi,2019,PapayaWhip,Van,hybrid,manual,electric,6,116576.29,inactive,30647,34243,Karen Carroll,47,Female,Eastern Province,Rwamagana,high,"Education officer, community",6819,2022-01-23,normal
+Toyota,2005,MintCream,Truck,electric,manual,hybrid,5,307624.31,active,6666,8000,Shari Hobbs,58,Male,Eastern Province,Rwamagana,low,Radiation protection practitioner,1045,2024-05-29,normal
+Volkswagen,2008,DarkOliveGreen,Coupe,diesel,automatic,diesel,3,268109.52,active,7049,8000,Jessica Brown,37,Female,Northern Province,Burera,low,"Administrator, charities/voluntary organisations",1017,2025-05-01,normal
+Toyota,2007,Ivory,Hatchback,electric,automatic,diesel,7,158406.46,active,6945,8000,Mckenzie Morgan,41,Male,Western Province,Rutsiro,low,Police officer,1403,2025-08-23,tourism_peak
+Mercedes-Benz,2018,SkyBlue,SUV,electric,manual,hybrid,6,125254.65,inactive,38257,46635,Michael Cruz,30,Male,Northern Province,Gicumbi,high,"Administrator, arts",5513,2023-04-18,normal
+Honda,2011,Tan,Coupe,hybrid,automatic,hybrid,3,239549.22,active,6018,8000,Sarah Booth,23,Male,Western Province,Karongi,medium,Regulatory affairs officer,1600,2022-07-07,tourism_peak
+Nissan,2016,LawnGreen,Coupe,hybrid,manual,gasoline,5,123622.99,active,11791,13340,Donald Hunter,53,Female,Eastern Province,Gatsibo,medium,Operational researcher,1868,2023-11-28,holiday_sales
+Toyota,2005,Cyan,Truck,electric,manual,gasoline,2,173540.69,active,6751,8000,Robert West,24,Female,Southern Province,Huye,medium,Product manager,1815,2023-03-07,normal
+Nissan,2025,DarkOrchid,Van,diesel,automatic,gasoline,8,0.0,inactive,17557,23100,Dr. Alicia Powell,61,Male,Eastern Province,Nyagatare,medium,"Surveyor, hydrographic",3820,2023-11-13,holiday_sales
+Toyota,2024,AliceBlue,Hatchback,electric,manual,gasoline,4,15659.47,active,18339,23627,Rebecca Richmond,70,Female,Kigali City,Gasabo,high,Rural practice surveyor,4836,2025-11-06,holiday_sales
+BMW,2020,GreenYellow,Van,petrol,automatic,diesel,8,54817.79,inactive,26289,31904,Joy Peterson,38,Male,Eastern Province,Bugesera,high,Environmental health practitioner,7635,2025-12-18,holiday_sales
+Honda,2022,MediumPurple,Sedan,petrol,automatic,hybrid,2,56192.44,inactive,14697,16726,Lisa Kennedy,35,Female,Kigali City,Gasabo,medium,Production manager,3001,2025-01-16,normal
+Hyundai,2015,DarkGray,Truck,diesel,automatic,gasoline,7,159636.79,inactive,8754,9775,Courtney Peterson,31,Female,Northern Province,Rulindo,medium,Sports development officer,1976,2022-02-24,normal
+Audi,2016,Navy,SUV,electric,automatic,hybrid,8,83464.19,inactive,25195,33443,Amber Martin,54,Male,Kigali City,Kicukiro,medium,Outdoor activities/education manager,3648,2025-08-14,tourism_peak
+Nissan,2010,LightCyan,Coupe,petrol,automatic,electric,8,188796.47,active,6550,8000,Chelsea Conrad,67,Female,Northern Province,Burera,low,"Engineer, structural",1140,2022-02-02,normal
+Volkswagen,2010,Gold,Van,electric,manual,gasoline,4,201693.04,active,6892,8000,Ashley Perry,60,Male,Northern Province,Gicumbi,low,"Production designer, theatre/television/film",1296,2025-01-24,normal
+Toyota,2012,Tan,Van,petrol,manual,gasoline,2,132160.34,active,7144,8000,Jonathan Moreno,60,Male,Northern Province,Gicumbi,medium,Surgeon,1810,2025-01-26,normal
+Mercedes-Benz,2019,SkyBlue,Van,electric,manual,gasoline,5,104503.05,active,34834,46420,Priscilla Kent,43,Male,Northern Province,Gicumbi,high,"Conservation officer, historic buildings",5108,2024-11-10,holiday_sales
+Volkswagen,2006,Orange,Truck,diesel,manual,diesel,4,232230.5,inactive,6223,8000,Lisa Morris,63,Female,Kigali City,Gasabo,low,Personal assistant,1396,2022-01-22,normal
+BMW,2009,LightSalmon,Van,diesel,manual,gasoline,6,130114.67,inactive,6557,8000,Grant Phillips,54,Male,Kigali City,Gasabo,low,Corporate investment banker,1074,2023-04-17,normal
+BMW,2021,Thistle,Truck,diesel,automatic,electric,3,75205.54,active,33232,42176,Michael Valencia,63,Male,Southern Province,Gisagara,high,"Engineer, control and instrumentation",10533,2024-09-09,normal
+Hyundai,2017,LightSteelBlue,Hatchback,petrol,manual,gasoline,2,135958.38,active,7103,8000,Tammy Anderson,58,Male,Kigali City,Gasabo,low,Retail manager,1455,2022-12-18,holiday_sales
+Kia,2017,MediumBlue,Truck,petrol,manual,hybrid,7,94129.84,inactive,9368,12157,Paige Hart,48,Female,Western Province,Rusizi,medium,"Social research officer, government",2271,2025-10-17,normal
+BMW,2011,Peru,Hatchback,electric,manual,hybrid,2,197759.21,active,9508,11165,Kelly Johnson,62,Male,Western Province,Nyamasheke,medium,Astronomer,2532,2023-08-12,tourism_peak
+Hyundai,2012,Green,Truck,diesel,automatic,hybrid,8,242693.09,active,6804,8000,Richard Terrell,41,Female,Western Province,Rutsiro,medium,Dancer,1748,2021-08-29,tourism_peak
+BMW,2021,LightYellow,Hatchback,electric,automatic,hybrid,3,54244.51,active,32507,39235,Joshua Howard,63,Female,Northern Province,Gakenke,high,"Civil engineer, consulting",4733,2021-09-15,normal
+Audi,2020,Ivory,Coupe,petrol,manual,electric,5,61531.44,inactive,25258,31544,Kristina Young,67,Female,Western Province,Karongi,high,Art gallery manager,5796,2025-12-16,holiday_sales
+Ford,2016,Orange,Truck,diesel,automatic,hybrid,5,147067.84,active,10232,13575,Richard Jennings,21,Male,Northern Province,Gakenke,medium,"Administrator, Civil Service",2365,2024-06-04,tourism_peak
+Honda,2006,Green,Coupe,petrol,automatic,hybrid,4,278512.19,active,6238,8000,Priscilla Berg,70,Male,Western Province,Rutsiro,medium,Mental health nurse,1934,2023-04-26,normal
+BMW,2012,Gray,Coupe,petrol,manual,electric,5,200206.17,inactive,9548,12096,Tracey Phillips,60,Male,Eastern Province,Rwamagana,medium,Cabin crew,1652,2025-10-30,normal
+Hyundai,2014,ForestGreen,Coupe,diesel,manual,diesel,3,90556.96,active,6796,8513,Barbara Williams,33,Female,Northern Province,Gicumbi,low,"Surveyor, commercial/residential",1398,2022-10-08,normal
+Audi,2025,DarkSeaGreen,Truck,diesel,automatic,electric,3,0.0,inactive,39151,51870,Ryan Smith,49,Female,Western Province,Rubavu,high,"Designer, fashion/clothing",10521,2023-06-05,tourism_peak
+Honda,2014,DeepSkyBlue,Van,diesel,manual,gasoline,3,201542.97,active,6207,8000,Linda Ayala,62,Female,Eastern Province,Gatsibo,medium,Recycling officer,1931,2021-07-09,tourism_peak
+Mercedes-Benz,2011,MintCream,Coupe,diesel,automatic,hybrid,5,137622.47,active,11323,13549,Michael Fox,32,Male,Western Province,Rutsiro,medium,"Scientist, research (life sciences)",2173,2026-01-19,normal
+Volkswagen,2006,Tan,Sedan,hybrid,manual,gasoline,5,273407.47,active,6841,8000,Joshua Powell,34,Female,Northern Province,Rulindo,medium,Environmental consultant,1989,2021-10-04,normal
+Kia,2016,MediumPurple,Sedan,diesel,automatic,diesel,3,140199.9,active,6111,8000,Edward Clements,51,Female,Northern Province,Gicumbi,medium,"Surveyor, mining",1521,2022-12-29,holiday_sales
+Toyota,2017,DarkOrange,SUV,petrol,manual,hybrid,7,96999.83,active,10824,12460,Jill Conway,21,Male,Western Province,Nyamasheke,medium,Archaeologist,1613,2021-04-03,normal
+Honda,2018,Olive,Coupe,petrol,automatic,diesel,3,92835.47,inactive,10937,13841,Theresa Cruz,29,Female,Kigali City,Gasabo,medium,Agricultural consultant,1888,2023-11-29,holiday_sales
+Audi,2012,Navy,Van,petrol,manual,electric,8,144019.2,inactive,10176,11750,Katie Tucker,55,Female,Eastern Province,Kirehe,medium,"Engineer, automotive",2497,2025-07-29,tourism_peak
+Toyota,2016,Thistle,SUV,hybrid,automatic,hybrid,4,177243.7,active,10954,12955,Brendan Bonilla,55,Male,Northern Province,Burera,medium,Brewing technologist,2151,2023-11-27,holiday_sales
+Mercedes-Benz,2013,HotPink,Hatchback,electric,manual,electric,6,122203.78,inactive,17294,20236,Jessica Garcia,68,Female,Northern Province,Burera,medium,Building surveyor,3069,2022-12-21,holiday_sales
+Volkswagen,2010,Bisque,SUV,diesel,automatic,hybrid,3,187158.47,active,7011,8000,Gary Miller,26,Male,Kigali City,Kicukiro,low,"Editor, magazine features",951,2022-06-27,tourism_peak
+BMW,2014,Cornsilk,Hatchback,petrol,manual,diesel,4,146443.73,active,11630,13271,Crystal Green,58,Female,Southern Province,Nyanza,medium,"Production designer, theatre/television/film",1885,2023-04-28,normal
+Nissan,2011,Plum,Coupe,petrol,automatic,gasoline,8,247799.38,active,7107,8000,James Wilson,21,Male,Kigali City,Kicukiro,low,Water engineer,1104,2024-08-14,tourism_peak
+Hyundai,2007,Brown,Sedan,diesel,automatic,gasoline,3,213663.28,inactive,6059,8000,Angel Reilly,35,Male,Northern Province,Gakenke,medium,Horticultural consultant,1964,2021-09-19,normal
+Audi,2020,DarkCyan,Hatchback,electric,automatic,diesel,3,52939.98,active,26591,34851,Timothy James,49,Male,Eastern Province,Nyagatare,high,Public relations account executive,8634,2023-09-29,normal
+Mercedes-Benz,2017,White,Van,petrol,manual,hybrid,3,88916.07,inactive,24065,27922,Paul Robles,61,Female,Eastern Province,Kirehe,high,Cytogeneticist,6715,2022-07-05,tourism_peak
+Nissan,2013,Navy,Truck,hybrid,manual,gasoline,6,107642.99,inactive,8598,10847,Alexandra Baxter,38,Male,Southern Province,Kamonyi,medium,Community pharmacist,2106,2023-09-19,normal
+Toyota,2012,AntiqueWhite,Hatchback,hybrid,automatic,electric,2,143647.13,active,6861,8000,Jennifer Kelley,54,Male,Western Province,Rutsiro,low,Industrial/product designer,819,2021-07-14,tourism_peak
+Kia,2012,MediumTurquoise,Hatchback,diesel,automatic,diesel,7,233215.95,inactive,6381,8000,Taylor York,62,Male,Northern Province,Burera,medium,"Designer, multimedia",1706,2022-12-19,holiday_sales
+Ford,2015,Indigo,Sedan,electric,automatic,gasoline,3,167434.1,inactive,10284,12051,Dawn Wilson,29,Male,Northern Province,Gakenke,low,Stage manager,1281,2022-09-29,normal
+Honda,2018,Cornsilk,Coupe,petrol,automatic,diesel,8,125562.3,active,10294,13186,Austin Garcia,62,Female,Southern Province,Nyamagabe,medium,Lawyer,2911,2025-02-07,normal
+Toyota,2024,DarkSalmon,Van,diesel,manual,gasoline,8,10826.77,active,17095,21728,Cynthia Mitchell,20,Male,Southern Province,Nyanza,high,"Engineer, biomedical",4401,2024-03-20,normal
+Hyundai,2009,SlateBlue,Sedan,petrol,automatic,hybrid,7,199275.68,inactive,6047,8000,Luis Torres,20,Male,Eastern Province,Nyagatare,medium,Systems developer,1569,2023-11-19,holiday_sales
+Nissan,2012,Moccasin,Coupe,hybrid,manual,diesel,6,224220.29,inactive,6304,8000,Tina Jackson,38,Female,Southern Province,Nyanza,low,Fine artist,988,2026-01-01,normal
+Honda,2019,PowderBlue,Coupe,petrol,automatic,hybrid,5,90270.37,inactive,12310,15100,Ian Frazier,53,Female,Southern Province,Nyaruguru,medium,Quantity surveyor,2257,2023-01-24,normal
+Volkswagen,2015,RosyBrown,Van,diesel,automatic,gasoline,7,96575.13,active,10724,12506,Eric Arnold,53,Male,Kigali City,Nyarugenge,medium,Training and development officer,1686,2025-02-12,normal
+Audi,2018,LightSeaGreen,Van,electric,manual,electric,7,58966.16,active,30444,36859,Brenda Ryan,22,Female,Eastern Province,Bugesera,high,Camera operator,6756,2021-11-16,holiday_sales
+Nissan,2007,Azure,Truck,petrol,automatic,diesel,3,299729.32,inactive,6325,8000,Lynn Hess,49,Female,Kigali City,Nyarugenge,medium,Therapeutic radiographer,1708,2021-10-27,normal
+Hyundai,2011,Blue,Van,petrol,manual,electric,7,216833.75,active,6322,8000,Kimberly Lutz,26,Female,Southern Province,Nyaruguru,low,Database administrator,924,2022-12-28,holiday_sales
+Hyundai,2011,OrangeRed,Van,diesel,automatic,electric,3,267616.05,inactive,6961,8000,Raymond Quinn,41,Female,Western Province,Rubavu,low,Contractor,1231,2024-04-16,normal
+Nissan,2011,SteelBlue,Truck,electric,manual,gasoline,7,238532.68,active,7134,8000,Jennifer Shaw,32,Male,Kigali City,Nyarugenge,low,Visual merchandiser,1070,2025-02-17,normal
+BMW,2013,Thistle,Truck,hybrid,manual,diesel,2,182772.02,inactive,19341,22345,Christopher Knight,50,Male,Southern Province,Kamonyi,high,Radio broadcast assistant,4800,2022-08-04,tourism_peak
+Mercedes-Benz,2012,BlueViolet,SUV,petrol,automatic,gasoline,8,170040.05,active,13944,15499,John Brown,27,Female,Eastern Province,Gatsibo,medium,Facilities manager,1590,2024-03-25,normal
+Volkswagen,2015,GreenYellow,Van,electric,manual,gasoline,6,142333.27,active,12471,16403,Rebecca Hughes,24,Female,Western Province,Nyamasheke,medium,Armed forces training and education officer,1830,2021-07-18,tourism_peak
+Kia,2018,MediumBlue,Van,hybrid,manual,diesel,2,93268.83,inactive,12306,14222,Warren Schultz,68,Female,Eastern Province,Gatsibo,medium,General practice doctor,2914,2021-07-08,tourism_peak
+Volkswagen,2018,YellowGreen,SUV,hybrid,manual,diesel,4,139666.15,inactive,17934,21582,Jamie Gray,34,Male,Kigali City,Kicukiro,high,"Scientist, forensic",4611,2026-02-06,normal
+Hyundai,2021,OldLace,Van,hybrid,automatic,gasoline,6,34892.71,inactive,16368,20202,Courtney Sullivan,61,Female,Southern Province,Muhanga,medium,"Radiographer, therapeutic",2976,2023-04-27,normal
+BMW,2018,AntiqueWhite,Hatchback,electric,automatic,diesel,7,134769.91,inactive,26974,30065,Brenda Martin,20,Male,Eastern Province,Kayonza,high,"Scientist, audiological",5653,2025-04-12,normal
+Mercedes-Benz,2022,HotPink,Hatchback,petrol,manual,diesel,6,51328.15,active,25421,33398,Christopher Guzman,69,Male,Western Province,Ngororero,high,Event organiser,4132,2023-07-27,tourism_peak
+Kia,2015,MediumPurple,Coupe,electric,automatic,gasoline,7,197932.68,active,8612,10531,Karen Mendoza,29,Male,Western Province,Rusizi,low,Therapeutic radiographer,1097,2024-09-15,normal
+Hyundai,2019,PaleVioletRed,Sedan,diesel,automatic,hybrid,2,49697.08,active,11457,12971,Andrew Berry,31,Male,Western Province,Ngororero,medium,Contractor,3214,2022-07-20,tourism_peak
+Nissan,2013,BlueViolet,Hatchback,petrol,manual,gasoline,4,172335.82,inactive,6215,8000,Bridget Jackson,39,Male,Kigali City,Nyarugenge,medium,"Scientist, forensic",1783,2025-07-16,tourism_peak
+Nissan,2012,Azure,Hatchback,electric,manual,electric,2,250477.53,inactive,7119,8000,Monica Nicholson,20,Male,Western Province,Rubavu,medium,"Engineer, technical sales",1704,2024-08-17,tourism_peak
+Toyota,2012,SeaShell,Truck,diesel,manual,electric,5,205894.85,inactive,6991,8000,Carolyn Greer,62,Male,Western Province,Nyabihu,medium,Television floor manager,1543,2024-12-31,holiday_sales
+BMW,2017,Teal,Truck,electric,automatic,diesel,2,139225.59,inactive,31959,40895,Nathaniel Cooper,21,Female,Southern Province,Nyamagabe,high,"Therapist, occupational",8885,2022-09-23,normal
+Nissan,2012,Khaki,SUV,electric,manual,diesel,6,141551.0,inactive,8001,8929,Carlos Smith,65,Female,Kigali City,Nyarugenge,medium,Dealer,1885,2021-10-06,normal
+Toyota,2015,Fuchsia,Van,petrol,manual,hybrid,7,137974.53,active,6703,8241,Lucas Williams,59,Male,Southern Province,Kamonyi,low,Chief Financial Officer,1160,2021-12-31,holiday_sales
+Nissan,2005,DarkSeaGreen,Sedan,electric,manual,electric,5,183325.56,inactive,6993,8000,Kimberly Smith,69,Female,Southern Province,Huye,low,"Scientist, research (maths)",1033,2025-04-13,normal
+BMW,2007,NavajoWhite,Hatchback,diesel,manual,gasoline,4,219674.67,inactive,6734,8000,Melissa Patterson,53,Female,Eastern Province,Kayonza,low,Museum/gallery curator,1348,2024-10-04,normal
+Audi,2005,DarkGreen,Van,electric,automatic,diesel,3,193072.69,active,6610,8000,David Cannon,58,Male,Kigali City,Kicukiro,medium,Herpetologist,1843,2024-02-29,normal
+Honda,2024,PaleTurquoise,Truck,hybrid,manual,hybrid,5,13743.25,inactive,24952,32144,Aaron Manning,60,Male,Eastern Province,Ngoma,high,Technical brewer,6361,2025-10-21,normal
+Nissan,2011,DarkOrchid,Hatchback,hybrid,manual,electric,2,138840.87,inactive,6895,8000,Jaime Harris,63,Female,Kigali City,Nyarugenge,low,Osteopath,1011,2025-08-16,tourism_peak
+Honda,2017,DarkMagenta,Van,diesel,manual,gasoline,6,122955.29,active,9412,12094,Matthew King,61,Female,Northern Province,Burera,medium,Systems analyst,2309,2024-04-05,normal
+Kia,2006,LightSalmon,SUV,electric,manual,gasoline,8,185873.16,active,6131,8000,Jennifer Harris DDS,29,Female,Western Province,Nyabihu,medium,Editorial assistant,1515,2024-04-16,normal
+Hyundai,2023,SkyBlue,Van,diesel,manual,diesel,7,24510.01,active,14738,19260,Eric Cooper,54,Female,Eastern Province,Rwamagana,medium,Corporate investment banker,3023,2024-04-30,normal
+Honda,2007,Khaki,Hatchback,diesel,automatic,electric,6,165428.0,inactive,6837,8000,Michael Martin,35,Male,Western Province,Ngororero,low,Rural practice surveyor,1178,2022-03-11,normal
+Audi,2006,MediumSlateBlue,Truck,hybrid,automatic,diesel,6,222478.73,active,7030,8000,Lisa Cohen,45,Male,Southern Province,Nyamagabe,low,"Designer, multimedia",1109,2024-08-02,tourism_peak
+Hyundai,2009,AntiqueWhite,Truck,petrol,manual,electric,8,317741.91,active,6392,8000,Samantha Ruiz,26,Female,Northern Province,Gakenke,low,Chartered management accountant,1038,2024-06-27,tourism_peak
+Hyundai,2009,LightGray,SUV,electric,manual,gasoline,3,217329.87,inactive,6511,8000,Bobby Johnson,25,Female,Eastern Province,Kayonza,medium,Oncologist,1874,2021-09-22,normal
+Volkswagen,2020,LightSlateGray,Van,diesel,automatic,electric,8,92887.87,active,16101,19798,Linda Bautista,35,Male,Southern Province,Nyamagabe,medium,"Research officer, trade union",2777,2025-08-11,tourism_peak
+BMW,2012,Aqua,Van,hybrid,automatic,electric,2,136445.23,active,14832,16521,Matthew Lara,25,Female,Western Province,Rubavu,medium,"Engineer, broadcasting (operations)",2720,2024-11-29,holiday_sales
+Mercedes-Benz,2015,Teal,Hatchback,diesel,manual,electric,2,167573.57,active,14659,17911,Crystal Jackson,55,Male,Eastern Province,Bugesera,medium,Media buyer,2312,2021-06-19,tourism_peak
+Nissan,2022,AliceBlue,Sedan,hybrid,automatic,electric,3,26513.95,inactive,18620,20720,Angie Hill,39,Female,Eastern Province,Kirehe,medium,Manufacturing engineer,3554,2023-03-20,normal
+Volkswagen,2012,PaleGreen,Van,petrol,manual,electric,6,204447.91,inactive,6302,8000,Kelly Mclaughlin,66,Male,Southern Province,Kamonyi,low,Chemical engineer,1435,2024-07-16,tourism_peak
+Nissan,2006,LightSkyBlue,SUV,electric,automatic,diesel,8,309148.92,inactive,7019,8000,Kristin Aguilar,38,Female,Kigali City,Nyarugenge,low,Health and safety inspector,1412,2025-11-08,holiday_sales
+BMW,2014,GoldenRod,Sedan,diesel,automatic,gasoline,8,154545.13,active,13631,15809,Jared Smith,68,Male,Southern Province,Huye,medium,Optometrist,2268,2023-02-08,normal
+Ford,2014,DarkMagenta,Truck,electric,automatic,hybrid,4,173551.76,inactive,13003,14547,Kathy Morgan,27,Male,Northern Province,Gakenke,medium,Scientific laboratory technician,1987,2025-06-26,tourism_peak
+Ford,2024,WhiteSmoke,Truck,diesel,automatic,hybrid,3,12317.53,inactive,23156,28282,Laura Benson,34,Female,Western Province,Karongi,medium,"Surveyor, quantity",2963,2023-05-16,normal
+Audi,2020,LemonChiffon,Van,hybrid,automatic,diesel,4,52194.4,active,29616,38144,Tonya Ellis,39,Female,Northern Province,Burera,high,Theatre director,4308,2025-04-17,normal
+Honda,2025,SkyBlue,Truck,hybrid,manual,hybrid,5,0.0,active,29364,34125,Austin Schultz,30,Male,Western Province,Ngororero,high,Event organiser,5902,2021-05-30,normal
+Volkswagen,2006,PaleVioletRed,Hatchback,diesel,manual,diesel,2,286683.6,active,7111,8000,Kelli Smith,33,Female,Northern Province,Gicumbi,low,Fish farm manager,1261,2023-11-12,holiday_sales
+BMW,2011,DarkGoldenRod,SUV,petrol,manual,electric,7,209935.79,inactive,9101,10201,Paul Peterson,57,Male,Southern Province,Nyamagabe,medium,Publishing copy,2302,2023-08-16,tourism_peak
+BMW,2012,MidnightBlue,Coupe,hybrid,automatic,diesel,5,161107.89,active,14266,16903,Kenneth White,37,Male,Kigali City,Gasabo,medium,Research scientist (physical sciences),2991,2023-11-07,holiday_sales
+Audi,2011,LavenderBlush,Hatchback,electric,manual,hybrid,8,258284.83,active,7632,9198,Shelley Clark,47,Male,Western Province,Rusizi,medium,Fisheries officer,1737,2022-11-17,holiday_sales
+Kia,2007,DeepSkyBlue,Coupe,petrol,manual,gasoline,7,222823.78,active,6969,8000,Barbara Miller,57,Female,Kigali City,Kicukiro,low,Visual merchandiser,883,2024-03-17,normal
+BMW,2008,Yellow,Sedan,diesel,manual,gasoline,6,262973.19,inactive,6222,8000,Sarah Watson,64,Female,Southern Province,Gisagara,medium,"Research officer, government",1538,2021-03-27,normal
+Hyundai,2010,LightSalmon,Sedan,hybrid,manual,gasoline,2,121463.41,inactive,6683,8000,William Moon IV,38,Male,Eastern Province,Gatsibo,medium,Technical author,1961,2026-01-24,normal
+Toyota,2005,CadetBlue,Sedan,hybrid,manual,gasoline,7,263043.87,active,6055,8000,Jenny Ayers,65,Male,Eastern Province,Ngoma,medium,Retail buyer,1657,2022-04-09,normal
+Ford,2005,OrangeRed,Coupe,petrol,manual,hybrid,2,266597.03,active,7068,8000,Patty Bryant,27,Male,Northern Province,Rulindo,low,"Scientist, marine",1474,2024-02-18,normal
+Honda,2024,Maroon,SUV,diesel,automatic,hybrid,5,13555.33,inactive,21072,24866,Alexandra Clark,70,Male,Northern Province,Gicumbi,high,"Journalist, magazine",5273,2025-02-03,normal
+Nissan,2023,LightGoldenRodYellow,Van,hybrid,automatic,hybrid,6,22641.47,active,19702,24297,Dennis Adams,48,Female,Southern Province,Kamonyi,high,Medical secretary,5822,2024-04-03,normal
+Nissan,2008,SpringGreen,Truck,diesel,automatic,diesel,2,251781.61,inactive,7015,8000,Jason Goodwin,21,Female,Kigali City,Gasabo,low,Oncologist,1276,2022-09-29,normal
+Kia,2008,RoyalBlue,Hatchback,electric,automatic,diesel,8,152352.13,active,6347,8000,Carlos Johnston,54,Male,Northern Province,Rulindo,low,Chiropodist,1013,2023-07-23,tourism_peak
+Honda,2011,LavenderBlush,Van,diesel,automatic,hybrid,5,180545.46,inactive,6735,8000,Selena Gonzalez,70,Male,Kigali City,Kicukiro,low,Public librarian,1346,2023-06-23,tourism_peak
+Hyundai,2010,Fuchsia,Van,petrol,automatic,hybrid,6,196289.79,active,6904,8000,Chad Barry,29,Female,Southern Province,Gisagara,low,"Radiographer, therapeutic",829,2021-04-06,normal
+Audi,2020,LightCoral,Hatchback,petrol,manual,gasoline,8,55608.35,active,21775,24538,Laura Ross,65,Male,Northern Province,Gakenke,high,Best boy,4516,2023-09-25,normal
+Toyota,2018,LightCyan,Sedan,hybrid,manual,gasoline,7,65507.11,inactive,11474,14940,Mark Cole,55,Female,Kigali City,Nyarugenge,medium,Gaffer,2256,2023-01-05,normal
+Nissan,2023,MistyRose,Truck,hybrid,automatic,electric,2,24754.42,active,22542,28755,Tara Scott,40,Male,Western Province,Rutsiro,high,Paramedic,6650,2024-04-01,normal
+Volkswagen,2016,MediumVioletRed,Hatchback,diesel,automatic,hybrid,5,160035.24,inactive,8286,9793,Tracey Gonzalez,64,Male,Southern Province,Gisagara,low,Higher education careers adviser,1158,2022-03-18,normal
+BMW,2012,MediumOrchid,Hatchback,electric,manual,hybrid,4,259822.5,active,10739,12444,Katherine Doyle,34,Male,Eastern Province,Nyagatare,medium,Museum/gallery curator,2416,2024-03-14,normal
+Hyundai,2016,SandyBrown,Truck,petrol,manual,diesel,5,162165.28,inactive,8322,10342,Brianna Jackson,28,Female,Kigali City,Gasabo,medium,"Pharmacist, community",2275,2023-08-14,tourism_peak
+Audi,2019,PaleGreen,Coupe,petrol,automatic,electric,4,85171.37,active,22230,28887,Andrea Martin,32,Male,Western Province,Rusizi,high,Interior and spatial designer,6380,2026-01-16,normal
+Hyundai,2008,LightSteelBlue,SUV,diesel,manual,gasoline,4,238200.7,inactive,6031,8000,Lisa Foster,21,Female,Kigali City,Gasabo,medium,Medical laboratory scientific officer,1719,2023-11-16,holiday_sales
+Volkswagen,2012,Turquoise,Van,diesel,automatic,electric,3,259953.53,inactive,6623,8000,Jennifer White,57,Male,Northern Province,Gicumbi,low,Comptroller,1315,2026-03-04,normal
+Honda,2024,LightCoral,Van,petrol,manual,diesel,7,11366.82,inactive,17119,21718,Mercedes Miller,69,Male,Southern Province,Muhanga,medium,Occupational psychologist,2922,2023-03-05,normal
+Volkswagen,2019,DarkGray,Van,electric,automatic,hybrid,5,82025.32,inactive,21403,25309,Shawn Kelley,43,Male,Northern Province,Burera,high,Occupational psychologist,5397,2022-01-21,normal
+Mercedes-Benz,2008,DarkBlue,SUV,petrol,automatic,gasoline,7,189182.62,inactive,6766,8000,Luke Miller,47,Female,Northern Province,Burera,medium,Insurance broker,1878,2025-08-20,tourism_peak
+Kia,2007,LightBlue,SUV,petrol,manual,gasoline,7,337938.16,active,6349,8000,Jessica Martinez,66,Male,Kigali City,Kicukiro,low,Air cabin crew,1235,2023-02-17,normal
+Ford,2018,MintCream,Coupe,petrol,automatic,diesel,2,97236.66,inactive,10905,14500,Erika Alvarez,26,Female,Kigali City,Nyarugenge,medium,Sports therapist,2529,2021-06-24,tourism_peak
+Audi,2005,DarkSlateBlue,Sedan,hybrid,automatic,gasoline,5,292511.52,active,6510,8000,Melissa Thompson,26,Female,Eastern Province,Kayonza,low,"Surveyor, rural practice",969,2024-12-18,holiday_sales
+Ford,2014,Violet,Truck,petrol,manual,electric,2,139989.06,active,7904,10070,Kimberly Stout,70,Female,Southern Province,Muhanga,medium,"Solicitor, Scotland",1638,2024-11-17,holiday_sales
+Volkswagen,2025,DarkCyan,Truck,petrol,manual,electric,7,0.0,inactive,25868,32500,Jacob Green,57,Female,Southern Province,Huye,high,Administrator,6039,2023-02-10,normal
+Kia,2014,Turquoise,SUV,hybrid,automatic,gasoline,5,154943.36,active,7604,9051,Sarah Cooper,50,Female,Kigali City,Gasabo,low,Social researcher,1220,2021-03-07,normal
+Honda,2009,SlateGray,SUV,diesel,automatic,diesel,2,275394.56,inactive,6843,8000,Karen Smith,25,Female,Western Province,Nyabihu,low,"Horticulturist, commercial",1243,2021-04-01,normal
+BMW,2011,AntiqueWhite,SUV,diesel,manual,gasoline,6,206771.98,active,8903,10985,Chelsea Khan,27,Female,Southern Province,Kamonyi,medium,Nutritional therapist,2446,2023-02-23,normal
+Hyundai,2025,DodgerBlue,Hatchback,diesel,manual,gasoline,6,0.0,inactive,16027,17955,Maria Clayton,67,Male,Southern Province,Huye,medium,General practice doctor,3982,2023-04-22,normal
+Volkswagen,2019,Peru,Van,electric,automatic,diesel,3,62602.55,inactive,22673,25698,Kellie Marsh,24,Female,Southern Province,Gisagara,medium,Higher education careers adviser,3104,2021-11-08,holiday_sales
+Toyota,2014,LightGreen,SUV,hybrid,manual,diesel,8,180902.55,active,7493,9882,Scott White,30,Female,Eastern Province,Rwamagana,low,Clinical psychologist,1215,2025-09-14,normal
+BMW,2020,RoyalBlue,Coupe,electric,automatic,electric,3,52989.24,inactive,40063,47240,Marcus Lopez,64,Male,Northern Province,Burera,high,"Designer, blown glass/stained glass",11617,2025-01-19,normal
+Volkswagen,2023,White,Coupe,diesel,automatic,diesel,2,37398.57,inactive,21513,26421,William Campbell,23,Male,Eastern Province,Bugesera,high,Primary school teacher,4046,2021-08-08,tourism_peak
+Honda,2013,Lavender,Van,hybrid,manual,hybrid,7,202003.73,active,6453,8000,Adrian Robinson,20,Female,Eastern Province,Kirehe,low,Insurance underwriter,1350,2021-04-01,normal
+Kia,2025,Navy,Sedan,hybrid,automatic,hybrid,2,0.0,inactive,18186,22500,Rick Rivera,46,Male,Southern Province,Gisagara,high,Banker,4762,2025-06-02,tourism_peak
+Ford,2025,OrangeRed,Sedan,diesel,automatic,diesel,3,0.0,inactive,19352,23100,John Lee,54,Female,Eastern Province,Rwamagana,medium,Museum/gallery curator,2912,2023-06-12,tourism_peak
+Ford,2016,DarkRed,Hatchback,electric,automatic,hybrid,3,77356.18,inactive,11130,13699,Michelle Cruz,63,Female,Kigali City,Kicukiro,medium,Firefighter,2207,2021-04-15,normal
+Mercedes-Benz,2007,Gray,Coupe,petrol,automatic,gasoline,2,178039.73,active,6869,8000,Ray Boyd,63,Male,Eastern Province,Rwamagana,low,Public librarian,1196,2021-06-19,tourism_peak
+Nissan,2008,Magenta,Van,petrol,manual,electric,3,262953.96,inactive,6903,8000,Caitlin Chandler,69,Male,Western Province,Rubavu,low,Forensic scientist,1454,2024-06-27,tourism_peak
+Mercedes-Benz,2012,Lime,SUV,hybrid,manual,electric,5,188953.05,inactive,17013,19846,Stephen Boyer,68,Male,Northern Province,Rulindo,medium,"Clinical scientist, histocompatibility and immunogenetics",3814,2025-04-10,normal
+Honda,2006,PowderBlue,Sedan,petrol,automatic,hybrid,8,210770.18,active,7152,8000,Christopher Hill,50,Male,Southern Province,Kamonyi,medium,Occupational hygienist,1520,2023-03-10,normal
+Nissan,2017,Aqua,SUV,diesel,automatic,gasoline,4,150796.28,active,10576,12104,Lauren Vazquez,65,Male,Eastern Province,Bugesera,medium,Meteorologist,1665,2023-04-01,normal
+Mercedes-Benz,2025,LightBlue,Coupe,electric,manual,diesel,3,0.0,active,64231,72450,Brandon Montgomery,59,Male,Southern Province,Kamonyi,high,Best boy,13651,2021-12-10,holiday_sales
+Volkswagen,2006,DeepSkyBlue,Van,electric,manual,diesel,3,183432.56,active,6062,8000,Rebecca Martinez,64,Male,Kigali City,Kicukiro,low,Investment analyst,1005,2024-03-15,normal
+Audi,2006,MediumTurquoise,SUV,diesel,manual,electric,5,236672.65,active,6726,8000,Jessica Lee,62,Female,Western Province,Ngororero,low,Materials engineer,1211,2025-12-05,holiday_sales
+Mercedes-Benz,2005,LightCoral,Coupe,hybrid,automatic,diesel,7,180800.47,active,6167,8000,Karina Kim,51,Female,Northern Province,Burera,low,Special effects artist,1354,2022-04-29,normal
+Audi,2016,Gold,Sedan,diesel,manual,electric,6,166655.23,inactive,15866,18612,Kimberly Morris,49,Female,Southern Province,Muhanga,high,Haematologist,4479,2025-05-07,normal
+Honda,2008,DodgerBlue,Hatchback,electric,manual,hybrid,3,228867.62,active,6721,8000,Christopher Phillips,34,Female,Northern Province,Rulindo,low,Special educational needs teacher,902,2025-11-23,holiday_sales
+Mercedes-Benz,2006,SaddleBrown,Sedan,diesel,manual,electric,2,155999.79,active,6877,8000,Mark Gray,32,Male,Eastern Province,Kayonza,low,Advertising account executive,1458,2024-04-20,normal
+Honda,2007,LawnGreen,Sedan,petrol,automatic,gasoline,3,296645.58,active,7089,8000,Arthur Coffey,69,Female,Kigali City,Nyarugenge,low,Energy manager,892,2024-04-11,normal
+Audi,2017,SpringGreen,Truck,diesel,manual,gasoline,6,97474.19,inactive,24508,29173,Brittany Campbell,38,Female,Eastern Province,Ngoma,high,IT technical support officer,4415,2025-08-21,tourism_peak
+Volkswagen,2011,DarkGray,Truck,hybrid,automatic,electric,4,165429.13,inactive,6664,8879,Andrea Conley,48,Male,Kigali City,Gasabo,medium,"Editor, magazine features",1758,2022-02-13,normal
+Nissan,2011,Green,Coupe,electric,automatic,hybrid,8,142818.81,inactive,6454,8000,Corey Johnson,50,Female,Eastern Province,Kayonza,low,Recruitment consultant,1307,2021-06-12,tourism_peak
+Audi,2014,LightCyan,Sedan,electric,manual,gasoline,8,111881.91,inactive,18365,21702,Daniel Robbins,60,Male,Eastern Province,Kirehe,high,"Engineer, manufacturing",4790,2025-08-26,tourism_peak
+Toyota,2012,Cyan,SUV,hybrid,automatic,gasoline,8,144901.41,inactive,6008,8000,Mark Ward,57,Female,Eastern Province,Bugesera,low,"Merchandiser, retail",872,2025-05-11,normal
+Ford,2014,LightGreen,Coupe,hybrid,manual,diesel,7,99456.63,active,10004,12242,Morgan Davenport,49,Male,Northern Province,Rulindo,medium,"Engineer, technical sales",2178,2021-09-04,normal
+Audi,2019,DarkGray,Van,diesel,manual,electric,8,60675.47,inactive,25179,29509,David Cruz,44,Male,Eastern Province,Kirehe,high,Secondary school teacher,5735,2025-08-06,tourism_peak
+Toyota,2012,Fuchsia,Van,diesel,automatic,electric,5,251257.52,inactive,6639,8000,Kristin Reese,31,Female,Eastern Province,Nyagatare,low,Proofreader,1263,2023-04-18,normal
+Toyota,2010,DarkKhaki,Hatchback,petrol,automatic,hybrid,7,191673.67,active,6290,8000,Christopher Morales,41,Female,Eastern Province,Kayonza,medium,"Designer, industrial/product",1963,2024-10-23,normal
+Toyota,2015,Red,Coupe,hybrid,manual,hybrid,7,175188.75,active,9280,10871,Stephanie Pierce,64,Female,Eastern Province,Rwamagana,medium,Meteorologist,1973,2025-09-20,normal
+BMW,2015,Plum,SUV,hybrid,automatic,diesel,2,191159.81,active,21575,26177,Erica Allen,27,Male,Southern Province,Nyaruguru,high,Mining engineer,4625,2024-09-08,normal
+Audi,2022,LightCyan,Hatchback,hybrid,automatic,gasoline,3,31063.08,active,31061,35716,Jesse Moyer,60,Male,Eastern Province,Rwamagana,high,Animal nutritionist,8694,2025-11-10,holiday_sales
+Nissan,2017,Azure,Sedan,electric,automatic,hybrid,4,69662.62,active,12676,15407,Wendy Turner,56,Female,Southern Province,Kamonyi,medium,Environmental education officer,2747,2023-08-07,tourism_peak
+Hyundai,2017,Maroon,Coupe,petrol,manual,electric,2,78073.83,inactive,10365,11549,Rodney Norris,27,Female,Northern Province,Gakenke,medium,Surgeon,2426,2023-01-03,normal
+Honda,2011,DeepSkyBlue,Van,electric,manual,hybrid,2,154007.6,active,7134,8000,Joe Moore,47,Female,Northern Province,Gakenke,medium,Medical technical officer,1801,2025-07-12,tourism_peak
+Mercedes-Benz,2017,LightBlue,Coupe,diesel,automatic,diesel,4,92050.15,inactive,26258,30761,Robert Davis,21,Female,Eastern Province,Kayonza,high,"Teacher, adult education",7432,2026-02-17,normal
+BMW,2010,Crimson,SUV,hybrid,automatic,electric,4,274259.1,active,7807,9515,Rebecca Thompson,24,Male,Southern Province,Muhanga,low,"Therapist, nutritional",1445,2023-01-11,normal
+Toyota,2011,Blue,SUV,petrol,automatic,diesel,7,218268.04,inactive,6951,8000,Laura Miller,30,Male,Western Province,Rubavu,medium,"Lecturer, higher education",1783,2023-09-26,normal
+Audi,2020,PowderBlue,SUV,hybrid,automatic,hybrid,3,76380.79,active,31352,41222,Sean Kane,47,Male,Southern Province,Nyanza,high,Town planner,7114,2024-02-20,normal
+Toyota,2016,Olive,SUV,electric,automatic,diesel,8,122726.98,inactive,12710,16025,Joseph Flores,47,Male,Eastern Province,Kirehe,medium,"Journalist, newspaper",1729,2021-04-11,normal
+Hyundai,2007,Indigo,Coupe,petrol,manual,hybrid,7,162004.53,inactive,6518,8000,Michael Osborn,62,Female,Eastern Province,Kayonza,medium,"Therapist, nutritional",1609,2025-06-14,tourism_peak
+Hyundai,2024,Tan,SUV,hybrid,manual,electric,8,12485.06,inactive,23499,26825,Jeffrey Hartman,56,Male,Eastern Province,Bugesera,medium,Consulting civil engineer,3493,2026-01-27,normal
+Audi,2017,DarkBlue,SUV,diesel,automatic,electric,4,100272.47,active,22898,26723,Patrick Kelley,56,Female,Western Province,Rutsiro,high,Chartered certified accountant,4531,2024-01-15,normal
+Nissan,2014,SteelBlue,Sedan,electric,manual,diesel,4,154135.8,inactive,7905,9517,Michael Gill,43,Female,Southern Province,Nyaruguru,medium,"Surveyor, land/geomatics",2269,2024-07-27,tourism_peak
+Nissan,2020,SlateBlue,Coupe,petrol,manual,gasoline,2,96283.47,inactive,12859,15324,Kenneth Hoffman,64,Male,Kigali City,Gasabo,medium,Financial manager,1648,2022-11-12,holiday_sales
+Honda,2008,LightGreen,Truck,hybrid,manual,gasoline,5,289190.93,inactive,6472,8000,Erica Glass,70,Male,Eastern Province,Kayonza,medium,"Clinical scientist, histocompatibility and immunogenetics",1561,2021-10-15,normal
+Toyota,2023,Peru,Hatchback,diesel,manual,gasoline,2,33968.75,active,12510,16331,Connor Cooper,61,Male,Eastern Province,Kirehe,medium,Industrial/product designer,3869,2024-09-11,normal
+Hyundai,2025,MediumVioletRed,Truck,petrol,manual,gasoline,2,0.0,active,18858,24700,Wanda Ramos,21,Male,Northern Province,Gicumbi,high,Prison officer,4464,2022-08-14,tourism_peak
+Toyota,2013,Lavender,SUV,hybrid,manual,gasoline,4,205346.27,active,6904,8000,James Todd,68,Male,Eastern Province,Rwamagana,low,"Clinical scientist, histocompatibility and immunogenetics",1027,2021-07-24,tourism_peak
+Nissan,2024,LemonChiffon,SUV,diesel,automatic,diesel,7,12852.97,inactive,17886,23683,Tammy Melton,33,Female,Northern Province,Rulindo,medium,"Administrator, education",2967,2021-08-23,tourism_peak
+Kia,2005,DarkOliveGreen,Sedan,electric,automatic,hybrid,7,171385.76,active,7153,8000,John Rivera,56,Male,Eastern Province,Gatsibo,medium,"Engineer, electronics",1642,2024-02-06,normal
+Volkswagen,2020,Turquoise,Hatchback,diesel,automatic,electric,4,67070.05,active,14322,16377,Kimberly Dean,67,Male,Western Province,Rusizi,high,Adult nurse,4003,2025-10-29,normal
+Nissan,2007,Violet,SUV,petrol,manual,electric,4,219904.1,active,6672,8000,Christopher Campbell,33,Female,Northern Province,Gicumbi,low,Astronomer,1345,2024-05-20,normal
+BMW,2021,Aqua,Sedan,hybrid,automatic,electric,5,38079.93,inactive,32284,39238,Matthew Alvarado,39,Female,Southern Province,Nyamagabe,high,Clinical cytogeneticist,4544,2025-02-18,normal
+Audi,2012,LightSteelBlue,Hatchback,petrol,automatic,diesel,2,176953.04,active,6952,8431,Marie Hall,27,Female,Eastern Province,Bugesera,medium,Rural practice surveyor,2011,2021-05-05,normal
+BMW,2016,Maroon,Truck,diesel,manual,diesel,2,134671.74,inactive,21697,27337,Mr. Brandon Gonzalez,35,Female,Southern Province,Ruhango,medium,"Surveyor, mining",3912,2022-01-10,normal
+Volkswagen,2017,BlueViolet,Van,petrol,automatic,electric,3,96387.57,inactive,11102,14572,Joseph Cook,33,Female,Eastern Province,Rwamagana,medium,"Designer, graphic",2405,2021-05-12,normal
+Kia,2006,MediumTurquoise,SUV,electric,manual,hybrid,4,248272.76,active,7026,8000,Heather Turner,39,Female,Southern Province,Nyanza,low,Biomedical engineer,1357,2021-05-03,normal
+Honda,2019,Orange,Coupe,petrol,automatic,hybrid,2,57981.05,inactive,12076,15745,Robin Johnson,23,Female,Northern Province,Gicumbi,medium,Equality and diversity officer,2567,2023-05-16,normal
+Hyundai,2007,MediumSpringGreen,Van,petrol,manual,gasoline,8,150402.13,inactive,6607,8000,Mary Miller,35,Female,Western Province,Rutsiro,low,"Scientist, research (life sciences)",1426,2022-06-21,tourism_peak
+Kia,2018,PapayaWhip,Sedan,diesel,automatic,electric,3,61649.26,active,8310,11052,Christian Waller,23,Female,Northern Province,Musanze,medium,"Production assistant, radio",1876,2023-02-11,normal
+Kia,2015,DarkSeaGreen,Truck,electric,manual,hybrid,7,173546.93,active,11616,12909,Charles Weaver,70,Male,Western Province,Rusizi,medium,Corporate investment banker,3124,2025-10-16,normal
+Audi,2016,Violet,Coupe,electric,manual,diesel,5,133932.0,active,26976,30970,Jessica Stout,49,Male,Southern Province,Nyanza,high,Systems analyst,7225,2023-10-23,normal
+Nissan,2009,MediumAquaMarine,Truck,petrol,automatic,diesel,5,156924.8,inactive,6957,8000,Joseph Ball,47,Male,Eastern Province,Kayonza,low,"Investment banker, corporate",1102,2022-07-11,tourism_peak
+Mercedes-Benz,2012,Black,Coupe,hybrid,manual,electric,6,199980.98,inactive,15996,18641,Sheryl Gutierrez,47,Female,Kigali City,Gasabo,high,Immunologist,4267,2022-06-02,tourism_peak
+Kia,2009,LightSalmon,Van,electric,automatic,electric,7,223718.98,active,6981,8000,Cole Anderson,45,Male,Southern Province,Nyamagabe,medium,Veterinary surgeon,1720,2024-12-12,holiday_sales
+Nissan,2020,Lavender,Van,diesel,automatic,electric,8,43755.74,inactive,13120,16450,Crystal Johnson,28,Male,Eastern Province,Ngoma,medium,Publishing rights manager,2695,2023-06-14,tourism_peak
+Kia,2010,SteelBlue,SUV,diesel,manual,gasoline,7,148890.07,active,7097,8000,Julie Banks,33,Male,Western Province,Rutsiro,low,Naval architect,1458,2022-04-27,normal
+BMW,2017,Sienna,Van,electric,automatic,diesel,2,115062.91,active,29996,34659,Corey Johnson,55,Male,Western Province,Rutsiro,high,Geophysicist/field seismologist,7080,2025-05-11,normal
+Kia,2011,Indigo,Truck,hybrid,manual,gasoline,2,201652.33,active,6029,8000,Virginia Todd,42,Male,Western Province,Rutsiro,low,"Editor, film/video",1105,2024-09-10,normal
+Honda,2006,SlateGray,Van,electric,automatic,hybrid,8,308707.18,inactive,6531,8000,Sharon Clay,39,Female,Western Province,Ngororero,medium,Ophthalmologist,1971,2024-11-30,holiday_sales
+Volkswagen,2012,Olive,Sedan,electric,automatic,gasoline,2,214932.31,inactive,7037,8000,Jennifer Crosby,46,Male,Kigali City,Kicukiro,medium,"Scientist, research (life sciences)",1648,2021-07-14,tourism_peak
+Nissan,2007,RoyalBlue,Van,hybrid,automatic,diesel,4,281990.28,inactive,6813,8000,Shawn Rich,54,Male,Eastern Province,Ngoma,low,"Scientist, physiological",1088,2022-02-09,normal
+Volkswagen,2008,Orchid,Van,hybrid,automatic,gasoline,3,233942.48,active,6529,8000,Mrs. Jasmine Hubbard,47,Male,Eastern Province,Nyagatare,medium,Energy manager,1616,2025-10-03,normal
+Hyundai,2006,Purple,Hatchback,petrol,manual,hybrid,5,239698.41,active,7121,8000,Eric Carey,62,Female,Northern Province,Rulindo,low,Dietitian,1418,2023-08-28,tourism_peak
+Toyota,2015,LightYellow,Truck,diesel,manual,gasoline,8,136498.54,inactive,9572,10920,Amy Black,69,Male,Western Province,Nyamasheke,medium,"Psychologist, educational",1537,2024-10-09,normal
+Toyota,2006,DarkGoldenRod,Truck,diesel,manual,gasoline,5,183528.19,active,6499,8000,Ashley Osborne,40,Male,Northern Province,Burera,medium,"Nurse, learning disability",1875,2025-01-08,normal
+Ford,2011,MediumBlue,Truck,electric,automatic,hybrid,4,122139.24,active,8285,9569,Christopher Garza,28,Male,Southern Province,Nyanza,medium,"Programme researcher, broadcasting/film/video",1828,2024-09-11,normal
+Volkswagen,2022,LightCoral,Van,electric,automatic,electric,3,41958.16,inactive,26830,31886,Matthew Dawson,64,Male,Southern Province,Nyamagabe,high,Community pharmacist,4533,2021-12-12,holiday_sales
+Kia,2023,DarkOrange,Truck,electric,automatic,gasoline,3,32931.97,inactive,23184,28825,Madison Miller,62,Female,Northern Province,Gicumbi,high,Sales promotion account executive,5501,2021-12-15,holiday_sales
+Toyota,2025,OldLace,SUV,petrol,automatic,electric,4,0.0,inactive,20568,24000,Amanda Jackson,37,Female,Southern Province,Ruhango,medium,Systems developer,3565,2022-07-16,tourism_peak
+Kia,2016,DodgerBlue,Coupe,diesel,automatic,gasoline,4,146357.66,inactive,8064,9027,Cassidy Joseph,48,Female,Kigali City,Nyarugenge,medium,Insurance account manager,1666,2022-06-16,tourism_peak
+Ford,2021,RosyBrown,Sedan,hybrid,manual,gasoline,7,64136.13,inactive,17276,20717,Christopher Roach,32,Male,Eastern Province,Kirehe,medium,"Accountant, chartered certified",2318,2023-10-24,normal
+Audi,2025,Aquamarine,Coupe,diesel,automatic,diesel,6,0.0,inactive,40178,45885,Scott Stephens,38,Male,Kigali City,Gasabo,high,Translator,7069,2023-05-02,normal
+Audi,2012,LavenderBlush,Hatchback,diesel,automatic,diesel,6,253386.2,inactive,6076,8000,Matthew Chavez,37,Female,Northern Province,Rulindo,low,Cartographer,920,2025-05-18,normal
+Mercedes-Benz,2020,LemonChiffon,Hatchback,electric,automatic,hybrid,3,85614.94,active,34057,40813,Diana Fuller,39,Male,Kigali City,Kicukiro,high,Artist,8497,2021-03-27,normal
+BMW,2008,DarkViolet,Sedan,diesel,manual,gasoline,4,167313.1,inactive,6387,8000,Gregory Thomas,53,Male,Eastern Province,Rwamagana,medium,Technical brewer,1781,2022-10-02,normal
+Kia,2009,MediumPurple,Truck,diesel,automatic,diesel,8,305068.3,active,6874,8000,Amber Butler,33,Male,Western Province,Karongi,medium,"Designer, television/film set",1882,2023-09-20,normal
+Nissan,2025,Fuchsia,Coupe,hybrid,manual,hybrid,8,0.0,active,22457,28750,Nicole Ward,55,Male,Western Province,Ngororero,high,Chief Financial Officer,5723,2023-08-07,tourism_peak
+Kia,2023,MediumBlue,Van,petrol,manual,diesel,6,20175.18,active,15280,17416,James Jones,62,Female,Eastern Province,Nyagatare,medium,Statistician,3867,2023-09-22,normal
+BMW,2025,LightSteelBlue,Truck,hybrid,manual,hybrid,5,0.0,inactive,57697,65000,Bryan Villarreal,44,Female,Eastern Province,Kayonza,high,Secretary/administrator,13904,2021-09-24,normal
+Ford,2010,Violet,Hatchback,diesel,automatic,electric,4,196473.97,active,6622,8000,Daniel Brown,24,Male,Western Province,Rutsiro,low,Radio broadcast assistant,1339,2024-09-12,normal
+Volkswagen,2013,Pink,SUV,electric,automatic,electric,2,129368.15,active,12682,14213,Emily Fox,28,Female,Western Province,Karongi,medium,"Conservation officer, nature",2930,2023-08-16,tourism_peak
+Hyundai,2025,SpringGreen,SUV,diesel,manual,diesel,7,0.0,active,18564,23940,Lynn Vasquez,23,Male,Southern Province,Ruhango,medium,Travel agency manager,2421,2025-12-19,holiday_sales
+Nissan,2008,LightSteelBlue,Coupe,petrol,automatic,diesel,3,277542.01,active,7079,8000,April Johnson,45,Male,Eastern Province,Nyagatare,low,"Engineer, maintenance (IT)",1282,2023-02-28,normal
+Mercedes-Benz,2011,PaleVioletRed,SUV,petrol,manual,electric,5,141865.67,inactive,10613,13363,Gregory Shaffer,64,Male,Kigali City,Nyarugenge,medium,"Administrator, arts",1947,2024-09-15,normal
+Honda,2011,LightSkyBlue,Hatchback,electric,manual,gasoline,4,134133.98,active,6943,8000,Barry Evans,46,Female,Southern Province,Gisagara,low,Accounting technician,1170,2022-11-22,holiday_sales
+Volkswagen,2013,MediumSeaGreen,Van,electric,manual,diesel,8,227695.16,inactive,8861,10846,Nathaniel Gilbert,57,Male,Western Province,Karongi,medium,Economist,2413,2022-02-23,normal
+Honda,2007,MediumPurple,Truck,petrol,manual,hybrid,2,226559.52,active,6774,8000,Tammy Mendoza,40,Female,Western Province,Ngororero,low,Animal technologist,1096,2022-10-30,normal
+Honda,2013,SkyBlue,Truck,electric,automatic,diesel,8,100961.55,active,11615,13269,Joe Grimes,68,Female,Western Province,Rubavu,medium,"Psychologist, counselling",2836,2022-05-02,normal
+Audi,2024,Chartreuse,Sedan,petrol,automatic,diesel,2,15248.98,inactive,29890,35795,Elizabeth Hardy,62,Female,Southern Province,Nyaruguru,high,"Surveyor, building control",4238,2024-09-13,normal
+Nissan,2025,Azure,Truck,hybrid,automatic,hybrid,3,0.0,active,27935,32500,Michael Marsh,59,Female,Western Province,Rutsiro,high,Brewing technologist,4039,2025-09-26,normal
+Mercedes-Benz,2022,LightSeaGreen,Hatchback,petrol,manual,diesel,3,38016.24,inactive,26747,33665,Gina Brooks,63,Male,Western Province,Rutsiro,high,"Teacher, English as a foreign language",6838,2022-06-13,tourism_peak
+Kia,2007,GhostWhite,Hatchback,petrol,manual,electric,8,182475.44,active,6405,8000,Sharon Walton,67,Female,Southern Province,Muhanga,low,Ambulance person,1004,2024-06-29,tourism_peak
+Honda,2021,PaleVioletRed,SUV,electric,automatic,gasoline,3,38154.25,inactive,22374,27461,Shawn Watson,46,Female,Northern Province,Gakenke,high,"Engineer, technical sales",4731,2023-06-28,tourism_peak
+BMW,2007,LimeGreen,Hatchback,diesel,automatic,diesel,4,179916.8,inactive,7151,8000,James Johnson,27,Male,Southern Province,Kamonyi,medium,Chief Executive Officer,1569,2025-08-24,tourism_peak
+Kia,2007,Tan,SUV,electric,manual,electric,8,222722.14,active,6548,8000,John Porter,21,Male,Eastern Province,Rwamagana,low,"Librarian, public",901,2024-12-14,holiday_sales
+Nissan,2006,Violet,Sedan,petrol,manual,diesel,8,332493.72,active,6756,8000,Garrett Hammond,43,Male,Northern Province,Rulindo,low,"Scientist, clinical (histocompatibility and immunogenetics)",852,2025-04-17,normal
+Mercedes-Benz,2024,GreenYellow,Van,diesel,automatic,diesel,5,16030.52,active,42131,49056,Julia Reeves,36,Male,Northern Province,Gakenke,high,"Accountant, chartered management",9039,2022-04-23,normal
+Toyota,2005,Brown,Hatchback,electric,manual,diesel,7,376879.88,active,6603,8000,Linda Miller,37,Female,Eastern Province,Nyagatare,low,Armed forces training and education officer,1267,2023-10-29,normal
+Audi,2017,Turquoise,Sedan,petrol,manual,diesel,8,71098.79,inactive,18680,21378,Nichole Johnson,23,Female,Kigali City,Kicukiro,medium,"Engineer, manufacturing systems",2933,2022-01-21,normal
+Nissan,2008,Green,Sedan,electric,automatic,gasoline,7,150610.29,active,6984,8000,Donald Flores,23,Female,Northern Province,Gakenke,low,Commercial/residential surveyor,1384,2023-11-28,holiday_sales
+Honda,2013,DeepPink,Sedan,petrol,automatic,hybrid,5,151897.93,inactive,6978,8000,Brian Mullen,20,Male,Kigali City,Gasabo,medium,"Engineer, maintenance",1607,2023-07-02,tourism_peak
+Audi,2008,MediumVioletRed,Hatchback,diesel,manual,electric,2,164896.0,inactive,6595,8000,Denise Harding,58,Female,Southern Province,Nyamagabe,medium,"Teacher, secondary school",1738,2025-10-17,normal
+Ford,2016,FloralWhite,Van,diesel,automatic,hybrid,5,123703.33,inactive,9656,11501,Louis Morgan,29,Female,Northern Province,Gakenke,medium,Arts administrator,2240,2023-04-06,normal
+Audi,2019,Black,Sedan,diesel,manual,gasoline,3,57993.19,active,20896,26770,Michael Rodriguez,51,Male,Eastern Province,Gatsibo,high,Chartered legal executive (England and Wales),6380,2022-04-15,normal
+Hyundai,2014,OrangeRed,Sedan,electric,manual,hybrid,7,160981.67,inactive,6787,8750,Kyle Watkins,21,Female,Southern Province,Nyaruguru,medium,Warehouse manager,1568,2024-10-21,normal
+Kia,2012,Magenta,Hatchback,petrol,manual,electric,8,213109.33,active,6411,8000,Craig Chang,22,Male,Kigali City,Kicukiro,medium,"Psychologist, occupational",1853,2024-03-15,normal
+Honda,2014,DarkSeaGreen,SUV,electric,automatic,electric,7,119882.82,active,11958,13478,Robert Hale,56,Male,Northern Province,Musanze,medium,"Programmer, applications",1686,2026-01-04,normal
+Honda,2006,SeaGreen,Truck,diesel,automatic,diesel,3,211092.17,active,6536,8000,Travis Thomas,50,Female,Western Province,Nyamasheke,medium,Medical physicist,1757,2023-10-27,normal
+Mercedes-Benz,2018,Gainsboro,Truck,diesel,automatic,electric,7,122710.32,active,31407,37472,Mary Mccormick,52,Female,Kigali City,Kicukiro,high,Professor Emeritus,5982,2024-07-07,tourism_peak
+Mercedes-Benz,2010,Black,Van,diesel,automatic,gasoline,5,143367.32,inactive,8447,10126,Brian Mendoza,62,Male,Kigali City,Nyarugenge,medium,Heritage manager,2397,2025-04-29,normal
+Hyundai,2017,DarkSalmon,Coupe,diesel,manual,electric,5,106140.65,active,9774,11643,Jennifer Klein,22,Male,Western Province,Nyabihu,medium,"Journalist, magazine",1670,2024-02-23,normal
+BMW,2013,Cornsilk,Coupe,diesel,manual,electric,3,114574.24,inactive,14402,17029,Kim Morales,28,Female,Eastern Province,Rwamagana,medium,Field trials officer,2730,2025-11-28,holiday_sales
+BMW,2012,DimGray,Hatchback,hybrid,manual,gasoline,6,169084.83,inactive,10909,12368,Janet Peterson,65,Female,Western Province,Ngororero,medium,"Presenter, broadcasting",1840,2023-04-03,normal
+Ford,2014,MediumSpringGreen,SUV,diesel,manual,gasoline,7,155177.59,active,7803,9370,Cynthia Bates,58,Male,Western Province,Nyamasheke,medium,"Teacher, secondary school",2155,2026-01-02,normal
+BMW,2021,DarkOrange,Sedan,diesel,automatic,hybrid,8,76400.99,inactive,27631,32072,Julie Peters,23,Female,Northern Province,Musanze,high,"Editor, commissioning",7346,2025-04-26,normal
+Toyota,2008,PaleGreen,Hatchback,hybrid,automatic,gasoline,2,203046.88,active,6032,8000,Brian Cervantes,70,Female,Eastern Province,Gatsibo,medium,Land,1776,2023-10-20,normal
+Audi,2025,Chocolate,Coupe,diesel,automatic,gasoline,2,0.0,active,35228,45885,Robert Clay,46,Male,Northern Province,Rulindo,high,Data processing manager,6383,2025-05-20,normal
+Audi,2016,RoyalBlue,Coupe,petrol,manual,electric,7,179949.99,inactive,16044,20436,Jean Lane,46,Male,Southern Province,Huye,medium,"Engineer, land",3327,2022-06-13,tourism_peak
+BMW,2022,Lime,Truck,electric,automatic,diesel,8,45937.84,active,53005,60961,Susan Torres,20,Female,Western Province,Rusizi,high,Local government officer,7849,2023-11-15,holiday_sales
+Hyundai,2011,Aqua,Truck,electric,automatic,electric,2,190508.95,inactive,6025,8000,Kayla Abbott,48,Female,Kigali City,Gasabo,medium,Biomedical engineer,1884,2021-12-09,holiday_sales
+Hyundai,2023,CadetBlue,Truck,diesel,manual,electric,7,31230.55,active,19545,22717,Justin Irwin,31,Male,Northern Province,Gakenke,medium,Herbalist,2454,2024-04-27,normal
+Mercedes-Benz,2016,LavenderBlush,Coupe,electric,manual,hybrid,8,170634.0,active,30779,36435,Kevin Garrett,54,Female,Northern Province,Burera,high,"Optician, dispensing",5470,2021-06-11,tourism_peak
+Ford,2019,PowderBlue,Coupe,hybrid,manual,electric,2,116378.35,active,16465,19810,Mary Wells,47,Male,Western Province,Nyabihu,medium,"Surveyor, building control",2918,2024-06-04,tourism_peak
+Kia,2017,MistyRose,Coupe,diesel,manual,hybrid,4,143914.31,active,7988,10163,Brittany Bright,70,Male,Kigali City,Nyarugenge,medium,Contractor,2264,2024-06-13,tourism_peak
+Kia,2009,Cornsilk,Hatchback,petrol,automatic,electric,6,300652.48,active,7193,8000,Brianna Dyer,66,Female,Eastern Province,Rwamagana,low,Copy,821,2021-04-12,normal
+Audi,2021,DarkSlateGray,Sedan,diesel,automatic,electric,4,55518.0,inactive,27426,30810,Jennifer Bryant,24,Female,Northern Province,Burera,high,Youth worker,7108,2021-11-25,holiday_sales
+Volkswagen,2013,SaddleBrown,Coupe,hybrid,automatic,electric,7,109248.98,inactive,9803,12190,Kristen Cole,28,Female,Northern Province,Burera,medium,Equities trader,2768,2022-09-16,normal
+Mercedes-Benz,2007,Peru,SUV,hybrid,automatic,electric,6,223175.38,active,6642,8000,Laura Bradford,20,Male,Southern Province,Ruhango,low,Retail banker,1049,2022-10-05,normal
+Toyota,2021,PaleVioletRed,Van,petrol,manual,hybrid,7,75743.91,inactive,12273,16085,Laura Johnson,41,Male,Western Province,Nyamasheke,medium,Tax inspector,2764,2023-06-21,tourism_peak
+Toyota,2021,NavajoWhite,Hatchback,electric,manual,electric,3,32126.93,inactive,15984,19517,John Vaughn,40,Male,Western Province,Rutsiro,medium,Secretary/administrator,2323,2025-04-16,normal
+Nissan,2014,SeaGreen,SUV,diesel,automatic,electric,6,186682.91,active,6365,8000,Kelly Bishop,66,Male,Southern Province,Kamonyi,low,Public house manager,1285,2023-07-23,tourism_peak
+Ford,2013,Yellow,Truck,hybrid,manual,electric,4,97104.3,inactive,10858,12358,Emily Brown,33,Female,Northern Province,Gakenke,medium,Social researcher,2248,2021-11-04,holiday_sales
+Audi,2018,SeaShell,Truck,diesel,manual,hybrid,2,128225.04,active,25131,31151,Taylor Berry,55,Female,Northern Province,Rulindo,medium,"Pharmacist, community",3138,2021-04-09,normal
+Kia,2025,LightYellow,Sedan,hybrid,manual,gasoline,3,0.0,active,19982,22500,Andrew Livingston,51,Female,Eastern Province,Ngoma,high,"Surveyor, rural practice",5203,2024-03-07,normal
+BMW,2006,Chocolate,Van,diesel,automatic,electric,3,319145.35,inactive,6338,8000,Laura Berry,47,Female,Northern Province,Rulindo,low,Aid worker,852,2023-05-25,normal
+Mercedes-Benz,2023,SlateBlue,Van,diesel,automatic,hybrid,8,33391.66,inactive,39733,46110,Jonathan York,42,Female,Eastern Province,Gatsibo,high,Forensic psychologist,5190,2023-08-15,tourism_peak
+Ford,2019,LightSeaGreen,Hatchback,petrol,automatic,diesel,8,87437.57,active,10069,12111,David Figueroa,55,Male,Western Province,Ngororero,medium,"Therapist, art",2911,2022-04-22,normal
+Hyundai,2013,RosyBrown,Truck,electric,automatic,gasoline,8,144095.58,active,9381,10950,Christopher Patton,24,Male,Western Province,Ngororero,low,Radio producer,1247,2022-06-19,tourism_peak
+Ford,2014,Wheat,SUV,diesel,manual,gasoline,5,219403.1,inactive,6933,8086,Grace Miller,47,Male,Western Province,Nyamasheke,medium,"Therapist, nutritional",1960,2022-09-19,normal
+Ford,2013,Snow,Coupe,hybrid,automatic,electric,5,222816.63,inactive,7108,8194,Jennifer Reyes,43,Female,Northern Province,Musanze,medium,Diplomatic Services operational officer,1920,2022-06-28,tourism_peak
+Kia,2013,MediumTurquoise,Coupe,diesel,manual,gasoline,8,105757.04,inactive,6125,8000,Dennis Weiss,38,Male,Eastern Province,Kirehe,low,Diplomatic Services operational officer,1073,2022-12-22,holiday_sales
+Nissan,2016,PaleGoldenRod,Sedan,petrol,automatic,electric,2,99637.42,inactive,6777,9007,John Vaughan,27,Male,Eastern Province,Ngoma,medium,Museum education officer,1785,2025-02-15,normal
+Hyundai,2009,Sienna,SUV,diesel,automatic,gasoline,6,294609.2,inactive,7173,8000,Joseph Graham,29,Female,Southern Province,Kamonyi,low,"Production assistant, radio",1420,2024-06-30,tourism_peak
+Kia,2023,Maroon,Coupe,petrol,manual,electric,8,19416.3,active,14433,18242,Melanie Williams,50,Female,Kigali City,Kicukiro,medium,Podiatrist,2762,2024-06-05,tourism_peak
+Kia,2022,MediumSeaGreen,Coupe,hybrid,automatic,gasoline,6,30357.68,inactive,17491,21387,Robert Scott,25,Female,Southern Province,Kamonyi,high,"Psychologist, clinical",4163,2023-07-01,tourism_peak
+Mercedes-Benz,2006,GoldenRod,Van,electric,automatic,diesel,3,252045.28,active,6065,8000,Megan Kaiser,39,Female,Western Province,Rubavu,low,Sports development officer,845,2023-03-28,normal
+Hyundai,2014,Aqua,Coupe,diesel,automatic,diesel,2,91683.78,active,6746,8490,Alexandra Davis,43,Male,Kigali City,Kicukiro,low,Product designer,946,2021-04-08,normal
+Kia,2010,Indigo,Truck,hybrid,manual,electric,6,146409.56,active,6868,8000,Darlene Johnson,22,Male,Southern Province,Huye,low,Barista,1122,2024-03-03,normal
+Nissan,2010,DarkRed,Sedan,electric,automatic,gasoline,3,121486.62,active,6425,8000,Barbara Gates,64,Male,Eastern Province,Kayonza,low,Mining engineer,1429,2023-01-09,normal
+Ford,2018,GhostWhite,Van,petrol,automatic,hybrid,8,57813.95,active,12629,14574,Melissa King,27,Female,Northern Province,Gicumbi,medium,Call centre manager,1924,2025-12-29,holiday_sales
+Volkswagen,2015,LightSalmon,SUV,petrol,automatic,hybrid,3,85855.84,active,10883,13283,Melissa Contreras,35,Female,Southern Province,Ruhango,low,Furniture designer,1349,2025-01-13,normal
+Volkswagen,2025,Cornsilk,Hatchback,petrol,manual,diesel,4,0.0,active,17563,22500,Antonio Price,69,Male,Southern Province,Ruhango,high,Further education lecturer,4030,2022-07-23,tourism_peak
+Mercedes-Benz,2007,Fuchsia,Sedan,hybrid,automatic,diesel,3,269123.18,active,6448,8000,John Mcfarland,45,Female,Northern Province,Rulindo,low,"Editor, magazine features",1000,2023-06-07,tourism_peak
+Audi,2012,DarkMagenta,Van,hybrid,manual,electric,6,148205.22,active,13280,15323,Randy Robinson,70,Male,Kigali City,Gasabo,medium,Private music teacher,3072,2025-05-13,normal
+Honda,2016,DarkKhaki,Van,petrol,manual,electric,4,118854.56,active,8702,10328,Benjamin Luna,52,Female,Kigali City,Gasabo,medium,Advertising account executive,1778,2023-05-20,normal
+Nissan,2021,DeepPink,Truck,diesel,manual,hybrid,5,55780.21,inactive,18222,20724,April Johnson,69,Female,Northern Province,Rulindo,medium,Geographical information systems officer,2689,2025-05-31,normal
+Kia,2013,MediumPurple,Sedan,petrol,automatic,hybrid,5,148460.42,inactive,6422,8000,Laura Robertson,40,Female,Eastern Province,Nyagatare,low,Purchasing manager,1358,2022-06-21,tourism_peak
+Honda,2015,PaleGreen,Coupe,diesel,automatic,electric,8,89154.2,inactive,8768,10896,Priscilla Floyd,55,Male,Northern Province,Gicumbi,medium,"Accountant, chartered certified",2194,2024-11-20,holiday_sales
+Audi,2008,SkyBlue,Hatchback,petrol,manual,gasoline,5,218342.81,inactive,6852,8000,Joseph Frey,34,Female,Kigali City,Kicukiro,low,Immunologist,1084,2024-06-13,tourism_peak
+Kia,2006,Chartreuse,Hatchback,petrol,automatic,gasoline,4,226630.34,active,6727,8000,Tina Davis,27,Female,Southern Province,Nyanza,low,Catering manager,1111,2024-08-02,tourism_peak
+Toyota,2006,LightSteelBlue,Van,hybrid,manual,diesel,5,222162.89,inactive,6701,8000,Cassandra Williams,69,Female,Southern Province,Nyamagabe,medium,"Engineer, aeronautical",1714,2025-02-02,normal
+Audi,2010,Orange,Sedan,hybrid,automatic,gasoline,3,124804.26,inactive,7655,9379,Lydia Howard,46,Male,Western Province,Karongi,low,Primary school teacher,953,2023-09-21,normal
+Audi,2017,DarkSlateGray,Van,hybrid,manual,electric,8,94662.11,active,22681,29457,Alexander Davies,27,Male,Western Province,Ngororero,high,Records manager,5404,2022-10-16,normal
+Kia,2006,Coral,Sedan,diesel,manual,gasoline,3,312713.2,active,7015,8000,Maria Porter,60,Female,Eastern Province,Bugesera,low,"Administrator, sports",1052,2024-06-26,tourism_peak
+BMW,2014,MediumSlateBlue,Sedan,diesel,manual,diesel,4,135123.8,inactive,13484,16198,Richard Williams,53,Male,Kigali City,Kicukiro,medium,"Engineer, mining",2391,2021-06-30,tourism_peak
+Toyota,2010,Salmon,Coupe,hybrid,manual,diesel,8,157948.43,active,6779,8000,Sheila Herrera,35,Male,Eastern Province,Kayonza,medium,Building surveyor,1574,2025-08-18,tourism_peak
+Hyundai,2014,DarkTurquoise,Sedan,petrol,automatic,diesel,2,185260.13,active,7011,8000,Alec Meadows DDS,55,Male,Kigali City,Gasabo,low,"Conservator, furniture",1318,2021-06-29,tourism_peak
+Audi,2021,ForestGreen,SUV,petrol,automatic,electric,3,40124.59,inactive,29792,35678,Summer Hoover,36,Male,Eastern Province,Kirehe,high,"Programmer, multimedia",5729,2021-04-20,normal
+Toyota,2018,Coral,Hatchback,electric,automatic,hybrid,7,88750.94,inactive,11894,14605,Ashley Crawford,23,Male,Eastern Province,Kirehe,medium,Biomedical scientist,3447,2022-08-19,tourism_peak
+Nissan,2016,Pink,Coupe,diesel,automatic,electric,8,105023.51,active,8756,11182,Russell Rojas,62,Female,Eastern Province,Rwamagana,low,"Journalist, broadcasting",1314,2022-11-26,holiday_sales
+Mercedes-Benz,2019,YellowGreen,Truck,hybrid,automatic,diesel,2,53807.61,active,43457,50111,Russell Mcguire,68,Male,Eastern Province,Bugesera,high,"Therapist, horticultural",5699,2022-03-17,normal
+Toyota,2014,MediumSeaGreen,Hatchback,electric,automatic,gasoline,6,98849.56,active,8193,9363,Donald Todd,63,Male,Northern Province,Burera,medium,Merchant navy officer,2252,2022-08-27,tourism_peak
+Kia,2009,FireBrick,Truck,petrol,automatic,hybrid,8,185728.13,inactive,6391,8000,Timothy Williams,22,Male,Kigali City,Gasabo,medium,Video editor,1746,2025-11-20,holiday_sales
+Volkswagen,2013,DimGray,Coupe,diesel,manual,electric,6,110419.75,inactive,8180,9867,John Smith,51,Male,Kigali City,Kicukiro,medium,Chartered public finance accountant,2408,2024-05-18,normal
+Hyundai,2020,PapayaWhip,Hatchback,petrol,automatic,diesel,2,89618.03,inactive,8413,11033,Rebecca Alvarez,64,Male,Kigali City,Kicukiro,low,"Engineer, maintenance",1270,2023-08-05,tourism_peak
+Volkswagen,2015,LightPink,Truck,electric,automatic,gasoline,4,198754.22,active,15852,18775,Jennifer Hurley,42,Male,Southern Province,Kamonyi,medium,"Therapist, occupational",3424,2022-05-25,normal
+Kia,2016,SpringGreen,SUV,hybrid,automatic,hybrid,7,82643.64,active,10383,13197,Anita Serrano,32,Female,Southern Province,Ruhango,low,Magazine features editor,1328,2022-09-17,normal
+Honda,2014,AntiqueWhite,SUV,diesel,automatic,diesel,6,187798.44,inactive,6714,8151,Cheryl Downs,29,Male,Southern Province,Gisagara,medium,Water engineer,1857,2024-09-28,normal
+Mercedes-Benz,2011,Yellow,Coupe,electric,manual,diesel,8,198348.99,active,14766,17768,Julie Sims,61,Male,Northern Province,Burera,medium,Health and safety inspector,3750,2024-04-04,normal
+Mercedes-Benz,2022,GoldenRod,Coupe,petrol,automatic,diesel,7,33286.25,active,37895,43322,Chase Anthony,70,Female,Kigali City,Kicukiro,high,Research scientist (medical),6291,2021-08-18,tourism_peak
+Kia,2016,DimGray,Truck,electric,automatic,hybrid,8,167698.21,inactive,12985,14664,Amanda Newman,70,Female,Kigali City,Gasabo,medium,"Engineer, manufacturing systems",1963,2022-09-05,normal
+Audi,2012,LightCoral,Sedan,petrol,manual,gasoline,5,150703.62,active,8619,10286,Robert Chang,66,Male,Eastern Province,Kirehe,low,Civil Service administrator,1197,2024-11-16,holiday_sales
+Volkswagen,2024,WhiteSmoke,Sedan,petrol,automatic,hybrid,7,12114.6,active,19618,23508,Richard Washington,58,Male,Southern Province,Nyamagabe,high,Building services engineer,4725,2021-08-16,tourism_peak
+Kia,2023,Red,Hatchback,electric,manual,electric,4,16557.39,inactive,15722,20081,Erika Gonzalez,34,Female,Western Province,Rusizi,medium,Event organiser,3323,2023-03-08,normal
+Hyundai,2017,MediumOrchid,Sedan,petrol,automatic,hybrid,8,93741.95,inactive,7863,9525,David Gutierrez,28,Male,Northern Province,Gakenke,low,Mining engineer,974,2022-02-12,normal
+Kia,2006,Cornsilk,SUV,hybrid,manual,electric,2,223186.34,active,7193,8000,John Zamora,57,Male,Western Province,Rubavu,medium,"Engineer, technical sales",1749,2023-01-21,normal
+Audi,2005,Fuchsia,Hatchback,electric,automatic,diesel,7,322548.18,active,6425,8000,Chad Cortez,32,Female,Western Province,Nyamasheke,medium,Geophysicist/field seismologist,1958,2025-01-18,normal
+Mercedes-Benz,2020,MediumSeaGreen,SUV,diesel,automatic,gasoline,3,66122.48,active,32754,41203,Michael Brown,46,Male,Western Province,Rusizi,high,Clinical psychologist,9549,2022-11-25,holiday_sales
+Honda,2016,Salmon,Van,petrol,automatic,hybrid,6,128515.05,inactive,8962,10135,Philip Robinson,31,Female,Southern Province,Huye,medium,Trade mark attorney,2201,2025-02-20,normal
+BMW,2024,FloralWhite,Truck,diesel,manual,diesel,4,15277.88,active,40852,51564,Kristen Hall,40,Female,Eastern Province,Kirehe,high,"Scientist, research (maths)",11516,2022-07-07,tourism_peak
+Toyota,2008,IndianRed,Truck,petrol,manual,diesel,3,139475.43,active,6981,8000,Sara Ramirez,48,Female,Kigali City,Kicukiro,medium,Fine artist,1816,2025-05-04,normal
+Volkswagen,2017,MediumOrchid,Hatchback,electric,automatic,gasoline,8,100471.15,inactive,15150,16891,Daniel Pennington,64,Male,Western Province,Nyamasheke,medium,"Teacher, secondary school",3208,2023-04-15,normal
+Volkswagen,2023,PapayaWhip,Hatchback,electric,manual,electric,8,38049.24,inactive,24329,27589,Amanda Ruiz,60,Male,Eastern Province,Kayonza,high,"Physicist, medical",6316,2021-03-22,normal
+Mercedes-Benz,2018,OrangeRed,Hatchback,petrol,automatic,hybrid,2,103145.12,active,18489,24262,Robert Nicholson,47,Female,Western Province,Rusizi,medium,Research scientist (life sciences),3260,2025-09-12,normal
+Mercedes-Benz,2014,DarkBlue,Hatchback,hybrid,automatic,electric,4,213718.33,inactive,14994,18507,Alexandria Dennis,70,Male,Kigali City,Kicukiro,medium,Consulting civil engineer,3912,2023-03-24,normal
+BMW,2007,LightYellow,Sedan,hybrid,automatic,electric,7,306429.55,active,6729,8000,Zachary Smith,29,Female,Kigali City,Gasabo,medium,"Designer, television/film set",1964,2024-03-24,normal
+Hyundai,2018,Bisque,SUV,hybrid,manual,hybrid,8,84193.75,active,13648,16841,Julie Taylor,58,Female,Western Province,Rubavu,medium,Electrical engineer,3138,2025-01-31,normal
+Nissan,2008,SandyBrown,Coupe,electric,manual,gasoline,7,281196.34,active,6271,8000,April Burton,68,Female,Northern Province,Rulindo,low,Learning mentor,1452,2024-04-30,normal
+Volkswagen,2019,BlanchedAlmond,SUV,diesel,automatic,gasoline,7,57392.96,inactive,17690,20902,Paul Wolfe,27,Male,Western Province,Rubavu,medium,Catering manager,3568,2025-09-11,normal
+Hyundai,2014,Chartreuse,Hatchback,diesel,automatic,gasoline,7,190182.44,inactive,7058,8000,Susan Cox,60,Male,Kigali City,Kicukiro,medium,Clinical psychologist,1540,2024-01-13,normal
+Ford,2019,Moccasin,Truck,diesel,manual,electric,2,57024.17,active,15929,19881,Andrew Richardson,40,Male,Northern Province,Rulindo,medium,"Surveyor, mining",2602,2024-06-08,tourism_peak
+Nissan,2013,DarkSlateGray,SUV,electric,manual,hybrid,7,227629.75,inactive,7585,8887,Mrs. Ashley Mendoza,40,Male,Northern Province,Rulindo,low,Equality and diversity officer,999,2022-12-03,holiday_sales
+Mercedes-Benz,2019,MidnightBlue,Coupe,hybrid,manual,hybrid,8,73039.16,active,35702,43820,Kathy Henderson,51,Male,Eastern Province,Bugesera,high,Biomedical scientist,9610,2023-11-27,holiday_sales
+Audi,2017,MediumTurquoise,Van,hybrid,automatic,hybrid,8,92916.49,inactive,25575,29492,Jonathan Gallegos,23,Female,Kigali City,Nyarugenge,high,Ship broker,6155,2024-05-08,normal
+Honda,2008,LightSteelBlue,Coupe,electric,automatic,hybrid,4,202148.35,inactive,6854,8000,Jacob Nunez,46,Male,Western Province,Karongi,medium,Emergency planning/management officer,1814,2025-09-17,normal
+Toyota,2020,DarkCyan,Hatchback,electric,manual,diesel,5,85194.73,inactive,14193,17196,Steven Roberts,52,Male,Kigali City,Gasabo,high,Clinical embryologist,4121,2025-01-27,normal
+Audi,2005,LightSalmon,Sedan,petrol,automatic,gasoline,8,246435.75,inactive,7123,8000,Charles Hernandez,34,Male,Northern Province,Burera,low,"Scientist, research (life sciences)",1145,2022-07-31,tourism_peak
+Mercedes-Benz,2020,LightYellow,Hatchback,diesel,manual,diesel,4,89137.85,inactive,27075,30111,Michael Huynh,46,Female,Western Province,Nyamasheke,high,"Loss adjuster, chartered",4713,2021-05-16,normal
+Toyota,2017,Red,Hatchback,electric,automatic,hybrid,2,123568.59,inactive,10199,12649,Alison Lopez,25,Male,Southern Province,Ruhango,medium,Exhibition designer,3022,2024-10-02,normal
+Hyundai,2016,MediumSeaGreen,Sedan,hybrid,automatic,diesel,4,79564.13,inactive,9826,11471,Grant Lucas,61,Female,Northern Province,Rulindo,medium,"Radiographer, diagnostic",1540,2025-08-07,tourism_peak
+Toyota,2009,Red,Hatchback,diesel,manual,gasoline,5,274473.2,active,7087,8000,Keith Villanueva,41,Female,Southern Province,Nyamagabe,medium,Dramatherapist,1902,2025-09-09,normal
+Audi,2025,Khaki,Sedan,electric,manual,electric,4,0.0,inactive,41845,53200,Dr. Randy Williams,41,Female,Western Province,Rutsiro,high,Higher education careers adviser,10224,2023-05-23,normal
+Volkswagen,2020,FireBrick,SUV,diesel,manual,diesel,6,92820.17,inactive,16588,21769,Caitlyn Nichols,39,Male,Western Province,Nyabihu,medium,Economist,2657,2025-01-21,normal
+BMW,2017,DodgerBlue,Truck,petrol,manual,diesel,7,109334.71,active,24231,29013,Andrew Stewart,24,Male,Kigali City,Nyarugenge,medium,Prison officer,3404,2022-06-26,tourism_peak
+Mercedes-Benz,2023,NavajoWhite,Van,diesel,automatic,hybrid,5,34168.32,active,39074,46094,Justin Johnson,44,Female,Kigali City,Gasabo,high,Local government officer,4856,2023-05-25,normal
+Hyundai,2024,Navy,Coupe,electric,automatic,electric,3,19980.95,active,24266,28661,William Ferguson,48,Male,Eastern Province,Kirehe,high,Agricultural consultant,6811,2022-06-09,tourism_peak
+Honda,2018,SpringGreen,SUV,petrol,automatic,diesel,2,89853.85,inactive,10942,14583,Theresa Reilly,63,Male,Northern Province,Gicumbi,medium,"Accountant, chartered management",3288,2024-08-14,tourism_peak
+Hyundai,2014,Tan,Truck,hybrid,automatic,gasoline,2,116157.3,active,9467,11571,Michael Wells,29,Female,Northern Province,Gicumbi,medium,"Teacher, secondary school",2233,2025-10-28,normal
+BMW,2018,Red,Coupe,petrol,manual,electric,8,65801.32,inactive,23030,28584,Brian Mendoza,62,Male,Western Province,Nyabihu,high,Corporate treasurer,4052,2022-06-06,tourism_peak
+Ford,2025,DarkOrange,SUV,petrol,manual,hybrid,6,0.0,active,21113,26400,James Randall,43,Female,Kigali City,Nyarugenge,medium,Marketing executive,2730,2025-11-12,holiday_sales
+Hyundai,2023,MediumOrchid,Van,diesel,manual,electric,4,36864.64,active,14963,19013,Martin Silva,57,Male,Northern Province,Gicumbi,high,Health physicist,4155,2021-12-19,holiday_sales
+Toyota,2023,Beige,Coupe,petrol,automatic,gasoline,3,24089.21,inactive,16482,20218,Samuel Rhodes,57,Male,Western Province,Rusizi,medium,Science writer,3270,2022-11-05,holiday_sales
+Nissan,2005,GoldenRod,Coupe,petrol,automatic,gasoline,3,284996.53,inactive,6872,8000,Larry Hunt Jr.,43,Female,Eastern Province,Nyagatare,low,Occupational therapist,1118,2024-07-14,tourism_peak
+Mercedes-Benz,2018,Pink,Sedan,petrol,automatic,gasoline,5,83965.17,active,24340,27571,Jake Mitchell,63,Female,Northern Province,Musanze,high,Insurance account manager,6778,2022-06-09,tourism_peak
+Honda,2023,DarkCyan,Truck,diesel,automatic,diesel,3,29868.7,inactive,19936,25201,Stephen Figueroa,66,Female,Northern Province,Burera,high,Probation officer,4508,2024-12-20,holiday_sales
+Mercedes-Benz,2014,DodgerBlue,Van,electric,automatic,hybrid,2,159210.68,inactive,23293,28001,Tracy Coleman,27,Female,Kigali City,Kicukiro,medium,Corporate treasurer,3121,2023-08-20,tourism_peak
+Honda,2021,DarkCyan,SUV,electric,automatic,electric,2,78035.02,inactive,21975,26663,Eric Mcneil,51,Female,Eastern Province,Bugesera,high,Brewing technologist,4811,2026-03-05,normal
+Nissan,2012,DarkCyan,SUV,hybrid,automatic,electric,2,151036.3,active,6462,8000,Mark Nelson,40,Male,Southern Province,Nyaruguru,low,"Surveyor, commercial/residential",1346,2024-05-17,normal
+BMW,2023,DarkSlateGray,SUV,electric,manual,diesel,2,17559.48,active,53581,60129,Ronnie Roberts,70,Female,Eastern Province,Kirehe,high,Archivist,9796,2025-02-09,normal
+Nissan,2018,LimeGreen,Truck,petrol,manual,gasoline,6,119086.23,inactive,12781,14518,Patrick Walker DDS,42,Male,Kigali City,Nyarugenge,medium,Garment/textile technologist,3419,2023-10-01,normal
+Audi,2022,SeaShell,Van,hybrid,automatic,hybrid,7,48390.47,inactive,37609,43445,Maxwell Roberts,28,Male,Western Province,Rutsiro,high,Regulatory affairs officer,9872,2023-09-25,normal
+Audi,2015,Black,SUV,diesel,manual,diesel,2,142066.85,active,15956,21099,Donald Gamble,28,Male,Southern Province,Nyaruguru,medium,Tour manager,2472,2023-04-06,normal
+Audi,2007,SkyBlue,Hatchback,hybrid,manual,hybrid,5,296926.5,active,6919,8000,Sheena Burton,26,Female,Kigali City,Gasabo,low,Communications engineer,1043,2024-04-03,normal
+Toyota,2016,Thistle,Sedan,hybrid,manual,electric,5,145853.98,active,8298,10833,Alicia Green,49,Male,Southern Province,Huye,low,Dancer,1203,2024-05-09,normal
+BMW,2009,SandyBrown,Van,diesel,manual,diesel,6,252470.07,inactive,6504,8000,Brandy Martin,33,Female,Western Province,Nyamasheke,low,Media planner,985,2023-11-25,holiday_sales
+Hyundai,2006,MintCream,Van,hybrid,manual,gasoline,6,368363.47,inactive,7139,8000,Eddie Fowler,45,Male,Eastern Province,Gatsibo,low,"Scientist, audiological",817,2024-09-30,normal
+Nissan,2012,Gainsboro,Sedan,diesel,manual,hybrid,4,250616.95,inactive,6054,8000,Linda Jackson,60,Female,Southern Province,Nyamagabe,medium,Interpreter,1854,2022-10-30,normal
+Nissan,2020,LightPink,Truck,diesel,manual,electric,2,89578.77,inactive,14700,18683,Melissa Davis,69,Female,Kigali City,Kicukiro,medium,Cytogeneticist,2133,2023-09-28,normal
+Nissan,2017,DarkSlateGray,Sedan,hybrid,manual,electric,4,117824.45,inactive,10505,12644,Jacqueline Washington,38,Female,Kigali City,Kicukiro,medium,"Designer, textile",2580,2021-04-16,normal
+Nissan,2017,IndianRed,Hatchback,petrol,manual,electric,2,102788.25,inactive,7184,8744,Daniel Lopez,47,Male,Western Province,Rubavu,low,Pensions consultant,1316,2022-01-19,normal
+Audi,2006,Crimson,SUV,petrol,automatic,gasoline,8,374996.46,active,6699,8000,Carlos Smith,57,Female,Southern Province,Kamonyi,low,Insurance underwriter,1282,2025-02-04,normal
+BMW,2023,DarkSlateGray,SUV,diesel,manual,diesel,4,25629.2,inactive,34570,44847,Stacy Harper,43,Female,Western Province,Rubavu,high,Drilling engineer,10236,2024-04-06,normal
+Nissan,2015,Black,SUV,electric,manual,diesel,8,175671.96,inactive,11121,13287,Barbara Anderson,40,Male,Eastern Province,Kayonza,medium,Ergonomist,3279,2023-10-09,normal
+Hyundai,2007,DarkSalmon,Hatchback,diesel,automatic,diesel,4,312681.7,active,6415,8000,William Coleman,24,Male,Southern Province,Muhanga,medium,Careers adviser,1772,2023-10-18,normal
+Ford,2019,SkyBlue,SUV,diesel,manual,diesel,4,116042.35,active,14783,17083,Amanda Rodriguez,32,Male,Northern Province,Gakenke,medium,"Psychotherapist, child",3238,2021-05-04,normal
+Mercedes-Benz,2015,LightCoral,Van,hybrid,automatic,electric,5,117980.87,inactive,24699,28578,Eric Smith,41,Male,Northern Province,Rulindo,high,Community pharmacist,4768,2022-03-11,normal
+Honda,2009,Green,Truck,petrol,manual,hybrid,2,274325.19,active,6453,8000,Gregory Davis,58,Female,Kigali City,Nyarugenge,low,TEFL teacher,940,2022-12-05,holiday_sales
+Volkswagen,2024,MidnightBlue,Sedan,diesel,automatic,gasoline,8,16135.9,active,18632,24615,Jonathan Chandler,53,Male,Southern Province,Kamonyi,medium,Risk analyst,3221,2024-02-20,normal
+Volkswagen,2022,CornflowerBlue,Coupe,hybrid,manual,electric,8,42503.84,inactive,25356,29697,Kenneth Smith,25,Male,Northern Province,Gakenke,high,"Engineer, agricultural",7315,2026-01-11,normal
+Toyota,2019,FloralWhite,Sedan,diesel,manual,gasoline,4,94663.18,active,10918,12807,Kimberly Beltran,41,Male,Southern Province,Muhanga,medium,"Engineer, site",2563,2023-07-30,tourism_peak
+Volkswagen,2016,Sienna,SUV,diesel,manual,electric,7,109770.1,inactive,13326,15130,Kevin Gonzales,47,Male,Kigali City,Kicukiro,medium,"Education officer, community",3543,2025-06-20,tourism_peak
+Nissan,2010,Olive,SUV,electric,automatic,hybrid,2,202693.33,inactive,6275,8000,Jose Russell,47,Female,Northern Province,Burera,low,Community pharmacist,1425,2024-03-13,normal
+Volkswagen,2017,DarkOliveGreen,SUV,diesel,manual,diesel,6,134540.38,inactive,13277,16209,Kathleen Ward,25,Female,Northern Province,Gakenke,medium,"Surveyor, hydrographic",3051,2025-02-21,normal
+Mercedes-Benz,2017,DarkBlue,Coupe,hybrid,automatic,electric,2,107631.87,active,28005,36660,Brian Campbell,23,Female,Southern Province,Ruhango,high,"Producer, radio",6708,2021-07-11,tourism_peak
+Volkswagen,2019,PaleTurquoise,Sedan,petrol,automatic,gasoline,2,89554.34,active,13268,15709,Scott Lopez,36,Male,Southern Province,Kamonyi,medium,Publishing copy,2435,2023-02-06,normal
+Honda,2010,Fuchsia,Truck,electric,manual,hybrid,4,169713.59,active,6936,8000,Michael Powers,46,Female,Southern Province,Nyamagabe,low,Primary school teacher,1048,2024-04-21,normal
+BMW,2007,DarkBlue,Van,electric,manual,electric,3,316655.09,active,6044,8000,James Neal,20,Male,Eastern Province,Kirehe,low,Dispensing optician,1391,2025-08-16,tourism_peak
+Ford,2021,Moccasin,Sedan,diesel,automatic,electric,5,72837.21,inactive,14233,17023,Gina Larson,65,Female,Northern Province,Musanze,medium,Community education officer,3439,2021-09-24,normal
+Nissan,2011,Peru,Hatchback,hybrid,automatic,electric,6,171658.74,inactive,6809,8000,Diana Reeves,24,Female,Eastern Province,Rwamagana,low,Office manager,890,2023-02-28,normal
+Audi,2024,Sienna,Sedan,petrol,automatic,gasoline,6,9808.12,active,31285,35904,Tiffany Archer,62,Female,Northern Province,Burera,high,Data processing manager,4802,2024-03-17,normal
+Honda,2006,DarkMagenta,Hatchback,electric,automatic,diesel,5,287854.98,inactive,6734,8000,John Hall,30,Male,Northern Province,Musanze,low,Air traffic controller,1456,2025-01-17,normal
+Toyota,2025,CadetBlue,Coupe,hybrid,manual,gasoline,5,0.0,inactive,22708,28750,Kathleen Johnson,42,Male,Western Province,Nyabihu,high,Museum/gallery exhibitions officer,6324,2022-01-10,normal
+Ford,2018,DeepSkyBlue,Coupe,diesel,automatic,gasoline,3,116265.01,inactive,12291,14942,Marcus Wolf,45,Female,Southern Province,Ruhango,medium,"Psychologist, prison and probation services",2382,2023-12-17,holiday_sales
+Hyundai,2015,LightYellow,Hatchback,petrol,manual,diesel,7,144318.16,active,6715,8000,Katherine Green,28,Female,Southern Province,Huye,low,"Sound technician, broadcasting/film/video",1184,2022-11-24,holiday_sales
+Toyota,2014,Azure,Van,hybrid,automatic,electric,4,145442.53,inactive,7905,9466,Amanda Jordan,20,Male,Kigali City,Gasabo,medium,Music therapist,1563,2025-10-30,normal
+Hyundai,2013,Maroon,Truck,hybrid,automatic,electric,6,177233.05,inactive,7079,8805,Jessica Johnson,66,Male,Eastern Province,Ngoma,low,"Surveyor, hydrographic",888,2025-01-03,normal
+Volkswagen,2020,FireBrick,SUV,diesel,manual,hybrid,8,62417.91,active,17179,22377,Chad Baldwin MD,70,Male,Southern Province,Muhanga,medium,"Teacher, adult education",3848,2023-10-04,normal
+Honda,2010,Yellow,Coupe,diesel,manual,hybrid,3,251163.27,inactive,7177,8000,Karen Dickerson,31,Male,Western Province,Rutsiro,low,"Nurse, adult",1497,2025-05-09,normal
+Mercedes-Benz,2020,Snow,SUV,hybrid,manual,electric,4,97507.24,active,41638,48675,Jamie Rhodes,45,Female,Kigali City,Nyarugenge,high,IT sales professional,6763,2023-06-03,tourism_peak
+BMW,2010,Black,Coupe,electric,automatic,diesel,7,200882.35,active,10117,12082,Bethany Richardson,65,Male,Kigali City,Gasabo,low,Licensed conveyancer,1471,2021-09-13,normal
+Hyundai,2012,DarkGray,Hatchback,electric,automatic,gasoline,7,165967.75,inactive,6975,8000,William Jenkins,63,Male,Kigali City,Gasabo,medium,Financial risk analyst,1732,2024-06-01,tourism_peak
+Kia,2019,LavenderBlush,SUV,diesel,manual,electric,3,101669.85,inactive,12286,13843,Leslie Lozano,38,Male,Northern Province,Burera,medium,Industrial/product designer,2057,2023-04-15,normal
+Volkswagen,2011,MediumSlateBlue,SUV,electric,manual,hybrid,6,233283.59,inactive,6401,8000,Joshua Johnson,56,Female,Western Province,Karongi,medium,Tax inspector,1979,2022-02-25,normal
+Honda,2014,PeachPuff,SUV,electric,automatic,diesel,3,161794.32,inactive,10601,12640,Michael Chapman,65,Female,Southern Province,Kamonyi,medium,Multimedia programmer,1743,2025-07-23,tourism_peak
+Toyota,2024,Orange,Sedan,petrol,automatic,hybrid,7,12101.22,inactive,14943,18758,Brent Freeman,63,Male,Western Province,Nyabihu,medium,Legal secretary,2907,2026-01-12,normal
+Toyota,2015,SteelBlue,Truck,petrol,automatic,hybrid,4,183836.59,inactive,8067,9323,Mary Jackson,22,Female,Eastern Province,Bugesera,medium,Medical physicist,1953,2025-05-28,normal
+Audi,2005,Green,SUV,petrol,manual,hybrid,7,277086.62,active,6811,8000,Ryan Cobb PhD,27,Male,Southern Province,Muhanga,medium,Holiday representative,1952,2024-11-20,holiday_sales
+Volkswagen,2012,BurlyWood,Coupe,hybrid,manual,diesel,8,191425.53,active,6729,8750,Kenneth Ballard,34,Male,Southern Province,Huye,medium,Technical sales engineer,1801,2023-06-08,tourism_peak
+Kia,2018,MediumSlateBlue,Van,diesel,manual,gasoline,2,100663.66,active,10026,11500,Keith Schmidt,40,Female,Kigali City,Kicukiro,medium,"Engineer, manufacturing systems",2023,2021-12-26,holiday_sales
+Toyota,2011,Crimson,SUV,diesel,automatic,hybrid,3,277779.47,inactive,6548,8000,Elizabeth Brock,46,Female,Kigali City,Kicukiro,medium,"Solicitor, Scotland",1822,2024-02-19,normal
+Ford,2012,Green,Van,petrol,automatic,hybrid,2,137483.16,inactive,6808,8000,David Robertson,32,Male,Southern Province,Gisagara,medium,Advertising account executive,1619,2023-11-05,holiday_sales
+Kia,2008,GhostWhite,Van,petrol,manual,gasoline,7,144557.68,inactive,6507,8000,Christy Hayden,61,Female,Southern Province,Huye,low,"Geologist, wellsite",1274,2025-07-27,tourism_peak
+Kia,2022,PowderBlue,SUV,electric,automatic,electric,7,32157.43,inactive,22110,25061,Molly Brown,61,Male,Northern Province,Gakenke,high,Medical sales representative,5919,2025-09-17,normal
+Toyota,2023,DarkViolet,Van,petrol,manual,gasoline,7,22373.48,active,16280,19353,Paul Cannon,52,Female,Southern Province,Kamonyi,high,Paediatric nurse,4724,2025-02-10,normal
+BMW,2015,Coral,Truck,electric,automatic,electric,2,188884.89,inactive,25423,32622,Sarah Adams,30,Female,Eastern Province,Gatsibo,high,"Designer, multimedia",8086,2023-11-22,holiday_sales
+BMW,2017,LavenderBlush,Coupe,hybrid,automatic,gasoline,3,113935.88,active,25154,32221,Brian Lee,62,Male,Western Province,Rutsiro,high,Insurance claims handler,4385,2023-05-12,normal
+Mercedes-Benz,2012,SlateBlue,Hatchback,electric,manual,hybrid,8,138888.96,active,15206,17067,Jessica Lucas,26,Male,Western Province,Ngororero,medium,"Engineer, drilling",3308,2025-02-16,normal
+BMW,2005,LightPink,Van,electric,manual,diesel,5,273001.63,inactive,7112,8000,David Lara,32,Male,Northern Province,Gakenke,low,Archivist,1175,2022-07-15,tourism_peak
+Audi,2022,Beige,Truck,diesel,automatic,gasoline,2,52651.18,inactive,37598,43036,Steven Edwards,35,Female,Northern Province,Musanze,high,Bonds trader,7990,2025-04-24,normal
+Mercedes-Benz,2019,Moccasin,SUV,petrol,automatic,diesel,3,75083.8,inactive,27537,36298,Stacey Sanders,44,Male,Southern Province,Nyamagabe,high,Fashion designer,4648,2024-08-22,tourism_peak
+Toyota,2022,SteelBlue,Van,electric,manual,hybrid,4,54497.17,inactive,19935,25090,Kelly Calderon,34,Female,Western Province,Karongi,medium,Research scientist (maths),3463,2022-02-17,normal
+Honda,2016,LavenderBlush,Truck,hybrid,automatic,hybrid,7,132186.92,inactive,12827,16125,Patricia Edwards,30,Female,Eastern Province,Kayonza,medium,Fashion designer,2929,2021-12-12,holiday_sales
+Nissan,2025,IndianRed,SUV,electric,manual,diesel,2,0.0,inactive,25286,33600,Christopher Booker,44,Female,Eastern Province,Kayonza,medium,Osteopath,3700,2024-10-10,normal
+BMW,2020,Chartreuse,Coupe,diesel,automatic,electric,2,83500.35,inactive,28999,34555,James Fry MD,48,Female,Northern Province,Rulindo,high,Public relations officer,8153,2023-05-06,normal
+Hyundai,2021,LightSeaGreen,Van,electric,manual,electric,4,64219.3,active,19742,22124,Taylor Cox,55,Female,Western Province,Ngororero,high,Insurance account manager,4830,2023-04-11,normal
+Ford,2006,BlanchedAlmond,Truck,hybrid,manual,electric,7,340200.42,inactive,6911,8000,Mary Everett,58,Male,Eastern Province,Nyagatare,low,Forensic scientist,810,2021-05-11,normal
+Nissan,2015,OliveDrab,Coupe,hybrid,manual,gasoline,6,83180.7,active,10540,12711,Tyler Cox,37,Male,Northern Province,Musanze,medium,Social researcher,2096,2025-11-18,holiday_sales
+Hyundai,2020,Red,Truck,petrol,automatic,gasoline,8,59495.31,active,15046,17335,Theodore Long,25,Female,Western Province,Karongi,medium,Illustrator,3133,2023-03-11,normal
+BMW,2013,LavenderBlush,Truck,hybrid,manual,diesel,4,194347.34,active,16737,22113,Scott Martin,29,Female,Eastern Province,Nyagatare,high,Investment analyst,4445,2021-12-12,holiday_sales
+Ford,2008,BlanchedAlmond,Hatchback,diesel,manual,gasoline,6,193933.79,inactive,7101,8000,Bobby Chan,67,Female,Western Province,Nyamasheke,low,Public affairs consultant,1098,2024-08-20,tourism_peak
+Hyundai,2019,MediumSeaGreen,Truck,petrol,manual,electric,5,109039.17,inactive,13143,15109,Sherri Wilkins,49,Male,Southern Province,Muhanga,medium,Games developer,2663,2024-09-10,normal
+Audi,2012,Coral,Van,hybrid,automatic,gasoline,5,239088.67,active,10568,13506,Lance Li,58,Female,Eastern Province,Nyagatare,medium,Professor Emeritus,3160,2025-06-27,tourism_peak
+Kia,2023,CadetBlue,Sedan,electric,manual,gasoline,6,35756.14,active,18001,21965,Catherine Ramos,67,Male,Southern Province,Gisagara,high,"Accountant, chartered certified",4016,2021-05-30,normal
+Ford,2016,Green,Sedan,hybrid,automatic,diesel,2,158186.89,active,9127,11961,Emily Miller,62,Male,Northern Province,Musanze,low,Fisheries officer,1457,2024-08-02,tourism_peak
+BMW,2023,DarkSeaGreen,Coupe,electric,manual,electric,5,23776.98,inactive,50969,57484,Melissa Sparks,32,Female,Kigali City,Kicukiro,high,Production engineer,6816,2025-07-28,tourism_peak
+Mercedes-Benz,2020,DarkSlateBlue,Truck,electric,manual,electric,5,80412.44,active,45792,59817,Michael Serrano,43,Female,Eastern Province,Bugesera,high,"Engineer, civil (contracting)",9402,2025-04-01,normal
+Ford,2011,PapayaWhip,Truck,electric,manual,gasoline,8,216539.71,active,6686,8000,James Bennett,70,Male,Kigali City,Gasabo,medium,Advertising art director,1530,2021-11-24,holiday_sales
+Kia,2021,Khaki,SUV,electric,automatic,gasoline,2,53098.89,active,20082,23130,Valerie Gonzalez,49,Male,Northern Province,Gicumbi,medium,Artist,3099,2021-05-17,normal
+Hyundai,2017,Pink,Van,diesel,manual,electric,6,122313.11,inactive,9367,10721,Brittany Rubio,38,Male,Northern Province,Musanze,medium,Tax adviser,2210,2024-08-03,tourism_peak
+Kia,2019,Aquamarine,Van,petrol,automatic,gasoline,2,80892.26,inactive,10451,12242,Jessica Mora,36,Female,Western Province,Nyamasheke,medium,"Research officer, trade union",3053,2022-03-06,normal
+Honda,2008,Ivory,Sedan,electric,automatic,electric,6,318205.34,active,6134,8000,Cheryl Atkins,34,Female,Southern Province,Ruhango,low,Holiday representative,1466,2022-03-10,normal
+Hyundai,2013,Olive,Hatchback,petrol,manual,electric,5,125837.93,active,6775,8000,Scott Greene,48,Female,Kigali City,Nyarugenge,low,Energy engineer,1110,2025-05-20,normal
+Kia,2019,Gainsboro,Truck,diesel,manual,gasoline,8,105495.89,active,12106,15089,Charles Roberts,50,Female,Southern Province,Nyanza,medium,Fashion designer,2128,2024-09-26,normal
+Toyota,2005,LightBlue,Hatchback,electric,automatic,diesel,5,244227.79,active,7044,8000,Michael Ellis,58,Male,Eastern Province,Bugesera,low,"Psychotherapist, child",949,2025-01-06,normal
+Hyundai,2013,MediumBlue,Van,electric,manual,gasoline,8,206380.77,active,7196,8000,Jennifer Lewis,22,Female,Southern Province,Ruhango,medium,Pharmacologist,1643,2022-04-24,normal
+Toyota,2007,Cornsilk,Hatchback,hybrid,automatic,gasoline,3,166705.11,active,6985,8000,Anthony Cook,50,Male,Eastern Province,Bugesera,medium,Public affairs consultant,1604,2023-05-12,normal
+Mercedes-Benz,2021,Brown,SUV,electric,automatic,diesel,2,59611.66,inactive,46689,59288,Jonathan James,43,Female,Southern Province,Ruhango,high,Metallurgist,10407,2024-03-11,normal
+Mercedes-Benz,2024,BlueViolet,Van,electric,manual,diesel,3,15896.34,active,52896,65517,Debbie Gordon,50,Female,Western Province,Rutsiro,high,Psychotherapist,8439,2022-04-21,normal
+Hyundai,2020,DarkCyan,Van,petrol,manual,electric,8,67623.76,active,12888,14323,Joseph Thomas,33,Male,Eastern Province,Gatsibo,medium,Intelligence analyst,2855,2022-04-20,normal
+Mercedes-Benz,2008,DarkSalmon,Truck,diesel,manual,gasoline,7,255928.48,active,6665,8000,Dr. Douglas Ward MD,40,Female,Southern Province,Ruhango,medium,Video editor,1794,2021-07-22,tourism_peak
+BMW,2008,Tomato,Van,petrol,automatic,electric,7,313256.61,inactive,6432,8000,Steven Stewart,66,Female,Kigali City,Nyarugenge,medium,Dentist,1963,2023-06-04,tourism_peak
+Audi,2007,Purple,Hatchback,petrol,automatic,hybrid,4,358420.42,inactive,6913,8000,Charles Hall,70,Male,Western Province,Karongi,medium,"Psychotherapist, dance movement",1739,2025-11-27,holiday_sales
+Kia,2005,DodgerBlue,Truck,electric,automatic,electric,6,219680.15,inactive,6129,8000,Jessica Carney,25,Female,Western Province,Rusizi,low,Architect,1482,2023-05-24,normal
+Audi,2011,MintCream,Coupe,diesel,manual,diesel,4,129038.34,inactive,8500,11185,Kristina Ellis MD,30,Male,Northern Province,Gakenke,medium,Community pharmacist,2658,2024-12-07,holiday_sales
+Mercedes-Benz,2008,DarkGoldenRod,Truck,hybrid,manual,gasoline,3,224637.43,inactive,6232,8000,Duane Conley,31,Female,Eastern Province,Kayonza,low,"Surveyor, quantity",1241,2024-02-26,normal
+Volkswagen,2021,HotPink,Truck,electric,manual,electric,4,67198.17,active,31048,35056,Valerie Fox,29,Male,Kigali City,Gasabo,high,Pension scheme manager,6202,2026-02-28,normal
+Honda,2006,LightBlue,Van,diesel,automatic,gasoline,2,178577.79,active,6353,8000,Megan Clay,56,Male,Kigali City,Kicukiro,low,Higher education careers adviser,914,2021-10-31,normal
+BMW,2022,OrangeRed,Hatchback,diesel,manual,gasoline,7,47654.85,active,27976,31177,Timothy Rodriguez,30,Female,Kigali City,Gasabo,high,"Designer, exhibition/display",4007,2022-03-21,normal
+Kia,2009,Cyan,Van,diesel,manual,gasoline,2,219661.08,inactive,6744,8000,Michael Castillo,20,Female,Eastern Province,Nyagatare,low,"Therapist, music",1296,2021-06-04,tourism_peak
+Mercedes-Benz,2006,MediumPurple,Truck,petrol,manual,hybrid,5,336023.79,inactive,6223,8000,Mary Tapia,39,Female,Southern Province,Huye,low,"Teacher, adult education",866,2021-03-25,normal
+Kia,2015,HotPink,Truck,electric,manual,gasoline,3,174648.39,inactive,9885,12887,Rebecca Campbell,29,Male,Southern Province,Nyanza,low,Building services engineer,1444,2022-04-12,normal
+Kia,2011,Olive,Sedan,electric,manual,diesel,4,235098.96,active,6968,8000,David Allen,39,Female,Eastern Province,Gatsibo,medium,Chartered public finance accountant,1844,2025-10-31,normal
+Honda,2021,HoneyDew,Truck,hybrid,automatic,electric,4,77707.72,inactive,23166,25746,Richard Mitchell,41,Male,Eastern Province,Rwamagana,high,Community arts worker,4058,2021-05-09,normal
+Kia,2019,SlateGray,Coupe,hybrid,manual,gasoline,3,114486.49,active,13376,15823,Nancy Dorsey,20,Male,Kigali City,Kicukiro,medium,Mechanical engineer,2201,2023-09-20,normal
+Mercedes-Benz,2005,NavajoWhite,Truck,hybrid,manual,electric,2,171612.47,inactive,6069,8000,Katherine Mcclure,22,Female,Northern Province,Burera,low,"Geologist, wellsite",1457,2021-12-30,holiday_sales
