@@ -4,6 +4,7 @@ from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 import plotly.express as px
+import plotly.graph_objects as go
 import plotly.io as pio
 import json
 import os
@@ -35,7 +36,7 @@ def refine_clustering_model(df, features=["estimated_income", "selling_price"]):
     return kmeans, score, labels
 
 def generate_rwanda_map(df):
-    """Generate a high-quality Mapbox choropleth for Rwanda districts."""
+    """Generate a high-quality Mapbox choropleth with static text labels for each district."""
     # Aggregating client counts per district
     district_counts = df['district'].value_counts().reset_index()
     district_counts.columns = ['district', 'client_count']
@@ -48,45 +49,84 @@ def generate_rwanda_map(df):
         with open(geojson_path, "r") as f:
             rwanda_geojson = json.load(f)
             
-        # Ensure ID alignment at the root level of each feature
+        # 1. Prepare GeoJSON and calculate centroids for labels
+        centroids = []
         for feature in rwanda_geojson['features']:
-            feature['id'] = feature['properties']['shapeName'].strip()
+            name = feature['properties']['shapeName'].strip()
+            feature['id'] = name
             
-        # Using choropleth_mapbox for a more 'premium' look (WOW factor)
+            # Simple centroid calculation for polygon
+            coords = feature['geometry']['coordinates']
+            # Coordinates can be nested if Polygon or MultiPolygon
+            all_lons = []
+            all_lats = []
+            
+            def extract_coords(c_list):
+                for item in c_list:
+                    if isinstance(item[0], (int, float)):
+                        all_lons.append(item[0])
+                        all_lats.append(item[1])
+                    else:
+                        extract_coords(item)
+            
+            extract_coords(coords)
+            if all_lons and all_lats:
+                centroids.append({
+                    'district': name,
+                    'lat': np.mean(all_lats),
+                    'lon': np.mean(all_lons)
+                })
+        
+        centroid_df = pd.DataFrame(centroids)
+        # Merge counts with centroids
+        label_df = pd.merge(centroid_df, district_counts, on='district', how='left')
+        label_df['client_count'] = label_df['client_count'].fillna(0).astype(int)
+        # Formatted label text
+        label_df['text'] = label_df['district'] + "<br>" + label_df['client_count'].astype(str)
+
+        # 2. Base Choropleth Map
         fig = px.choropleth_mapbox(
             district_counts,
             geojson=rwanda_geojson,
             locations='district',
             color='client_count',
             color_continuous_scale="Reds", 
-            range_color=[district_counts['client_count'].min(), district_counts['client_count'].max()],
             mapbox_style="carto-positron", 
             center={"lat": -1.94, "lon": 30.06}, 
-            zoom=7.2, 
-            opacity=0.7,
+            zoom=7.8, # Slightly tighter zoom
+            opacity=0.6,
             title="Vehicle Clients per District in Rwanda",
             labels={'client_count': 'Total Clients'}
         )
         
+        # 3. Add Static Text Layer (ScatterMapbox)
+        fig.add_trace(
+            go.Scattermapbox(
+                lat=label_df['lat'],
+                lon=label_df['lon'],
+                mode='text',
+                text=label_df['text'],
+                textfont={'size': 10, 'color': 'black', 'weight': 'bold'},
+                hoverinfo='none', # Disable hover on the text trace so it doesn't block polygon hover
+                showlegend=False
+            )
+        )
+        
         fig.update_layout(
             margin={"r":0,"t":40,"l":0,"b":0},
-            height=600,
+            height=700, # Taller map for better label visibility
             dragmode="zoom",
             paper_bgcolor='rgba(0,0,0,0)',
             plot_bgcolor='rgba(0,0,0,0)'
         )
         
-        # Explicitly update mapboxes configuration. 
-        # Note: scrollZoom is a config option in to_html, not a layout property in Python API.
         fig.update_mapboxes(
             center={"lat": -1.94, "lon": 30.06},
-            zoom=7.2
+            zoom=7.8
         )
         
-        # ensure boundaries are sharp
-        fig.update_traces(marker_line_width=1, marker_line_color="darkred")
+        fig.update_traces(marker_line_width=1, marker_line_color="darkred", selector=dict(type='choropleth_mapbox'))
         
-        # IMPORTANT: scrollZoom is passed via config in to_html for Plotly.js
         return pio.to_html(
             fig, 
             full_html=False, 
