@@ -53,17 +53,16 @@ def generate_rwanda_map(df):
             feature['id'] = feature['properties']['shapeName'].strip()
             
         # Using choropleth_mapbox for a more 'premium' look (WOW factor)
-        # This style doesn't require a private token and uses open Mapbox layers.
         fig = px.choropleth_mapbox(
             district_counts,
             geojson=rwanda_geojson,
             locations='district',
             color='client_count',
-            color_continuous_scale="Reds", # High contrast for visibility
+            color_continuous_scale="Reds", 
             range_color=[district_counts['client_count'].min(), district_counts['client_count'].max()],
-            mapbox_style="carto-positron", # Open map background
-            center={"lat": -1.94, "lon": 30.06}, # Center of Rwanda
-            zoom=7.2, # Accurate zoom for Rwanda
+            mapbox_style="carto-positron", 
+            center={"lat": -1.94, "lon": 30.06}, 
+            zoom=7.2, 
             opacity=0.7,
             title="Vehicle Clients per District in Rwanda",
             labels={'client_count': 'Total Clients'}
@@ -72,15 +71,27 @@ def generate_rwanda_map(df):
         fig.update_layout(
             margin={"r":0,"t":40,"l":0,"b":0},
             height=600,
-            # Transparent background
+            dragmode="zoom",
             paper_bgcolor='rgba(0,0,0,0)',
             plot_bgcolor='rgba(0,0,0,0)'
+        )
+        
+        # Explicitly update mapboxes configuration. 
+        # Note: scrollZoom is a config option in to_html, not a layout property in Python API.
+        fig.update_mapboxes(
+            center={"lat": -1.94, "lon": 30.06},
+            zoom=7.2
         )
         
         # ensure boundaries are sharp
         fig.update_traces(marker_line_width=1, marker_line_color="darkred")
         
-        # relying on CDN in index.html for performance
-        return pio.to_html(fig, full_html=False, include_plotlyjs=False)
+        # IMPORTANT: scrollZoom is passed via config in to_html for Plotly.js
+        return pio.to_html(
+            fig, 
+            full_html=False, 
+            include_plotlyjs=False,
+            config={'scrollZoom': True}
+        )
     else:
         return f"<div class='alert alert-danger'>GeoJSON not found at {geojson_path}.</div>"
