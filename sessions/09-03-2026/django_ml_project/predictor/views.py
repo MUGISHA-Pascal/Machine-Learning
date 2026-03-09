@@ -9,7 +9,7 @@ from predictor.data_exploration import dataset_exploration, data_exploration
 from predictor.exercise import calculate_cv, refine_clustering_model, generate_rwanda_map
 
 # Evaluations
-from model_generators.clustering.train_cluster import evaluate_clustering_model
+from model_generators.clustering.train_cluster import evaluate_clustering_model, predict_cluster_id, get_clustering_bundle
 from model_generators.classification.train_classifier import evaluate_classification_model
 from model_generators.regression.train_regression import evaluate_regression_model
 
@@ -25,7 +25,7 @@ def load_model(path):
 # Load initial models
 regression_model = load_model("model_generators/regression/regression_model.pkl")
 classification_model = load_model("model_generators/classification/classification_model.pkl")
-clustering_model = load_model("model_generators/clustering/clustering_model.pkl")
+clustering_bundle = get_clustering_bundle()
 
 def data_exploration_view(request):
     df = pd.read_csv(os.path.join(BASE_DIR, "dummy-data/vehicles_ml_dataset.csv"))
@@ -84,14 +84,14 @@ def clustering_analysis(request):
     df = pd.read_csv(os.path.join(BASE_DIR, "dummy-data/vehicles_ml_dataset.csv"))
     
     # Calculate Coefficient of Variation for exercise
-    cv_score = calculate_cv(df["estimated_income"])
+    # cv_score = calculate_cv(df["estimated_income"])  # Removed, using silhouette CV instead
     
     # Refine Clustering model to get S.S. > 0.9 for exercise
     _, refined_ss, _ = refine_clustering_model(df)
     
     eval_results = evaluate_clustering_model()
     # Add CV and Refined Score to evaluations
-    eval_results["cv_score"] = round(cv_score, 2)
+    eval_results["cv_score"] = eval_results["cv"]  # Use silhouette CV
     eval_results["refined_silhouette"] = round(refined_ss, 2)
 
     context = {
@@ -105,13 +105,13 @@ def clustering_analysis(request):
             seats = int(request.POST["seats"])
             income = float(request.POST["income"])
             
-            if regression_model and clustering_model:
+            if regression_model and clustering_bundle:
                 predicted_price = regression_model.predict([[year, km, seats, income]])[0]
-                cluster_id = clustering_model.predict([[income, predicted_price]])[0]
+                cluster_id = predict_cluster_id(clustering_bundle, income, predicted_price)
                 
-                mapping = {0: "Economy", 1: "Standard", 2: "Premium"}
+                prediction = clustering_bundle["mapping"].get(cluster_id, "Unknown")
                 context.update({
-                    "prediction": mapping.get(cluster_id, "Unknown"),
+                    "prediction": prediction,
                     "price": predicted_price
                 })
             else:

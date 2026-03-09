@@ -144,7 +144,7 @@ def train_and_save_clustering_bundle():
     joblib.dump(bundle, MODEL_PATH)
 
     silhouette_avg = round(best["score"], 2)
-    cv = round(best["cv"], 2) if best["cv"] is not None else 0.0
+    cv = round(best["cv"] * 100, 2) if best["cv"] is not None else 0.0
 
     cluster_summary = (
         df.groupby("client_class")[["estimated_income", "selling_price"]]
