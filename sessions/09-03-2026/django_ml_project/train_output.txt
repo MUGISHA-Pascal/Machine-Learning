@@ -1,0 +1,60 @@
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.9130908037403811
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.9130908037403811
+  Coefficient of Variation: 0.5142
+Training Clustering Model (k=2 Refined)...
+  Best k: 2
+  Silhouette Score: 0.91
+  Coefficient of Variation: 0.5142
