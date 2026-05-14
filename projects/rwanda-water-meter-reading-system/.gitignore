@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# PyTorch / YOLOv8
+*.pt
+*.pth
+
+# Project Datasets & Runs
+dataset/
+raw_dataset/
+runs/
+
+# System Files
+.DS_Store
+Thumbs.db
